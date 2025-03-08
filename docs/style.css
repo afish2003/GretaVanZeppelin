@@ -1,44 +1,159 @@
 body {
-    background: lavender;
+    background: linear-gradient(to right, #e6e6fa, #d3d3d3);
     font-family: "Lucida Console", "Courier New", monospace;
+    color: #333;
+    line-height: 1.6;
+    text-align: center;
 }
 
-figure {
-    width: 20%;
-    background: /*#EFD6F6*/ white;
-    ;
+h1 {
+    color: #2c3e50;
+    font-size: 2.5em;
+    margin-top: 20px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
 }
 
-img {
-    width: 80%;
+/* Fancy and complex nav bar */
+nav {
+    margin: 20px auto;
+    background: linear-gradient(90deg, #6a5acd, #483d8b);
+    padding: 15px;
+    border-radius: 15px;
+    box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.3);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    overflow: hidden;
+}
+
+nav::before {
+    content: '';
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background: rgba(255, 255, 255, 0.1);
+    top: 0;
+    left: 0;
+    backdrop-filter: blur(5px);
+    z-index: 1;
+}
+
+nav a {
+    position: relative;
+    color: white;
+    text-decoration: none;
+    margin: 0 25px;
+    font-weight: bold;
+    font-size: 1.2em;
+    transition: all 0.3s ease-in-out;
+    z-index: 2;
+}
+
+nav a:hover {
+    color: #ffd700;
+    text-shadow: 0px 0px 5px rgba(255, 215, 0, 0.8);
+}
+
+nav a::after {
+    content: '';
+    display: block;
+    height: 3px;
+    width: 0;
+    background: #ffd700;
+    transition: width 0.3s ease-in-out;
+    margin: auto;
+}
+
+nav a:hover::after {
+    width: 100%;
+}
+
+p {
+    font-size: 1.3em;
+    margin: 20px;
+    max-width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    background: rgba(255, 255, 255, 0.8);
+    padding: 15px;
+    border-radius: 8px;
 }
 
 img#PSB {
-    width: 10%;
-}
-
-
-div.flex {
-    
-   display:flex; 
-   
+    width: 100px;
+    display: block;
+    margin: 20px auto;
+    filter: drop-shadow(3px 3px 5px rgba(0, 0, 0, 0.2));
 }
 
 section {
-    background: pink;
+    background: rgba(255, 255, 255, 0.9);
     width: 90%;
     margin: auto;
-    padding:1em;
+    padding: 1.5em;
+    border-radius: 10px;
+    box-shadow: 3px 3px 15px rgba(0, 0, 0, 0.2);
 }
 
-section.resume {
-    padding-left: 5em;
-    padding-right: 5em;
-    background:silver;
-   
+/* About Section Styling */
+.about-section {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin: 20px;
 }
 
-section.inner {
-    background:lavender;
+.card {
+    background-color: rgba(232, 226, 255, 0.9);
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 350px;
+    padding: 50px;
+    text-align: center;
+    transition: transform 0.3s ease;
+    margin-bottom: 20px;
 }
 
+.card:hover {
+    transform: translateY(-10px);
+}
+
+.team {
+    margin-bottom: 50px;
+    font-size: 1.5em;
+    text-align: center;
+}
+
+.member-photo {
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+    border-radius: 50%;
+}
+
+.member-name {
+    font-size: 2.0em;
+    margin-bottom: 10px;
+    color: #342a1e;
+    text-decoration: none;
+}
+
+.member-description {
+    font-size: 1em;
+    color: #342a1e;
+    margin-bottom: 15px;
+    text-align: left;
+}
+
+.member-description ul {
+    list-style: none;
+    padding-left: 20px;
+}
+
+.member-description li {
+    margin-bottom: 20px;
+}
