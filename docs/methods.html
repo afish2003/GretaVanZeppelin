@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+    
+    <head>
+        
+        <title>Methods</title>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        
+        <link rel="stylesheet" type="text/css" href="style.css" />
+        
+    </head>
+    <body>
+        <h1>Methods</h1>
+        <nav>
+            <a href="index.html">Home</a> | <a href="about.html">About</a> | <a href="methods.html">Methods</a>
+        </nav>
+        
+        
+        <div class="text-box">
+            <h3>iXML</h3>
+            <pre>
+ mei: music.
+ music: section++newline, newline.
+ section: type, mdiv.
+ @type: -"[", ~[#22]+, -"]".
+ mdiv: ~[#22]+.
+ -newline: #d?,#a.
+ -space: " ".
+            </pre>
+            
+        </div>
+        
+        <div class="text-box">
+            <h3>Schema</h3>
+            <pre>&lt;define name="mei_data.ACCIDENTAL.GESTURAL.extended"&gt;
+      &lt;choice&gt;
+ &lt;value&gt;su&lt;/value&gt;
+ &lt;a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"&gt;Three quarter-tones sharp.&lt;/a:documentation&gt;
+ &lt;value&gt;sd&lt;/value&gt;
+ &lt;a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"&gt;Quarter-tone sharp.&lt;/a:documentation&gt;
+ &lt;value&gt;fu&lt;/value&gt;
+ &lt;a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"&gt;Quarter-tone flat.&lt;/a:documentation&gt;
+ &lt;value&gt;fd&lt;/value&gt;
+ &lt;a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"&gt;Three quarter-tones flat.&lt;/a:documentation&gt;
+ &lt;value&gt;xu&lt;/value&gt;
+ &lt;a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"&gt;Five quarter-tones sharp.&lt;/a:documentation&gt;
+ &lt;value&gt;ffd&lt;/value&gt;
+ &lt;a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"&gt;Five quarter-tones flat.&lt;/a:documentation&gt;
+ &lt;/choice&gt;
+ &lt;/define&gt;
+            </pre>
+            
+        </div>
+        
+        
+        <div class="text-box">
+            <h3>XPL</h3>
+            <pre>
+                &lt;?xml version="1.0" encoding="UTF-8"?&gt;
+&lt;p:declare-step xmlns:p="http://www.w3.org/ns/xproc" exclude-inline-prefixes="#all"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:ex="extensions"
+    xmlns:cx="http://xmlcalabash.com/ns/extensions" xmlns:c="http://www.w3.org/ns/xproc-step"
+    version="3.0"&gt;
+    &lt;!-- ================================================================ --&gt;
+    &lt;!-- Static options                                                   --&gt;
+    &lt;!-- Morgana: -static:debug=true                                      --&gt;
+    &lt;!-- XML Calabash: debug="?true()"                                    --&gt;
+    &lt;!-- ================================================================ --&gt;
+    &lt;p:option name="debug" as="xs:boolean" static="true" select="false()"/&gt;
+    &lt;!-- ================================================================ --&gt;
+    &lt;!-- Fetch remote plain-text input                                    --&gt;
+    &lt;!-- ================================================================ --&gt;
+    &lt;p:input port="source" primary="true" sequence="true" content-types="text/plain"&gt;
+        &lt;p:document href="rawText/fromTheFires/blackSmokeRisingGVF.txt"/&gt;
+        &lt;p:document href="rawText/fromTheFires/changeIsGonnaComeGVF.txt"/&gt;
+        &lt;p:document href="rawText/fromTheFires/edgeOfDarknessGVF.txt"/&gt;
+        &lt;p:document href="rawText/fromTheFires/flowerPowerGVF.txt"/&gt;
+        &lt;p:document href="rawText/fromTheFires/highwayTuneGVF.txt"/&gt;
+        &lt;p:document href="rawText/fromTheFires/meetOnTheLedgeGVF.txt"/&gt;
+        &lt;p:document href="rawText/fromTheFires/safariSongGVF.txt"/&gt;
+        &lt;p:document href="rawText/fromTheFires/talkOnTheStreetGVF.txt"/&gt;
+    &lt;/p:input&gt;
+    &lt;!-- ================================================================ --&gt;
+    &lt;!-- No pipeline output; use &lt;p:store&gt; instead                        --&gt;
+    &lt;!-- ================================================================ --&gt;
+    &lt;p:output port="result" primary="true" sequence="true"&gt;
+        &lt;p:empty/&gt;
+    &lt;/p:output&gt;
+    &lt;p:identity use-when="$debug" message="Fetched plain text input"/&gt;
+    &lt;!-- ================================================================ --&gt;
+    &lt;!-- Add structural markup with ixml                                  --&gt;
+    &lt;!-- Calabash will use Markup Blitz instead of default CoffeePot      --&gt;
+    &lt;!--   (input is too large for efficient processing with CoffeePot)   --&gt;
+    &lt;!-- ================================================================ --&gt;
+    &lt;p:invisible-xml cx:processor="markup-blitz"&gt;
+        &lt;p:with-input port="grammar"&gt;
+            &lt;p:document href="gvf.ixml" content-type="text/plain"/&gt;
+        &lt;/p:with-input&gt;
+    &lt;/p:invisible-xml&gt;
+    &lt;p:identity use-when="$debug" message="Added markup with ixml"/&gt;
+
+    &lt;p:store href="/xml/blackSmokeRisingGVF.xml /xml/changeIsGonnaComeGVF.xml /xml/edgeOfDarknessGVF.xml /xml/flowerPowerGVF.xml /xml/highwayTuneGVF.xml /xml/meetOnTheLedgeGVF.xml /xml/safariSongGVF.xml /xml/talkOnTheStreetGVF.xml" 
+        serialization="map {
+        'method' : 'xml',
+        'indent' : true(),
+        'omit-xml-declaration' : false()
+        }"/&gt;
+    &lt;p:identity use-when="$debug" message="Saved XML"/&gt;
+&lt;/p:declare-step&gt;
+            </pre>
+            
+        </div>
+    </body>
+    
+        
+</html>
