@@ -1,4 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?><mei xmlns:ixml="http://invisiblexml.org/NS" ixml:state="ambiguous"><music><section type="Intro"><mdiv>
+<?xml version="1.0" encoding="UTF-8"?><mei ixml:state="ambiguous" xmlns:ixml="http://invisiblexml.org/NS"><music><title>Highway Tune</title>
+<album>From the Fires</album>
+<artist>Greta Van Fleet</artist>
+
+<section type="Intro"><mdiv>
 E
  
  </mdiv></section>
