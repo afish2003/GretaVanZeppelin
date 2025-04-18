@@ -35,7 +35,21 @@
         <p:identity use-when="$debug" message="Added markup with ixml"/>
     
         <p:store name="simple-XML" href="ixml-output/{$filename}.xml"/>
+        <p:xslt>
+            <p:with-input port="source">
+                <p:pipe step="simple-XML" port="result"/>
+            </p:with-input>
+            <p:with-input port="stylesheet" href="full-markup.xsl"/>
+        </p:xslt>
+        <p:identity message="Running the Identity Transformation XSLT to develop the XML"/>
+        <p:store name="full-xml-out" href="full-xml-output/{$filename}.xml" serialization="map {
+            'method' : 'xml',
+            'indent' : true(),
+            'omit-xml-declaration' : false()
+            }"/>
+        <p:identity message="Saved finalized XML"/>
         
     </p:for-each>
+    
 </p:declare-step>
 
