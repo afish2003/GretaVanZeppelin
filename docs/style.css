@@ -269,3 +269,33 @@ pre {
     color: #6a5acd;
 }
 
+
+.chord-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 15px;
+}
+
+.chord-button {
+    padding: 10px 20px;
+    background-color: #87ceeb;
+    border: none;
+    border-radius: 8px;
+    font-size: 18px;
+    color: white;
+}
+
+.button-link {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    font-family: sans-serif;
+    font-size: 16px;
+}
+.button-link:hover {
+    background-color: #45a049;
+}
