@@ -1,24 +1,43 @@
 body {
-    background: linear-gradient(to right, #e6e6fa, #d3d3d3);
-    font-family: "Lucida Console", "Courier New", monospace;
-    color: #333;
+    position: relative;
+    font-family: 'Fira Sans', sans-serif;
+    color: #f0f0f0;
     line-height: 1.6;
     text-align: center;
+    z-index: 0;
+    /* remove or keep gradient as fallback */
+    background: none;
+}
+
+body::before {
+    content: "";
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: url('images/background.jpg') no-repeat center center / cover;
+    opacity: 0.7;
+    z-index: -1;
 }
 
 h1 {
-    color: #2c3e50;
+    color: #f8f8f8;
     font-size: 2.5em;
     margin-top: 20px;
     text-transform: uppercase;
     letter-spacing: 2px;
-    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+}
+
+h3{
+    color: #f8f8f8;
 }
 
 /* Fancy and complex nav bar */
 nav {
     margin: 20px auto;
-    background: linear-gradient(90deg, #6a5acd, #483d8b);
+    background: linear-gradient(90deg, #000000, #2c2c2c);
     padding: 15px;
     border-radius: 15px;
     box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.3);
@@ -43,7 +62,7 @@ nav::before {
 
 nav a {
     position: relative;
-    color: white;
+    color: #f0f0f0;
     text-decoration: none;
     margin: 0 25px;
     font-weight: bold;
@@ -54,7 +73,7 @@ nav a {
 
 nav a:hover {
     color: #ffd700;
-    text-shadow: 0px 0px 5px rgba(255, 215, 0, 0.8);
+    text-shadow: 0 0 8px #ffd700;
 }
 
 nav a::after {
@@ -77,9 +96,10 @@ p {
     max-width: 700px;
     margin-left: auto;
     margin-right: auto;
-    background: rgba(255, 255, 255, 0.8);
+    background: rgba(0, 0, 0, 0.6);
     padding: 15px;
     border-radius: 8px;
+     color: #f0f0f0;
 }
 
 img#PSB {
@@ -90,12 +110,13 @@ img#PSB {
 }
 
 section {
-    background: rgba(255, 255, 255, 0.9);
+    background: rgba(20, 20, 20, 0.85);
     width: 90%;
     margin: auto;
     padding: 1.5em;
     border-radius: 10px;
     box-shadow: 3px 3px 15px rgba(0, 0, 0, 0.2);
+    color: #f0f0f0;
 }
 
 /* About Section Styling */
@@ -108,7 +129,7 @@ section {
 }
 
 .card {
-    background-color: rgba(232, 226, 255, 0.9);
+    background-color: rgba(40, 40, 40, 0.9);
     border-radius: 10px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     width: 350px;
@@ -116,6 +137,7 @@ section {
     text-align: center;
     transition: transform 0.3s ease;
     margin-bottom: 20px;
+    color: #f0f0f0;
 }
 
 .card:hover {
@@ -138,13 +160,13 @@ section {
 .member-name {
     font-size: 2.0em;
     margin-bottom: 10px;
-    color: #342a1e;
+    color: #ffd700;
     text-decoration: none;
 }
 
 .member-description {
     font-size: 1em;
-    color: #342a1e;
+    color: #dcdcdc;
     margin-bottom: 15px;
     text-align: left;
 }
@@ -190,13 +212,14 @@ h3 {
 
 
 .song-box {
-    background: linear-gradient(135deg, #ffffff 0%, #f9fbff 100%);
+    background: rgba(30, 30, 30, 0.85);
     padding: 1.5rem 2rem;
-    border-left: 6px solid #0077cc;
+    border-left: 6px solid #6a5acd;
     margin-bottom: 2rem;
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
     border-radius: 8px;
     transition: box-shadow 0.3s ease;
+    color: #f0f0f0;
 }
 
 .song-box:hover {
@@ -206,24 +229,24 @@ h3 {
 .song-box h3 {
     margin-top: 2rem;
     font-size: 1.25rem;
-    color: #2a2a2a;
-    border-bottom: 2px solid #0077cc;
+    color: #ffd700;
+    border-bottom: 2px solid #ffd700;
     display: inline-block;
     padding-bottom: 0.3rem;
     margin-bottom: 0.5rem;
 }
 
 pre {
-    background-color: #f4f7fa;
+    background-color: #1a1a1a;
     padding: 1rem;
     overflow-x: auto;
     font-family: 'Courier New', monospace;
     white-space: pre-wrap;
     border-radius: 6px;
-    border: 1px solid #d0d7de;
+    border: 2px solid #444;
     line-height: 1.6;
     font-size: 0.95rem;
-    color: #333;
+    color: #e0e0e0;
     box-shadow: inset 0 1px 3px rgba(0,0,0,0.05);
 }
 
@@ -244,7 +267,7 @@ pre {
 }
 
 .song-list li {
-    background: linear-gradient(135deg, #fafafa, #e6e6fa);
+    background: rgba(50, 50, 50, 0.9);
     margin: 10px 0;
     padding: 15px 25px;
     border-radius: 10px;
@@ -259,14 +282,14 @@ pre {
 
 .song-list a {
     text-decoration: none;
-    color: #2c3e50;
+    color: #f0f0f0;
     font-size: 1.3em;
     font-weight: bold;
     transition: color 0.3s ease;
 }
 
 .song-list a:hover {
-    color: #6a5acd;
+     color: #ffd700;
 }
 
 
@@ -279,7 +302,7 @@ pre {
 
 .chord-button {
     padding: 10px 20px;
-    background-color: #87ceeb;
+   background-color: #6a5acd;
     border: none;
     border-radius: 8px;
     font-size: 18px;
@@ -289,13 +312,41 @@ pre {
 .button-link {
     display: inline-block;
     padding: 10px 20px;
-    background-color: #4CAF50;
-    color: white;
+    background-color: #222;
+    color: #f0f0f0;
     text-decoration: none;
     border-radius: 5px;
     font-family: sans-serif;
     font-size: 16px;
+    border: 1px solid #6a5acd;
 }
 .button-link:hover {
-    background-color: #45a049;
+     background-color: #6a5acd;
+     color: #fff;
+}
+
+.intro-section {
+    background: rgba(0, 0, 0, 0.6);
+    color: #fff;
+    padding: 50px 30px;
+    max-width: 900px;
+    margin: 50px auto;
+    border-radius: 15px;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.4);
+    backdrop-filter: blur(3px);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.intro-section h1 {
+    font-size: 2.8rem;
+    margin-bottom: 20px;
+    color: #ffd700;
+    text-shadow: 2px 2px 10px rgba(0, 0, 0, 0.7);
+    letter-spacing: 1px;
+}
+
+.intro-section p {
+    font-size: 1.3rem;
+    line-height: 1.8;
+    color: #f0f0f0;
 }
