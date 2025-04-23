@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><mei ixml:state="ambiguous" xmlns:ixml="http://invisiblexml.org/NS"><music><title>Black Dog</title>
+<?xml version="1.0" encoding="UTF-8"?><mei xmlns:ixml="http://invisiblexml.org/NS" ixml:state="ambiguous"><music><title>Black Dog</title>
 <album>Led Zeppelin IV</album>
 <artist>Led Zeppelin</artist>
 
@@ -88,5 +88,5 @@ C A7 Dsus4 D A7
  </mdiv></section>
 <section type="Fade Out"><mdiv>
 A7 C A7 Dsus4 D A7
-C A7 Dsus4 D A7 C A7</mdiv></section>
-</music></mei>
+C A7 Dsus4 D A7 C A7
+</mdiv></section></music></mei>

@@ -1,11 +1,11 @@
-The Battle of Evermore
-Led Zeppelin IV
-Led Zeppelin
+<?xml version="1.0" encoding="UTF-8"?><mei xmlns:ixml="http://invisiblexml.org/NS" ixml:state="ambiguous"><music><title>The Battle of Evermore</title>
+<album>Led Zeppelin IV</album>
+<artist>Led Zeppelin</artist>
 
-[Intro]
+<section type="Intro"><mdiv>
 Am
- 
-[Verse 1]
+ </mdiv></section>
+<section type="Verse 1"><mdiv>
     Am            C Am          C
 The Queen of Light  took her bow
     Am              C    Am C
@@ -31,8 +31,8 @@ Of the darkest of them all
 D Am C Am C Am C
 Am C
  
- 
-[Chorus]
+ </mdiv></section>
+<section type="Chorus"><mdiv>
 A7           D                   A7                   D
   I hear the horses' thunder down  in the valley below
 G7                    C
@@ -40,8 +40,8 @@ G7                    C
 G7                      C
 Waiting for the eastern glow
  
- 
-[Verse 2]
+ </mdiv></section>
+<section type="Verse 2"><mdiv>
     Am        C      Am      C
 The apples of the valley hold
 Am                C     Am C
@@ -66,8 +66,8 @@ Mortals never know
 D Am C Am C Am C
 Am C
  
- 
-[Chorus]
+ </mdiv></section>
+<section type="Chorus"><mdiv>
 A7              D                 A7                     D
   Oh, well, the night is long the beads of time pass slow
 G7                     C
@@ -75,8 +75,8 @@ G7                     C
 G7                      C
 Waiting for the eastern glow
  
- 
-[Verse 3]
+ </mdiv></section>
+<section type="Verse 3"><mdiv>
     Am         C   Am        C
 The pain of war cannot exceed
     Am       C      Am C
@@ -102,8 +102,8 @@ To bring the balance back
 Bring it back
 Am C Am C Am C Am C
  
- 
-[Chorus]
+ </mdiv></section>
+<section type="Chorus"><mdiv>
 A7            D
   At last the sun is shining
     A7                    D
@@ -113,13 +113,13 @@ G7                     C
     G7                  C    Am
 The sunlight blinds his eyes!
  
- 
-[Interlude]
+ </mdiv></section>
+<section type="Interlude"><mdiv>
 Asus2 Am Asus2 Am
 Asus2 Am Asus2 Em7
  
- 
-[Outro 1]
+ </mdiv></section>
+<section type="Outro 1"><mdiv>
          Am          C      Am
 Bring it back, bring it back
 C        Am          C      Am
@@ -142,14 +142,15 @@ Oh now, oh now, oh now
 Bring it,  bring it, bring it, bring it
 Bring it, bring it, bring it, bring it
  
- 
-[Outro 2]
+ </mdiv></section>
+<section type="Outro 2"><mdiv>
                                     Am C Am G Am C Am G Am C Am G Am C Am G
 Bring it, bring it, bring it, bring it
 
-
-[Fade Out]
+</mdiv></section>
+<section type="Fade Out"><mdiv>
 Am C Am G Am C Am G
 Am C Am G Am C Am G
 Am C Am G Am C Am G
 Am C Am G
+</mdiv></section></music></mei>

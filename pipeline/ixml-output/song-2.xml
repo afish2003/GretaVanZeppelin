@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><mei ixml:state="ambiguous" xmlns:ixml="http://invisiblexml.org/NS"><music><title>Rock and Roll</title>
+<?xml version="1.0" encoding="UTF-8"?><mei xmlns:ixml="http://invisiblexml.org/NS" ixml:state="ambiguous"><music><title>Rock and Roll</title>
 <album>Led Zeppelin IV</album>
 <artist>Led Zeppelin</artist>
 
@@ -60,5 +60,5 @@ Been a long lonely lonely lonely lonely lonely time
 D A E
      It's been a long time been a long time
 D                                      A
-Been a long lonely lonely lonely lonely</mdiv></section>
-</music></mei>
+Been a long lonely lonely lonely lonely
+</mdiv></section></music></mei>

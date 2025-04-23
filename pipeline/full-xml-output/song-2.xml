@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mei ixml:state="ambiguous"
-     xmlns:ixml="http://invisiblexml.org/NS">
+<mei xmlns:ixml="http://invisiblexml.org/NS" ixml:state="ambiguous">
    <music>
       <title>Rock and Roll</title>
       <album>Led Zeppelin IV</album>

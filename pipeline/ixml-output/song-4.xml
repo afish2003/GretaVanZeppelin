@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><mei ixml:state="ambiguous" xmlns:ixml="http://invisiblexml.org/NS"><music><title>Stairway to Heaven</title>
+<?xml version="1.0" encoding="UTF-8"?><mei xmlns:ixml="http://invisiblexml.org/NS" ixml:state="ambiguous"><music><title>Stairway to Heaven</title>
 <album>Led Zeppelin IV</album>
-<artist>Led Zeppelin
-</artist>
+<artist>Led Zeppelin</artist>
+
 
 <section type="Intro"><mdiv>
 Am Ammaj9 Am7 D/F# Fmaj7 G Am
@@ -165,5 +165,5 @@ Am        G               F
 Am C/G Fmaj7 Am C/G Fmaj7
 Am C/G Am C/G Am C/G
 Fmaj7
-     And she's buying a stairway to heaven.</mdiv></section>
-</music></mei>
+     And she's buying a stairway to heaven.
+</mdiv></section></music></mei>
