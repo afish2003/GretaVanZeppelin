@@ -28,6 +28,9 @@ h1 {
     text-transform: uppercase;
     letter-spacing: 2px;
     text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+    font-family: "itc-benguiat", serif;
+font-weight: 700;
+font-style: normal;
 }
 
 h3{
@@ -100,6 +103,9 @@ p {
     padding: 15px;
     border-radius: 8px;
      color: #f0f0f0;
+     font-family: "corporate-a", serif;
+font-weight: 400;
+font-style: normal;
 }
 
 img#PSB {
@@ -162,6 +168,9 @@ section {
     margin-bottom: 10px;
     color: #ffd700;
     text-decoration: none;
+    font-family: "itc-benguiat", serif;
+font-weight: 700;
+font-style: normal;
 }
 
 .member-description {
@@ -169,6 +178,9 @@ section {
     color: #dcdcdc;
     margin-bottom: 15px;
     text-align: left;
+    font-family: "corporate-a", serif;
+font-weight: 400;
+font-style: normal;
 }
 
 .member-description ul {
@@ -273,6 +285,9 @@ pre {
     border-radius: 10px;
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
     transition: transform 0.2s ease-in-out, box-shadow 0.3s ease-in-out;
+    font-family: "itc-benguiat", serif;
+font-weight: 700;
+font-style: normal;
 }
 
 .song-list li:hover {
@@ -350,3 +365,40 @@ pre {
     line-height: 1.8;
     color: #f0f0f0;
 }
+
+.artist {
+  background: white;
+  padding: 20px;
+  margin: 20px auto;
+  max-width: 800px;
+  border-radius: 10px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+.artist h2 {
+  color: #0077cc;
+}
+
+.albums {
+  display: flex;
+  gap: 20px;
+  margin-top: 10px;
+}
+
+.album {
+  background: #eef;
+  padding: 10px;
+  border-radius: 8px;
+  flex: 1;
+  text-align: center;
+}
+
+.album h3 {
+  margin-top: 0;
+  color: #1a1a40; /* deeper color for contrast */
+  font-size: 2rem;
+  font-weight: 800;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+}
+
