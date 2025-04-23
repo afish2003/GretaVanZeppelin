@@ -330,7 +330,11 @@
          <lyrics/>
       </section>
       <section type="Outro">
-         <lyrics>E B C#</lyrics>
+         <chordLine>
+            <chord>E</chord>
+            <chord>B</chord>
+            <chord>C#</chord>
+         </chordLine>
       </section>
    </music>
 </mei>

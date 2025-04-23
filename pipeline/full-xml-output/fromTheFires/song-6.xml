@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mei xmlns:ixml="http://invisiblexml.org/NS" ixml:state="ambiguous">
+   <music>
+      <title>Meet on the Ledge</title>
+      <album>From the Fires</album>
+      <artist>Greta Van Fleet</artist>
+      <section type="Verse 1">
+         <chordLine>
+            <chord>Dm</chord>
+            <chord>C</chord>
+            <chord>Dm</chord>
+            <chord>C</chord>
+         </chordLine>
+         <lyrics>We used to say that come the day</lyrics>
+         <chordLine>
+            <chord>Am</chord>
+            <chord>G</chord>
+         </chordLine>
+         <lyrics>We'd all be making songs</lyrics>
+         <chordLine>
+            <chord>Bb</chord>
+            <chord>F</chord>
+         </chordLine>
+         <lyrics>Or finding better words</lyrics>
+         <chordLine>
+            <chord>Bb</chord>
+            <chord>F</chord>
+            <chord>C</chord>
+         </chordLine>
+         <lyrics>These ideas never lasted long</lyrics>
+         <chordLine>
+            <chord>Dm</chord>
+            <chord>C</chord>
+            <chord>Dm</chord>
+            <chord>C</chord>
+         </chordLine>
+         <lyrics>The way is up along the road</lyrics>
+         <chordLine>
+            <chord>Am</chord>
+            <chord>G</chord>
+         </chordLine>
+         <lyrics>The air is growing thin</lyrics>
+         <chordLine>
+            <chord>Bb</chord>
+            <chord>F</chord>
+         </chordLine>
+         <lyrics>Too many friends who tried</lyrics>
+         <chordLine>
+            <chord>Bb</chord>
+            <chord>F</chord>
+            <chord>C</chord>
+         </chordLine>
+         <lyrics>Blown off this mountain with the wind</lyrics>
+      </section>
+      <section type="Chorus">
+         <chordLine>
+            <chord>C</chord>
+            <chord>Gm</chord>
+         </chordLine>
+         <lyrics>Meet on the ledge, we're gonna meet on the ledge</lyrics>
+         <chordLine>
+            <chord>Bb</chord>
+            <chord>F</chord>
+            <chord>C</chord>
+         </chordLine>
+         <lyrics>When my time is up I'll see all my friends</lyrics>
+         <chordLine>
+            <chord>C</chord>
+            <chord>Gm</chord>
+         </chordLine>
+         <lyrics>Meet on the ledge, we're gonna meet on the ledge</lyrics>
+         <chordLine>
+            <chord>Bb</chord>
+            <chord>F</chord>
+            <chord>C</chord>
+         </chordLine>
+         <lyrics>If you really mean it, it all comes round again</lyrics>
+      </section>
+      <section type="Verse 2">
+         <chordLine>
+            <chord>Dm</chord>
+            <chord>C</chord>
+            <chord>Dm</chord>
+            <chord>C</chord>
+         </chordLine>
+         <lyrics>Now I see I'm all alone</lyrics>
+         <chordLine>
+            <chord>Am</chord>
+            <chord>G</chord>
+         </chordLine>
+         <lyrics>That's the only way to be</lyrics>
+         <chordLine>
+            <chord>Bb</chord>
+            <chord>F</chord>
+         </chordLine>
+         <lyrics>You'll have your chance again</lyrics>
+         <chordLine>
+            <chord>Bb</chord>
+            <chord>F</chord>
+            <chord>C</chord>
+         </chordLine>
+         <lyrics>Then you can do the work for me</lyrics>
+      </section>
+      <section type="Chorus">
+         <chordLine>
+            <chord>C</chord>
+            <chord>Gm</chord>
+         </chordLine>
+         <lyrics>Meet on the ledge, we're gonna meet on the ledge</lyrics>
+         <chordLine>
+            <chord>Bb</chord>
+            <chord>F</chord>
+            <chord>C</chord>
+         </chordLine>
+         <lyrics>When my time is up I'll see all my friends</lyrics>
+         <chordLine>
+            <chord>C</chord>
+            <chord>Gm</chord>
+         </chordLine>
+         <lyrics>Meet on the ledge, we're gonna meet on the ledge</lyrics>
+         <chordLine>
+            <chord>Bb</chord>
+            <chord>F</chord>
+            <chord>C</chord>
+         </chordLine>
+         <lyrics>If you really mean it, it all comes round again</lyrics>
+      </section>
+      <section type="Solo">
+         <chordLine>
+            <chord>Dm</chord>
+            <chord>C</chord>
+            <chord>Dm</chord>
+            <chord>C</chord>
+            <chord>Am</chord>
+            <chord>G</chord>
+            <chord>Dm</chord>
+            <chord>C</chord>
+            <chord>Dm</chord>
+            <chord>C</chord>
+            <chord>Am</chord>
+            <chord>G</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Chorus">
+         <chordLine>
+            <chord>C</chord>
+            <chord>Gm</chord>
+         </chordLine>
+         <lyrics>Meet on the ledge, we're gonna meet on the ledge</lyrics>
+         <chordLine>
+            <chord>Bb</chord>
+            <chord>F</chord>
+            <chord>C</chord>
+         </chordLine>
+         <lyrics>When my time is up I'll see all my friends</lyrics>
+         <chordLine>
+            <chord>C</chord>
+            <chord>Gm</chord>
+         </chordLine>
+         <lyrics>Meet on the ledge, we're gonna meet on the ledge</lyrics>
+         <chordLine>
+            <chord>Bb</chord>
+            <chord>F</chord>
+            <chord>C</chord>
+         </chordLine>
+         <lyrics>If you really mean it, it all comes round again</lyrics>
+         <chordLine>
+            <chord>C</chord>
+            <chord>Gm</chord>
+            <chord>Bb</chord>
+            <chord>F</chord>
+         </chordLine>
+         <lyrics>We're gonna meet on the ledge, on the ledge</lyrics>
+         <chordLine>
+            <chord>C</chord>
+         </chordLine>
+         <lyrics>All comes round again</lyrics>
+         <chordLine>
+            <chord>C</chord>
+            <chord>Gm</chord>
+            <chord>Bb</chord>
+            <chord>F</chord>
+            <chord>C</chord>
+         </chordLine>
+         <lyrics>We're gonna meet on the ledge</lyrics>
+      </section>
+   </music>
+</mei>

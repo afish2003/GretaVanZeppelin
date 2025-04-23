@@ -53,7 +53,10 @@
             <chord>D</chord>
          </chordLine>
          <lyrics>Ma ma ma ma ma ma ma ma ma ma ma ma Ma ma</lyrics>
-            <lyrics>Hey</lyrics>
+         <chordLine>
+            <chord>Hey</chord>
+         </chordLine>
+         <lyrics/>
       </section>
       <section type="Chorus">
          <chordLine>
@@ -133,7 +136,10 @@
             <chord>D</chord>
          </chordLine>
          <lyrics>Ma ma ma ma ma ma ma ma ma ma ma ma Ma ma</lyrics>
-            <lyrics>Hey</lyrics>
+         <chordLine>
+            <chord>Hey</chord>
+         </chordLine>
+         <lyrics/>
       </section>
       <section type="Chorus">
          <chordLine>
@@ -172,9 +178,7 @@
          <chordLine>
             <chord>A</chord>
             <chord>D</chord>
-         </chordLine>
-            <lyrics>Yeah</lyrics>
-         <chordLine>
+            <chord>Yeah</chord>
             <chord>A</chord>
          </chordLine>
          <lyrics>Oh yeah</lyrics>
@@ -270,8 +274,9 @@
             <chord>A</chord>
             <chord>G</chord>
             <chord>D</chord>
+            <chord>A</chord>
+            <chord>G</chord>
          </chordLine>
-         <lyrics>A G</lyrics>
       </section>
    </music>
 </mei>

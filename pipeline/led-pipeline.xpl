@@ -45,7 +45,7 @@
             <p:with-input port="stylesheet" href="full-markup.xsl"/>
         </p:xslt>
         <p:identity message="Running the Identity Transformation XSLT to develop the XML"/>
-        <p:store name="full-xml-out" href="full-xml-output/{$filename}.xml" serialization="map {
+        <p:store name="full-xml-out" href="full-xml-output/ledZeppelinIV/{$filename}.xml" serialization="map {
             'method' : 'xml',
             'indent' : true(),
             'omit-xml-declaration' : false()
