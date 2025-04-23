@@ -1,17 +1,17 @@
-When the Levee Breaks
-Led Zeppelin IV
-Led Zeppelin
+<?xml version="1.0" encoding="UTF-8"?><mei ixml:state="ambiguous" xmlns:ixml="http://invisiblexml.org/NS"><music><title>When the Levee Breaks</title>
+<album>Led Zeppelin IV</album>
+<artist>Led Zeppelin</artist>
 
-[Intro]
+<section type="Intro"><mdiv>
 F5
  
- 
-[Break]
+ </mdiv></section>
+<section type="Break"><mdiv>
 Db Eb Ab F5 Ab F5 Db Eb
 Ab F5 Ab F5
  
- 
-[Verse 1]
+ </mdiv></section>
+<section type="Verse 1"><mdiv>
       F5
 If it keeps on raining
 Levee's going to break
@@ -27,18 +27,18 @@ It's got what it takes
 To make a mountain man leave his home
 Oh well, oh well, oh well, ooh
  
- 
-[Break]
+ </mdiv></section>
+<section type="Break"><mdiv>
 Db Eb Ab F5 Ab F5 Db Eb Ab F5 Ab F5
  
- 
-[Bridge]
+ </mdiv></section>
+<section type="Bridge"><mdiv>
 F C F Bb C Eb F F C
 F Bb C Eb F            F
            Oh don't it make you feel bad
  
- 
-[Chorus]
+ </mdiv></section>
+<section type="Chorus"><mdiv>
             C
 When you're trying to find your way home
     F          Bb        C    Eb F
@@ -49,16 +49,16 @@ They got no work to do
 If you're going north to  Chicago
 C F Bb C Eb F C F Bb C Eb F
  
- 
-[Harmonica Solo]
+ </mdiv></section>
+<section type="Harmonica Solo"><mdiv>
 F5
  
- 
-[Break]
+ </mdiv></section>
+<section type="Break"><mdiv>
 Db Eb Ab F5 Ab F5 Db Eb Ab F5 Ab F5
  
- 
-[Verse 2]
+ </mdiv></section>
+<section type="Verse 2"><mdiv>
 F5
 Crying won't help you
 Praying won't do you no good
@@ -74,12 +74,12 @@ Thinking about my baby
 And my happy home
 Ohho
  
- 
-[Break]
+ </mdiv></section>
+<section type="Break"><mdiv>
 Db Eb Ab F5 Ab F5 Db Eb Ab F5 Ab F5
  
- 
-[Guitar Solo]
+ </mdiv></section>
+<section type="Guitar Solo"><mdiv>
 F C F Bb C Eb F C F Bb C Eb F
     C   F  Bb C Eb F
 Ah, ah, ah,   ah
@@ -89,8 +89,8 @@ C   F Bb C Eb F
  Oh,     oh
 C F Bb C Eb F
  
- 
-[Outro]
+ </mdiv></section>
+<section type="Outro"><mdiv>
 F5
   Going
 I'm going to Chicago
@@ -113,4 +113,5 @@ Going down
 Going down now
 Going down
 Going, dowdowdowdowdown now
-Ooh, ooh
+Ooh, ooh</mdiv></section>
+</music></mei>

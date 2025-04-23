@@ -5,6 +5,6 @@ album: ~[#22]+.
 artist: ~[#22]+.
 section: type, mdiv.
 @type: -"[", ~[#22]+, -"]".
-mdiv: ~[#d;#a]+.
+mdiv: ~[#22]+.
 -newline: (#d?, #a).
 -space: " ".
