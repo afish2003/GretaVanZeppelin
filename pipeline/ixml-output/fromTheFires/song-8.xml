@@ -1,30 +1,14 @@
-<!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml">
-    <head>
-        <meta charset="UTF-8" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <title>Black Smoke Rising – Greta Van Fleet</title>
-        <link rel="stylesheet" href="style.css" />
-    </head>
-    <body>
-        <h1>Black Smoke Rising</h1>
-        <h2>From the Fires – Greta Van Fleet</h2>
-        
-        <nav>
-            <a href="index.html">Home</a> | 
-            <a href="about.html">About</a> | 
-            <a href="methods.html">Methods</a> | 
-            <a href="songs.html">Songs</a>
-        </nav>
-        
-        <div class="song-box">
-            <h3>Intro</h3>
-            <pre>Em D Bm C Em D Bm C
+<?xml version="1.0" encoding="UTF-8"?><mei xmlns:ixml="http://invisiblexml.org/NS" ixml:state="ambiguous"><music><title>Black Smoke Rising</title>
+<album>From the Fires</album>
+<artist>Greta Van Fleet</artist>
+
+<section type="Intro"><mdiv>
+Em D Bm C Em D Bm C
 Em D Bm C Em D
-Bm C</pre>
-            
-            <h3>Verse 1</h3>
-            <pre>
+Bm C
+ 
+ </mdiv></section>
+<section type="Verse 1"><mdiv>
 Em        D                  Bm C
   Did you know there was a tower
            Em              D
@@ -38,14 +22,14 @@ As they spit down to the earth
 To feel the power
 Bm               C
 Boiling in their veins
-      </pre>
-            
-            <h3>Pre-Chorus</h3>
-            <pre>C B C B C B C B
-D</pre>
-            
-            <h3>Chorus</h3>
-            <pre>
+ 
+ </mdiv></section>
+<section type="Pre-Chorus"><mdiv>
+C B C B C B C B
+D
+ 
+ </mdiv></section>
+<section type="Chorus"><mdiv>
 G        D           C
  And the black smoke rises
 G         D                C
@@ -56,13 +40,13 @@ G            D               C
  And we will stand up in the cold
                 Em
 Stand up in the cold
-      </pre>
-            
-            <h3>Bridge</h3>
-            <pre>Em D Bm C Em D Bm C</pre>
-            
-            <h3>Verse 2</h3>
-            <pre>
+ 
+ </mdiv></section>
+<section type="Bridge"><mdiv>
+Em D Bm C Em D Bm C
+ 
+ </mdiv></section>
+<section type="Verse 2"><mdiv>
 Em     D              Bm  C
   Many people are dividing
       Em
@@ -77,14 +61,14 @@ Em        D              Bm  C
 And the fate of man is in the hands
           Bm                   C
 Of he who stands and heeds the call
-      </pre>
-            
-            <h3>Pre-Chorus</h3>
-            <pre>C B C B C B C B
-D</pre>
-            
-            <h3>Chorus</h3>
-            <pre>
+ 
+ </mdiv></section>
+<section type="Pre-Chorus"><mdiv>
+C B C B C B C B
+D
+ 
+ </mdiv></section>
+<section type="Chorus"><mdiv>
 G        D           C
  And the black smoke rises
 G         D                C
@@ -95,10 +79,9 @@ G            D               C
  And we will stand up in the cold
                 Am
 Stand up in the cold
-      </pre>
-            
-            <h3>Break</h3>
-            <pre>
+ 
+ </mdiv></section>
+<section type="Break"><mdiv>
 Am Dadd4add9 Am Dadd4add9
 Am Dadd4add9 Am
 Dadd4add9
@@ -106,13 +89,21 @@ Am Dadd4add9     Am         Dadd4add9
             Stand  up in the         cold
 Am   Dadd4add9     Am Dadd4add9
   We won't    stand
-      </pre>
-            
-            <h3>Interlude</h3>
-            <pre>Dadd4add9</pre>
-            
-            <h3>Chorus</h3>
-            <pre>
+ 
+ </mdiv></section>
+<section type="Interlude"><mdiv>
+Dadd4add9
+ 
+ </mdiv></section>
+<section type="Chorus"><mdiv>
+G        D           C
+ And the black smoke rises
+G         D                C
+ From the fires we've been told
+G         D       C
+ It's the new age crisis
+G            D               C
+ And we will stand up in the cold
 G        D           C D
  And the black smoke rises
 G         D                C   D
@@ -122,9 +113,5 @@ G         D       C  D
 G            D               C
  And we will stand up in the cold
 D               Em
-Stand up in the cold
-      </pre>
-        </div>
-        <a href="song-8-prog.html" class="button-link">Click to see chord progressions for <em>Black Smoke Rising</em></a>
-    </body>
-</html>
+Stand up in the cold</mdiv></section>
+</music></mei>

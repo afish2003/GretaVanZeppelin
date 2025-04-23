@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mei xmlns:ixml="http://invisiblexml.org/NS" ixml:state="ambiguous">
+   <music>
+      <title>Black Smoke Rising</title>
+      <album>From the Fires</album>
+      <artist>Greta Van Fleet</artist>
+      <section type="Intro">
+         <chordLine>
+            <chord>Em</chord>
+            <chord>D</chord>
+            <chord>Bm</chord>
+            <chord>C</chord>
+            <chord>Em</chord>
+            <chord>D</chord>
+            <chord>Bm</chord>
+            <chord>C</chord>
+            <chord>Em</chord>
+            <chord>D</chord>
+            <chord>Bm</chord>
+            <chord>C</chord>
+            <chord>Em</chord>
+            <chord>D</chord>
+            <chord>Bm</chord>
+            <chord>C</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Verse 1">
+         <chordLine>
+            <chord>Em</chord>
+            <chord>D</chord>
+            <chord>Bm</chord>
+            <chord>C</chord>
+         </chordLine>
+         <lyrics>Did you know there was a tower</lyrics>
+         <chordLine>
+            <chord>Em</chord>
+            <chord>D</chord>
+         </chordLine>
+         <lyrics>Where they look out to the land</lyrics>
+         <chordLine>
+            <chord>Bm</chord>
+            <chord>C</chord>
+         </chordLine>
+         <lyrics>To see the people quickly passing by</lyrics>
+         <chordLine>
+            <chord>Em</chord>
+            <chord>D</chord>
+            <chord>Bm</chord>
+            <chord>C</chord>
+         </chordLine>
+         <lyrics>This is for their own desire</lyrics>
+         <chordLine>
+            <chord>Em</chord>
+            <chord>D</chord>
+         </chordLine>
+         <lyrics>As they spit down to the earth To feel the power</lyrics>
+         <chordLine>
+            <chord>Bm</chord>
+            <chord>C</chord>
+         </chordLine>
+         <lyrics>Boiling in their veins</lyrics>
+      </section>
+      <section type="Pre-Chorus">
+         <chordLine>
+            <chord>C</chord>
+            <chord>B</chord>
+            <chord>C</chord>
+            <chord>B</chord>
+            <chord>C</chord>
+            <chord>B</chord>
+            <chord>C</chord>
+            <chord>B</chord>
+            <chord>D</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Chorus">
+         <chordLine>
+            <chord>G</chord>
+            <chord>D</chord>
+            <chord>C</chord>
+         </chordLine>
+         <lyrics>And the black smoke rises</lyrics>
+         <chordLine>
+            <chord>G</chord>
+            <chord>D</chord>
+            <chord>C</chord>
+         </chordLine>
+         <lyrics>From the fires we've been told</lyrics>
+         <chordLine>
+            <chord>G</chord>
+            <chord>D</chord>
+            <chord>C</chord>
+         </chordLine>
+         <lyrics>It's the new age crisis</lyrics>
+         <chordLine>
+            <chord>G</chord>
+            <chord>D</chord>
+            <chord>C</chord>
+         </chordLine>
+         <lyrics>And we will stand up in the cold</lyrics>
+         <chordLine>
+            <chord>Em</chord>
+         </chordLine>
+         <lyrics>Stand up in the cold</lyrics>
+      </section>
+      <section type="Bridge">
+         <chordLine>
+            <chord>Em</chord>
+            <chord>D</chord>
+            <chord>Bm</chord>
+            <chord>C</chord>
+            <chord>Em</chord>
+            <chord>D</chord>
+            <chord>Bm</chord>
+            <chord>C</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Verse 2">
+         <chordLine>
+            <chord>Em</chord>
+            <chord>D</chord>
+            <chord>Bm</chord>
+            <chord>C</chord>
+         </chordLine>
+         <lyrics>Many people are dividing</lyrics>
+         <chordLine>
+            <chord>Em</chord>
+         </chordLine>
+         <lyrics>And a world apart</lyrics>
+         <chordLine>
+            <chord>D</chord>
+         </chordLine>
+         <lyrics>With just one heart</lyrics>
+         <chordLine>
+            <chord>Bm</chord>
+            <chord>C</chord>
+         </chordLine>
+         <lyrics>Is bound to keel and fade away</lyrics>
+         <chordLine>
+            <chord>Em</chord>
+            <chord>D</chord>
+            <chord>Bm</chord>
+            <chord>C</chord>
+         </chordLine>
+         <lyrics>None of us will be deciding</lyrics>
+         <chordLine>
+            <chord>Em</chord>
+            <chord>D</chord>
+         </chordLine>
+         <lyrics>And the fate of man is in the hands</lyrics>
+         <chordLine>
+            <chord>Bm</chord>
+            <chord>C</chord>
+         </chordLine>
+         <lyrics>Of he who stands and heeds the call</lyrics>
+      </section>
+      <section type="Pre-Chorus">
+         <chordLine>
+            <chord>C</chord>
+            <chord>B</chord>
+            <chord>C</chord>
+            <chord>B</chord>
+            <chord>C</chord>
+            <chord>B</chord>
+            <chord>C</chord>
+            <chord>B</chord>
+            <chord>D</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Chorus">
+         <chordLine>
+            <chord>G</chord>
+            <chord>D</chord>
+            <chord>C</chord>
+         </chordLine>
+         <lyrics>And the black smoke rises</lyrics>
+         <chordLine>
+            <chord>G</chord>
+            <chord>D</chord>
+            <chord>C</chord>
+         </chordLine>
+         <lyrics>From the fires we've been told</lyrics>
+         <chordLine>
+            <chord>G</chord>
+            <chord>D</chord>
+            <chord>C</chord>
+         </chordLine>
+         <lyrics>It's the new age crisis</lyrics>
+         <chordLine>
+            <chord>G</chord>
+            <chord>D</chord>
+            <chord>C</chord>
+         </chordLine>
+         <lyrics>And we will stand up in the cold</lyrics>
+         <chordLine>
+            <chord>Am</chord>
+         </chordLine>
+         <lyrics>Stand up in the cold</lyrics>
+      </section>
+      <section type="Break">
+         <chordLine>
+            <chord>Am</chord>
+            <chord>Dadd4add9</chord>
+            <chord>Am</chord>
+            <chord>Dadd4add9</chord>
+            <chord>Am</chord>
+            <chord>Dadd4add9</chord>
+            <chord>Am</chord>
+            <chord>Dadd4add9</chord>
+            <chord>Am</chord>
+            <chord>Dadd4add9</chord>
+            <chord>Am</chord>
+            <chord>Dadd4add9</chord>
+         </chordLine>
+         <lyrics>Stand up in the cold</lyrics>
+         <chordLine>
+            <chord>Am</chord>
+            <chord>Dadd4add9</chord>
+            <chord>Am</chord>
+            <chord>Dadd4add9</chord>
+         </chordLine>
+         <lyrics>We won't stand</lyrics>
+      </section>
+      <section type="Interlude">
+         <chordLine>
+            <chord>Dadd4add9</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Chorus">
+         <chordLine>
+            <chord>G</chord>
+            <chord>D</chord>
+            <chord>C</chord>
+         </chordLine>
+         <lyrics>And the black smoke rises</lyrics>
+         <chordLine>
+            <chord>G</chord>
+            <chord>D</chord>
+            <chord>C</chord>
+         </chordLine>
+         <lyrics>From the fires we've been told</lyrics>
+         <chordLine>
+            <chord>G</chord>
+            <chord>D</chord>
+            <chord>C</chord>
+         </chordLine>
+         <lyrics>It's the new age crisis</lyrics>
+         <chordLine>
+            <chord>G</chord>
+            <chord>D</chord>
+            <chord>C</chord>
+         </chordLine>
+         <lyrics>And we will stand up in the cold</lyrics>
+         <chordLine>
+            <chord>G</chord>
+            <chord>D</chord>
+            <chord>C</chord>
+            <chord>D</chord>
+         </chordLine>
+         <lyrics>And the black smoke rises</lyrics>
+         <chordLine>
+            <chord>G</chord>
+            <chord>D</chord>
+            <chord>C</chord>
+            <chord>D</chord>
+         </chordLine>
+         <lyrics>From the fires we've been told</lyrics>
+         <chordLine>
+            <chord>G</chord>
+            <chord>D</chord>
+            <chord>C</chord>
+            <chord>D</chord>
+         </chordLine>
+         <lyrics>It's the new age crisis</lyrics>
+         <chordLine>
+            <chord>G</chord>
+            <chord>D</chord>
+            <chord>C</chord>
+         </chordLine>
+         <lyrics>And we will stand up in the cold</lyrics>
+         <chordLine>
+            <chord>D</chord>
+            <chord>Em</chord>
+         </chordLine>
+         <lyrics>Stand up in the cold</lyrics>
+      </section>
+   </music>
+</mei>

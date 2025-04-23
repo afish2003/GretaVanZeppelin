@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><mei ixml:state="ambiguous" xmlns:ixml="http://invisiblexml.org/NS"><music><title>Stairway to Heaven</title>
-<album>Led Zeppelin IV</album>
-<artist>Led Zeppelin
-</artist>
+Stairway to Heaven
+Led Zeppelin IV
+Led Zeppelin
 
-<section type="Intro"><mdiv>
+
+[Intro]
 Am Ammaj9 Am7 D/F# Fmaj7 G Am
 Am Ammaj9 Am7 D/F# Fmaj7 G Am
 C D Fmaj7 Am C G D
@@ -11,8 +11,8 @@ C D Fmaj7 Am
 C D
 Fmaj7
  
- </mdiv></section>
-<section type="Verse 1"><mdiv>
+ 
+[Verse 1]
 
 There's
   Am         Ammaj9
@@ -41,8 +41,8 @@ There's a songbird who sings,
 Sometimes all  of our thoughts are misgiven.
 Am Ammaj9 Am7 D/F# Fmaj7 G Am G
  
- </mdiv></section>
-<section type="Bridge 1"><mdiv>
+ 
+[Bridge 1]
 Am7
 D               Am7
 Oh, it makes me wonder
@@ -50,8 +50,8 @@ Em/D D C/D D Am7 D
              Oh, it makes me wonder.
 Am7 Em/D D C/D D
  
- </mdiv></section>
-<section type="Verse 2"><mdiv>
+ 
+[Verse 2]
 There's a
 C         G
 feeling I get
@@ -66,16 +66,16 @@ Rings of smoke through the trees,
         C               G         Fmaj7 Am  C G
 And the voices of those who stand loo__king.
  
- </mdiv></section>
-<section type="Bridge 2"><mdiv>
+ 
+[Bridge 2]
 Am7 D                Am7
     Ooh, it makes me wonder
 Em/D D C/D D Am7 D
              Oh, it really makes me wonder.
 Am7 Em/D D C/D D
  
- </mdiv></section>
-<section type="Verse 3"><mdiv>
+ 
+[Verse 3]
 And it's
 C              G           Am
 whispered that soon, If we all call the tune
@@ -88,13 +88,13 @@ For those who stand long
         C            G         Fmaj7 Am C G
 And the forests will echo with laughter.
  
- </mdiv></section>
-<section type="Bridge 3"><mdiv>
+ 
+[Bridge 3]
 Am7 D Am7 Em/D D C/D D
 Am7 D Am7 Em/D D C/D D
  
- </mdiv></section>
-<section type="Verse 4"><mdiv>
+ 
+[Verse 4]
 C             G              Am
  If there's a bustle in your hedgerow,
 Don't be alarmed now,
@@ -106,15 +106,15 @@ But in the long run
 C              G                  Fmaj7 Am        C G
  There's still time to change the road  you're on.
  
- </mdiv></section>
-<section type="Bridge 4"><mdiv>
+ 
+[Bridge 4]
 Am7 D                   Am7 Em/D
      And it makes me wonder.
 D C/D D Am7 D Am7 Em/D
 D C/D D
  
- </mdiv></section>
-<section type="Verse 5"><mdiv>
+ 
+[Verse 5]
 C             G              Am
  Your head is humming and it won't go
 In case you don't know,
@@ -126,21 +126,21 @@ And did you know
 C              G           Fmaj7 Am C  G D
  Your stairway lies on the whis_pering wind.
  
- </mdiv></section>
-<section type="Bridge 5"><mdiv>
+ 
+[Bridge 5]
 Dsus4 D C Dsus4 D
 C C/B
  
- </mdiv></section>
-<section type="Solo"><mdiv>
+ 
+[Solo]
 Am C/G Fmaj7 Am C/G Fmaj7
 Am C/G Fmaj7 Am C/G Fmaj7
 Am C/G Fmaj7 Am C/G Fmaj7
 Am C/G Fmaj7 Am C/G Fmaj7
 Am C/G Fmaj7 Am C/G Fmaj7
  
- </mdiv></section>
-<section type="Verse 6"><mdiv>
+ 
+[Verse 6]
 Am          G                  F
   And as we wind on down the road
 Am            G               F
@@ -160,10 +160,9 @@ Am             G               F
 Am        G               F
   To be a rock and not to roll.
  
- </mdiv></section>
-<section type="Outro"><mdiv>
+ 
+[Outro]
 Am C/G Fmaj7 Am C/G Fmaj7
 Am C/G Am C/G Am C/G
 Fmaj7
-     And she's buying a stairway to heaven.</mdiv></section>
-</music></mei>
+     And she's buying a stairway to heaven.

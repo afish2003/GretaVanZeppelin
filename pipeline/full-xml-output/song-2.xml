@@ -1,290 +1,116 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mei xmlns:ixml="http://invisiblexml.org/NS" ixml:state="ambiguous">
+<mei ixml:state="ambiguous"
+     xmlns:ixml="http://invisiblexml.org/NS">
    <music>
-      <title>Edge of Darkness</title>
-      <album>From the Fires</album>
-      <artist>Greta Van Fleet</artist>
+      <title>Rock and Roll</title>
+      <album>Led Zeppelin IV</album>
+      <artist>Led Zeppelin</artist>
       <section type="Intro">
          <chordLine>
-            <chord>F#</chord>
             <chord>A</chord>
             <chord>D</chord>
-            <chord>F#</chord>
             <chord>A</chord>
-            <chord>D</chord>
-         </chordLine>
-         <lyrics/>
-      </section>
-      <section type="Bridge 1">
-         <chordLine>
-            <chord>F#</chord>
+            <chord>E</chord>
             <chord>A</chord>
-            <chord>D</chord>
-            <chord>F#</chord>
-            <chord>A</chord>
-            <chord>D</chord>
          </chordLine>
          <lyrics/>
       </section>
       <section type="Verse 1">
          <chordLine>
-            <chord>F#</chord>
             <chord>A</chord>
-            <chord>D</chord>
          </chordLine>
-         <lyrics>Every day's a new day</lyrics>
+         <lyrics>It's been a long time since I rock and Rolled It's been a long time since I did the Stroll</lyrics>
          <chordLine>
-            <chord>F#</chord>
-            <chord>A</chord>
             <chord>D</chord>
          </chordLine>
-         <lyrics>Every way's a new way</lyrics>
+         <lyrics>Ooh let me get it back let me get it back</lyrics>
          <chordLine>
-            <chord>F#</chord>
             <chord>A</chord>
-            <chord>D</chord>
          </chordLine>
-         <lyrics>On the edge of darkness</lyrics>
-         <chordLine>
-            <chord>F#</chord>
-            <chord>A</chord>
-            <chord>D</chord>
-         </chordLine>
-         <lyrics>Finding out what it means to love</lyrics>
-      </section>
-      <section type="Pre-Chorus">
+         <lyrics>Let me get it back, baby, where I come from</lyrics>
          <chordLine>
             <chord>E</chord>
-            <chord>D</chord>
          </chordLine>
-         <lyrics>And to think we've found the time</lyrics>
-      </section>
-      <section type="Chorus">
+         <lyrics>It's been a long time been a long time</lyrics>
          <chordLine>
+            <chord>D</chord>
             <chord>A</chord>
          </chordLine>
-         <lyrics>All my brothers we stand</lyrics>
-         <chordLine>
-            <chord>G</chord>
-         </chordLine>
-         <lyrics>For the peace of the land</lyrics>
-         <chordLine>
-            <chord>D</chord>
-         </chordLine>
-         <lyrics>Is there meaning</lyrics>
-         <chordLine>
-            <chord>A</chord>
-         </chordLine>
-         <lyrics>I've got love in my heart</lyrics>
-         <chordLine>
-            <chord>G</chord>
-         </chordLine>
-         <lyrics>For an army apart</lyrics>
-         <chordLine>
-            <chord>D</chord>
-         </chordLine>
-         <lyrics>I am bleeding</lyrics>
-         <chordLine>
-            <chord>A</chord>
-         </chordLine>
-         <lyrics>All my brothers we stand</lyrics>
-         <chordLine>
-            <chord>G</chord>
-         </chordLine>
-         <lyrics>For the peace of the land</lyrics>
-         <chordLine>
-            <chord>D</chord>
-         </chordLine>
-         <lyrics>Is there meaning</lyrics>
-         <chordLine>
-            <chord>A</chord>
-         </chordLine>
-         <lyrics>I've got love in my heart</lyrics>
-         <chordLine>
-            <chord>G</chord>
-         </chordLine>
-         <lyrics>For an army apart</lyrics>
-         <chordLine>
-            <chord>D</chord>
-         </chordLine>
-         <lyrics>I am bleeding</lyrics>
-      </section>
-      <section type="Bridge 2">
-         <chordLine>
-            <chord>F#</chord>
-            <chord>A</chord>
-            <chord>D</chord>
-            <chord>F#</chord>
-            <chord>A</chord>
-            <chord>D</chord>
-         </chordLine>
-         <lyrics/>
+         <lyrics>Been a long lonely lonely lonely lonely lonely time Yes it has</lyrics>
       </section>
       <section type="Verse 2">
          <chordLine>
-            <chord>F#</chord>
             <chord>A</chord>
-            <chord>D</chord>
          </chordLine>
-         <lyrics>Always searching for love</lyrics>
+         <lyrics>It's been a long time since The Book of Love I can't count the tears of a life with no love</lyrics>
          <chordLine>
-            <chord>F#</chord>
-            <chord>A</chord>
             <chord>D</chord>
          </chordLine>
-         <lyrics>Always searching for light</lyrics>
+         <lyrics>Carry me back carry me back</lyrics>
          <chordLine>
-            <chord>F#</chord>
             <chord>A</chord>
-            <chord>D</chord>
          </chordLine>
-         <lyrics>What the world is made of</lyrics>
+         <lyrics>Carry me back baby where I come from</lyrics>
          <chordLine>
-            <chord>F#</chord>
-            <chord>A</chord>
-            <chord>D</chord>
+            <chord>E</chord>
          </chordLine>
-         <lyrics>When I'm thinking it's right</lyrics>
+         <lyrics>It's been a long time been a long time</lyrics>
+         <chordLine>
+            <chord>D</chord>
+            <chord>A</chord>
+         </chordLine>
+         <lyrics>Been a long lonely lonely lonely lonely lonely time</lyrics>
       </section>
-      <section type="Pre-Chorus">
+      <section type="Solo">
          <chordLine>
-            <chord>E</chord>
             <chord>D</chord>
-         </chordLine>
-         <lyrics>And to think we've found the time</lyrics>
-      </section>
-      <section type="Chorus">
-         <chordLine>
             <chord>A</chord>
-         </chordLine>
-         <lyrics>All my brothers we stand</lyrics>
-         <chordLine>
-            <chord>G</chord>
-         </chordLine>
-         <lyrics>For the peace of the land</lyrics>
-         <chordLine>
-            <chord>D</chord>
-         </chordLine>
-         <lyrics>Is there meaning</lyrics>
-         <chordLine>
+            <chord>E</chord>
             <chord>A</chord>
-         </chordLine>
-         <lyrics>I've got love in my heart</lyrics>
-         <chordLine>
-            <chord>G</chord>
-         </chordLine>
-         <lyrics>For an army apart</lyrics>
-         <chordLine>
-            <chord>D</chord>
-         </chordLine>
-         <lyrics>I am bleeding</lyrics>
-         <chordLine>
             <chord>A</chord>
-         </chordLine>
-         <lyrics>All my brothers we stand</lyrics>
-         <chordLine>
-            <chord>G</chord>
-         </chordLine>
-         <lyrics>For the peace of the land</lyrics>
-         <chordLine>
             <chord>D</chord>
-         </chordLine>
-         <lyrics>Is there meaning</lyrics>
-         <chordLine>
             <chord>A</chord>
-         </chordLine>
-         <lyrics>I've got love in my heart</lyrics>
-         <chordLine>
-            <chord>G</chord>
-         </chordLine>
-         <lyrics>For an army apart</lyrics>
-         <chordLine>
+            <chord>E</chord>
             <chord>D</chord>
-         </chordLine>
-         <lyrics>I am bleeding</lyrics>
-      </section>
-      <section type="Interlude">
-         <chordLine>
-            <chord>F#</chord>
-            <chord>E</chord>
-            <chord>F#</chord>
-            <chord>E</chord>
-            <chord>F#</chord>
-            <chord>E</chord>
-            <chord>F#</chord>
-            <chord>E</chord>
+            <chord>A</chord>
          </chordLine>
          <lyrics/>
       </section>
-      <section type="Chorus">
-         <chordLine>
-            <chord>A</chord>
-            <chord>G</chord>
-            <chord>D</chord>
-            <chord>A</chord>
-         </chordLine>
-         <lyrics>I've got love in my heart</lyrics>
-         <chordLine>
-            <chord>G</chord>
-         </chordLine>
-         <lyrics>For an army apart</lyrics>
-         <chordLine>
-            <chord>D</chord>
-         </chordLine>
-         <lyrics>I am bleeding</lyrics>
+      <section type="Verse 3">
          <chordLine>
             <chord>A</chord>
          </chordLine>
-         <lyrics>All my brothers we stand</lyrics>
-         <chordLine>
-            <chord>G</chord>
-         </chordLine>
-         <lyrics>For the peace of the land</lyrics>
+         <lyrics>Seems so long since we walked in the moonlight Making vows that just can't work right</lyrics>
          <chordLine>
             <chord>D</chord>
          </chordLine>
-         <lyrics>Is there meaning</lyrics>
+         <lyrics>Open your arms opens your arms</lyrics>
          <chordLine>
             <chord>A</chord>
          </chordLine>
-         <lyrics>I've got love in my heart</lyrics>
+         <lyrics>Open your arms baby let my love come running in</lyrics>
          <chordLine>
-            <chord>G</chord>
+            <chord>E</chord>
          </chordLine>
-         <lyrics>For an army apart</lyrics>
+         <lyrics>It's been a long time been a long time</lyrics>
          <chordLine>
             <chord>D</chord>
+            <chord>A</chord>
          </chordLine>
-         <lyrics>I am bleeding</lyrics>
+         <lyrics>Been a long lonely lonely lonely lonely lonely time</lyrics>
       </section>
-      <section type="Outro">
+      <section type="Instrumental">
          <chordLine>
-            <chord>A</chord>
-            <chord>G</chord>
             <chord>D</chord>
             <chord>A</chord>
-            <chord>G</chord>
-            <chord>D</chord>
-            <chord>A</chord>
-            <chord>G</chord>
-            <chord>D</chord>
-            <chord>A</chord>
-            <chord>G</chord>
-            <chord>D</chord>
-            <chord>A</chord>
-            <chord>G</chord>
-            <chord>D</chord>
-            <chord>A</chord>
-            <chord>G</chord>
-            <chord>D</chord>
-            <chord>A</chord>
-            <chord>G</chord>
-            <chord>D</chord>
-            <chord>A</chord>
-            <chord>G</chord>
-            <chord>D</chord>
+            <chord>E</chord>
          </chordLine>
-         <lyrics>I'am bleeding</lyrics>
+         <lyrics>It's been a long time been a long time</lyrics>
+         <chordLine>
+            <chord>D</chord>
+            <chord>A</chord>
+         </chordLine>
+         <lyrics>Been a long lonely lonely lonely lonely</lyrics>
       </section>
    </music>
 </mei>
