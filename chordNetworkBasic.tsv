@@ -1,36 +1,75 @@
-chord	countChord	songTitle
-Em	16	Black Smoke Rising
-D	36	Black Smoke Rising
-Bm	14	Black Smoke Rising
-C	38	Black Smoke Rising
-B	8	Black Smoke Rising
-G	16	Black Smoke Rising
-Am	9	Black Smoke Rising
-Dadd4add9	9	Black Smoke Rising
-A	50	Flower Power
-D	50	Flower Power
-F	2	Flower Power
-G	20	Flower Power
-F#	18	Edge of Darkness
-A	34	Edge of Darkness
-D	36	Edge of Darkness
-E	6	Edge of Darkness
-G	20	Edge of Darkness
-A	41	Safari Song
-G	42	Safari Song
-D	42	Safari Song
-E	8	Highway Tune
-A	3	Highway Tune
-B	3	Highway Tune
-F	6	A Change Is Gonna Come
-E	6	A Change Is Gonna Come
-Am	14	A Change Is Gonna Come
-C	9	A Change Is Gonna Come
-Dm	12	A Change Is Gonna Come
-G	1	A Change Is Gonna Come
-G#m	32	Talk on the Street
-F#	41	Talk on the Street
-C#	22	Talk on the Street
-E	41	Talk on the Street
-B	16	Talk on the Street
-F#/C#	16	Talk on the Street
+<?xml version="1.0" encoding="UTF-8"?>
+<mei xmlns:ixml="http://invisiblexml.org/NS" ixml:state="ambiguous">
+   <music>
+      <title>Highway Tune</title>
+      <album>From the Fires</album>
+      <artist>Greta Van Fleet</artist>
+      <key>E</key>
+      <section type="Intro">
+         <chordLine>
+            <chord num="1">E</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Pre-Verse">
+         <lyrics>Oh mama</lyrics>
+      </section>
+      <section type="Verse 1">
+         <chordLine>
+            <chord num="1">E</chord>
+         </chordLine>
+         <lyrics>No stopping at the red light girl Because I want to get your signal No going at the green light girl Because I want to be with you now You are my special You are my special You are my midnight, midnight yeah</lyrics>
+      </section>
+      <section type="Chorus">
+         <chordLine>
+            <chord num="4">A</chord>
+         </chordLine>
+         <lyrics>So sweet, so fine, so nice</lyrics>
+         <chordLine>
+            <chord num="5">B</chord>
+            <chord num="1">E</chord>
+         </chordLine>
+         <lyrics>Oh my, my my, my my, oh</lyrics>
+      </section>
+      <section type="Verse 2">
+         <chordLine>
+            <chord num="1">E</chord>
+         </chordLine>
+         <lyrics>No stopping on the highway girl Because I want to burn my gas There's one girl that I know I'm never gonna pass She is my special She is my special She is my midnight, midnight yeah</lyrics>
+      </section>
+      <section type="Chorus">
+         <chordLine>
+            <chord num="4">A</chord>
+         </chordLine>
+         <lyrics>So sweet, so fine, so nice</lyrics>
+         <chordLine>
+            <chord num="5">B</chord>
+            <chord num="1">E</chord>
+         </chordLine>
+         <lyrics>Oh my, my my, my my, oh</lyrics>
+      </section>
+      <section type="Interlude">
+         <chordLine>
+            <chord num="1">E</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Bridge">
+         <chordLine>
+            <chord num="1">E</chord>
+         </chordLine>
+         <lyrics>Oh yeah</lyrics>
+      </section>
+      <section type="Chorus">
+         <chordLine>
+            <chord num="4">A</chord>
+         </chordLine>
+         <lyrics>So sweet, so fine, so nice</lyrics>
+         <chordLine>
+            <chord num="5">B</chord>
+            <chord num="1">E</chord>
+         </chordLine>
+         <lyrics>Oh my, my my, my my, oh, sugar</lyrics>
+      </section>
+   </music>
+</mei>
