@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><mei ixml:state="ambiguous" xmlns:ixml="http://invisiblexml.org/NS"><music><title>Talk on the Street</title>
 <album>From the Fires</album>
 <artist>Greta Van Fleet</artist>
+<key>B</key>
 
 <section type="Intro"><mdiv>
 G#m F#
@@ -38,19 +39,19 @@ Yes I can hear them talking
 <section type="Chorus"><mdiv>
 E         B
   Everyone knows
-               F#/C#                  E
+               F#                    C#
 That's there's talking on the street
 E             B
   Remember the days
-             F#/C#             E
+             F#                C#
 When there's no one to defeat
 E          B
   Follow me down
-       F#/C#                E
+       F#                   C#
 To the mountain of the sun
 E               B
   Forgetting the end
-        F#/C#               E
+        F#                  C#
 As your new life has begun
  
  </mdiv></section>
@@ -90,19 +91,19 @@ Yes I can hear them talking
 <section type="Chorus"><mdiv>
 E         B
   Everyone knows
-               F#/C#                   E
+               F#                      C#
 That's there's talking on the streets
 E             B
   Remember the days
-             F#/C#             E
+             F#                C#
 When there's no one to defeat
 E          B
   Follow me down
-       F#/C#                E
+       F#                   C#
 To the mountain of the sun
 E               B
   Forgetting the end
-        F#/C#               E
+        F#                  C#
 As your new life has begun
  
  </mdiv></section>
@@ -116,16 +117,16 @@ Yes I can hear them talking
  
  </mdiv></section>
 <section type="Chorus"><mdiv>
-                       E  B F#/C# E E B F#/C# E
+                       E  B F# C# E B F# C#
 And you never let them know
  
  </mdiv></section>
 <section type="Solo"><mdiv>
-E B F#/C# E E B F#/C# E
-E B F#/C# E E B F#/C# E
-E B F#/C# E E B F#/C# E
+E B F# C# E B F# C#
+E B F# C# E B F# C#
+E B F# C# E B F# C#
  
  </mdiv></section>
 <section type="Outro"><mdiv>
-E B C#
+E B F#
 </mdiv></section></music></mei>

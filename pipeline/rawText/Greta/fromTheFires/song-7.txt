@@ -1,6 +1,7 @@
 Talk on the Street
 From the Fires
 Greta Van Fleet
+B
 
 [Intro]
 G#m F#
@@ -38,19 +39,19 @@ Yes I can hear them talking
 [Chorus]
 E         B
   Everyone knows
-               F#/C#                  E
+               F#                    C#
 That's there's talking on the street
 E             B
   Remember the days
-             F#/C#             E
+             F#                C#
 When there's no one to defeat
 E          B
   Follow me down
-       F#/C#                E
+       F#                   C#
 To the mountain of the sun
 E               B
   Forgetting the end
-        F#/C#               E
+        F#                  C#
 As your new life has begun
  
  
@@ -90,19 +91,19 @@ Yes I can hear them talking
 [Chorus]
 E         B
   Everyone knows
-               F#/C#                   E
+               F#                      C#
 That's there's talking on the streets
 E             B
   Remember the days
-             F#/C#             E
+             F#                C#
 When there's no one to defeat
 E          B
   Follow me down
-       F#/C#                E
+       F#                   C#
 To the mountain of the sun
 E               B
   Forgetting the end
-        F#/C#               E
+        F#                  C#
 As your new life has begun
  
  
@@ -116,15 +117,15 @@ Yes I can hear them talking
  
  
 [Chorus]
-                       E  B F#/C# E E B F#/C# E
+                       E  B F# C# E B F# C#
 And you never let them know
  
  
 [Solo]
-E B F#/C# E E B F#/C# E
-E B F#/C# E E B F#/C# E
-E B F#/C# E E B F#/C# E
+E B F# C# E B F# C#
+E B F# C# E B F# C#
+E B F# C# E B F# C#
  
  
 [Outro]
-E B C#
+E B F#

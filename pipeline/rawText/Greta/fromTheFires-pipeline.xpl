@@ -39,15 +39,21 @@
         <p:store name="simple-XML" href="../../ixml-output/Greta/fromTheFires/{$filename}.xml"/>
         
         <!-- ================================================================ -->
-        <!-- Finish markup with XSLT                                  -->
+        <!-- Finish markup with XSLT                                          -->
         <!-- ================================================================ -->
         <p:xslt>
-            <p:with-input port="source">
-                <p:pipe step="simple-XML" port="result"/>
-            </p:with-input>
             <p:with-input port="stylesheet" href="../../full-markup.xsl"/>
         </p:xslt>
+        
+        <p:xslt>
+            <p:with-input port="stylesheet" href="../../chordsToNumbers.xsl"/>
+        </p:xslt>
+        
         <p:identity message="Running the Identity Transformation XSLT to develop the XML"/>
+        
+        <!-- ================================================================ -->
+        <!-- Output finalized XML                                             -->
+        <!-- ================================================================ -->
         <p:store name="full-xml-out" href="../../full-xml-output/Greta/fromTheFires/{$filename}.xml" serialization="map {
             'method' : 'xml',
             'indent' : true(),

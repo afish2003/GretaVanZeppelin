@@ -1,23 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?><mei ixml:state="ambiguous" xmlns:ixml="http://invisiblexml.org/NS"><music><title>Edge of Darkness</title>
 <album>From the Fires</album>
 <artist>Greta Van Fleet</artist>
+<key>A</key>
 
 <section type="Intro"><mdiv>
-F# A D F# A D
+F#m A D F#m A D
  
  </mdiv></section>
 <section type="Bridge 1"><mdiv>
-F# A D F# A D
+F#m A D F#m A D
  
  </mdiv></section>
 <section type="Verse 1"><mdiv>
-F#                  A  D
+F#m                  A  D
   Every day's a new day
-F#                  A  D
+F#m                  A  D
   Every way's a new way
-F#                   A   D
+F#m                   A   D
   On the edge of darkness
-F#                         A       D
+F#m                         A       D
   Finding out what it means to love
  
  </mdiv></section>
@@ -54,17 +55,17 @@ I am bleeding
  
  </mdiv></section>
 <section type="Bridge 2"><mdiv>
-F# A D F# A D
+F#m A D F#m A D
  
  </mdiv></section>
 <section type="Verse 2"><mdiv>
-F#                     A   D
+F#m                     A   D
   Always searching for love
-F#                          A D
+F#m                          A D
   Always searching for light
-F#                       A D
+F#m                       A D
   What the world is made of
-F#                            A D
+F#m                            A D
   When I'm thinking it's right
  
  </mdiv></section>
@@ -101,8 +102,8 @@ I am bleeding
  
  </mdiv></section>
 <section type="Interlude"><mdiv>
-F# E F# E
-F# E F# E
+F#m E F#m E
+F#m E F#m E
  
  </mdiv></section>
 <section type="Chorus"><mdiv>

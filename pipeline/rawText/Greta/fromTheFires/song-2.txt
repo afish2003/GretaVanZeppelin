@@ -1,23 +1,24 @@
 Edge of Darkness
 From the Fires
 Greta Van Fleet
+A
 
 [Intro]
-F# A D F# A D
+F#m A D F#m A D
  
  
 [Bridge 1]
-F# A D F# A D
+F#m A D F#m A D
  
  
 [Verse 1]
-F#                  A  D
+F#m                  A  D
   Every day's a new day
-F#                  A  D
+F#m                  A  D
   Every way's a new way
-F#                   A   D
+F#m                   A   D
   On the edge of darkness
-F#                         A       D
+F#m                         A       D
   Finding out what it means to love
  
  
@@ -54,17 +55,17 @@ I am bleeding
  
  
 [Bridge 2]
-F# A D F# A D
+F#m A D F#m A D
  
  
 [Verse 2]
-F#                     A   D
+F#m                     A   D
   Always searching for love
-F#                          A D
+F#m                          A D
   Always searching for light
-F#                       A D
+F#m                       A D
   What the world is made of
-F#                            A D
+F#m                            A D
   When I'm thinking it's right
  
  
@@ -101,8 +102,8 @@ I am bleeding
  
  
 [Interlude]
-F# E F# E
-F# E F# E
+F#m E F#m E
+F#m E F#m E
  
  
 [Chorus]
