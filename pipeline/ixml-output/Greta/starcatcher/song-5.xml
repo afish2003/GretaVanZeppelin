@@ -1,15 +1,15 @@
-Runway Blues
-Starcatcher
-Greta Van Fleet
-E
+<?xml version="1.0" encoding="UTF-8"?><mei ixml:state="ambiguous" xmlns:ixml="http://invisiblexml.org/NS"><music><title>Runway Blues</title>
+<album>Starcatcher</album>
+<artist>Greta Van Fleet</artist>
+<key>E</key>
 
-[Intro]
+<section type="Intro"><mdiv>
 E D A
 E D   A E D A
   Aah!
  
- 
-[Verse]
+ </mdiv></section>
+<section type="Verse"><mdiv>
 E D A E      E    D     A    E
        Touch down in San Fransisco
 Na na na na Na na na na,
@@ -24,8 +24,8 @@ Na na na na Na na na na,
 Na na na na,
 A E
  
- 
-[Chorus]
+ </mdiv></section>
+<section type="Chorus"><mdiv>
 G                            A
  Well I'd love to say a long goodbye
 G                       A
@@ -38,11 +38,12 @@ Na na na na,
 Cha cha cha,
 Oh!
  
- 
-[Solo]
+ </mdiv></section>
+<section type="Solo"><mdiv>
 E D A E D A E
 D A E
  
- 
-[Fade Out]
+ </mdiv></section>
+<section type="Fade Out"><mdiv>
 D A E
+</mdiv></section></music></mei>

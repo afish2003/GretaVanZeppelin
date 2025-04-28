@@ -1,15 +1,15 @@
-Meeting the Master
-Starcatcher
-Greta Van Fleet
-Db
+<?xml version="1.0" encoding="UTF-8"?><mei ixml:state="ambiguous" xmlns:ixml="http://invisiblexml.org/NS"><music><title>Meeting the Master</title>
+<album>Starcatcher</album>
+<artist>Greta Van Fleet</artist>
+<key>Db</key>
 
-[Intro]
+<section type="Intro"><mdiv>
 Db Dbsus2 Db5 B6add9 Amaj7 B6add9
 Db5 Db Dbsus2 Db5 B6add9 Amaj7 B6add9
 Db5
  
- 
-[Verse 1]
+ </mdiv></section>
+<section type="Verse 1"><mdiv>
 Db                       B6add9
   What a day to meet the master
 Amaj7          Bbm7          Db5    B6add9
@@ -19,8 +19,8 @@ Db                      B6add9
 Amaj7        Bbm7           Db5
      It's my time to go home
  
- 
-[Chorus]
+ </mdiv></section>
+<section type="Chorus"><mdiv>
         B6add9 Gbadd9 Db5
 And I'm taken
        B6add9 Gbadd9
@@ -30,13 +30,13 @@ Db        B6add9  Gbadd9
 Db5        B6add9 Gbadd9 Db
    And the tou___ching_
  
- 
-[Bridge]
+ </mdiv></section>
+<section type="Bridge"><mdiv>
 Db Dbsus2 Db5 B6add9 Amaj7 B6add9 Db5
 Db Dbsus2 Db5 B6add9 Amaj7 B6add9 Db5
  
- 
-[Verse 2]
+ </mdiv></section>
+<section type="Verse 2"><mdiv>
 Db                     B6add9
   What a day to travel faster
 Amaj7        Bbm7
@@ -46,8 +46,8 @@ Db5 B6add9 Db                         B6add9
 Amaj7       Bbm7             Db5
      He has been the only one
  
- 
-[Bridge]
+ </mdiv></section>
+<section type="Bridge"><mdiv>
 Db5    B6add9               Db5   B6add9
    Ooh,      he was the only   one
 Db5    B6add9 Db5     B6add9
@@ -55,8 +55,8 @@ Db5    B6add9 Db5     B6add9
 Db5 B6add9 Db5 B6add9 Db5 B6add9
 Db5
  
- 
-[Chorus]
+ </mdiv></section>
+<section type="Chorus"><mdiv>
         B6add9 Gbadd9 Db5
 And I'm taken
        B6add9 Gbadd9
@@ -66,15 +66,15 @@ Db        B6add9  Gbadd9 Db5
         B6add9 Gbadd9 Db
 And the tou___ching_
  
- 
-[Guitar Solo]
+ </mdiv></section>
+<section type="Guitar Solo"><mdiv>
 Db Abmadd11 B6add9 Gbadd9
 Db Abmadd11 B6add9 Gbadd9
 Db Abmadd11 B6add9 Gbadd9
 Db Abmadd11 B6add9 Gbadd9
  
- 
-[Bridge]
+ </mdiv></section>
+<section type="Bridge"><mdiv>
 Db Abmadd11 B6add9
 Gbadd9
 Db
@@ -102,8 +102,8 @@ All   of our love
 Gbadd9
 All   of our love
  
- 
-[Outro]
+ </mdiv></section>
+<section type="Outro"><mdiv>
 Db
 All of our love
 Abmadd11
@@ -112,3 +112,4 @@ B6add9
 All   of our love
 Gbadd9           Db5
 All   of our love
+</mdiv></section></music></mei>

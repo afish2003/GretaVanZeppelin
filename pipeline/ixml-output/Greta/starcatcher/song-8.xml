@@ -1,15 +1,15 @@
-The Archer
-Starcatcher
-Greta Van Fleet
-Eb
+<?xml version="1.0" encoding="UTF-8"?><mei ixml:state="ambiguous" xmlns:ixml="http://invisiblexml.org/NS"><music><title>The Archer</title>
+<album>Starcatcher</album>
+<artist>Greta Van Fleet</artist>
+<key>Eb</key>
 
-[Intro]
+<section type="Intro"><mdiv>
 Cm F Cm Bb
 Cm F Cm Bb
 Cm Bb Cm F
  
- 
-[Verse 1]
+ </mdiv></section>
+<section type="Verse 1"><mdiv>
 Cm
 Vengeance is a bow
                 Bb           Cm
@@ -29,19 +29,19 @@ For the kill
 F        Cm     Bb
 I am the archer!
  
- 
-[Pre-Chorus]
+ </mdiv></section>
+<section type="Pre-Chorus"><mdiv>
 Cm F Cm F Cm
  
- 
-[Chorus]
+ </mdiv></section>
+<section type="Chorus"><mdiv>
 Cm                     Bb
 Torn I turn to my bow, Sara!
 Cm                       F    Cm
 Torn I turn to my arrow, Sara!
  
- 
-[Verse 2]
+ </mdiv></section>
+<section type="Verse 2"><mdiv>
 Cm
   Final blow
                 Bb              Cm
@@ -51,32 +51,32 @@ Bb        Cm
 F        Cm     Bb
 I am the archer!
  
- 
-[Pre-Chorus]
+ </mdiv></section>
+<section type="Pre-Chorus"><mdiv>
 Cm F Cm F Cm
  
- 
-[Chorus]
+ </mdiv></section>
+<section type="Chorus"><mdiv>
 Cm                     Bb
 Torn I turn to my bow, Sara!
 Cm                       F
 Torn I turn to my arrow, Sara!
  
- 
-[Bridge]
+ </mdiv></section>
+<section type="Bridge"><mdiv>
 Cm
   My home is on the horse I ride
 What emptiness without my bride
 Such heaviness inside
 This was the day the archer died
  
- 
-[Guitar Solo]
+ </mdiv></section>
+<section type="Guitar Solo"><mdiv>
 Cm Bb Cm F
 Cm Bb Cm F
  
- 
-[Chorus]
+ </mdiv></section>
+<section type="Chorus"><mdiv>
 Cm                     Bb
 Torn I turn to my bow, Sara!
 Cm                       F
@@ -86,6 +86,7 @@ Torn I turn to my bow, Sara!
 Cm                       F    Cm
 Torn I turn to my arrow, Sara!
  
- 
-[Outro]
+ </mdiv></section>
+<section type="Outro"><mdiv>
 Cm
+</mdiv></section></music></mei>

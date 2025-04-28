@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mei ixml:state="ambiguous"
+     xmlns:ixml="http://invisiblexml.org/NS">
+   <music>
+      <title>Runway Blues</title>
+      <album>Starcatcher</album>
+      <artist>Greta Van Fleet</artist>
+      <key>E</key>
+      <section type="Intro">
+         <chordLine>
+            <chord num="1">E</chord>
+            <chord num="b7">D</chord>
+            <chord num="4">A</chord>
+            <chord num="1">E</chord>
+            <chord num="b7">D</chord>
+            <chord num="4">A</chord>
+            <chord num="1">E</chord>
+            <chord num="b7">D</chord>
+            <chord num="4">A</chord>
+         </chordLine>
+         <lyrics>Aah!</lyrics>
+      </section>
+      <section type="Verse">
+         <chordLine>
+            <chord num="1">E</chord>
+            <chord num="b7">D</chord>
+            <chord num="4">A</chord>
+            <chord num="1">E</chord>
+            <chord num="1">E</chord>
+            <chord num="b7">D</chord>
+            <chord num="4">A</chord>
+            <chord num="1">E</chord>
+         </chordLine>
+         <lyrics>Touch down in San Fransisco Na na na na Na na na na,</lyrics>
+         <chordLine>
+            <chord num="b7">D</chord>
+         </chordLine>
+         <lyrics>Na na na na,</lyrics>
+         <chordLine>
+            <chord num="4">A</chord>
+            <chord num="1">E</chord>
+            <chord num="b7">D</chord>
+            <chord num="4">A</chord>
+            <chord num="1">E</chord>
+         </chordLine>
+         <lyrics>Bound for New York City</lyrics>
+         <chordLine>
+            <chord num="1">E</chord>
+         </chordLine>
+         <lyrics>Na na na na Na na na na,</lyrics>
+         <chordLine>
+            <chord num="b7">D</chord>
+         </chordLine>
+         <lyrics>Na na na na,</lyrics>
+         <chordLine>
+            <chord num="4">A</chord>
+            <chord num="1">E</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Chorus">
+         <chordLine>
+            <chord num="b3">G</chord>
+            <chord num="4">A</chord>
+         </chordLine>
+         <lyrics>Well I'd love to say a long goodbye</lyrics>
+         <chordLine>
+            <chord num="b3">G</chord>
+            <chord num="4">A</chord>
+         </chordLine>
+         <lyrics>But I don't know that I have the time Yeah!</lyrics>
+         <chordLine>
+            <chord num="1">E</chord>
+         </chordLine>
+         <lyrics>Na na na na, Na na na na, Na na na na, Cha cha cha, Oh!</lyrics>
+      </section>
+      <section type="Solo">
+         <chordLine>
+            <chord num="1">E</chord>
+            <chord num="b7">D</chord>
+            <chord num="4">A</chord>
+            <chord num="1">E</chord>
+            <chord num="b7">D</chord>
+            <chord num="4">A</chord>
+            <chord num="1">E</chord>
+            <chord num="b7">D</chord>
+            <chord num="4">A</chord>
+            <chord num="1">E</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Fade Out">
+         <chordLine>
+            <chord num="b7">D</chord>
+            <chord num="4">A</chord>
+            <chord num="1">E</chord>
+         </chordLine>
+      </section>
+   </music>
+</mei>

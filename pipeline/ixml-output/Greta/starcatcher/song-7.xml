@@ -1,15 +1,15 @@
-Frozen Light
-Starcatcher
-Greta Van Fleet
-G
+<?xml version="1.0" encoding="UTF-8"?><mei ixml:state="ambiguous" xmlns:ixml="http://invisiblexml.org/NS"><music><title>Frozen Light</title>
+<album>Starcatcher</album>
+<artist>Greta Van Fleet</artist>
+<key>G</key>
 
-[Intro]
+<section type="Intro"><mdiv>
 Em A Em A
 Em
 A
  
- 
-[Verse 1]
+ </mdiv></section>
+<section type="Verse 1"><mdiv>
 Em                          Bm  C
   Frozen light like falling snow
 Em                    C         A/C#
@@ -21,15 +21,15 @@ The moonlight is dancing
 Em                                C A/C#
   Four brothers searching for a meal
  
- 
-[Pre-Chorus]
+ </mdiv></section>
+<section type="Pre-Chorus"><mdiv>
 Em       D          A    Em
   I know, that I am not alone
             D                              A
 I know, the frozen light will take me there
  
- 
-[Chorus]
+ </mdiv></section>
+<section type="Chorus"><mdiv>
 Em       G                 Asus2
   Cast a light to lead the ride on
 Em  G
@@ -40,12 +40,12 @@ Em  G
   A flame for going home
 Asus2 D Cadd9 A
  
- 
-[Break]
+ </mdiv></section>
+<section type="Break"><mdiv>
 Em A
  
- 
-[Verse 2]
+ </mdiv></section>
+<section type="Verse 2"><mdiv>
 Em                          Bm   C
   Frosty bite for searching souls
 Em                    C           A/C#
@@ -55,8 +55,8 @@ Em                              Bm     C
 Em                               C A/C#
   The smell of something in the air
  
- 
-[Pre-Chorus]
+ </mdiv></section>
+<section type="Pre-Chorus"><mdiv>
 Em       D          A    Em
   I know, that I am not alone
             D                          A
@@ -66,8 +66,8 @@ Em       D          A    Em
             D                               A
 I know, the frozen light will guide me there
  
- 
-[Chorus]
+ </mdiv></section>
+<section type="Chorus"><mdiv>
 Em       G                 Asus2
   Cast a light to lead the ride on
 Em  G
@@ -79,13 +79,13 @@ Em  G
 Asus2 A Asus4 A D A
 C D
  
- 
-[Guitar Solo]
+ </mdiv></section>
+<section type="Guitar Solo"><mdiv>
 Em G Asus2 Em G Asus2
 Em G Asus2 Em G Asus2
  
- 
-[Chorus]
+ </mdiv></section>
+<section type="Chorus"><mdiv>
 Em       G                 Asus2
   Cast a light to lead the ride on
 Em  G
@@ -94,3 +94,4 @@ Asus2 Em       G                 Asus2
         Cast a light to burn the night down
 Em  G
   A flame for going home
+</mdiv></section></music></mei>

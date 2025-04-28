@@ -1,15 +1,15 @@
-Fate of the Faithful
-Starcatcher
-Greta Van Fleet
-F
+<?xml version="1.0" encoding="UTF-8"?><mei ixml:state="ambiguous" xmlns:ixml="http://invisiblexml.org/NS"><music><title>Fate of the Faithful</title>
+<album>Starcatcher</album>
+<artist>Greta Van Fleet</artist>
+<key>F</key>
 
-[Intro]
+<section type="Intro"><mdiv>
 Dm Em/D Dm G F Dm Em/D Am/D Em7
 F Dm Cadd9 Gm6/Bb Bdim G5 Dm Cadd9
 Gm6/Bb Bdim G5
  
- 
-[Verse 1]
+ </mdiv></section>
+<section type="Verse 1"><mdiv>
 Dm   Bb    Gm       Bb Am7
 Hail,  the God song!
     Dm               Bb          Gm   Bb Am7
@@ -19,13 +19,13 @@ Hail,  the eon!
    Dm               Bb            Gm     Bb Am7
 We nelt on this slab  the blessed people!
  
- 
-[Break]
+ </mdiv></section>
+<section type="Break"><mdiv>
 Dm Em/D Dm G F Dm Em/D Am/D Em7
 F
  
- 
-[Chorus]
+ </mdiv></section>
+<section type="Chorus"><mdiv>
 Dm                  C G   Dm
   We fought for the fable,  aha!
        C   G   Dm
@@ -35,13 +35,13 @@ And in the end of time,    aha!
         C  G     Dm
 Left an empty urn
  
- 
-[Break]
+ </mdiv></section>
+<section type="Break"><mdiv>
 Dm Cadd9 Gm6/Bb Bdim G5
 Dm Cadd9 Gm6/Bb Bdim G5
  
- 
-[Verse 2]
+ </mdiv></section>
+<section type="Verse 2"><mdiv>
 Dm     Bb    Gm    Bb Am7
   Hail,  the maker!
   Dm          Bb            Gm   Bb Am7
@@ -51,13 +51,13 @@ God  forsake her!
         Dm                  Bb              Gm   Bb Am7
 For the songs that she sang have left god's acre!
  
- 
-[Break]
+ </mdiv></section>
+<section type="Break"><mdiv>
 Dm Em/D Dm G F Dm Em/D Am/D Em7
 F
  
- 
-[Chorus]
+ </mdiv></section>
+<section type="Chorus"><mdiv>
 Dm                  C G   Dm
   We fought for the fable,  aha!
        C   G   Dm
@@ -67,22 +67,22 @@ And in the end of time,    aha!
         C  G     Dm
 Left an empty urn
  
- 
-[Break]
+ </mdiv></section>
+<section type="Break"><mdiv>
 Dm Em/D Dm Em/D Dm Em/D Dm Em/D
  
- 
-[Solo]
+ </mdiv></section>
+<section type="Solo"><mdiv>
 Dm Em/D Dm Em/D Dm Em/D Dm Em/D
 Dm Em/D Dm Em/D Dm Em/D Dm Em/D
  
- 
-[Break]
+ </mdiv></section>
+<section type="Break"><mdiv>
 Dm Em/D Dm G F Dm Em/D Am/D Em7
 Bbmaj7
  
- 
-[Chorus]
+ </mdiv></section>
+<section type="Chorus"><mdiv>
 Dm                  C G   Dm
   We fought for the fable,  aha!
        C   G   Dm
@@ -92,6 +92,7 @@ And in the end of time,    aha!
         C  G     Dm
 Left an empty urn
  
- 
-[Outro]
+ </mdiv></section>
+<section type="Outro"><mdiv>
 Dm C G Dm C G Dm
+</mdiv></section></music></mei>

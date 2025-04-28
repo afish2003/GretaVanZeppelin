@@ -1,14 +1,14 @@
-Sacred the Thread
-Starcatcher
-Greta Van Fleet
-F
+<?xml version="1.0" encoding="UTF-8"?><mei ixml:state="ambiguous" xmlns:ixml="http://invisiblexml.org/NS"><music><title>Sacred the Thread</title>
+<album>Starcatcher</album>
+<artist>Greta Van Fleet</artist>
+<key>F</key>
 
-[Intro]
+<section type="Intro"><mdiv>
 Dm7 F G Csus4 Cadd9/G G Dm7 F G
 Csus4 Cadd9/G G
  
- 
-[Verse 1]
+ </mdiv></section>
+<section type="Verse 1"><mdiv>
 Dm      Cadd9 Dm Cadd9    G6/B         Dm
   The sequins    tripping on  the light  Woah
 Cadd9
@@ -20,15 +20,15 @@ Dm       Cadd9
 Woah Woah
 G6/B
  
- 
-[Pre-Chorus]
+ </mdiv></section>
+<section type="Pre-Chorus"><mdiv>
 F         C     G
  I've seen it in the stars
 F                    C           G
  To dress up a wound, heal a scar
  
- 
-[Chorus]
+ </mdiv></section>
+<section type="Chorus"><mdiv>
 Dm                    F6     Cadd9
   I've caught the wind  in a kite of dreams
      G
@@ -48,12 +48,12 @@ Dm                    F6     Cadd9
      G              Dm7 F G
 In a flight of seams
  
- 
-[Pre-Verse]
+ </mdiv></section>
+<section type="Pre-Verse"><mdiv>
 Csus4 Cadd9/G G Dm7 F G Csus4 Cadd9/G G
  
- 
-[Verse 2]
+ </mdiv></section>
+<section type="Verse 2"><mdiv>
 Dm  Cadd9  Dm
   I see  me
         Cadd9   G6/B         Dm
@@ -69,15 +69,15 @@ Dm       Cadd9
 Yeah Yeah
 G6/B
  
- 
-[Pre-Chorus]
+ </mdiv></section>
+<section type="Pre-Chorus"><mdiv>
 F         C     G
  I've seen it in the stars
 F                    C           G
  To dress up a wound, heal a scar
  
- 
-[Chorus]
+ </mdiv></section>
+<section type="Chorus"><mdiv>
 Dm                    F6     Cadd9
   I've caught the wind  in a kite of dreams
      G
@@ -97,8 +97,8 @@ Dm                    F6     Cadd9
      G
 In a flight of seams
  
- 
-[Interlude]
+ </mdiv></section>
+<section type="Interlude"><mdiv>
 Dm F G Dm Dm F
 G Dm Dm   F    G    Dm
      Woah woah woah woah
@@ -106,8 +106,8 @@ Dm   F    G   Dm Dm  Dm F Cadd9 G Dm F
 Woah woah woah   woah
 Cadd9 G
  
- 
-[Chorus]
+ </mdiv></section>
+<section type="Chorus"><mdiv>
 Dm                    F6     Cadd9
   I've caught the wind  in a kite of dreams
      G
@@ -127,8 +127,8 @@ Dm                    F6     Cadd9
      G              Dm F6 Cadd9 G
 In a flight of seams
  
- 
-[Solo]
+ </mdiv></section>
+<section type="Solo"><mdiv>
 Dm F6 Cadd9 G
 Dm F6
 Cadd9 G Dm F6 Cadd9 G
@@ -142,6 +142,7 @@ Dm                    F6     Cadd9
      G              Dm F
 In a flight of seams
  
- 
-[Outro]
+ </mdiv></section>
+<section type="Outro"><mdiv>
 Cadd9 G Dm F Cadd9 G
+</mdiv></section></music></mei>

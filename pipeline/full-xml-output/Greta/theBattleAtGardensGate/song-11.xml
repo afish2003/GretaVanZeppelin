@@ -53,6 +53,7 @@
             <chord num="4">A</chord>
             <chord num="1">E</chord>
             <chord num="4">A</chord>
+            <chord num="b3">G</chord>
             <chord num="5">B</chord>
          </chordLine>
          <lyrics>Ram, ram, ram, ram, ram, ram, ram, ram, ram, ram</lyrics>
@@ -128,6 +129,7 @@
             <chord num="4">A</chord>
             <chord num="1">E</chord>
             <chord num="4">A</chord>
+            <chord num="b3">G</chord>
             <chord num="5">B</chord>
          </chordLine>
          <lyrics>Ram, ram, ram, ram, ram, ram, ram, ram, ram, ram</lyrics>

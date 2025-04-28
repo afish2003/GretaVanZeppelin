@@ -1,16 +1,16 @@
-The Indigo Streak
-Starcatcher
-Greta Van Fleet
-G
+<?xml version="1.0" encoding="UTF-8"?><mei ixml:state="ambiguous" xmlns:ixml="http://invisiblexml.org/NS"><music><title>The Indigo Streak</title>
+<album>Starcatcher</album>
+<artist>Greta Van Fleet</artist>
+<key>G</key>
 
-[Intro]
+<section type="Intro"><mdiv>
 Em B Bsus4 B Em D G A Em G A
 Em D G A Em
 G A
 Em D G A Em G A Em D G A Em G A
  
- 
-[Verse 1]
+ </mdiv></section>
+<section type="Verse 1"><mdiv>
 Em
   Wide minded dreamer
 From far and away
@@ -18,20 +18,20 @@ Paints pictures cleaner
                                Em D G A Em
 With brushes he touches the sky
  
- 
-[Bridge]
+ </mdiv></section>
+<section type="Bridge"><mdiv>
 G A Em D G A Em G A
  
- 
-[Verse 2]
+ </mdiv></section>
+<section type="Verse 2"><mdiv>
 Em
   No child to woman
 But child no less
 Though mostly human
 The painter a prophet so high
  
- 
-[Chorus]
+ </mdiv></section>
+<section type="Chorus"><mdiv>
 Em       Bm/D A G
 Into the ether
                  Em  Bm/D A
@@ -43,20 +43,20 @@ Even heavens hearken    Rea
       G   A     G   Em   D G A Em G A
 ching, reaching, reaching
  
- 
-[Bridge]
+ </mdiv></section>
+<section type="Bridge"><mdiv>
 Em D G A Em G A
  
- 
-[Verse 3]
+ </mdiv></section>
+<section type="Verse 3"><mdiv>
 Em
   Seen over sundown
 Catching the stars
 Above, the cyclone
 The Indigo streak that becomes the eye
  
- 
-[Chorus]
+ </mdiv></section>
+<section type="Chorus"><mdiv>
 Em       Bm/D A G
 Into the ether
                  Em Bm/D A
@@ -68,17 +68,17 @@ Even heavens hearken    Rea
       G   A     G   Esus2
 ching, reaching, reaching
  
- 
-[Interlude]
+ </mdiv></section>
+<section type="Interlude"><mdiv>
 Bm/E A#add(b5) D B7
  
- 
-[Solo]
+ </mdiv></section>
+<section type="Solo"><mdiv>
 Esus2 Bm/E A#add(b5) D
 B7 Em
  
- 
-[Chorus]
+ </mdiv></section>
+<section type="Chorus"><mdiv>
 Em       Bm/D A G
 Into the ether
                  Em Bm/D A
@@ -101,3 +101,4 @@ ing, reach
 ing,
      A
 reaching
+</mdiv></section></music></mei>

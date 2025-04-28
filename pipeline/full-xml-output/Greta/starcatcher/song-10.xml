@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mei ixml:state="ambiguous"
+     xmlns:ixml="http://invisiblexml.org/NS">
+   <music>
+      <title>Farewell for Now</title>
+      <album>Starcatcher</album>
+      <artist>Greta Van Fleet</artist>
+      <key>D</key>
+      <section type="Intro">
+         <chordLine>
+            <chord num="1">D</chord>
+            <chord num="b6">Bb</chord>
+            <chord num="1">D</chord>
+            <chord num="b6">Bb</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Verse 1">
+         <chordLine>
+            <chord num="1">D</chord>
+            <chord num="b7">C</chord>
+            <chord num="4">G</chord>
+         </chordLine>
+         <lyrics>We have shared with you our stories</lyrics>
+         <chordLine>
+            <chord num="1">D</chord>
+            <chord num="b7">C</chord>
+            <chord num="4">G</chord>
+         </chordLine>
+         <lyrics>Had ourselves a really big time</lyrics>
+         <chordLine>
+            <chord num="1">D</chord>
+            <chord num="b7">C</chord>
+            <chord num="4">G</chord>
+         </chordLine>
+         <lyrics>Fought in battles far from the homeland</lyrics>
+         <chordLine>
+            <chord num="1">D</chord>
+            <chord num="b7">C</chord>
+            <chord num="4">G</chord>
+         </chordLine>
+         <lyrics>Made love, even drank from the wine</lyrics>
+      </section>
+      <section type="Interlude">
+         <chordLine>
+            <chord num="1">D</chord>
+            <chord num="b6">Bb</chord>
+            <chord num="1">D</chord>
+            <chord num="b6">Bb</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Chorus">
+         <chordLine>
+            <chord num="1">D</chord>
+            <chord num="b7">C</chord>
+            <chord num="4">G</chord>
+         </chordLine>
+         <lyrics>And I wish we all could stay</lyrics>
+         <chordLine>
+            <chord num="1">D</chord>
+            <chord num="b7">C</chord>
+            <chord num="4">G</chord>
+         </chordLine>
+         <lyrics>But I bid you a farewell</lyrics>
+         <chordLine>
+            <chord num="1">D</chord>
+            <chord num="b7">C</chord>
+            <chord num="4">G</chord>
+         </chordLine>
+         <lyrics>And it means the world to play</lyrics>
+         <chordLine>
+            <chord num="1">D</chord>
+            <chord num="b7">C</chord>
+            <chord num="4">G</chord>
+         </chordLine>
+         <lyrics>But I bid you a farewell</lyrics>
+         <chordLine>
+            <chord num="b6">Bb</chord>
+            <chord num="4">G</chord>
+            <chord num="1">D</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Verse 2">
+         <chordLine>
+            <chord num="1">D</chord>
+            <chord num="b7">C</chord>
+            <chord num="4">G</chord>
+         </chordLine>
+         <lyrics>Friends how've come so far to join us</lyrics>
+         <chordLine>
+            <chord num="1">D</chord>
+            <chord num="b7">C</chord>
+            <chord num="4">G</chord>
+         </chordLine>
+         <lyrics>We hope you come and join us again</lyrics>
+         <chordLine>
+            <chord num="1">D</chord>
+            <chord num="b7">C</chord>
+            <chord num="4">G</chord>
+         </chordLine>
+         <lyrics>Friends how've come to sing in the chorus</lyrics>
+         <chordLine>
+            <chord num="1">D</chord>
+            <chord num="b7">C</chord>
+            <chord num="4">G</chord>
+         </chordLine>
+         <lyrics>You floor us, we will sing till the end</lyrics>
+      </section>
+      <section type="Interlude">
+         <chordLine>
+            <chord num="1">D</chord>
+            <chord num="b6">Bb</chord>
+            <chord num="1">D</chord>
+            <chord num="b6">Bb</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Chorus">
+         <chordLine>
+            <chord num="1">D</chord>
+            <chord num="b7">C</chord>
+            <chord num="4">G</chord>
+         </chordLine>
+         <lyrics>And I wish we all could stay</lyrics>
+         <chordLine>
+            <chord num="1">D</chord>
+            <chord num="b7">C</chord>
+            <chord num="4">G</chord>
+         </chordLine>
+         <lyrics>But I bid you a farewell</lyrics>
+         <chordLine>
+            <chord num="1">D</chord>
+            <chord num="b7">C</chord>
+            <chord num="4">G</chord>
+         </chordLine>
+         <lyrics>And it means the world to play</lyrics>
+         <chordLine>
+            <chord num="1">D</chord>
+            <chord num="b7">C</chord>
+            <chord num="4">G</chord>
+            <chord num="b6">Bb</chord>
+            <chord num="4">G</chord>
+         </chordLine>
+         <lyrics>But I bid you a farewell</lyrics>
+      </section>
+      <section type="Bridge">
+         <chordLine>
+            <chord num="b3">F</chord>
+            <chord num="4^6">G6</chord>
+            <chord num="b6">Bb</chord>
+            <chord num="b7">C</chord>
+            <chord num="1">D</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Solo Guitar">
+         <chordLine>
+            <chord num="1">D</chord>
+            <chord num="b7">C</chord>
+            <chord num="4">G</chord>
+            <chord num="1">D</chord>
+            <chord num="b7">C</chord>
+            <chord num="4">G</chord>
+            <chord num="1">D</chord>
+            <chord num="b7">C</chord>
+            <chord num="4">G</chord>
+            <chord num="1">D</chord>
+            <chord num="b7">C</chord>
+            <chord num="4">G</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Chorus">
+         <chordLine>
+            <chord num="1">D</chord>
+            <chord num="b7">C</chord>
+            <chord num="4">G</chord>
+         </chordLine>
+         <lyrics>And I wish we all could stay</lyrics>
+         <chordLine>
+            <chord num="1">D</chord>
+            <chord num="b7">C</chord>
+            <chord num="4">G</chord>
+         </chordLine>
+         <lyrics>But I bid you a farewell</lyrics>
+         <chordLine>
+            <chord num="1">D</chord>
+            <chord num="b7">C</chord>
+            <chord num="4">G</chord>
+         </chordLine>
+         <lyrics>And it means the world to play</lyrics>
+         <chordLine>
+            <chord num="1">D</chord>
+            <chord num="b7">C</chord>
+            <chord num="4">G</chord>
+            <chord num="b6">Bb</chord>
+            <chord num="4">G</chord>
+         </chordLine>
+         <lyrics>But I bid you a farewell</lyrics>
+      </section>
+      <section type="Outro">
+         <chordLine>
+            <chord num="1">D</chord>
+            <chord num="1^7">D7</chord>
+            <chord num="4">G</chord>
+         </chordLine>
+         <lyrics>We gathered here tonight</lyrics>
+         <chordLine>
+            <chord num="b6">Bb</chord>
+            <chord num="b7">C</chord>
+         </chordLine>
+         <lyrics>Did it up just right And</lyrics>
+         <chordLine>
+            <chord num="1">D</chord>
+         </chordLine>
+         <lyrics>it's all for you</lyrics>
+         <chordLine>
+            <chord num="1^7">D7</chord>
+            <chord num="4">G</chord>
+         </chordLine>
+         <lyrics>We gathered here tonight</lyrics>
+         <chordLine>
+            <chord num="b6">Bb</chord>
+            <chord num="b7">C</chord>
+         </chordLine>
+         <lyrics>Did it up just right</lyrics>
+         <chordLine>
+            <chord num="1">D</chord>
+         </chordLine>
+         <lyrics>And it's all for you</lyrics>
+         <chordLine>
+            <chord num="1^7">D7</chord>
+            <chord num="4">G</chord>
+         </chordLine>
+         <lyrics>We gathered here tonight</lyrics>
+         <chordLine>
+            <chord num="b6">Bb</chord>
+         </chordLine>
+         <lyrics>Did it up just right</lyrics>
+      </section>
+   </music>
+</mei>

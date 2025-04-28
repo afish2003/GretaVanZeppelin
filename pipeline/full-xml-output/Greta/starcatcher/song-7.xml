@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mei ixml:state="ambiguous"
+     xmlns:ixml="http://invisiblexml.org/NS">
+   <music>
+      <title>Frozen Light</title>
+      <album>Starcatcher</album>
+      <artist>Greta Van Fleet</artist>
+      <key>G</key>
+      <section type="Intro">
+         <chordLine>
+            <chord num="6m">Em</chord>
+            <chord num="2">A</chord>
+            <chord num="6m">Em</chord>
+            <chord num="2">A</chord>
+            <chord num="6m">Em</chord>
+            <chord num="2">A</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Verse 1">
+         <chordLine>
+            <chord num="6m">Em</chord>
+            <chord num="3m">Bm</chord>
+            <chord num="4">C</chord>
+         </chordLine>
+         <lyrics>Frozen light like falling snow</lyrics>
+         <chordLine>
+            <chord num="6m">Em</chord>
+            <chord num="4">C</chord>
+            <chord num="2/#4">A/C#</chord>
+         </chordLine>
+         <lyrics>Here to guide us the long way home</lyrics>
+         <chordLine>
+            <chord num="6m">Em</chord>
+         </chordLine>
+         <lyrics>The streets are silent</lyrics>
+         <chordLine>
+            <chord num="3m">Bm</chord>
+            <chord num="4">C</chord>
+         </chordLine>
+         <lyrics>The moonlight is dancing</lyrics>
+         <chordLine>
+            <chord num="6m">Em</chord>
+            <chord num="4">C</chord>
+            <chord num="2/#4">A/C#</chord>
+         </chordLine>
+         <lyrics>Four brothers searching for a meal</lyrics>
+      </section>
+      <section type="Pre-Chorus">
+         <chordLine>
+            <chord num="6m">Em</chord>
+            <chord num="5">D</chord>
+            <chord num="2">A</chord>
+            <chord num="6m">Em</chord>
+         </chordLine>
+         <lyrics>I know, that I am not alone</lyrics>
+         <chordLine>
+            <chord num="5">D</chord>
+            <chord num="2">A</chord>
+         </chordLine>
+         <lyrics>I know, the frozen light will take me there</lyrics>
+      </section>
+      <section type="Chorus">
+         <chordLine>
+            <chord num="6m">Em</chord>
+            <chord num="1">G</chord>
+            <chord num="2sus2">Asus2</chord>
+         </chordLine>
+         <lyrics>Cast a light to lead the ride on</lyrics>
+         <chordLine>
+            <chord num="6m">Em</chord>
+            <chord num="1">G</chord>
+         </chordLine>
+         <lyrics>A flame for going home</lyrics>
+         <chordLine>
+            <chord num="2sus2">Asus2</chord>
+            <chord num="6m">Em</chord>
+            <chord num="1">G</chord>
+            <chord num="2sus2">Asus2</chord>
+         </chordLine>
+         <lyrics>Cast a light to burn the night down</lyrics>
+         <chordLine>
+            <chord num="6m">Em</chord>
+            <chord num="1">G</chord>
+         </chordLine>
+         <lyrics>A flame for going home</lyrics>
+         <chordLine>
+            <chord num="2sus2">Asus2</chord>
+            <chord num="5">D</chord>
+            <chord num="2">A</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Break">
+         <chordLine>
+            <chord num="6m">Em</chord>
+            <chord num="2">A</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Verse 2">
+         <chordLine>
+            <chord num="6m">Em</chord>
+            <chord num="3m">Bm</chord>
+            <chord num="4">C</chord>
+         </chordLine>
+         <lyrics>Frosty bite for searching souls</lyrics>
+         <chordLine>
+            <chord num="6m">Em</chord>
+            <chord num="4">C</chord>
+            <chord num="2/#4">A/C#</chord>
+         </chordLine>
+         <lyrics>Drunken laughter and dreams and gold</lyrics>
+         <chordLine>
+            <chord num="6m">Em</chord>
+            <chord num="3m">Bm</chord>
+            <chord num="4">C</chord>
+         </chordLine>
+         <lyrics>Anticipation, the distance is dancing</lyrics>
+         <chordLine>
+            <chord num="6m">Em</chord>
+            <chord num="4">C</chord>
+            <chord num="2/#4">A/C#</chord>
+         </chordLine>
+         <lyrics>The smell of something in the air</lyrics>
+      </section>
+      <section type="Pre-Chorus">
+         <chordLine>
+            <chord num="6m">Em</chord>
+            <chord num="5">D</chord>
+            <chord num="2">A</chord>
+            <chord num="6m">Em</chord>
+         </chordLine>
+         <lyrics>I know, that I am not alone</lyrics>
+         <chordLine>
+            <chord num="5">D</chord>
+            <chord num="2">A</chord>
+         </chordLine>
+         <lyrics>I know, the chosen road is ours to bear</lyrics>
+         <chordLine>
+            <chord num="6m">Em</chord>
+            <chord num="5">D</chord>
+            <chord num="2">A</chord>
+            <chord num="6m">Em</chord>
+         </chordLine>
+         <lyrics>I know, that I am not alone</lyrics>
+         <chordLine>
+            <chord num="5">D</chord>
+            <chord num="2">A</chord>
+         </chordLine>
+         <lyrics>I know, the frozen light will guide me there</lyrics>
+      </section>
+      <section type="Chorus">
+         <chordLine>
+            <chord num="6m">Em</chord>
+            <chord num="1">G</chord>
+            <chord num="2sus2">Asus2</chord>
+         </chordLine>
+         <lyrics>Cast a light to lead the ride on</lyrics>
+         <chordLine>
+            <chord num="6m">Em</chord>
+            <chord num="1">G</chord>
+         </chordLine>
+         <lyrics>A flame for going home</lyrics>
+         <chordLine>
+            <chord num="2sus2">Asus2</chord>
+            <chord num="6m">Em</chord>
+            <chord num="1">G</chord>
+            <chord num="2sus2">Asus2</chord>
+         </chordLine>
+         <lyrics>Cast a light to burn the night down</lyrics>
+         <chordLine>
+            <chord num="6m">Em</chord>
+            <chord num="1">G</chord>
+         </chordLine>
+         <lyrics>A flame for going home</lyrics>
+         <chordLine>
+            <chord num="2sus2">Asus2</chord>
+            <chord num="2">A</chord>
+            <chord num="2sus4">Asus4</chord>
+            <chord num="2">A</chord>
+            <chord num="5">D</chord>
+            <chord num="2">A</chord>
+            <chord num="4">C</chord>
+            <chord num="5">D</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Guitar Solo">
+         <chordLine>
+            <chord num="6m">Em</chord>
+            <chord num="1">G</chord>
+            <chord num="2sus2">Asus2</chord>
+            <chord num="6m">Em</chord>
+            <chord num="1">G</chord>
+            <chord num="2sus2">Asus2</chord>
+            <chord num="6m">Em</chord>
+            <chord num="1">G</chord>
+            <chord num="2sus2">Asus2</chord>
+            <chord num="6m">Em</chord>
+            <chord num="1">G</chord>
+            <chord num="2sus2">Asus2</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Chorus">
+         <chordLine>
+            <chord num="6m">Em</chord>
+            <chord num="1">G</chord>
+            <chord num="2sus2">Asus2</chord>
+         </chordLine>
+         <lyrics>Cast a light to lead the ride on</lyrics>
+         <chordLine>
+            <chord num="6m">Em</chord>
+            <chord num="1">G</chord>
+         </chordLine>
+         <lyrics>A flame for going home</lyrics>
+         <chordLine>
+            <chord num="2sus2">Asus2</chord>
+            <chord num="6m">Em</chord>
+            <chord num="1">G</chord>
+            <chord num="2sus2">Asus2</chord>
+         </chordLine>
+         <lyrics>Cast a light to burn the night down</lyrics>
+         <chordLine>
+            <chord num="6m">Em</chord>
+            <chord num="1">G</chord>
+         </chordLine>
+         <lyrics>A flame for going home</lyrics>
+      </section>
+   </music>
+</mei>

@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mei ixml:state="ambiguous"
+     xmlns:ixml="http://invisiblexml.org/NS">
+   <music>
+      <title>Fate of the Faithful</title>
+      <album>Starcatcher</album>
+      <artist>Greta Van Fleet</artist>
+      <key>F</key>
+      <section type="Intro">
+         <chordLine>
+            <chord num="6m">Dm</chord>
+            <chord num="7m/6">Em/D</chord>
+            <chord num="6m">Dm</chord>
+            <chord num="2">G</chord>
+            <chord num="1">F</chord>
+            <chord num="6m">Dm</chord>
+            <chord num="7m/6">Em/D</chord>
+            <chord num="3m/6">Am/D</chord>
+            <chord num="7m7">Em7</chord>
+            <chord num="1">F</chord>
+            <chord num="6m">Dm</chord>
+            <chord num="5add9">Cadd9</chord>
+            <chord num="2m6/4">Gm6/Bb</chord>
+            <chord num="b5dim">Bdim</chord>
+            <chord num="2^5">G5</chord>
+            <chord num="6m">Dm</chord>
+            <chord num="5add9">Cadd9</chord>
+            <chord num="2m6/4">Gm6/Bb</chord>
+            <chord num="b5dim">Bdim</chord>
+            <chord num="2^5">G5</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Verse 1">
+         <chordLine>
+            <chord num="6m">Dm</chord>
+            <chord num="4">Bb</chord>
+            <chord num="2m">Gm</chord>
+            <chord num="4">Bb</chord>
+            <chord num="3m7">Am7</chord>
+         </chordLine>
+         <lyrics>Hail, the God song!</lyrics>
+         <chordLine>
+            <chord num="6m">Dm</chord>
+            <chord num="4">Bb</chord>
+            <chord num="2m">Gm</chord>
+            <chord num="4">Bb</chord>
+            <chord num="3m7">Am7</chord>
+         </chordLine>
+         <lyrics>All trill to the tune devout reprise!</lyrics>
+         <chordLine>
+            <chord num="6m">Dm</chord>
+            <chord num="4">Bb</chord>
+            <chord num="2m">Gm</chord>
+            <chord num="4">Bb</chord>
+            <chord num="3m7">Am7</chord>
+         </chordLine>
+         <lyrics>Hail, the eon!</lyrics>
+         <chordLine>
+            <chord num="6m">Dm</chord>
+            <chord num="4">Bb</chord>
+            <chord num="2m">Gm</chord>
+            <chord num="4">Bb</chord>
+            <chord num="3m7">Am7</chord>
+         </chordLine>
+         <lyrics>We nelt on this slab the blessed people!</lyrics>
+      </section>
+      <section type="Break">
+         <chordLine>
+            <chord num="6m">Dm</chord>
+            <chord num="7m/6">Em/D</chord>
+            <chord num="6m">Dm</chord>
+            <chord num="2">G</chord>
+            <chord num="1">F</chord>
+            <chord num="6m">Dm</chord>
+            <chord num="7m/6">Em/D</chord>
+            <chord num="3m/6">Am/D</chord>
+            <chord num="7m7">Em7</chord>
+            <chord num="1">F</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Chorus">
+         <chordLine>
+            <chord num="6m">Dm</chord>
+            <chord num="5">C</chord>
+            <chord num="2">G</chord>
+            <chord num="6m">Dm</chord>
+         </chordLine>
+         <lyrics>We fought for the fable, aha!</lyrics>
+         <chordLine>
+            <chord num="5">C</chord>
+            <chord num="2">G</chord>
+            <chord num="6m">Dm</chord>
+         </chordLine>
+         <lyrics>But instead we burn</lyrics>
+         <chordLine>
+            <chord num="5">C</chord>
+            <chord num="2">G</chord>
+            <chord num="6m">Dm</chord>
+         </chordLine>
+         <lyrics>And in the end of time, aha!</lyrics>
+         <chordLine>
+            <chord num="5">C</chord>
+            <chord num="2">G</chord>
+            <chord num="6m">Dm</chord>
+         </chordLine>
+         <lyrics>Left an empty urn</lyrics>
+      </section>
+      <section type="Break">
+         <chordLine>
+            <chord num="6m">Dm</chord>
+            <chord num="5add9">Cadd9</chord>
+            <chord num="2m6/4">Gm6/Bb</chord>
+            <chord num="b5dim">Bdim</chord>
+            <chord num="2^5">G5</chord>
+            <chord num="6m">Dm</chord>
+            <chord num="5add9">Cadd9</chord>
+            <chord num="2m6/4">Gm6/Bb</chord>
+            <chord num="b5dim">Bdim</chord>
+            <chord num="2^5">G5</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Verse 2">
+         <chordLine>
+            <chord num="6m">Dm</chord>
+            <chord num="4">Bb</chord>
+            <chord num="2m">Gm</chord>
+            <chord num="4">Bb</chord>
+            <chord num="3m7">Am7</chord>
+         </chordLine>
+         <lyrics>Hail, the maker!</lyrics>
+         <chordLine>
+            <chord num="6m">Dm</chord>
+            <chord num="4">Bb</chord>
+            <chord num="2m">Gm</chord>
+            <chord num="4">Bb</chord>
+            <chord num="3m7">Am7</chord>
+         </chordLine>
+         <lyrics>A noisy device to take the toll!</lyrics>
+         <chordLine>
+            <chord num="6m">Dm</chord>
+            <chord num="4">Bb</chord>
+            <chord num="2m">Gm</chord>
+            <chord num="4">Bb</chord>
+            <chord num="3m7">Am7</chord>
+         </chordLine>
+         <lyrics>God forsake her!</lyrics>
+         <chordLine>
+            <chord num="6m">Dm</chord>
+            <chord num="4">Bb</chord>
+            <chord num="2m">Gm</chord>
+            <chord num="4">Bb</chord>
+            <chord num="3m7">Am7</chord>
+         </chordLine>
+         <lyrics>For the songs that she sang have left god's acre!</lyrics>
+      </section>
+      <section type="Break">
+         <chordLine>
+            <chord num="6m">Dm</chord>
+            <chord num="7m/6">Em/D</chord>
+            <chord num="6m">Dm</chord>
+            <chord num="2">G</chord>
+            <chord num="1">F</chord>
+            <chord num="6m">Dm</chord>
+            <chord num="7m/6">Em/D</chord>
+            <chord num="3m/6">Am/D</chord>
+            <chord num="7m7">Em7</chord>
+            <chord num="1">F</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Chorus">
+         <chordLine>
+            <chord num="6m">Dm</chord>
+            <chord num="5">C</chord>
+            <chord num="2">G</chord>
+            <chord num="6m">Dm</chord>
+         </chordLine>
+         <lyrics>We fought for the fable, aha!</lyrics>
+         <chordLine>
+            <chord num="5">C</chord>
+            <chord num="2">G</chord>
+            <chord num="6m">Dm</chord>
+         </chordLine>
+         <lyrics>But instead we burn</lyrics>
+         <chordLine>
+            <chord num="5">C</chord>
+            <chord num="2">G</chord>
+            <chord num="6m">Dm</chord>
+         </chordLine>
+         <lyrics>And in the end of time, aha!</lyrics>
+         <chordLine>
+            <chord num="5">C</chord>
+            <chord num="2">G</chord>
+            <chord num="6m">Dm</chord>
+         </chordLine>
+         <lyrics>Left an empty urn</lyrics>
+      </section>
+      <section type="Break">
+         <chordLine>
+            <chord num="6m">Dm</chord>
+            <chord num="7m/6">Em/D</chord>
+            <chord num="6m">Dm</chord>
+            <chord num="7m/6">Em/D</chord>
+            <chord num="6m">Dm</chord>
+            <chord num="7m/6">Em/D</chord>
+            <chord num="6m">Dm</chord>
+            <chord num="7m/6">Em/D</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Solo">
+         <chordLine>
+            <chord num="6m">Dm</chord>
+            <chord num="7m/6">Em/D</chord>
+            <chord num="6m">Dm</chord>
+            <chord num="7m/6">Em/D</chord>
+            <chord num="6m">Dm</chord>
+            <chord num="7m/6">Em/D</chord>
+            <chord num="6m">Dm</chord>
+            <chord num="7m/6">Em/D</chord>
+            <chord num="6m">Dm</chord>
+            <chord num="7m/6">Em/D</chord>
+            <chord num="6m">Dm</chord>
+            <chord num="7m/6">Em/D</chord>
+            <chord num="6m">Dm</chord>
+            <chord num="7m/6">Em/D</chord>
+            <chord num="6m">Dm</chord>
+            <chord num="7m/6">Em/D</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Break">
+         <chordLine>
+            <chord num="6m">Dm</chord>
+            <chord num="7m/6">Em/D</chord>
+            <chord num="6m">Dm</chord>
+            <chord num="2">G</chord>
+            <chord num="1">F</chord>
+            <chord num="6m">Dm</chord>
+            <chord num="7m/6">Em/D</chord>
+            <chord num="3m/6">Am/D</chord>
+            <chord num="7m7">Em7</chord>
+            <chord num="4maj7">Bbmaj7</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Chorus">
+         <chordLine>
+            <chord num="6m">Dm</chord>
+            <chord num="5">C</chord>
+            <chord num="2">G</chord>
+            <chord num="6m">Dm</chord>
+         </chordLine>
+         <lyrics>We fought for the fable, aha!</lyrics>
+         <chordLine>
+            <chord num="5">C</chord>
+            <chord num="2">G</chord>
+            <chord num="6m">Dm</chord>
+         </chordLine>
+         <lyrics>But instead we burn</lyrics>
+         <chordLine>
+            <chord num="5">C</chord>
+            <chord num="2">G</chord>
+            <chord num="6m">Dm</chord>
+         </chordLine>
+         <lyrics>And in the end of time, aha!</lyrics>
+         <chordLine>
+            <chord num="5">C</chord>
+            <chord num="2">G</chord>
+            <chord num="6m">Dm</chord>
+         </chordLine>
+         <lyrics>Left an empty urn</lyrics>
+      </section>
+      <section type="Outro">
+         <chordLine>
+            <chord num="6m">Dm</chord>
+            <chord num="5">C</chord>
+            <chord num="2">G</chord>
+            <chord num="6m">Dm</chord>
+            <chord num="5">C</chord>
+            <chord num="2">G</chord>
+            <chord num="6m">Dm</chord>
+         </chordLine>
+      </section>
+   </music>
+</mei>

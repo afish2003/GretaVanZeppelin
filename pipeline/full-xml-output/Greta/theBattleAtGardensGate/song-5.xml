@@ -155,6 +155,7 @@
             <chord num="5">C</chord>
             <chord num="6m">Dm</chord>
             <chord num="4">Bb</chord>
+            <chord num="3m7">Am7</chord>
          </chordLine>
          <lyrics/>
       </section>

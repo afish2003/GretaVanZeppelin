@@ -1,14 +1,14 @@
-Farewell for Now
-Starcatcher
-Greta Van Fleet
-D
+<?xml version="1.0" encoding="UTF-8"?><mei ixml:state="ambiguous" xmlns:ixml="http://invisiblexml.org/NS"><music><title>Farewell for Now</title>
+<album>Starcatcher</album>
+<artist>Greta Van Fleet</artist>
+<key>D</key>
 
-[Intro]
+<section type="Intro"><mdiv>
 D Bb D
 Bb
  
- 
-[Verse 1]
+ </mdiv></section>
+<section type="Verse 1"><mdiv>
 D                            C  G
  We have shared with you our stories
 D                          C   G
@@ -18,12 +18,12 @@ D                               C   G
 D                              C   G
 Made love, even drank from the wine
  
- 
-[Interlude]
+ </mdiv></section>
+<section type="Interlude"><mdiv>
 D Bb D Bb
  
- 
-[Chorus]
+ </mdiv></section>
+<section type="Chorus"><mdiv>
 D                        C   G
  And I wish we all could stay
 D                C   G
@@ -34,8 +34,8 @@ D                C   G
  But I bid you a farewell
 Bb G D
  
- 
-[Verse 2]
+ </mdiv></section>
+<section type="Verse 2"><mdiv>
 D                              C    G
  Friends how've come so far to join us
    D                          C   G
@@ -45,12 +45,12 @@ D                                   C  G
     D                               C  G
 You floor us, we will sing till the end
  
- 
-[Interlude]
+ </mdiv></section>
+<section type="Interlude"><mdiv>
 D Bb D Bb
  
- 
-[Chorus]
+ </mdiv></section>
+<section type="Chorus"><mdiv>
 D                        C   G
  And I wish we all could stay
 D                C   G
@@ -60,20 +60,20 @@ D                          C   G
 D                C   G   Bb G
  But I bid you a farewell
  
- 
-[Bridge]
+ </mdiv></section>
+<section type="Bridge"><mdiv>
 F    G6
  Yeah
     Bb C D
 Yeah
  
- 
-[Solo Guitar]
+ </mdiv></section>
+<section type="Solo Guitar"><mdiv>
 D C G D C G
 D C G D C G
  
- 
-[Chorus]
+ </mdiv></section>
+<section type="Chorus"><mdiv>
 D                        C   G
  And I wish we all could stay
 D                C   G
@@ -83,8 +83,8 @@ D                          C   G
 D                C   G   Bb G
  But I bid you a farewell
  
- 
-[Outro]
+ </mdiv></section>
+<section type="Outro"><mdiv>
 D D7                        G
     We gathered here tonight
                Bb       C
@@ -101,3 +101,4 @@ D7                        G
   We gathered here tonight
               Bb
 Did it up just  right
+</mdiv></section></music></mei>
