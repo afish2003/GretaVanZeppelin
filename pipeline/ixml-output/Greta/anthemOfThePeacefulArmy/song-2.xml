@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><mei ixml:state="ambiguous" xmlns:ixml="http://invisiblexml.org/NS"><music><title>The Cold Wind</title>
 <album>Anthem of the Peaceful Army</album>
 <artist>Greta Van Fleet</artist>
+<key>D</key>
 
 <section type="Intro"><mdiv>
 A D A D
@@ -8,7 +9,7 @@ A
 D
  
  </mdiv></section>
-<section type="Verse1"><mdiv>
+<section type="Verse 1"><mdiv>
 A
 Oh sweet mama, lay me down in my grave
 D A

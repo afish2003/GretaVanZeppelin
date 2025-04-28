@@ -1,93 +1,94 @@
 The New Day
 Anthem of the Peaceful Army
 Greta Van Fleet
+F
 
 [Intro]
-E B D A E E B
-D A
-E
+F C Eb Bb F F C
+Eb Bb
+F
  
  
 [Verse 1]
-E           B    D    A             E
+F           C    Eb    Bb             F
  Let the new day shine its light on me
-E             B     D     A               E
+F             C     Eb     Bb               F
  Shake the old way, nights too dark to see
-E          B           D     A               E
+F          C           Eb     Bb               F
  Free tomorrow, it's bright with something new
-E                B      D  A             E
- Believe the righteous, and it will come true
+F                C      Eb  Bb             F
+ Celieve the righteous, and it will come true
  
  
 [Pre-Chorus]
-B                A          E
+C                Bb          F
  You're a child in the garden
-B                   F#m                 A    E
+C                   Gm                 Bb    F
  You're growing up   I'll watch you bloom
-B               A              E
+C               Bb              F
  And your dreams are not forgotten
-B              F#m       A B
+C              Gm       Bb C
  You'll be a woman soon
  
  
 [Chorus]
-E                 B         A             B
+F                 C         Bb             C
 Love isn't greed it's a need that goes unspoken
-E               B              A        B
+F               C              Bb        C
  Love doesn't leave when you fade away
-E             B          A                   B
+F             C          Bb                   C
  Pain isn't vain if it means your heart's been broken
-E            B         A            B
+F            C         Bb            C
  Pain is the same as a means to heal
  
  
 [Bridge]
-E E B D A E
-E B D A E
+F F C Eb Bb F
+F C Eb Bb F
  
  
 [Verse 2]
-E          B          D   A           E
+F          C          Eb   Bb           F
  Let me try love, you know I'm only one
-E           B        D    A             E
+F           C        Eb    Bb             F
  Live or die love, I tried and to me won
-E              B            D   A          E
+F              C            Eb   Bb          F
  We're the future, it's hard to say we know
-E          B       D   A              E
+F          C       Eb   Bb              F
  And the suture is what we have to sew
  
  
 [Pre-Chorus]
-B                A          E
+C                Bb          F
  You're a child in the garden
-B                   F#m                 A    E
+C                   Gm                 Bb    F
  You're growing up   I'll watch you bloom
-B               A              E
+C               Bb              F
  And your dreams are not forgotten
-B              F#m       A B
+C              Gm       Bb C
  You'll be a woman soon
  
  
 [Solo]
-E B A B E B A B
-E B A B E B A B
+F C Bb C F C Bb C
+F C Bb C F C Bb C
  
  
 [Chorus]
-E                 B         A             B
+F                 C         Bb             C
 Love isn't greed it's a need that goes unspoken
-E               B              A        B
+F               C              Bb        C
  Love doesn't leave when you fade away
-E             B          A                   B
+F             C          Bb                   C
  Pain isn't vain if it means your heart's been broken
-E            B         A            B
+F            C         Bb            C
  Pain is the same as a means to heal
  
  
 [Outro]
-E B A B
-Ah
-               E        B
+F C Bb C
+Bbh
+               F        C
 Love doesn't fade away
-A B  E B A B               E   B A B E
+Bb C  F C Bb C               F   C Bb C F
    Ah       Doesn't fade away

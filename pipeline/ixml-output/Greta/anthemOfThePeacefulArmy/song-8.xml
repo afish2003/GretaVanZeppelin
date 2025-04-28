@@ -1,77 +1,78 @@
 <?xml version="1.0" encoding="UTF-8"?><mei ixml:state="ambiguous" xmlns:ixml="http://invisiblexml.org/NS"><music><title>Mountain of the Sun</title>
 <album>Anthem of the Peaceful Army</album>
 <artist>Greta Van Fleet</artist>
+<key>F</key>
 
 <section type="Intro"><mdiv>
-D G
+F Bb
  
  </mdiv></section>
 <section type="Verse 1"><mdiv>
-D G    D                       G
+F Bb    F                       Bb
    The sun shines brighter from above
-    D                G
+    F                Bb
 And you're the woman that I love
-D                   G
+F                   Bb
 Climb the mountain even higher
-   D                G
+   F                Bb
 To kiss the sun and fight the fire
  
  </mdiv></section>
 <section type="Pre-Chorus"><mdiv>
-F  G A
+Ab  Bb C
  Oh   well
  
  </mdiv></section>
 <section type="Chorus"><mdiv>
-D                  A G
+F                  C Bb
  I'll make you mine
-D                  A G
+F                  C Bb
  You're my sunshine
-D                  A G
+F                  C Bb
  I'll make you mine
-D                  A G D
+F                  C Bb F
  You're my sunshine
  
  </mdiv></section>
 <section type="Verse 2"><mdiv>
-D                    G
+F                    Bb
 Take me with you when you go
-   D                 G
+   F                 Bb
 To be with you is all I know
-D                   G
+F                   Bb
 As we ride, we light the fire
-    D                G
+    F                Bb
 The second sun's our love's desire
  
  </mdiv></section>
 <section type="Pre-Chorus"><mdiv>
-F  G A
+Ab  Bb C
  Oh  well
  
  </mdiv></section>
 <section type="Chorus"><mdiv>
-D                  A G
+F                  C Bb
  I'll make you mine
-D                  A G
+F                  C Bb
  You're my sunshine
-D                  A G
+F                  C Bb
  I'll make you mine
-D                  A G
+F                  C Bb
  You're my sunshine
  
  </mdiv></section>
 <section type="Guitar Solo"><mdiv>
-D A G D A G
-D A G D A G
+F C Bb F C Bb
+F C Bb F C Bb
  
  </mdiv></section>
 <section type="Pre-Chorus"><mdiv>
-F  G A
+Ab  Bb C
  Oh  well
  
  </mdiv></section>
 <section type="Verse 3"><mdiv>
-    D
+    F
 The sun shines brighter from above
 And you're the woman that I love
 We climb the mountain even higher
@@ -79,28 +80,28 @@ Kiss the sun, fight the fire
  
  </mdiv></section>
 <section type="Chorus"><mdiv>
-D                  A G
+F                  C Bb
  I'll make you mine
-D                  A G
+F                  C Bb
  You're my sunshine
-D                  A G
+F                  C Bb
  I'll make you mine
-D                  A G
+F                  C Bb
  You're my sunshine
  
  </mdiv></section>
 <section type="Outro 1"><mdiv>
-D A G D A G
-D A G D A G
+F C Bb F C Bb
+F C Bb F C Bb
  
  </mdiv></section>
 <section type="Outro 2"><mdiv>
-D A G D A G
-D A G D A G
+F C Bb F C Bb
+F C Bb F C Bb
  
  </mdiv></section>
 <section type="Outro 3"><mdiv>
-D A G D A G
-D A G D A G
-D
+F C Bb F C Bb
+F C Bb F C Bb
+F
 </mdiv></section></music></mei>

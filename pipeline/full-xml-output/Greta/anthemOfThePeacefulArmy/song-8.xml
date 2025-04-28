@@ -5,234 +5,232 @@
       <title>Mountain of the Sun</title>
       <album>Anthem of the Peaceful Army</album>
       <artist>Greta Van Fleet</artist>
+      <key>F</key>
       <section type="Intro">
          <chordLine>
-            <chord>D</chord>
-            <chord>G</chord>
+            <chord num="1">F</chord>
+            <chord num="4">Bb</chord>
          </chordLine>
          <lyrics/>
       </section>
       <section type="Verse 1">
          <chordLine>
-            <chord>D</chord>
-            <chord>G</chord>
-            <chord>D</chord>
-            <chord>G</chord>
+            <chord num="1">F</chord>
+            <chord num="4">Bb</chord>
+            <chord num="1">F</chord>
+            <chord num="4">Bb</chord>
          </chordLine>
          <lyrics>The sun shines brighter from above</lyrics>
          <chordLine>
-            <chord>D</chord>
-            <chord>G</chord>
+            <chord num="1">F</chord>
+            <chord num="4">Bb</chord>
          </chordLine>
          <lyrics>And you're the woman that I love</lyrics>
          <chordLine>
-            <chord>D</chord>
-            <chord>G</chord>
+            <chord num="1">F</chord>
+            <chord num="4">Bb</chord>
          </chordLine>
          <lyrics>Climb the mountain even higher</lyrics>
          <chordLine>
-            <chord>D</chord>
-            <chord>G</chord>
+            <chord num="1">F</chord>
+            <chord num="4">Bb</chord>
          </chordLine>
          <lyrics>To kiss the sun and fight the fire</lyrics>
       </section>
       <section type="Pre-Chorus">
          <chordLine>
-            <chord>F</chord>
-            <chord>G</chord>
-            <chord>A</chord>
+            <chord num="4">Bb</chord>
+            <chord num="5">C</chord>
          </chordLine>
          <lyrics>Oh well</lyrics>
       </section>
       <section type="Chorus">
          <chordLine>
-            <chord>D</chord>
-            <chord>A</chord>
-            <chord>G</chord>
+            <chord num="1">F</chord>
+            <chord num="5">C</chord>
+            <chord num="4">Bb</chord>
          </chordLine>
          <lyrics>I'll make you mine</lyrics>
          <chordLine>
-            <chord>D</chord>
-            <chord>A</chord>
-            <chord>G</chord>
+            <chord num="1">F</chord>
+            <chord num="5">C</chord>
+            <chord num="4">Bb</chord>
          </chordLine>
          <lyrics>You're my sunshine</lyrics>
          <chordLine>
-            <chord>D</chord>
-            <chord>A</chord>
-            <chord>G</chord>
+            <chord num="1">F</chord>
+            <chord num="5">C</chord>
+            <chord num="4">Bb</chord>
          </chordLine>
          <lyrics>I'll make you mine</lyrics>
          <chordLine>
-            <chord>D</chord>
-            <chord>A</chord>
-            <chord>G</chord>
-            <chord>D</chord>
+            <chord num="1">F</chord>
+            <chord num="5">C</chord>
+            <chord num="4">Bb</chord>
+            <chord num="1">F</chord>
          </chordLine>
          <lyrics>You're my sunshine</lyrics>
       </section>
       <section type="Verse 2">
          <chordLine>
-            <chord>D</chord>
-            <chord>G</chord>
+            <chord num="1">F</chord>
+            <chord num="4">Bb</chord>
          </chordLine>
          <lyrics>Take me with you when you go</lyrics>
          <chordLine>
-            <chord>D</chord>
-            <chord>G</chord>
+            <chord num="1">F</chord>
+            <chord num="4">Bb</chord>
          </chordLine>
          <lyrics>To be with you is all I know</lyrics>
          <chordLine>
-            <chord>D</chord>
-            <chord>G</chord>
+            <chord num="1">F</chord>
+            <chord num="4">Bb</chord>
          </chordLine>
          <lyrics>As we ride, we light the fire</lyrics>
          <chordLine>
-            <chord>D</chord>
-            <chord>G</chord>
+            <chord num="1">F</chord>
+            <chord num="4">Bb</chord>
          </chordLine>
          <lyrics>The second sun's our love's desire</lyrics>
       </section>
       <section type="Pre-Chorus">
          <chordLine>
-            <chord>F</chord>
-            <chord>G</chord>
-            <chord>A</chord>
+            <chord num="4">Bb</chord>
+            <chord num="5">C</chord>
          </chordLine>
          <lyrics>Oh well</lyrics>
       </section>
       <section type="Chorus">
          <chordLine>
-            <chord>D</chord>
-            <chord>A</chord>
-            <chord>G</chord>
+            <chord num="1">F</chord>
+            <chord num="5">C</chord>
+            <chord num="4">Bb</chord>
          </chordLine>
          <lyrics>I'll make you mine</lyrics>
          <chordLine>
-            <chord>D</chord>
-            <chord>A</chord>
-            <chord>G</chord>
+            <chord num="1">F</chord>
+            <chord num="5">C</chord>
+            <chord num="4">Bb</chord>
          </chordLine>
          <lyrics>You're my sunshine</lyrics>
          <chordLine>
-            <chord>D</chord>
-            <chord>A</chord>
-            <chord>G</chord>
+            <chord num="1">F</chord>
+            <chord num="5">C</chord>
+            <chord num="4">Bb</chord>
          </chordLine>
          <lyrics>I'll make you mine</lyrics>
          <chordLine>
-            <chord>D</chord>
-            <chord>A</chord>
-            <chord>G</chord>
+            <chord num="1">F</chord>
+            <chord num="5">C</chord>
+            <chord num="4">Bb</chord>
          </chordLine>
          <lyrics>You're my sunshine</lyrics>
       </section>
       <section type="Guitar Solo">
          <chordLine>
-            <chord>D</chord>
-            <chord>A</chord>
-            <chord>G</chord>
-            <chord>D</chord>
-            <chord>A</chord>
-            <chord>G</chord>
-            <chord>D</chord>
-            <chord>A</chord>
-            <chord>G</chord>
-            <chord>D</chord>
-            <chord>A</chord>
-            <chord>G</chord>
+            <chord num="1">F</chord>
+            <chord num="5">C</chord>
+            <chord num="4">Bb</chord>
+            <chord num="1">F</chord>
+            <chord num="5">C</chord>
+            <chord num="4">Bb</chord>
+            <chord num="1">F</chord>
+            <chord num="5">C</chord>
+            <chord num="4">Bb</chord>
+            <chord num="1">F</chord>
+            <chord num="5">C</chord>
+            <chord num="4">Bb</chord>
          </chordLine>
          <lyrics/>
       </section>
       <section type="Pre-Chorus">
          <chordLine>
-            <chord>F</chord>
-            <chord>G</chord>
-            <chord>A</chord>
+            <chord num="4">Bb</chord>
+            <chord num="5">C</chord>
          </chordLine>
          <lyrics>Oh well</lyrics>
       </section>
       <section type="Verse 3">
          <chordLine>
-            <chord>D</chord>
+            <chord num="1">F</chord>
          </chordLine>
          <lyrics>The sun shines brighter from above And you're the woman that I love We climb the mountain even higher Kiss the sun, fight the fire</lyrics>
       </section>
       <section type="Chorus">
          <chordLine>
-            <chord>D</chord>
-            <chord>A</chord>
-            <chord>G</chord>
+            <chord num="1">F</chord>
+            <chord num="5">C</chord>
+            <chord num="4">Bb</chord>
          </chordLine>
          <lyrics>I'll make you mine</lyrics>
          <chordLine>
-            <chord>D</chord>
-            <chord>A</chord>
-            <chord>G</chord>
+            <chord num="1">F</chord>
+            <chord num="5">C</chord>
+            <chord num="4">Bb</chord>
          </chordLine>
          <lyrics>You're my sunshine</lyrics>
          <chordLine>
-            <chord>D</chord>
-            <chord>A</chord>
-            <chord>G</chord>
+            <chord num="1">F</chord>
+            <chord num="5">C</chord>
+            <chord num="4">Bb</chord>
          </chordLine>
          <lyrics>I'll make you mine</lyrics>
          <chordLine>
-            <chord>D</chord>
-            <chord>A</chord>
-            <chord>G</chord>
+            <chord num="1">F</chord>
+            <chord num="5">C</chord>
+            <chord num="4">Bb</chord>
          </chordLine>
          <lyrics>You're my sunshine</lyrics>
       </section>
       <section type="Outro 1">
          <chordLine>
-            <chord>D</chord>
-            <chord>A</chord>
-            <chord>G</chord>
-            <chord>D</chord>
-            <chord>A</chord>
-            <chord>G</chord>
-            <chord>D</chord>
-            <chord>A</chord>
-            <chord>G</chord>
-            <chord>D</chord>
-            <chord>A</chord>
-            <chord>G</chord>
+            <chord num="1">F</chord>
+            <chord num="5">C</chord>
+            <chord num="4">Bb</chord>
+            <chord num="1">F</chord>
+            <chord num="5">C</chord>
+            <chord num="4">Bb</chord>
+            <chord num="1">F</chord>
+            <chord num="5">C</chord>
+            <chord num="4">Bb</chord>
+            <chord num="1">F</chord>
+            <chord num="5">C</chord>
+            <chord num="4">Bb</chord>
          </chordLine>
          <lyrics/>
       </section>
       <section type="Outro 2">
          <chordLine>
-            <chord>D</chord>
-            <chord>A</chord>
-            <chord>G</chord>
-            <chord>D</chord>
-            <chord>A</chord>
-            <chord>G</chord>
-            <chord>D</chord>
-            <chord>A</chord>
-            <chord>G</chord>
-            <chord>D</chord>
-            <chord>A</chord>
-            <chord>G</chord>
+            <chord num="1">F</chord>
+            <chord num="5">C</chord>
+            <chord num="4">Bb</chord>
+            <chord num="1">F</chord>
+            <chord num="5">C</chord>
+            <chord num="4">Bb</chord>
+            <chord num="1">F</chord>
+            <chord num="5">C</chord>
+            <chord num="4">Bb</chord>
+            <chord num="1">F</chord>
+            <chord num="5">C</chord>
+            <chord num="4">Bb</chord>
          </chordLine>
          <lyrics/>
       </section>
       <section type="Outro 3">
          <chordLine>
-            <chord>D</chord>
-            <chord>A</chord>
-            <chord>G</chord>
-            <chord>D</chord>
-            <chord>A</chord>
-            <chord>G</chord>
-            <chord>D</chord>
-            <chord>A</chord>
-            <chord>G</chord>
-            <chord>D</chord>
-            <chord>A</chord>
-            <chord>G</chord>
-            <chord>D</chord>
+            <chord num="1">F</chord>
+            <chord num="5">C</chord>
+            <chord num="4">Bb</chord>
+            <chord num="1">F</chord>
+            <chord num="5">C</chord>
+            <chord num="4">Bb</chord>
+            <chord num="1">F</chord>
+            <chord num="5">C</chord>
+            <chord num="4">Bb</chord>
+            <chord num="1">F</chord>
+            <chord num="5">C</chord>
+            <chord num="4">Bb</chord>
+            <chord num="1">F</chord>
          </chordLine>
       </section>
    </music>
