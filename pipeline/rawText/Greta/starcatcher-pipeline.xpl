@@ -61,6 +61,16 @@
             }"/>
         <p:identity message="Saved finalized XML for {$filename}"/>
         
+        <!-- ================================================================ -->
+        <!-- Output plain lyrics                                              -->
+        <!-- ================================================================ -->
+        <p:xslt>
+            <p:with-input port="stylesheet" href="../../pullLyrics.xsl"/>
+        </p:xslt>
+        
+        <p:store name="plain-lyrics-out" href="../../plain-lyrics-output/Greta/starcatcher/{$filename}.txt" />
+        <p:identity message="Saved plain lyrics for {$filename}"/>
+        
     </p:for-each>
     
 </p:declare-step>
