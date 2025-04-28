@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mei ixml:state="ambiguous"
+     xmlns:ixml="http://invisiblexml.org/NS">
+   <music>
+      <title>Stardust Chords</title>
+      <album>The Battle of Garden's Gate</album>
+      <artist>Greta Van Fleet</artist>
+      <key>Eb</key>
+      <section type="Intro">
+         <chordLine>
+            <chord num="6m">Cm</chord>
+            <chord num="3">G</chord>
+            <chord num="b5dim/1">Adim/Eb</chord>
+            <chord num="3">G</chord>
+            <chord num="6">C</chord>
+            <chord num="3">G</chord>
+         </chordLine>
+         <lyrics>Woah, woah, woah, woah</lyrics>
+         <chordLine>
+            <chord num="2">F</chord>
+            <chord num="1">Eb</chord>
+         </chordLine>
+         <lyrics>Ah, ah, woah</lyrics>
+      </section>
+      <section type="Interlude">
+         <chordLine>
+            <chord num="6m/3">Cm/G</chord>
+            <chord num="3">G</chord>
+            <chord num="6m/3">Cm/G</chord>
+            <chord num="3">G</chord>
+            <chord num="6m/3">Cm/G</chord>
+            <chord num="3">G</chord>
+            <chord num="2">F</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Verse 1">
+         <chordLine>
+            <chord num="6m/3">Cm/G</chord>
+         </chordLine>
+         <lyrics>Roses in the bush</lyrics>
+         <chordLine>
+            <chord num="3">G</chord>
+            <chord num="6m/3">Cm/G</chord>
+         </chordLine>
+         <lyrics>Cut down at the garden's gate</lyrics>
+         <chordLine>
+            <chord num="3">G</chord>
+            <chord num="6m/3">Cm/G</chord>
+            <chord num="3">G</chord>
+         </chordLine>
+         <lyrics>It was too late</lyrics>
+         <chordLine>
+            <chord num="2">F</chord>
+         </chordLine>
+         <lyrics>So much has fallen</lyrics>
+         <chordLine>
+            <chord num="6m/3">Cm/G</chord>
+         </chordLine>
+         <lyrics>Sound the broken bells</lyrics>
+         <chordLine>
+            <chord num="3">G</chord>
+            <chord num="6m/3">Cm/G</chord>
+         </chordLine>
+         <lyrics>The priestess amongst us heeds</lyrics>
+         <chordLine>
+            <chord num="3">G</chord>
+            <chord num="6m/3">Cm/G</chord>
+            <chord num="3">G</chord>
+         </chordLine>
+         <lyrics>Bring in the seeds</lyrics>
+         <chordLine>
+            <chord num="2">F</chord>
+         </chordLine>
+         <lyrics>A garden must grow</lyrics>
+         <chordLine>
+            <chord num="5">Bb</chord>
+            <chord num="1">Eb</chord>
+            <chord num="6m">Cm</chord>
+         </chordLine>
+         <lyrics>Woah, woah</lyrics>
+      </section>
+      <section type="Pre-Chorus">
+         <chordLine>
+            <chord num="1">Eb</chord>
+            <chord num="3m">Gm</chord>
+            <chord num="2">F</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Chorus">
+         <chordLine>
+            <chord num="1">Eb</chord>
+            <chord num="3m">Gm</chord>
+            <chord num="2">F</chord>
+         </chordLine>
+         <lyrics>It has been said</lyrics>
+         <chordLine>
+            <chord num="1">Eb</chord>
+            <chord num="3m">Gm</chord>
+         </chordLine>
+         <lyrics>By the likes of the living and the dead</lyrics>
+         <chordLine>
+            <chord num="2">F</chord>
+            <chord num="1">Eb</chord>
+            <chord num="3m">Gm</chord>
+            <chord num="2">F</chord>
+         </chordLine>
+         <lyrics>Make your bed</lyrics>
+         <chordLine>
+            <chord num="1">Eb</chord>
+         </chordLine>
+         <lyrics>Even sinners go to drink the wine</lyrics>
+         <chordLine>
+            <chord num="3m">Gm</chord>
+         </chordLine>
+         <lyrics>Break the bread</lyrics>
+         <chordLine>
+            <chord num="2">F</chord>
+            <chord num="1">Eb</chord>
+            <chord num="3m">Gm</chord>
+            <chord num="7">D</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Interlude">
+         <chordLine>
+            <chord num="6m/3">Cm/G</chord>
+            <chord num="3">G</chord>
+            <chord num="1">Eb</chord>
+            <chord num="7">D</chord>
+            <chord num="6m/3">Cm/G</chord>
+            <chord num="3">G</chord>
+            <chord num="2">F</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Verse 2">
+         <chordLine>
+            <chord num="6m/3">Cm/G</chord>
+         </chordLine>
+         <lyrics>Prisoners of the king</lyrics>
+         <chordLine>
+            <chord num="3">G</chord>
+            <chord num="6m/3">Cm/G</chord>
+         </chordLine>
+         <lyrics>Are promised their freedom for</lyrics>
+         <chordLine>
+            <chord num="3">G</chord>
+            <chord num="6m/3">Cm/G</chord>
+            <chord num="3">G</chord>
+            <chord num="2">F</chord>
+         </chordLine>
+         <lyrics>Planting a score of infantry vines</lyrics>
+         <chordLine>
+            <chord num="6m/3">Cm/G</chord>
+         </chordLine>
+         <lyrics>From the bowing Earth</lyrics>
+         <chordLine>
+            <chord num="3">G</chord>
+            <chord num="6m/3">Cm/G</chord>
+         </chordLine>
+         <lyrics>Uprises the weeds of war</lyrics>
+         <chordLine>
+            <chord num="3">G</chord>
+            <chord num="6m/3">Cm/G</chord>
+            <chord num="3">G</chord>
+         </chordLine>
+         <lyrics>Caving the floor</lyrics>
+         <chordLine>
+            <chord num="2">F</chord>
+         </chordLine>
+         <lyrics>A renaissance born</lyrics>
+         <chordLine>
+            <chord num="5">Bb</chord>
+            <chord num="1">Eb</chord>
+            <chord num="6m">Cm</chord>
+         </chordLine>
+         <lyrics>Woah, woah,</lyrics>
+      </section>
+      <section type="Pre-Chorus">
+         <chordLine>
+            <chord num="1">Eb</chord>
+            <chord num="3m">Gm</chord>
+            <chord num="2">F</chord>
+         </chordLine>
+         <lyrics>woah</lyrics>
+      </section>
+      <section type="Chorus">
+         <chordLine>
+            <chord num="1">Eb</chord>
+            <chord num="3m">Gm</chord>
+            <chord num="2">F</chord>
+         </chordLine>
+         <lyrics>It has been said</lyrics>
+         <chordLine>
+            <chord num="1">Eb</chord>
+            <chord num="3m">Gm</chord>
+         </chordLine>
+         <lyrics>By the likes of the living and the dead</lyrics>
+         <chordLine>
+            <chord num="2">F</chord>
+            <chord num="1">Eb</chord>
+            <chord num="3m">Gm</chord>
+            <chord num="2">F</chord>
+         </chordLine>
+         <lyrics>Make your bed</lyrics>
+         <chordLine>
+            <chord num="1">Eb</chord>
+         </chordLine>
+         <lyrics>Even sinners go to drink the wine</lyrics>
+         <chordLine>
+            <chord num="3m">Gm</chord>
+         </chordLine>
+         <lyrics>Break the bread</lyrics>
+         <chordLine>
+            <chord num="2">F</chord>
+            <chord num="1">Eb</chord>
+            <chord num="3m">Gm</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Bridge">
+         <chordLine>
+            <chord num="7">D</chord>
+            <chord num="1">Eb</chord>
+            <chord num="7">D</chord>
+            <chord num="1">Eb</chord>
+            <chord num="7">D</chord>
+            <chord num="1">Eb</chord>
+            <chord num="7">D</chord>
+            <chord num="2">F</chord>
+            <chord num="5">Bb</chord>
+            <chord num="1">Eb</chord>
+            <chord num="3m">Gm</chord>
+            <chord num="2">F</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Solo">
+         <chordLine>
+            <chord num="1">Eb</chord>
+            <chord num="3m">Gm</chord>
+            <chord num="2">F</chord>
+            <chord num="1">Eb</chord>
+            <chord num="3m">Gm</chord>
+            <chord num="2">F</chord>
+            <chord num="1">Eb</chord>
+            <chord num="3m">Gm</chord>
+            <chord num="2">F</chord>
+            <chord num="1">Eb</chord>
+            <chord num="3m">Gm</chord>
+            <chord num="2">F</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Outro">
+         <chordLine>
+            <chord num="1">Eb</chord>
+            <chord num="3m">Gm</chord>
+            <chord num="2">F</chord>
+         </chordLine>
+         <lyrics>Woah, it has been said</lyrics>
+         <chordLine>
+            <chord num="1">Eb</chord>
+            <chord num="3m">Gm</chord>
+            <chord num="2">F</chord>
+         </chordLine>
+         <lyrics>Yeah, make up your bed</lyrics>
+         <chordLine>
+            <chord num="1">Eb</chord>
+            <chord num="3m">Gm</chord>
+            <chord num="2">F</chord>
+         </chordLine>
+         <lyrics>Woah, lay down your head</lyrics>
+         <chordLine>
+            <chord num="6">C</chord>
+            <chord num="7">D</chord>
+            <chord num="1">Eb</chord>
+            <chord num="2">F</chord>
+         </chordLine>
+      </section>
+   </music>
+</mei>

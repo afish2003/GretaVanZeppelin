@@ -1,13 +1,13 @@
-Caravel
-The Battle of Garden's Gate
-Greta Van Fleet
-G
+<?xml version="1.0" encoding="UTF-8"?><mei ixml:state="ambiguous" xmlns:ixml="http://invisiblexml.org/NS"><music><title>Caravel</title>
+<album>The Battle of Garden's Gate</album>
+<artist>Greta Van Fleet</artist>
+<key>G</key>
 
-[Intro]
+<section type="Intro"><mdiv>
 Em Bm Am Em Asus4 Em Bm Am Em Asus4
  
- 
-[Verse 1]
+ </mdiv></section>
+<section type="Verse 1"><mdiv>
 Em   Bm    Am    Em   Asus4
 Crash against wave upon wave, whoa oh oh oh
 Em   Bm    Am    Em   Asus4
@@ -17,12 +17,12 @@ Heel to the mist and the wind, yeah yeah
 Em   Bm    Am    Em   Asus4
 You make the movement, oh ooh ohh ooh ohh!
  
- 
-[Breakdown]
+ </mdiv></section>
+<section type="Breakdown"><mdiv>
 G D/F#
  
- 
-[Chorus]
+ </mdiv></section>
+<section type="Chorus"><mdiv>
 Am   D   C       F
 Whoa, as you can tell
 Am           D          C   F
@@ -32,26 +32,26 @@ Whoa, as you can tell
 Am                 D         C      F   B7
 These are the times you'll remember well
  
- 
-[Pre-Verse]
+ </mdiv></section>
+<section type="Pre-Verse"><mdiv>
 Em Bm Am Em Asus4 Em Bm Am Em Asus4
  
- 
-[Verse 2]
+ </mdiv></section>
+<section type="Verse 2"><mdiv>
 Em  Bm                  Am               Em Asus4 Em                Bm         Am      Em Asus4
 Sail  to the end of the world, whoa oh oh           For death or glory, oh ooh ohh ohh ooh
 Em Bm                      Am           Em Asus4 Em               Bm           Am      Em   Asus4 G D
 Bow  with your face to the sky, yeahyeah           We are the movement, oh ooh ooh ooh ooh!!
  
- 
-[Bridge 1]
+ </mdiv></section>
+<section type="Bridge 1"><mdiv>
 Am G Am G       Am G Am G Am G
          Da! Da!
 Am G       Am G Am G F G
     Da! Da!
  
- 
-[Chorus]
+ </mdiv></section>
+<section type="Chorus"><mdiv>
 Am   D   C       F
 Whoa, as you can tell
 Am           D          C   F
@@ -61,18 +61,19 @@ Whoa, as you can tell
 Am                 D         C      F   G E7
 These are the times you'll remember well
  
- 
-[Interlude]
+ </mdiv></section>
+<section type="Interlude"><mdiv>
 F C F
  
- 
-[Bridge 2]
+ </mdiv></section>
+<section type="Bridge 2"><mdiv>
 Am D F C
  
- 
-[Outro]
+ </mdiv></section>
+<section type="Outro"><mdiv>
 Am G Am G Am G
 Am G       Am G Am G Am G
     Da! Da!
 Am G        F   Am
     Da! Da! Da! oh, uh.
+</mdiv></section></music></mei>

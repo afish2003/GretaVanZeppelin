@@ -1,15 +1,15 @@
-Heat Above
-The Battle of Garden's Gate
-Greta Van Fleet
-Eb
+<?xml version="1.0" encoding="UTF-8"?><mei ixml:state="ambiguous" xmlns:ixml="http://invisiblexml.org/NS"><music><title>Heat Above</title>
+<album>The Battle of Garden's Gate</album>
+<artist>Greta Van Fleet</artist>
+<key>Eb</key>
 
-[Intro]
+<section type="Intro"><mdiv>
 Eb Ab Bb Eb Ab
 Bb Eb Bb Ab Cm Bb Gm Ab Eb Bb Ab
 Eb Bb Ab
  
- 
-[Verse 1]
+ </mdiv></section>
+<section type="Verse 1"><mdiv>
 Eb         Bb         Ab
 Sorrows of the Earth
         Eb            Bb          Ab
@@ -21,8 +21,8 @@ Can you hear that dreadful sound?
 Cm             Bb     Gm    Ab     Ab
 Fire still burning on  the ground
  
- 
-[Verse 2]
+ </mdiv></section>
+<section type="Verse 2"><mdiv>
 Eb              Bb         Ab        Eb           Bb         Ab
 Follow the fearsome sound As they march to battle, hear the drums pound
 Eb              Bb       Ab       Eb             Bb         Ab
@@ -32,8 +32,8 @@ Can you hear that dreadful sound?
 Cm             Bb     Gm    Ab     Ab
 Fire still burning on  the ground
  
- 
-[Chorus]
+ </mdiv></section>
+<section type="Chorus"><mdiv>
 Eb                    Ab
 Can you feel my love?
 Bb Eb                    Ab
@@ -44,8 +44,8 @@ Bb  Eb                    Ab
  Ascending to the stars as one
 Bb Eb Bb Ab Cm Bb Gm Ab
  
- 
-[Verse 3]
+ </mdiv></section>
+<section type="Verse 3"><mdiv>
 Eb              Bb        Ab     Eb          Bb      Ab
 Marching across the land Is a peaceful army joining the band
 Eb           Bb       Ab
@@ -57,8 +57,8 @@ Can you hear that dreadful sound?
 Cm             Bb     Gm    Ab     Ab
 Fire still burning on  the ground
  
- 
-[Break]
+ </mdiv></section>
+<section type="Break"><mdiv>
 Cm Bb Gm Ab Cm Eb Bb Gm Ab Bb Cm Bb
 Eb       Bb      Ab
  Lalala lalala la
@@ -66,8 +66,8 @@ Gm Ab Bb Cm Bb
 Eb       Bb      Ab Bb Ab
  Lalala lalala la
  
- 
-[Chorus]
+ </mdiv></section>
+<section type="Chorus"><mdiv>
 Eb                    Ab
 Can you feel my love?
 Bb Eb                    Ab
@@ -77,13 +77,14 @@ Bb Eb                  Ab
 Bb  Eb                       Ab  Bb
  Ascending to the stars as one
  
- 
-[Break]
+ </mdiv></section>
+<section type="Break"><mdiv>
 Eb Ab Bb Eb Ab Bb
 Eb Ab Bb Eb Ab Bb
 Eb Ab Bb Eb Ab Bb
  
- 
-[Outro]
+ </mdiv></section>
+<section type="Outro"><mdiv>
 Eb Ab Bb Eb Ab Bb
 C
+</mdiv></section></music></mei>

@@ -1,14 +1,14 @@
-The Barbarians
-The Battle of Garden's Gate
-Greta Van Fleet
-Bb
+<?xml version="1.0" encoding="UTF-8"?><mei ixml:state="ambiguous" xmlns:ixml="http://invisiblexml.org/NS"><music><title>The Barbarians</title>
+<album>The Battle of Garden's Gate</album>
+<artist>Greta Van Fleet</artist>
+<key>Bb</key>
 
-[Intro]
+<section type="Intro"><mdiv>
 Gm F Gm F Gm F Bb Ab Eb F
 Gm F Gm F Gm F Bb Ab Eb F
  
- 
-[Verse 1]
+ </mdiv></section>
+<section type="Verse 1"><mdiv>
 Gm                    F        Gm       F
 Children with their toys of war, whoa-oh
      Gm         F            Eb    F
@@ -17,12 +17,12 @@ Gm          F        Gm     F
 Funeral of innocense, oh-whoa
         Gm         F        Bb        Ab      Eb   F
 Painted up in the red and dressed in lead, we are
- 
-[Bridge]
+ </mdiv></section>
+<section type="Bridge"><mdiv>
 Cm Gm Ab Bb
 Cm Gm Ab F
- 
-[Chorus]
+ </mdiv></section>
+<section type="Chorus"><mdiv>
 F Gm F Gm F Gm
 Bb     Cm           Eb       F
 Are we prisoners or renegades?
@@ -33,18 +33,18 @@ Bb     Cm         Eb        F
 Behold visions of burning skies
   F Gm F Gm F Gm   Bb         Cm
 Alas Babylon,     whoa, whoa, whoa
- 
-[Verse 2]
+ </mdiv></section>
+<section type="Verse 2"><mdiv>
 Gm            F       Gm      F
 Mothers of barbarians, oh-whoa
           Gm        F             Bb      Ab      Eb   F
 Were your young so spry when they left to die? We are
- 
-[Bridge]
+ </mdiv></section>
+<section type="Bridge"><mdiv>
 Cm Gm Ab Bb
 Cm Gm Ab F
- 
-[Chorus]
+ </mdiv></section>
+<section type="Chorus"><mdiv>
 F Gm F Gm F Gm
 Bb     Cm           Eb       F
 Are we prisoners or renegades?
@@ -55,12 +55,12 @@ Bb     Cm         Eb        F
 Behold visions of burning skies
   F Gm F Gm F Gm   Bb         Cm
 Alas Babylon,     whoa, whoa, whoa
- 
-[Middle]
+ </mdiv></section>
+<section type="Middle"><mdiv>
 E C E C E C E C E C E C E C E C 
 G Eb F
- 
-[Chorus]
+ </mdiv></section>
+<section type="Chorus"><mdiv>
 F Gm F Gm F Gm
 Bb     Cm           Eb       F
 Are we prisoners or renegades?
@@ -71,6 +71,7 @@ Bb     Cm         Eb        F
 Behold visions of burning skies
   F Gm F Gm F Gm   Bb         Cm
 Alas Babylon,     whoa, whoa, whoa
- 
-[Outro]
+ </mdiv></section>
+<section type="Outro"><mdiv>
 F Gm F Gm F Gm
+</mdiv></section></music></mei>

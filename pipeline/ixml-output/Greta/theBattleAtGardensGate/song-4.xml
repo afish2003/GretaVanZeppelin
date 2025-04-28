@@ -1,14 +1,14 @@
-Built By Nations
-The Battle of Garden's Gate
-Greta Van Fleet
-G
+<?xml version="1.0" encoding="UTF-8"?><mei ixml:state="ambiguous" xmlns:ixml="http://invisiblexml.org/NS"><music><title>Built By Nations</title>
+<album>The Battle of Garden's Gate</album>
+<artist>Greta Van Fleet</artist>
+<key>G</key>
 
-[Intro]
+<section type="Intro"><mdiv>
 Em Em7 D C/G Em7
 D C/G
  
- 
-[Verse 1]
+ </mdiv></section>
+<section type="Verse 1"><mdiv>
 Em7                         G       C/G
    When a man must walk the Devil's road oh
 Em7                        C/G
@@ -18,8 +18,8 @@ Em7                        G        C/G
 Em7                          C/G
    With no pride to call his own
  
- 
-[Chorus]
+ </mdiv></section>
+<section type="Chorus"><mdiv>
 Em7                  D           C/G
    Whoa, the trouble gets so loud
 Em7                       D            C/G
@@ -29,8 +29,8 @@ Em7                  D      C/G
 Em7           D           C/G Em
 whoa, on this battleground
  
- 
-[Verse 2]
+ </mdiv></section>
+<section type="Verse 2"><mdiv>
 Em7                      G      C/G
    Who is he to think of his survi val
 Em7                         C/G
@@ -40,8 +40,8 @@ Em7                      G         C/G
 Em7                       C/G
    Where companions are alone
  
- 
-[Chorus]
+ </mdiv></section>
+<section type="Chorus"><mdiv>
 Em7                  D           C/G
    Whoa, the trouble gets so loud
 Em7                       D            C/G
@@ -51,17 +51,17 @@ Em7                  D      C/G
 Em7           D           C/G
 whoa, on this battleground
  
- 
-[Bridge]
+ </mdiv></section>
+<section type="Bridge"><mdiv>
 C/G
  
- 
-[Solo]
+ </mdiv></section>
+<section type="Solo"><mdiv>
 Em7 D C/G D A Em7
 D C/G D A
  
- 
-[Chorus]
+ </mdiv></section>
+<section type="Chorus"><mdiv>
 Em7                  D           C/G
    Whoa, the trouble gets so loud
 D           A
@@ -71,6 +71,7 @@ Em7                  D      C/G
 D      A
 Warrior
  
- 
-[Outro]
+ </mdiv></section>
+<section type="Outro"><mdiv>
 Em
+</mdiv></section></music></mei>

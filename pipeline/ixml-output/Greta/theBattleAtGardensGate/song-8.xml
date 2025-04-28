@@ -1,19 +1,19 @@
-Light My Love
-The Battle of Garden's Gate
-Greta Van Fleet
-F
+<?xml version="1.0" encoding="UTF-8"?><mei ixml:state="ambiguous" xmlns:ixml="http://invisiblexml.org/NS"><music><title>Light My Love</title>
+<album>The Battle of Garden's Gate</album>
+<artist>Greta Van Fleet</artist>
+<key>F</key>
 
-[Intro]
+<section type="Intro"><mdiv>
 Bb F C Bb
 G Bb
  
- 
-[Main Riff]
+ </mdiv></section>
+<section type="Main Riff"><mdiv>
 F C Bb F
 C Bb
  
- 
-[Verse 1]
+ </mdiv></section>
+<section type="Verse 1"><mdiv>
 F       C        Bb
 Can you light my love?
 F              C             Bb
@@ -23,8 +23,8 @@ Deeper than oceans you run
 F            C           Bb
 Watch as our world has begun
  
- 
-[Pre-Chorus]
+ </mdiv></section>
+<section type="Pre-Chorus"><mdiv>
      C                   Bb
 Your mind is a stream of colors
   C                  Bb
@@ -34,20 +34,20 @@ A land of infinite wonders
         C
 Billion light years from here now
  
- 
-[Chorus]
+ </mdiv></section>
+<section type="Chorus"><mdiv>
 F C Bb        F C         Bb
     Whoa, hey,   light my love
 F Am Bb        F C         Bb  F C
      Whoa, hey,   light my love
  
- 
-[Main Riff]
+ </mdiv></section>
+<section type="Main Riff"><mdiv>
 F C Bb F
 C Bb
  
- 
-[Verse 2]
+ </mdiv></section>
+<section type="Verse 2"><mdiv>
 F           C           Bb
 I have seen pictures of time
     F               C         Bb
@@ -57,8 +57,8 @@ A grand revolution outlined
 F             C           Bb
 Hate bound by fear will unwind
  
- 
-[Pre-Chorus]
+ </mdiv></section>
+<section type="Pre-Chorus"><mdiv>
      C                   Bb
 Your mind is a stream of colors
   C                  Bb
@@ -68,29 +68,29 @@ A land of infinite wonders
         C
 Billion light years from here now
  
- 
-[Chorus]
+ </mdiv></section>
+<section type="Chorus"><mdiv>
 F C Bb        F C         Bb
     Whoa, hey,   light my love
 F Am Bb        F C         Bb  F C
      Whoa, hey,   light my love
  
- 
-[Bridge]
+ </mdiv></section>
+<section type="Bridge"><mdiv>
 G    Bb
  Oh, hey
 G        Bb C
  Ooh, ooh
  
- 
-[Chorus]
+ </mdiv></section>
+<section type="Chorus"><mdiv>
 Bb        F C         Gm
 Whoa, hey,   light my love
 F Am Bb        F C         Gm
      Whoa, hey,   light my love
  
- 
-[Outro]
+ </mdiv></section>
+<section type="Outro"><mdiv>
 F C Bb
 Ah
 F C Gm
@@ -109,4 +109,4 @@ F    C  Gm
 Hey, hey
 F    C  Bb
 Hey, hey
-S
+S</mdiv></section></music></mei>

@@ -1,26 +1,26 @@
-The Weight of Dreams
-The Battle of Garden's Gate
-Greta Van Fleet
-C
+<?xml version="1.0" encoding="UTF-8"?><mei ixml:state="ambiguous" xmlns:ixml="http://invisiblexml.org/NS"><music><title>The Weight of Dreams</title>
+<album>The Battle of Garden's Gate</album>
+<artist>Greta Van Fleet</artist>
+<key>C</key>
 
-[Intro]
+<section type="Intro"><mdiv>
 Am G F Am7 Asus2 Dm F
 Am G F Am7 Asus2 G
 Am G F Am7 Asus2 Dm F
 Am G F Am7 Asus2 Fmaj7
  
- 
-[Theme 1]
+ </mdiv></section>
+<section type="Theme 1"><mdiv>
 Am Bm(b9) C Fmaj7 Am
 Bm(b9) C Fmaj7
  
- 
-[Interlude]
+ </mdiv></section>
+<section type="Interlude"><mdiv>
 Am Bm(b9) C Fmaj7 E
 Am Bm(b9) C Fmaj7
  
- 
-[Verse 1]
+ </mdiv></section>
+<section type="Verse 1"><mdiv>
 Am                 Bm(b9)      C     Fmaj7
 All across the west      we traveled wayward for
 E Am                       Bm(b9) C
@@ -30,13 +30,13 @@ Fmaj7 E Am                 Bm(b9)       C    Fmaj7
    Am                      Bm(b9) C        Fmaj7
 To claim the wealth that we        had sold
  
- 
-[Pre-Chorus]
+ </mdiv></section>
+<section type="Pre-Chorus"><mdiv>
 Am Bm(b9) C G Fmaj7 Am C Em
 Am Bm(b9) C G Fmaj7 Am C Em
  
- 
-[Chorus]
+ </mdiv></section>
+<section type="Chorus"><mdiv>
 Am        G               E7     Fmaj7
 Gold mines melting men in the sunshine
 C/E Am          G                    E7        Fmaj7
@@ -46,13 +46,13 @@ C/E Am        G               E7     Fmaj7
 C/E Am          G                    E7        Fmaj7 C/E Am
     Spoiled wine tastes so sweet, we have gone blind
  
- 
-[Interlude]
+ </mdiv></section>
+<section type="Interlude"><mdiv>
 Am Em/A D/A Am7 Am Fmaj7
 G
  
- 
-[Verse 2]
+ </mdiv></section>
+<section type="Verse 2"><mdiv>
 E   Am               Bm(b9)   C       Fmaj7
  We stole from her a cloak of studded majesty
 E    Am                   Bm(b9) C
@@ -62,15 +62,15 @@ Fmaj7 E Am                  Bm(b9)      C       Fmaj7
     Am                   Bm(b9) C    Fmaj7
 And all of us have turned        away
  
- 
-[Pre-Chorus]
+ </mdiv></section>
+<section type="Pre-Chorus"><mdiv>
 Am Bm(b9) C G Fmaj7 Am C Em
 Am Bm(b9) C G Fmaj7 Am C Em
 Am Bm(b9) C G Fmaj7 Am C Em
 Am Bm(b9) C G Fmaj7 Am C Em
  
- 
-[Chorus]
+ </mdiv></section>
+<section type="Chorus"><mdiv>
 Am        G               E7     Fmaj7
 Gold mines melting men in the sunshine
 C/E Am          G                    E7        Fmaj7
@@ -80,19 +80,19 @@ C/E Am        G               E7     Fmaj7
 C/E Am          G                    E7        Fmaj7 C/E F
     Spoiled wine tastes so sweet, we have gone blind
  
- 
-[Theme 2]
+ </mdiv></section>
+<section type="Theme 2"><mdiv>
 F C/E Am C/E G C/E Am
 C G Fmaj7 C/E Am C/E G
 C/E Am C G F C/E Am
  
- 
-[Interlude]
+ </mdiv></section>
+<section type="Interlude"><mdiv>
 Am F Cmaj7 E7
 Am Fmaj7 Bm/D
  
- 
-[Theme 3]
+ </mdiv></section>
+<section type="Theme 3"><mdiv>
 Am Bm(b9) C G/D F Am C Em
 Am Bm(b9) C G/D F Am C Em
 Am Bm(b9) C G/D F Am C Em
@@ -100,7 +100,8 @@ Am Bm(b9) C G/D F Am C Em
 Am Bm(b9) C G/D F Am C Em
 Am Bm(b9) C G/D F Am C Em
  
- 
-[Outro]
+ </mdiv></section>
+<section type="Outro"><mdiv>
 Am Em/A Am7 Am
 Fmaj7
+</mdiv></section></music></mei>

@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mei ixml:state="ambiguous"
+     xmlns:ixml="http://invisiblexml.org/NS">
+   <music>
+      <title>Heat Above</title>
+      <album>The Battle of Garden's Gate</album>
+      <artist>Greta Van Fleet</artist>
+      <key>Eb</key>
+      <section type="Intro">
+         <chordLine>
+            <chord num="1">Eb</chord>
+            <chord num="4">Ab</chord>
+            <chord num="5">Bb</chord>
+            <chord num="1">Eb</chord>
+            <chord num="4">Ab</chord>
+            <chord num="5">Bb</chord>
+            <chord num="1">Eb</chord>
+            <chord num="5">Bb</chord>
+            <chord num="4">Ab</chord>
+            <chord num="6m">Cm</chord>
+            <chord num="5">Bb</chord>
+            <chord num="3m">Gm</chord>
+            <chord num="4">Ab</chord>
+            <chord num="1">Eb</chord>
+            <chord num="5">Bb</chord>
+            <chord num="4">Ab</chord>
+            <chord num="1">Eb</chord>
+            <chord num="5">Bb</chord>
+            <chord num="4">Ab</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Verse 1">
+         <chordLine>
+            <chord num="1">Eb</chord>
+            <chord num="5">Bb</chord>
+            <chord num="4">Ab</chord>
+         </chordLine>
+         <lyrics>Sorrows of the Earth</lyrics>
+         <chordLine>
+            <chord num="1">Eb</chord>
+            <chord num="5">Bb</chord>
+            <chord num="4">Ab</chord>
+         </chordLine>
+         <lyrics>May our tears of rain wash down to bathe you</lyrics>
+         <chordLine>
+            <chord num="1">Eb</chord>
+            <chord num="5">Bb</chord>
+            <chord num="4">Ab</chord>
+            <chord num="1">Eb</chord>
+            <chord num="5">Bb</chord>
+            <chord num="4">Ab</chord>
+         </chordLine>
+         <lyrics>This is what life is worth When the fires still burn and rage all around</lyrics>
+         <chordLine>
+            <chord num="6m">Cm</chord>
+            <chord num="5">Bb</chord>
+            <chord num="3m">Gm</chord>
+            <chord num="4">Ab</chord>
+         </chordLine>
+         <lyrics>Can you hear that dreadful sound?</lyrics>
+         <chordLine>
+            <chord num="6m">Cm</chord>
+            <chord num="5">Bb</chord>
+            <chord num="3m">Gm</chord>
+            <chord num="4">Ab</chord>
+            <chord num="4">Ab</chord>
+         </chordLine>
+         <lyrics>Fire still burning on the ground</lyrics>
+      </section>
+      <section type="Verse 2">
+         <chordLine>
+            <chord num="1">Eb</chord>
+            <chord num="5">Bb</chord>
+            <chord num="4">Ab</chord>
+            <chord num="1">Eb</chord>
+            <chord num="5">Bb</chord>
+            <chord num="4">Ab</chord>
+         </chordLine>
+         <lyrics>Follow the fearsome sound As they march to battle, hear the drums pound</lyrics>
+         <chordLine>
+            <chord num="1">Eb</chord>
+            <chord num="5">Bb</chord>
+            <chord num="4">Ab</chord>
+            <chord num="1">Eb</chord>
+            <chord num="5">Bb</chord>
+            <chord num="4">Ab</chord>
+         </chordLine>
+         <lyrics>We do not fight for war But to save the lives of those who do so</lyrics>
+         <chordLine>
+            <chord num="6m">Cm</chord>
+            <chord num="5">Bb</chord>
+            <chord num="3m">Gm</chord>
+            <chord num="4">Ab</chord>
+         </chordLine>
+         <lyrics>Can you hear that dreadful sound?</lyrics>
+         <chordLine>
+            <chord num="6m">Cm</chord>
+            <chord num="5">Bb</chord>
+            <chord num="3m">Gm</chord>
+            <chord num="4">Ab</chord>
+            <chord num="4">Ab</chord>
+         </chordLine>
+         <lyrics>Fire still burning on the ground</lyrics>
+      </section>
+      <section type="Chorus">
+         <chordLine>
+            <chord num="1">Eb</chord>
+            <chord num="4">Ab</chord>
+         </chordLine>
+         <lyrics>Can you feel my love?</lyrics>
+         <chordLine>
+            <chord num="5">Bb</chord>
+            <chord num="1">Eb</chord>
+            <chord num="4">Ab</chord>
+         </chordLine>
+         <lyrics>Rising with the heat above</lyrics>
+         <chordLine>
+            <chord num="5">Bb</chord>
+            <chord num="1">Eb</chord>
+            <chord num="4">Ab</chord>
+         </chordLine>
+         <lyrics>Life's the story of</lyrics>
+         <chordLine>
+            <chord num="5">Bb</chord>
+            <chord num="1">Eb</chord>
+            <chord num="4">Ab</chord>
+         </chordLine>
+         <lyrics>Ascending to the stars as one</lyrics>
+         <chordLine>
+            <chord num="5">Bb</chord>
+            <chord num="1">Eb</chord>
+            <chord num="5">Bb</chord>
+            <chord num="4">Ab</chord>
+            <chord num="6m">Cm</chord>
+            <chord num="5">Bb</chord>
+            <chord num="3m">Gm</chord>
+            <chord num="4">Ab</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Verse 3">
+         <chordLine>
+            <chord num="1">Eb</chord>
+            <chord num="5">Bb</chord>
+            <chord num="4">Ab</chord>
+            <chord num="1">Eb</chord>
+            <chord num="5">Bb</chord>
+            <chord num="4">Ab</chord>
+         </chordLine>
+         <lyrics>Marching across the land Is a peaceful army joining the band</lyrics>
+         <chordLine>
+            <chord num="1">Eb</chord>
+            <chord num="5">Bb</chord>
+            <chord num="4">Ab</chord>
+         </chordLine>
+         <lyrics>Walking hand in hand</lyrics>
+         <chordLine>
+            <chord num="1">Eb</chord>
+            <chord num="5">Bb</chord>
+            <chord num="4">Ab</chord>
+         </chordLine>
+         <lyrics>To an anthem loudly sung where they stand</lyrics>
+         <chordLine>
+            <chord num="6m">Cm</chord>
+            <chord num="5">Bb</chord>
+            <chord num="3m">Gm</chord>
+            <chord num="4">Ab</chord>
+         </chordLine>
+         <lyrics>Can you hear that dreadful sound?</lyrics>
+         <chordLine>
+            <chord num="6m">Cm</chord>
+            <chord num="5">Bb</chord>
+            <chord num="3m">Gm</chord>
+            <chord num="4">Ab</chord>
+            <chord num="4">Ab</chord>
+         </chordLine>
+         <lyrics>Fire still burning on the ground</lyrics>
+      </section>
+      <section type="Break">
+         <chordLine>
+            <chord num="6m">Cm</chord>
+            <chord num="5">Bb</chord>
+            <chord num="3m">Gm</chord>
+            <chord num="4">Ab</chord>
+            <chord num="6m">Cm</chord>
+            <chord num="1">Eb</chord>
+            <chord num="5">Bb</chord>
+            <chord num="3m">Gm</chord>
+            <chord num="4">Ab</chord>
+            <chord num="5">Bb</chord>
+            <chord num="6m">Cm</chord>
+            <chord num="5">Bb</chord>
+            <chord num="1">Eb</chord>
+            <chord num="5">Bb</chord>
+            <chord num="4">Ab</chord>
+         </chordLine>
+         <lyrics>Lalala lalala la</lyrics>
+         <chordLine>
+            <chord num="3m">Gm</chord>
+            <chord num="4">Ab</chord>
+            <chord num="5">Bb</chord>
+            <chord num="6m">Cm</chord>
+            <chord num="5">Bb</chord>
+            <chord num="1">Eb</chord>
+            <chord num="5">Bb</chord>
+            <chord num="4">Ab</chord>
+            <chord num="5">Bb</chord>
+            <chord num="4">Ab</chord>
+         </chordLine>
+         <lyrics>Lalala lalala la</lyrics>
+      </section>
+      <section type="Chorus">
+         <chordLine>
+            <chord num="1">Eb</chord>
+            <chord num="4">Ab</chord>
+         </chordLine>
+         <lyrics>Can you feel my love?</lyrics>
+         <chordLine>
+            <chord num="5">Bb</chord>
+            <chord num="1">Eb</chord>
+            <chord num="4">Ab</chord>
+         </chordLine>
+         <lyrics>Rising with the heat above</lyrics>
+         <chordLine>
+            <chord num="5">Bb</chord>
+            <chord num="1">Eb</chord>
+            <chord num="4">Ab</chord>
+         </chordLine>
+         <lyrics>Life's the story of</lyrics>
+         <chordLine>
+            <chord num="5">Bb</chord>
+            <chord num="1">Eb</chord>
+            <chord num="4">Ab</chord>
+            <chord num="5">Bb</chord>
+         </chordLine>
+         <lyrics>Ascending to the stars as one</lyrics>
+      </section>
+      <section type="Break">
+         <chordLine>
+            <chord num="1">Eb</chord>
+            <chord num="4">Ab</chord>
+            <chord num="5">Bb</chord>
+            <chord num="1">Eb</chord>
+            <chord num="4">Ab</chord>
+            <chord num="5">Bb</chord>
+            <chord num="1">Eb</chord>
+            <chord num="4">Ab</chord>
+            <chord num="5">Bb</chord>
+            <chord num="1">Eb</chord>
+            <chord num="4">Ab</chord>
+            <chord num="5">Bb</chord>
+            <chord num="1">Eb</chord>
+            <chord num="4">Ab</chord>
+            <chord num="5">Bb</chord>
+            <chord num="1">Eb</chord>
+            <chord num="4">Ab</chord>
+            <chord num="5">Bb</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Outro">
+         <chordLine>
+            <chord num="1">Eb</chord>
+            <chord num="4">Ab</chord>
+            <chord num="5">Bb</chord>
+            <chord num="1">Eb</chord>
+            <chord num="4">Ab</chord>
+            <chord num="5">Bb</chord>
+            <chord num="6">C</chord>
+         </chordLine>
+      </section>
+   </music>
+</mei>

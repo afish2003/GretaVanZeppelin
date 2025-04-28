@@ -1,9 +1,9 @@
-Trip the Light Fantastic
-The Battle of Garden's Gate
-Greta Van Fleet
-E
+<?xml version="1.0" encoding="UTF-8"?><mei ixml:state="ambiguous" xmlns:ixml="http://invisiblexml.org/NS"><music><title>Trip the Light Fantastic</title>
+<album>The Battle of Garden's Gate</album>
+<artist>Greta Van Fleet</artist>
+<key>E</key>
 
-[Verse 1]
+<section type="Verse 1"><mdiv>
     E          A
 Enter the flow
     E
@@ -26,8 +26,8 @@ Woah
 E                      A                 E            A    E     A     G    B
 Ram, ram, ram, ram, ram, ram, ram, ram, ram, ram
  
- 
-[Chorus]
+ </mdiv></section>
+<section type="Chorus"><mdiv>
 E            A       E
 To comet across the blistering hue
 E            A       E
@@ -37,8 +37,8 @@ Away from the world we have riddled with scars
 E                 A           E
 To be wholly free and amongst the stars
  
- 
-[Verse 2]
+ </mdiv></section>
+<section type="Verse 2"><mdiv>
     E          A
 You are the land
                E
@@ -59,8 +59,8 @@ Travelers in time searching for the unknown
 E                      A                 E            A    E     A     G    B
 Ram, ram, ram, ram, ram, ram, ram, ram, ram, ram
  
- 
-[Chorus]
+ </mdiv></section>
+<section type="Chorus"><mdiv>
 E          D A       E
 To comet across the blistering hue
 E          D  A       E
@@ -70,8 +70,8 @@ Away from the world we have riddled with scars
 E                A                  E
 To be wholly free and amongst the stars
  
- 
-[Instrumental]
+ </mdiv></section>
+<section type="Instrumental"><mdiv>
 E Em7 E A C F#m
  
 E Em7 E A C Am
@@ -82,8 +82,8 @@ E Em7 E A C F#m
 E Em7 E A C D
 Ah sri rama, jayam, ram ram ram ram
  
- 
-[Chorus]
+ </mdiv></section>
+<section type="Chorus"><mdiv>
 E            A       E
 To comet across the blistering hue
 E            A       E
@@ -93,7 +93,8 @@ Away from the world we have riddled with scars
 E                A                  E
 To be wholly free and amongst the stars
  
- 
-[Outro]
+ </mdiv></section>
+<section type="Outro"><mdiv>
 D     A           E
           Yeah, Hey
+</mdiv></section></music></mei>

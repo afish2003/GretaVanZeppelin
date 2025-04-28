@@ -11,8 +11,8 @@
     <!-- ================================================================ -->
     <p:option name="debug" as="xs:boolean" static="true" select="false()"/>
 
-    <p:directory-list name="sourceColl" path="ledZeppelinIV"
-        include-filter="song-[0-9].txt"
+    <p:directory-list name="sourceColl" path="theBattleAtGardensGate"
+        include-filter="song-[0-9][0-9]?.txt"
         detailed="true"/>
     
     <p:for-each>
@@ -21,9 +21,8 @@
         <!-- ebb: Don't worry. The above line is NOT a literal filepath. It's just XProc-speak for each individual file in the directory. -->
         <p:variable name="filename" as="xs:string" select="//c:file/@name ! substring-before(., '.txt')"/>
         
-        <!-- Change filepath for each folder of songs -->
-        <p:load href="ledZeppelinIV/{//c:file/@name}"/>
-        
+        <p:load href="theBattleAtGardensGate/{//c:file/@name}"/>
+    
         <p:identity message="Fetched plain text input from {$filename}"/>
         
         <!-- ================================================================ -->
@@ -37,19 +36,25 @@
             </p:with-input>
         </p:invisible-xml>
         <p:identity use-when="$debug" message="Added markup with ixml"/>
-    
+        <p:store name="simple-XML" href="../../ixml-output/Greta/theBattleAtGardensGate/{$filename}.xml"/>
+        
         <!-- ================================================================ -->
         <!-- Finish markup with XSLT                                          -->
         <!-- ================================================================ -->
-        <p:store name="simple-XML" href="../../ixml-output/Zeppelin/ledZeppelinIV/{$filename}.xml"/>
         <p:xslt>
-            <p:with-input port="source">
-                <p:pipe step="simple-XML" port="result"/>
-            </p:with-input>
             <p:with-input port="stylesheet" href="../../full-markup.xsl"/>
         </p:xslt>
+        
+        <p:xslt>
+            <p:with-input port="stylesheet" href="../../chordsToNumbers.xsl"/>
+        </p:xslt>
+        
         <p:identity message="Running the Identity Transformation XSLT to develop the XML"/>
-        <p:store name="full-xml-out" href="../../full-xml-output/Zeppelin/ledZeppelinIV/{$filename}.xml" serialization="map {
+        
+        <!-- ================================================================ -->
+        <!-- Output finalized XML                                             -->
+        <!-- ================================================================ -->
+        <p:store name="full-xml-out" href="../../full-xml-output/Greta/theBattleAtGardensGate/{$filename}.xml" serialization="map {
             'method' : 'xml',
             'indent' : true(),
             'omit-xml-declaration' : false()

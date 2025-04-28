@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mei ixml:state="ambiguous"
+     xmlns:ixml="http://invisiblexml.org/NS">
+   <music>
+      <title>Broken Bells</title>
+      <album>The Battle of Garden's Gate</album>
+      <artist>Greta Van Fleet</artist>
+      <key>D</key>
+      <section type="Intro">
+         <chordLine>
+            <chord num="6m">Bm</chord>
+            <chord num="1">D</chord>
+            <chord num="2">E</chord>
+            <chord num="4maj7">Gmaj7</chord>
+            <chord num="6m">Bm</chord>
+            <chord num="1">D</chord>
+            <chord num="2">E</chord>
+            <chord num="4maj7">Gmaj7</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Verse 1">
+         <chordLine>
+            <chord num="6m">Bm</chord>
+            <chord num="1">D</chord>
+         </chordLine>
+         <lyrics>I can see the faces through the broken glass</lyrics>
+         <chordLine>
+            <chord num="2">E</chord>
+         </chordLine>
+         <lyrics>No longer pass</lyrics>
+         <chordLine>
+            <chord num="4maj7">Gmaj7</chord>
+            <chord num="6m">Bm</chord>
+            <chord num="1">D</chord>
+         </chordLine>
+         <lyrics>Looking at the sky, I see the city lights</lyrics>
+         <chordLine>
+            <chord num="2">E</chord>
+            <chord num="4maj7">Gmaj7</chord>
+         </chordLine>
+         <lyrics>But no star fights</lyrics>
+      </section>
+      <section type="Pre-Chorus">
+         <chordLine>
+            <chord num="1">D</chord>
+            <chord num="5">A</chord>
+            <chord num="4">G</chord>
+            <chord num="4maj7">Gmaj7</chord>
+         </chordLine>
+         <lyrics>I never want to fall asleep</lyrics>
+         <chordLine>
+            <chord num="1">D</chord>
+            <chord num="5">A</chord>
+            <chord num="4">G</chord>
+            <chord num="4maj7">Gmaj7</chord>
+         </chordLine>
+         <lyrics>Within my dreams, the weight we sow, we reap</lyrics>
+         <chordLine>
+            <chord num="6m">Bm</chord>
+            <chord num="5">A</chord>
+            <chord num="4">G</chord>
+            <chord num="4maj7">Gmaj7</chord>
+         </chordLine>
+         <lyrics>Though I believe the sun still shines</lyrics>
+         <chordLine>
+            <chord num="6m">Bm</chord>
+            <chord num="5">A</chord>
+            <chord num="4">G</chord>
+            <chord num="4maj7">Gmaj7</chord>
+         </chordLine>
+         <lyrics>And I believe there comes a time</lyrics>
+      </section>
+      <section type="Chorus">
+         <chordLine>
+            <chord num="6m">Bm</chord>
+            <chord num="5">A</chord>
+            <chord num="4">G</chord>
+         </chordLine>
+         <lyrics>When out of silence, we will sing</lyrics>
+         <chordLine>
+            <chord num="6m">Bm</chord>
+            <chord num="5">A</chord>
+            <chord num="4">G</chord>
+         </chordLine>
+         <lyrics>And even broken bells will ring</lyrics>
+         <chordLine>
+            <chord num="6m">Bm</chord>
+            <chord num="5">A</chord>
+            <chord num="4">G</chord>
+         </chordLine>
+         <lyrics>Not all the answers are the same</lyrics>
+         <chordLine>
+            <chord num="6m">Bm</chord>
+            <chord num="5">A</chord>
+            <chord num="4">G</chord>
+         </chordLine>
+         <lyrics>Yet we still play the game</lyrics>
+      </section>
+      <section type="Bridge">
+         <chordLine>
+            <chord num="1">D</chord>
+            <chord num="2">E</chord>
+            <chord num="4maj7">Gmaj7</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Verse 2">
+         <chordLine>
+            <chord num="6m">Bm</chord>
+            <chord num="1">D</chord>
+         </chordLine>
+         <lyrics>Sweeping off the pavement with a parlor broom</lyrics>
+         <chordLine>
+            <chord num="2">E</chord>
+         </chordLine>
+         <lyrics>Going nowhere soon</lyrics>
+         <chordLine>
+            <chord num="4maj7">Gmaj7</chord>
+            <chord num="6m">Bm</chord>
+            <chord num="1">D</chord>
+         </chordLine>
+         <lyrics>Between the cracks of sidewalk, there's a flower grown</lyrics>
+         <chordLine>
+            <chord num="2">E</chord>
+            <chord num="4maj7">Gmaj7</chord>
+         </chordLine>
+         <lyrics>Beyond the stone</lyrics>
+      </section>
+      <section type="Pre-Chorus">
+         <chordLine>
+            <chord num="1">D</chord>
+            <chord num="5">A</chord>
+            <chord num="4">G</chord>
+            <chord num="4maj7">Gmaj7</chord>
+         </chordLine>
+         <lyrics>I never want to fall asleep</lyrics>
+         <chordLine>
+            <chord num="1">D</chord>
+            <chord num="5">A</chord>
+            <chord num="4">G</chord>
+            <chord num="4maj7">Gmaj7</chord>
+         </chordLine>
+         <lyrics>Within my dreams, the weight we sow, we reap</lyrics>
+         <chordLine>
+            <chord num="6m">Bm</chord>
+            <chord num="5">A</chord>
+            <chord num="4">G</chord>
+            <chord num="4maj7">Gmaj7</chord>
+         </chordLine>
+         <lyrics>Though I believe the sun still shines</lyrics>
+         <chordLine>
+            <chord num="6m">Bm</chord>
+            <chord num="5">A</chord>
+            <chord num="4">G</chord>
+            <chord num="4maj7">Gmaj7</chord>
+         </chordLine>
+         <lyrics>And I believe there comes a time</lyrics>
+      </section>
+      <section type="Chorus">
+         <chordLine>
+            <chord num="6m">Bm</chord>
+            <chord num="5">A</chord>
+            <chord num="4">G</chord>
+         </chordLine>
+         <lyrics>When out of silence, we will sing</lyrics>
+         <chordLine>
+            <chord num="6m">Bm</chord>
+            <chord num="5">A</chord>
+            <chord num="4">G</chord>
+            <chord num="6m">Bm</chord>
+         </chordLine>
+         <lyrics>And even broken bells will ring</lyrics>
+         <chordLine>
+            <chord num="5">A</chord>
+            <chord num="4">G</chord>
+         </chordLine>
+         <lyrics>Not all the answers are the same</lyrics>
+         <chordLine>
+            <chord num="6m">Bm</chord>
+            <chord num="5">A</chord>
+            <chord num="4">G</chord>
+         </chordLine>
+         <lyrics>Yet we still play the game</lyrics>
+         <chordLine>
+            <chord num="6m">Bm</chord>
+            <chord num="5">A</chord>
+            <chord num="4">G</chord>
+            <chord num="4maj7">Gmaj7</chord>
+         </chordLine>
+         <lyrics>Yet we still play the game</lyrics>
+      </section>
+      <section type="Interlude 1">
+         <chordLine>
+            <chord num="1">D</chord>
+            <chord num="2/1">E/D</chord>
+            <chord num="2m/1">Em/D</chord>
+            <chord num="1">D</chord>
+            <chord num="2/1">E/D</chord>
+            <chord num="2m/1">Em/D</chord>
+            <chord num="1">D</chord>
+            <chord num="2">E</chord>
+            <chord num="4">G</chord>
+            <chord num="1">D</chord>
+            <chord num="2">E</chord>
+            <chord num="4">G</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Interlude 2">
+         <chordLine>
+            <chord num="6madd11">Bmadd11</chord>
+            <chord num="4^6">G6</chord>
+            <chord num="6madd11">Bmadd11</chord>
+            <chord num="4^6">G6</chord>
+            <chord num="6madd11">Bmadd11</chord>
+            <chord num="4^6">G6</chord>
+            <chord num="6madd11">Bmadd11</chord>
+            <chord num="4^6">G6</chord>
+            <chord num="6madd11">Bmadd11</chord>
+            <chord num="4^6">G6</chord>
+            <chord num="6madd11">Bmadd11</chord>
+            <chord num="4^6">G6</chord>
+         </chordLine>
+         <lyrics>Oh...</lyrics>
+      </section>
+      <section type="Solo">
+         <chordLine>
+            <chord num="6madd11">Bmadd11</chord>
+            <chord num="4^6">G6</chord>
+            <chord num="6madd11">Bmadd11</chord>
+            <chord num="4^6">G6</chord>
+            <chord num="6madd11">Bmadd11</chord>
+            <chord num="4^6">G6</chord>
+            <chord num="6madd11">Bmadd11</chord>
+            <chord num="4^6">G6</chord>
+            <chord num="6madd11">Bmadd11</chord>
+            <chord num="4^6">G6</chord>
+            <chord num="6madd11">Bmadd11</chord>
+            <chord num="4^6">G6</chord>
+            <chord num="6madd11">Bmadd11</chord>
+            <chord num="4^6">G6</chord>
+            <chord num="6madd11">Bmadd11</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Chorus">
+         <chordLine>
+            <chord num="4^6">G6</chord>
+            <chord num="6m">Bm</chord>
+            <chord num="5">A</chord>
+            <chord num="4">G</chord>
+         </chordLine>
+         <lyrics>When out of silence, we will sing</lyrics>
+         <chordLine>
+            <chord num="6m">Bm</chord>
+            <chord num="5">A</chord>
+            <chord num="4">G</chord>
+            <chord num="6m">Bm</chord>
+         </chordLine>
+         <lyrics>And even broken bells will ring</lyrics>
+         <chordLine>
+            <chord num="5">A</chord>
+            <chord num="4">G</chord>
+         </chordLine>
+         <lyrics>Not all the answers are the same</lyrics>
+         <chordLine>
+            <chord num="6m">Bm</chord>
+            <chord num="5">A</chord>
+            <chord num="4">G</chord>
+         </chordLine>
+         <lyrics>Yet we still play the game</lyrics>
+      </section>
+   </music>
+</mei>

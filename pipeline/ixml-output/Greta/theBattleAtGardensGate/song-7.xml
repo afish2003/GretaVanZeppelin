@@ -1,22 +1,22 @@
-Stardust Chords
-The Battle of Garden's Gate
-Greta Van Fleet
-Eb
+<?xml version="1.0" encoding="UTF-8"?><mei ixml:state="ambiguous" xmlns:ixml="http://invisiblexml.org/NS"><music><title>Stardust Chords</title>
+<album>The Battle of Garden's Gate</album>
+<artist>Greta Van Fleet</artist>
+<key>Eb</key>
 
-[Intro]
+<section type="Intro"><mdiv>
 Cm
 G Adim/Eb G     C     G
   Woah,   woah, woah, woah
 F   Em  Eb
 Ah, ah, woah
  
- 
-[Interlude]
+ </mdiv></section>
+<section type="Interlude"><mdiv>
 Cm/G G Cm/G G
 Cm/G G F
  
- 
-[Verse 1]
+ </mdiv></section>
+<section type="Verse 1"><mdiv>
 Cm/G
 Roses in the bush
 G                Cm/G
@@ -36,12 +36,12 @@ A garden must grow
 Bb      Eb  Cm
   Woah, woah
  
- 
-[Pre-Chorus]
+ </mdiv></section>
+<section type="Pre-Chorus"><mdiv>
 Eb Gm F
  
- 
-[Chorus]
+ </mdiv></section>
+<section type="Chorus"><mdiv>
 Eb              Gm F
 It has been said
                     Eb    Gm
@@ -55,13 +55,13 @@ Gm
 F    Eb Gm D
  Woah
  
- 
-[Interlude]
+ </mdiv></section>
+<section type="Interlude"><mdiv>
 Cm/G G Eb D
 Cm/G G F
  
- 
-[Verse 2]
+ </mdiv></section>
+<section type="Verse 2"><mdiv>
 Cm/G
 Prisoners of the king
 G                   Cm/G
@@ -79,13 +79,13 @@ A renaissance born
 Bb      Eb   Cm
   Woah, woah,
  
- 
-[Pre-Chorus]
+ </mdiv></section>
+<section type="Pre-Chorus"><mdiv>
 Eb    Gm F
   woah
  
- 
-[Chorus]
+ </mdiv></section>
+<section type="Chorus"><mdiv>
 Eb              Gm F
 It has been said
                     Eb    Gm
@@ -99,22 +99,22 @@ Gm
 F    Eb Gm
  Woah
  
- 
-[Bridge]
+ </mdiv></section>
+<section type="Bridge"><mdiv>
 D Eb D Eb
 D Eb D F Bb
 Eb Gm F
  
- 
-[Solo]
+ </mdiv></section>
+<section type="Solo"><mdiv>
 Eb Gm F Eb
 Gm F
 Eb
 Gm F Eb Gm
 F
  
- 
-[Outro]
+ </mdiv></section>
+<section type="Outro"><mdiv>
 Eb   Gm       F
 Woah,  it has been said
 Eb   Gm        F
@@ -123,3 +123,4 @@ Eb   Gm         F
 Woah,  lay down your head
 C   D Eb F
 Woah
+</mdiv></section></music></mei>

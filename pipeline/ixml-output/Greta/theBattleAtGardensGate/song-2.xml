@@ -1,13 +1,13 @@
-My Way, Soon
-The Battle of Garden's Gate
-Greta Van Fleet
-F
+<?xml version="1.0" encoding="UTF-8"?><mei ixml:state="ambiguous" xmlns:ixml="http://invisiblexml.org/NS"><music><title>My Way, Soon</title>
+<album>The Battle of Garden's Gate</album>
+<artist>Greta Van Fleet</artist>
+<key>F</key>
 
-[Intro]
+<section type="Intro"><mdiv>
 F
  
- 
-[Verse 1]
+ </mdiv></section>
+<section type="Verse 1"><mdiv>
 F                  Bb
  I've seen many people
 F                  Bb
@@ -25,12 +25,12 @@ F                  Bb
 F                     Bb
  Will they choose the road?
  
- 
-[Pre-Chorus]
+ </mdiv></section>
+<section type="Pre-Chorus"><mdiv>
 D#/F Bb D#/F Bb D#/F C D#/F C
  
- 
-[Chorus]
+ </mdiv></section>
+<section type="Chorus"><mdiv>
 F               Bb   F               Eb     Bb
  I've packed my bags and I've got my freedom
 Eb Bb F                Bb       F               Eb       Bb
@@ -40,12 +40,12 @@ Eb Bb F             Bb    F                Eb   Bb
 Eb Bb F                  Bb    F                   Eb Bb Eb Bb
       I'll throw out the plans and live with no burden
  
- 
-[Post-Chorus]
+ </mdiv></section>
+<section type="Post-Chorus"><mdiv>
 F
  
- 
-[Verse 2]
+ </mdiv></section>
+<section type="Verse 2"><mdiv>
 F                 Bb
  I have but a lifetime
 F                          Bb
@@ -63,12 +63,12 @@ F                     Bb
 F             Bb
  I choose the road
  
- 
-[Pre-Chorus]
+ </mdiv></section>
+<section type="Pre-Chorus"><mdiv>
 D#/F Bb D#/F Bb D#/F C D#/F C
  
- 
-[Chorus]
+ </mdiv></section>
+<section type="Chorus"><mdiv>
 F               Bb   F               Eb     Bb
  I've packed my bags and I've got my freedom
 Eb Bb F                Bb       F               Eb       Bb
@@ -78,17 +78,17 @@ Eb Bb F             Bb    F                Eb   Bb
 Eb Bb F                  Bb    F                   Eb Bb Eb Bb
       I'll throw out the plans and live with no burden
  
- 
-[Interlude]
+ </mdiv></section>
+<section type="Interlude"><mdiv>
 F Ab Bb F Eb Bb
  
- 
-[Solo]
+ </mdiv></section>
+<section type="Solo"><mdiv>
 F Ab Bb F Eb Bb F Ab
 Bb F Eb Bb F Ab Bb
  
- 
-[Chorus]
+ </mdiv></section>
+<section type="Chorus"><mdiv>
 F               Bb   F               Eb     Bb
  I've packed my bags and I've got my freedom
 Eb Bb F                Bb       F               Eb  Bb
@@ -98,6 +98,7 @@ Eb Bb F             Bb    F                Eb   Bb
 Eb Bb F                  Bb    F                   Eb Bb Eb
       I'll throw out the plans and live with no burden
  
- 
-[Outro]
+ </mdiv></section>
+<section type="Outro"><mdiv>
 F
+</mdiv></section></music></mei>

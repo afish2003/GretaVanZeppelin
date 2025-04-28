@@ -12,7 +12,7 @@
     <p:option name="debug" as="xs:boolean" static="true" select="false()"/>
 
     <p:directory-list name="sourceColl" path="fromTheFires"
-        include-filter="song-[0-9].txt"
+        include-filter="song-[0-9][0-9]?.txt"
         detailed="true"/>
     
     <p:for-each>

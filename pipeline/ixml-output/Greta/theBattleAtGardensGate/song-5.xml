@@ -1,17 +1,17 @@
-Age of Machine
-The Battle of Garden's Gate
-Greta Van Fleet
-F
+<?xml version="1.0" encoding="UTF-8"?><mei ixml:state="ambiguous" xmlns:ixml="http://invisiblexml.org/NS"><music><title>Age of Machine</title>
+<album>The Battle of Garden's Gate</album>
+<artist>Greta Van Fleet</artist>
+<key>F</key>
 
-[Theme 1]
+<section type="Theme 1"><mdiv>
 Dm G Dm G
 Dm G Dm
   G Dm G Dm G
 Ah
 Dm G Dm G
  
- 
-[Verse 1]
+ </mdiv></section>
+<section type="Verse 1"><mdiv>
 Dm           C
 Perfect child
                          Gsus2
@@ -29,19 +29,19 @@ Heading on a course
                  F     G
 For interstellar shores
  
- 
-[Theme 2]
+ </mdiv></section>
+<section type="Theme 2"><mdiv>
 Dm Em F G F
 C Dm G Dm Em F G F C Dm Bb
 Oh
  
- 
-[Theme 1]
+ </mdiv></section>
+<section type="Theme 1"><mdiv>
 Dm G Dm G
 Dm G Dm G
  
- 
-[Verse 2]
+ </mdiv></section>
+<section type="Verse 2"><mdiv>
 Dm         C
 God machine
                         Gsus2
@@ -59,15 +59,15 @@ No more underscores
             F    G
 Open up the doors
  
- 
-[Theme 2]
+ </mdiv></section>
+<section type="Theme 2"><mdiv>
 Dm Em F G F
 C Dm G Dm Em F G F C Dm Bb
 Oh
 Am7
  
- 
-[Chorus]
+ </mdiv></section>
+<section type="Chorus"><mdiv>
 D
 Feeling
         F
@@ -83,13 +83,13 @@ You have been cheated
         Am         G
 You have  retreated
  
- 
-[Solo]
+ </mdiv></section>
+<section type="Solo"><mdiv>
 D F C Am
 D F C Am
  
- 
-[Chorus]
+ </mdiv></section>
+<section type="Chorus"><mdiv>
 D
 Feeling
         F
@@ -105,23 +105,24 @@ You have been cheated
         Am         Bb
 You have  retreated
  
- 
-[Bridge]
+ </mdiv></section>
+<section type="Bridge"><mdiv>
 G
 Oh
  
- 
-[Theme 1]
+ </mdiv></section>
+<section type="Theme 1"><mdiv>
 Dm G Dm G
 Dm G Dm Eb
 Dm G Dm Eb
  
- 
-[Theme 3]
+ </mdiv></section>
+<section type="Theme 3"><mdiv>
 Dm G Dm Eb
  
- 
-[Theme 4]
+ </mdiv></section>
+<section type="Theme 4"><mdiv>
 Dm G Dm Eb
 Dm G Dm Eb
 Dm
+</mdiv></section></music></mei>
