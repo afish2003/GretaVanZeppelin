@@ -22,10 +22,8 @@
                     <!-- Chord Buttons for Each Section -->
                     <div class="chord-container">
                         <xsl:for-each select=".//chord">
-                            <xsl:variable name="chordName" select="."/>
-                            <!-- Each button will display the chord name -->
-                            <button class="chord-button" disabled="">
-                                <xsl:value-of select="$chordName"/>
+                            <button class="chord-button">
+                                <xsl:value-of select="@num"/>
                             </button>
                         </xsl:for-each>
                     </div>
