@@ -1,6 +1,7 @@
 Dazed and Confused
 Led Zeppelin
 Led Zeppelin
+G
 
 [Intro]
 B5 G5 F#5 F5
@@ -87,4 +88,4 @@ Tongue wag so much when I send you the bill?
  
  
 [Outro]
-D5 A5 B5 D5
+D5 A5 B5 D5

@@ -1,6 +1,7 @@
 Black Mountain Side
 Led Zeppelin
 Led Zeppelin
+C#
 
 [Verse 1]
 C#5 A#5 C#5 A#5 C#5 A#5 C#5 A#5
@@ -36,4 +37,4 @@ C#5 A#5 C#5 F# C#5
  
 [Outro]
 C#5 A#5 C#5 A#5 C#5 A#5 C#5 A#5
-C#5 A#5
+C#5 A#5
