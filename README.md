@@ -9,7 +9,7 @@ This project hopes to compare and contrast of their writing styles via aspects s
 ## Resource Processing
 Resource processing will mostly consist of chord sheets with lyrics. XML markup will indicate where the chords line up with the lyrics. We also plan to use some other Python-based NLP to compose digital interactive art to further represent the work of both artists. Our overall analysis will be focused on searching for regular patterns across their songs and/or the chord progressions they chose.
 
-We will be using [**MEI**](https://music-encoding.org) to encode the documents.
+We will not be directly utizing [**MEI**](https://music-encoding.org) to encode the documents, but we will be using it as a guideline for creating our markup scheme. As we proceeded in our project we started to realize MEI diddnt exactly fit our project scope and instead of modifying the complex premade schema of MEI we desiced, for simplicity sake, to create our own.
 
 ## Final Implementation
 We plan to implement and share our research via an [interactive GitHub pages site](https://afish2003.github.io/GretaVanZeppelin/). We also may use resources such as MIDI files to add interactivity and explain the chord progressions of the songs. If we have ample time, we may also compose some procedural node based art in [MaxMSP](https://cycling74.com/products/max) to create abstract but data packed visuals to compare the artists.
