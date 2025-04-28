@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><mei ixml:state="ambiguous" xmlns:ixml="http://invisiblexml.org/NS"><music><title>Black Mountain Side</title>
+<album>Led Zeppelin</album>
+<artist>Led Zeppelin</artist>
+<key>C#</key>
+
+<section type="Verse 1"><mdiv>
+C#5 A#5 C#5 A#5 C#5 A#5 C#5 A#5
+C#5 A#5 C#5 A#5 C#5 A#5 C#5 A#5
+ 
+ </mdiv></section>
+<section type="Chorus"><mdiv>
+C#5 B A#5 C#5 A#5
+C#5 A#5 C#5 F# C#5
+ 
+ </mdiv></section>
+<section type="Verse 2"><mdiv>
+C#5 A#5 C#5 A#5 C#5 A#5 C#5 A#5
+ 
+ </mdiv></section>
+<section type="Chorus"><mdiv>
+C#5 B A#5 C#5 A#5
+C#5 A#5 C#5 F# C#5
+ 
+ </mdiv></section>
+<section type="Verse 3"><mdiv>
+C#5 A#5 C#5 A#5 C#5 A#5
+ 
+ </mdiv></section>
+<section type="Solo"><mdiv>
+C#5 A#5 C#5 A#5 C#5 A#5 C#5 A#5
+ 
+ </mdiv></section>
+<section type="Chorus"><mdiv>
+C#5 B A#5 C#5 A#5
+C#5 A#5 C#5 F# C#5
+ 
+ </mdiv></section>
+<section type="Outro"><mdiv>
+C#5 A#5 C#5 A#5 C#5 A#5 C#5 A#5
+C#5 A#5
+</mdiv></section></music></mei>

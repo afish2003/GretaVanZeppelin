@@ -1,15 +1,15 @@
-You Shook Me
-Led Zeppelin
-Led Zeppelin
-E
+<?xml version="1.0" encoding="UTF-8"?><mei ixml:state="ambiguous" xmlns:ixml="http://invisiblexml.org/NS"><music><title>You Shook Me</title>
+<album>Led Zeppelin</album>
+<artist>Led Zeppelin</artist>
+<key>E</key>
 
-[Intro]
+<section type="Intro"><mdiv>
 A
 E            E
  You know you shook me
  
- 
-[Verse 1]
+ </mdiv></section>
+<section type="Verse 1"><mdiv>
 You shook me all night long.
                   A
 You know you shook me, baby
@@ -22,8 +22,8 @@ A                        E
              E
 I have a bird that whistles
  
- 
-[Verse 2]
+ </mdiv></section>
+<section type="Verse 2"><mdiv>
 And I have birds that sing.
              A
 I have a bird that whistles
@@ -34,23 +34,23 @@ I have a baby, won't do nothing oh!
        E
 Oh, oh, buy a diamond ring.
  
- 
-[Organ Solo]
+ </mdiv></section>
+<section type="Organ Solo"><mdiv>
 E A E B
 A E
  
- 
-[Harmonica Solo]
+ </mdiv></section>
+<section type="Harmonica Solo"><mdiv>
 E A E B
 A E
  
- 
-[Guitar Solo]
+ </mdiv></section>
+<section type="Guitar Solo"><mdiv>
 E A E B
 A E
  
- 
-[Verse 3]
+ </mdiv></section>
+<section type="Verse 3"><mdiv>
             E
 You know you shook me, baby
 You shook me all night long.
@@ -62,8 +62,9 @@ You shook me all night long.
              B
 You shook me so hard, baby.
  
- 
-[Outro]
+ </mdiv></section>
+<section type="Outro"><mdiv>
 A
                            E
 You shook me all night long
+</mdiv></section></music></mei>
