@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mei ixml:state="ambiguous"
+     xmlns:ixml="http://invisiblexml.org/NS">
+   <music>
+      <title>Moby Dick</title>
+      <album>Led Zeppelin II</album>
+      <artist>Led Zeppelin</artist>
+      <key>F</key>
+      <section type="Theme 1">
+         <chordLine>
+            <chord num="6">D</chord>
+            <chord num="1/3">F/A</chord>
+            <chord num="6">D</chord>
+            <chord num="1/3">F/A</chord>
+            <chord num="6">D</chord>
+            <chord num="1/3">F/A</chord>
+            <chord num="6">D</chord>
+            <chord num="1/3">F/A</chord>
+            <chord num="2m">Gm</chord>
+            <chord num="4">Bb</chord>
+            <chord num="2m">Gm</chord>
+            <chord num="4">Bb</chord>
+            <chord num="6">D</chord>
+            <chord num="1/3">F/A</chord>
+            <chord num="6">D</chord>
+            <chord num="1/3">F/A</chord>
+            <chord num="3">A</chord>
+            <chord num="2m">Gm</chord>
+            <chord num="6">D</chord>
+            <chord num="1/3">F/A</chord>
+            <chord num="6">D</chord>
+            <chord num="1/3">F/A</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Theme 2">
+         <chordLine>
+            <chord num="6">D</chord>
+            <chord num="1/3">F/A</chord>
+            <chord num="6">D</chord>
+            <chord num="6">D</chord>
+            <chord num="1/3">F/A</chord>
+            <chord num="6">D</chord>
+            <chord num="2m">Gm</chord>
+            <chord num="4">Bb</chord>
+            <chord num="6">D</chord>
+            <chord num="6">D</chord>
+            <chord num="1/3">F/A</chord>
+            <chord num="6">D</chord>
+            <chord num="3">A</chord>
+            <chord num="2m">Gm</chord>
+            <chord num="6">D</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Outro">
+         <chordLine>
+            <chord num="6">D</chord>
+            <chord num="1/3">F/A</chord>
+            <chord num="6">D</chord>
+            <chord num="2m">Gm</chord>
+            <chord num="4">Bb</chord>
+            <chord num="2m">Gm</chord>
+            <chord num="3">A</chord>
+            <chord num="2m">Gm</chord>
+            <chord num="6">D</chord>
+            <chord num="5">C</chord>
+            <chord num="3">A</chord>
+         </chordLine>
+      </section>
+   </music>
+</mei>

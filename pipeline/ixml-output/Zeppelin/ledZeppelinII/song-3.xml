@@ -1,13 +1,13 @@
-The Lemon Song
-Led Zeppelin II
-Led Zeppelin
-E
+<?xml version="1.0" encoding="UTF-8"?><mei ixml:state="ambiguous" xmlns:ixml="http://invisiblexml.org/NS"><music><title>The Lemon Song</title>
+<album>Led Zeppelin II</album>
+<artist>Led Zeppelin</artist>
+<key>E</key>
 
-[Intro]
+<section type="Intro"><mdiv>
 E7
  
- 
-[Verse 1]
+ </mdiv></section>
+<section type="Verse 1"><mdiv>
                   E7
 I should have quit  you, a long time ago
     A7                   E7
@@ -17,8 +17,8 @@ I wouldn't be here, my children
 A7
   Down on this killing floor
  
- 
-[Verse 2]
+ </mdiv></section>
+<section type="Verse 2"><mdiv>
 E7              E7
   I should have listened, baby, to my second mind
    A7                                    E7
@@ -28,19 +28,19 @@ Everytime I go away and leave you, darling
 A7                         E7
   You send me the blues way  down the line
  
- 
-[Bridge]
+ </mdiv></section>
+<section type="Bridge"><mdiv>
 E7 A7 E7 B7
 A7 E7
  
- 
-[Solo 1]
+ </mdiv></section>
+<section type="Solo 1"><mdiv>
 E7 A7 E7 B7
 A7 E7 A7 E7
 B7 A7 E7
  
- 
-[Interlude]
+ </mdiv></section>
+<section type="Interlude"><mdiv>
 E7
 Baby, yeah
 A7                   E7 B7
@@ -49,8 +49,8 @@ A7            E7
   My, my, my, my
 Take it down a bit
  
- 
-[Verse 3]
+ </mdiv></section>
+<section type="Verse 3"><mdiv>
 E7
   Give it to me, baby
 Keep me satisfied
@@ -64,8 +64,8 @@ Let me tell you, baby
             A7                        E7
 You ain't nothing but a twobit no good  jive
  
- 
-[Verse 4]
+ </mdiv></section>
+<section type="Verse 4"><mdiv>
 E7
   I went to sleep last night, I worked as hard as I can
 I bring home my money
@@ -80,8 +80,8 @@ B7
 A7                     E7
   Down on this killing floor
  
- 
-[Verse 5]
+ </mdiv></section>
+<section type="Verse 5"><mdiv>
 E7
   Squeeze me baby, till the juice runs down my leg
 A7                                             E7
@@ -93,13 +93,13 @@ A7
 E7
   Bed, bed, bed, yeah
  
- 
-[Solo 2]
+ </mdiv></section>
+<section type="Solo 2"><mdiv>
 E7 A7 E7 B7
 A7 E7
  
- 
-[Interlude 2]
+ </mdiv></section>
+<section type="Interlude 2"><mdiv>
 E7
 Hey, hey, hey, hey, hey, hey, hey, hey
 A7
@@ -108,13 +108,14 @@ A7
 baby, baby, baby, baby, baby, baby,
 B7 A7 E7
  
- 
-[Bridge]
+ </mdiv></section>
+<section type="Bridge"><mdiv>
 E7 A7 E7 B7
 A7 E7
  
- 
-[Outro]
+ </mdiv></section>
+<section type="Outro"><mdiv>
 E7 A7 E7
       B7                A7                   E7
 ...to leave my children down on this killing floor
+</mdiv></section></music></mei>

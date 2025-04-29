@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mei ixml:state="ambiguous"
+     xmlns:ixml="http://invisiblexml.org/NS">
+   <music>
+      <title>Living Loving Maid (She's Just a Woman)</title>
+      <album>Led Zeppelin II</album>
+      <artist>Led Zeppelin</artist>
+      <key>A</key>
+      <section type="Verse 1">
+         <chordLine>
+            <chord num="1">A</chord>
+         </chordLine>
+         <lyrics>With a purple umberella and a fifty cent hat</lyrics>
+         <chordLine>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+            <chord num="1">A</chord>
+            <chord num="4">D</chord>
+            <chord num="1">A</chord>
+            <chord num="1">A</chord>
+         </chordLine>
+         <lyrics>Missus cool rides out in her aged Cadillac</lyrics>
+         <chordLine>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+            <chord num="1">A</chord>
+            <chord num="4">D</chord>
+            <chord num="1">A</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Chorus">
+         <chordLine>
+            <chord num="4">D</chord>
+            <chord num="1">A</chord>
+         </chordLine>
+         <lyrics>Come on babe on the roundabout ride on the merry go round</lyrics>
+         <chordLine>
+            <chord num="4">D</chord>
+            <chord num="5">E</chord>
+         </chordLine>
+         <lyrics>We all know what your name is so you better lay your money down</lyrics>
+      </section>
+      <section type="Verse 2">
+         <chordLine>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+            <chord num="1">A</chord>
+            <chord num="4">D</chord>
+            <chord num="1">A</chord>
+            <chord num="1">A</chord>
+         </chordLine>
+         <lyrics>Alimony alimony payin' your bills</lyrics>
+         <chordLine>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+            <chord num="1">A</chord>
+            <chord num="4">D</chord>
+            <chord num="1">A</chord>
+            <chord num="1">A</chord>
+         </chordLine>
+         <lyrics>When your conscience hits you knock it back with pills</lyrics>
+         <chordLine>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+            <chord num="1">A</chord>
+            <chord num="4">D</chord>
+            <chord num="1">A</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Chorus">
+         <chordLine>
+            <chord num="4">D</chord>
+            <chord num="1">A</chord>
+         </chordLine>
+         <lyrics>Come on babe on the roundabout ride on the merry goround</lyrics>
+         <chordLine>
+            <chord num="4">D</chord>
+            <chord num="5">E</chord>
+         </chordLine>
+         <lyrics>We all know what your name is so you better lay your money down</lyrics>
+      </section>
+      <section type="Verse 3">
+         <chordLine>
+            <chord num="1">A</chord>
+         </chordLine>
+         <lyrics>Tellin' tall tales of how it used to be</lyrics>
+         <chordLine>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+            <chord num="1">A</chord>
+            <chord num="4">D</chord>
+            <chord num="1">A</chord>
+            <chord num="1">A</chord>
+         </chordLine>
+         <lyrics>With the butler and the maid and the servants three</lyrics>
+         <chordLine>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+            <chord num="1">A</chord>
+            <chord num="4">D</chord>
+            <chord num="1">A</chord>
+         </chordLine>
+         <lyrics>Ah get it now She's a woman</lyrics>
+      </section>
+      <section type="Solo">
+         <chordLine>
+            <chord num="4">D</chord>
+            <chord num="1">A</chord>
+            <chord num="4">D</chord>
+            <chord num="5">E</chord>
+         </chordLine>
+         <lyrics>Oh you got</lyrics>
+      </section>
+      <section type="Verse 4">
+         <chordLine>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+            <chord num="1">A</chord>
+            <chord num="4">D</chord>
+            <chord num="1">A</chord>
+            <chord num="1">A</chord>
+         </chordLine>
+         <lyrics>Nobody hears a single word you say</lyrics>
+         <chordLine>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+            <chord num="4">D</chord>
+            <chord num="1">A</chord>
+            <chord num="1">A</chord>
+         </chordLine>
+         <lyrics>But you keep on talkin' till your dyin' day</lyrics>
+         <chordLine>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+            <chord num="4">D</chord>
+            <chord num="1">A</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Chorus">
+         <chordLine>
+            <chord num="4">D</chord>
+            <chord num="1">A</chord>
+         </chordLine>
+         <lyrics>Come on babe on the roundabout ride on the merry goround</lyrics>
+         <chordLine>
+            <chord num="4">D</chord>
+            <chord num="5">E</chord>
+         </chordLine>
+         <lyrics>We all know what your name is so you better lay your money down</lyrics>
+      </section>
+      <section type="Outro">
+         <chordLine>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+            <chord num="1">A</chord>
+            <chord num="4">D</chord>
+            <chord num="1">A</chord>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+            <chord num="1">A</chord>
+            <chord num="4">D</chord>
+            <chord num="1">A</chord>
+         </chordLine>
+         <lyrics>Livin' livin' lovin' lovin' she's just a woman</lyrics>
+         <chordLine>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+            <chord num="4">D</chord>
+            <chord num="1">A</chord>
+         </chordLine>
+         <lyrics>Lu lu lu lu lu lu lu lu lu lu lu</lyrics>
+      </section>
+   </music>
+</mei>

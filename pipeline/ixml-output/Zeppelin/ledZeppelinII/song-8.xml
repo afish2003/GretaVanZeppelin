@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><mei ixml:state="ambiguous" xmlns:ixml="http://invisiblexml.org/NS"><music><title>Moby Dick</title>
+<album>Led Zeppelin II</album>
+<artist>Led Zeppelin</artist>
+<key>F</key>
+
+<section type="Theme 1"><mdiv>
+D F/A D F/A D F/A D F/A
+Gm Bb Gm Bb D F/A D F/A
+A Gm D F/A D F/A
+ 
+ </mdiv></section>
+<section type="Theme 2"><mdiv>
+D F/A D D F/A D
+Gm Bb D D F/A D
+A Gm D
+ 
+ </mdiv></section>
+<section type="Outro"><mdiv>
+D F/A D Gm Bb Gm
+A Gm D C
+A
+</mdiv></section></music></mei>

@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mei ixml:state="ambiguous"
+     xmlns:ixml="http://invisiblexml.org/NS">
+   <music>
+      <title>The Lemon Song</title>
+      <album>Led Zeppelin II</album>
+      <artist>Led Zeppelin</artist>
+      <key>E</key>
+      <section type="Intro">
+         <chordLine>
+            <chord num="1^7">E7</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Verse 1">
+         <chordLine>
+            <chord num="1^7">E7</chord>
+         </chordLine>
+         <lyrics>I should have quit you, a long time ago</lyrics>
+         <chordLine>
+            <chord num="4^7">A7</chord>
+            <chord num="1^7">E7</chord>
+         </chordLine>
+         <lyrics>Ohh, yeah, long time ago</lyrics>
+         <chordLine>
+            <chord num="5^7">B7</chord>
+         </chordLine>
+         <lyrics>I wouldn't be here, my children</lyrics>
+         <chordLine>
+            <chord num="4^7">A7</chord>
+         </chordLine>
+         <lyrics>Down on this killing floor</lyrics>
+      </section>
+      <section type="Verse 2">
+         <chordLine>
+            <chord num="1^7">E7</chord>
+            <chord num="1^7">E7</chord>
+         </chordLine>
+         <lyrics>I should have listened, baby, to my second mind</lyrics>
+         <chordLine>
+            <chord num="4^7">A7</chord>
+            <chord num="1^7">E7</chord>
+         </chordLine>
+         <lyrics>Oh, I should have listened, baby, to my second mind</lyrics>
+         <chordLine>
+            <chord num="5^7">B7</chord>
+         </chordLine>
+         <lyrics>Everytime I go away and leave you, darling</lyrics>
+         <chordLine>
+            <chord num="4^7">A7</chord>
+            <chord num="1^7">E7</chord>
+         </chordLine>
+         <lyrics>You send me the blues way down the line</lyrics>
+      </section>
+      <section type="Bridge">
+         <chordLine>
+            <chord num="1^7">E7</chord>
+            <chord num="4^7">A7</chord>
+            <chord num="1^7">E7</chord>
+            <chord num="5^7">B7</chord>
+            <chord num="4^7">A7</chord>
+            <chord num="1^7">E7</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Solo 1">
+         <chordLine>
+            <chord num="1^7">E7</chord>
+            <chord num="4^7">A7</chord>
+            <chord num="1^7">E7</chord>
+            <chord num="5^7">B7</chord>
+            <chord num="4^7">A7</chord>
+            <chord num="1^7">E7</chord>
+            <chord num="4^7">A7</chord>
+            <chord num="1^7">E7</chord>
+            <chord num="5^7">B7</chord>
+            <chord num="4^7">A7</chord>
+            <chord num="1^7">E7</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Interlude">
+         <chordLine>
+            <chord num="1^7">E7</chord>
+         </chordLine>
+         <lyrics>Baby, yeah</lyrics>
+         <chordLine>
+            <chord num="4^7">A7</chord>
+            <chord num="1^7">E7</chord>
+            <chord num="5^7">B7</chord>
+         </chordLine>
+         <lyrics>Give it to me, baby</lyrics>
+         <chordLine>
+            <chord num="4^7">A7</chord>
+            <chord num="1^7">E7</chord>
+         </chordLine>
+         <lyrics>My, my, my, my Take it down a bit</lyrics>
+      </section>
+      <section type="Verse 3">
+         <chordLine>
+            <chord num="1^7">E7</chord>
+         </chordLine>
+         <lyrics>Give it to me, baby Keep me satisfied Tryin' worry bout me, baby but I'd never get you with myself</lyrics>
+         <chordLine>
+            <chord num="4^7">A7</chord>
+         </chordLine>
+         <lyrics>Keep on worrying, baby</lyrics>
+         <chordLine>
+            <chord num="1^7">E7</chord>
+         </chordLine>
+         <lyrics>Can't keep you satisfied</lyrics>
+         <chordLine>
+            <chord num="5^7">B7</chord>
+         </chordLine>
+         <lyrics>Let me tell you, baby</lyrics>
+         <chordLine>
+            <chord num="4^7">A7</chord>
+            <chord num="1^7">E7</chord>
+         </chordLine>
+         <lyrics>You ain't nothing but a twobit no good jive</lyrics>
+      </section>
+      <section type="Verse 4">
+         <chordLine>
+            <chord num="1^7">E7</chord>
+         </chordLine>
+         <lyrics>I went to sleep last night, I worked as hard as I can I bring home my money You take my money Give it to another man</lyrics>
+         <chordLine>
+            <chord num="4^7">A7</chord>
+         </chordLine>
+         <lyrics>I should have quit you, baby</lyrics>
+         <chordLine>
+            <chord num="1^7">E7</chord>
+         </chordLine>
+         <lyrics>Oh, such a long time ago, oh</lyrics>
+         <chordLine>
+            <chord num="5^7">B7</chord>
+         </chordLine>
+         <lyrics>I wouldn't be here with all my troubles</lyrics>
+         <chordLine>
+            <chord num="4^7">A7</chord>
+            <chord num="1^7">E7</chord>
+         </chordLine>
+         <lyrics>Down on this killing floor</lyrics>
+      </section>
+      <section type="Verse 5">
+         <chordLine>
+            <chord num="1^7">E7</chord>
+         </chordLine>
+         <lyrics>Squeeze me baby, till the juice runs down my leg</lyrics>
+         <chordLine>
+            <chord num="4^7">A7</chord>
+            <chord num="1^7">E7</chord>
+         </chordLine>
+         <lyrics>Squeeze me baby, till the juice runs down my leg</lyrics>
+         <chordLine>
+            <chord num="5^7">B7</chord>
+         </chordLine>
+         <lyrics>The way you squeeze my lemon, ah</lyrics>
+         <chordLine>
+            <chord num="4^7">A7</chord>
+         </chordLine>
+         <lyrics>I'm gonna fall right out of bed</lyrics>
+         <chordLine>
+            <chord num="1^7">E7</chord>
+         </chordLine>
+         <lyrics>Bed, bed, bed, yeah</lyrics>
+      </section>
+      <section type="Solo 2">
+         <chordLine>
+            <chord num="1^7">E7</chord>
+            <chord num="4^7">A7</chord>
+            <chord num="1^7">E7</chord>
+            <chord num="5^7">B7</chord>
+            <chord num="4^7">A7</chord>
+            <chord num="1^7">E7</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Interlude 2">
+         <chordLine>
+            <chord num="1^7">E7</chord>
+         </chordLine>
+         <lyrics>Hey, hey, hey, hey, hey, hey, hey, hey</lyrics>
+         <chordLine>
+            <chord num="4^7">A7</chord>
+         </chordLine>
+         <lyrics>Baby, baby, baby, baby, baby,</lyrics>
+         <chordLine>
+            <chord num="1^7">E7</chord>
+         </chordLine>
+         <lyrics>baby, baby, baby, baby, baby, baby,</lyrics>
+         <chordLine>
+            <chord num="5^7">B7</chord>
+            <chord num="4^7">A7</chord>
+            <chord num="1^7">E7</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Bridge">
+         <chordLine>
+            <chord num="1^7">E7</chord>
+            <chord num="4^7">A7</chord>
+            <chord num="1^7">E7</chord>
+            <chord num="5^7">B7</chord>
+            <chord num="4^7">A7</chord>
+            <chord num="1^7">E7</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Outro">
+         <chordLine>
+            <chord num="1^7">E7</chord>
+            <chord num="4^7">A7</chord>
+            <chord num="1^7">E7</chord>
+            <chord num="5^7">B7</chord>
+            <chord num="4^7">A7</chord>
+            <chord num="1^7">E7</chord>
+         </chordLine>
+         <lyrics>...to leave my children down on this killing floor</lyrics>
+      </section>
+   </music>
+</mei>

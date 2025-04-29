@@ -1,13 +1,13 @@
-Bring It On Home
-Led Zeppelin II
-Led Zeppelin
-E
+<?xml version="1.0" encoding="UTF-8"?><mei ixml:state="ambiguous" xmlns:ixml="http://invisiblexml.org/NS"><music><title>Bring It On Home</title>
+<album>Led Zeppelin II</album>
+<artist>Led Zeppelin</artist>
+<key>E</key>
 
-[Intro]
+<section type="Intro"><mdiv>
 E7
  
- 
-[Verse 1]
+ </mdiv></section>
+<section type="Verse 1"><mdiv>
 E7
 Baby
 Mmm baby
@@ -25,12 +25,12 @@ A7                      E7
 Watch out, watch out, man move
 B7 A7 E7
  
- 
-[Break]
+ </mdiv></section>
+<section type="Break"><mdiv>
 E7
  
- 
-[Verse 2]
+ </mdiv></section>
+<section type="Verse 2"><mdiv>
 E7
 Try'to tell you baby
 What you tryin' to do
@@ -45,8 +45,8 @@ Bring it on home, bring it on home
                                                  E7
 Bring it back home, bring it back home to me baby
  
- 
-[Verse 4]
+ </mdiv></section>
+<section type="Verse 4"><mdiv>
 E7
 Tell you, pretty baby
 You'love to mess me 'roun'
@@ -61,10 +61,11 @@ Bring it on home, bring it on home
                          E7
 Bring it on home, alright
  
- 
-[Outro]
+ </mdiv></section>
+<section type="Outro"><mdiv>
 B7
 Bring it on home
 A7                   E7
 Bring it on home to you
 B7 A7 E7
+</mdiv></section></music></mei>

@@ -1,14 +1,14 @@
-What Is and What Should Never Be
-Led Zeppelin II
-Led Zeppelin
-E
+<?xml version="1.0" encoding="UTF-8"?><mei ixml:state="ambiguous" xmlns:ixml="http://invisiblexml.org/NS"><music><title>What Is and What Should Never Be</title>
+<album>Led Zeppelin II</album>
+<artist>Led Zeppelin</artist>
+<key>E</key>
 
-[Intro]
+<section type="Intro"><mdiv>
 E7                      A13
   And if I say to you tomorrow
  
- 
-[Verse 1]
+ </mdiv></section>
+<section type="Verse 1"><mdiv>
 E7                    A13
   Take my hand, child come with me
 E7                        A13
@@ -16,8 +16,8 @@ E7                        A13
 E7                            A13
   Where what's to be, they say   will be
  
- 
-[Chorus]
+ </mdiv></section>
+<section type="Chorus"><mdiv>
 A
 Catch the wind, see us spin
 A7
@@ -34,8 +34,8 @@ By takin' our time,    ooh
 A E                       A13
    And if you say to me tomorrow
  
- 
-[Verse 2]
+ </mdiv></section>
+<section type="Verse 2"><mdiv>
 E7                  A13
   Oh what fun it all   would be
 E7                           A13
@@ -43,8 +43,8 @@ E7                           A13
 E7                A13
   But what is and what should never be
  
- 
-[Chorus]
+ </mdiv></section>
+<section type="Chorus"><mdiv>
 A
 Catch the wind, see us spin
 A7
@@ -59,8 +59,8 @@ It only goes to show   That you will be mine
    G#m7            E B F# A E
 By takin' our time,    ooh
  
- 
-[Solo]
+ </mdiv></section>
+<section type="Solo"><mdiv>
 A13 E7 A13 E7
 A13 E7 A13 A A7
 A6 D A A7 A6 D A B B/A
@@ -68,8 +68,8 @@ G#m7 E B F# A E
                            A13
 So if you wake up with the sunrise
  
- 
-[Verse 3]
+ </mdiv></section>
+<section type="Verse 3"><mdiv>
 E7                             A13
   And all your dreams are still   as new
 E7                      A13
@@ -77,8 +77,8 @@ E7                      A13
 E7                     A13
   Girl, the answer lies   with you, yeah
  
- 
-[Chorus]
+ </mdiv></section>
+<section type="Chorus"><mdiv>
 A
 Catch the wind, see us spin
 A7
@@ -92,8 +92,8 @@ It only goes to show   That you will be mine
    G#m7           E B F# A E
 By takin' our time
  
- 
-[Interlude]
+ </mdiv></section>
+<section type="Interlude"><mdiv>
 E5
 Oh the wind won't blow and we really shouldn't go
 And it only goes to showowow
@@ -102,9 +102,10 @@ Everybody I know seems to know me well
 But does anybody know I'm gonna move like hell
 Oh yeah yeah baby
  
- 
-[Outro (Fade Out)]
+ </mdiv></section>
+<section type="Outro (Fade Out)"><mdiv>
 E5
   Do do do, bop bop a dooh
 Bop, bop, bop, bop, bop, bop, yeah
 Yeah
+</mdiv></section></music></mei>

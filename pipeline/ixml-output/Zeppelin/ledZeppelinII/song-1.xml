@@ -1,14 +1,14 @@
-Whole Lotta Love
-Led Zeppelin II
-Led Zeppelin
-E
+<?xml version="1.0" encoding="UTF-8"?><mei ixml:state="ambiguous" xmlns:ixml="http://invisiblexml.org/NS"><music><title>Whole Lotta Love</title>
+<album>Led Zeppelin II</album>
+<artist>Led Zeppelin</artist>
+<key>E</key>
 
-[Intro]
+<section type="Intro"><mdiv>
 E D
 E
  
- 
-[Verse 1]
+ </mdiv></section>
+<section type="Verse 1"><mdiv>
 D        E       D
 You need cooling.
              E       D
@@ -26,8 +26,8 @@ E                           D
 E                           D
  I'm gonna give you my love.
  
- 
-[Chorus]
+ </mdiv></section>
+<section type="Chorus"><mdiv>
 E
 Oh.
 D                      E
@@ -39,8 +39,8 @@ Wanna whole lotta love.
 D                      E D
 Wanna whole lotta love.
  
- 
-[Verse 2]
+ </mdiv></section>
+<section type="Verse 2"><mdiv>
             E       D
 You've been learnin'
             E        D
@@ -62,8 +62,8 @@ Oh.
 D                      E
 Wanna whole lotta love.
  
- 
-[Chorus]
+ </mdiv></section>
+<section type="Chorus"><mdiv>
 D                      E
 Wanna whole lotta love.
 D                      E
@@ -71,8 +71,8 @@ Wanna whole lotta love.
 D                      E
 Wanna whole lotta love.
  
- 
-[Verse 3]
+ </mdiv></section>
+<section type="Verse 3"><mdiv>
 E E D           E       D
     You've been coolin',
            E             D
@@ -92,8 +92,8 @@ E     D
 E         D
  Alright, let's go.
  
- 
-[Chorus]
+ </mdiv></section>
+<section type="Chorus"><mdiv>
 E D                      E
   Wanna whole lotta love.
 D                      E
@@ -103,15 +103,15 @@ Wanna whole lotta love.
 D
 Wanna whole lotta love.
  
- 
-[Bridge]
+ </mdiv></section>
+<section type="Bridge"><mdiv>
 E
  Way down inside, woman,
         A     D
 You need love.
  
- 
-[Outro]
+ </mdiv></section>
+<section type="Outro"><mdiv>
 E D E           D
      Ah, ah, ah, ah.
 E           D
@@ -137,10 +137,11 @@ E D E                     D
 E                    D
  Keep on coolin' baby
  
- 
-[Fade Out]
+ </mdiv></section>
+<section type="Fade Out"><mdiv>
 E                      D
  Akeep on coolin' baby.
 E                     D
 Akeep on coolin' baby.
 E D E D E D
+</mdiv></section></music></mei>
