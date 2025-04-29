@@ -1,13 +1,13 @@
-Going to California
-Led Zeppelin IV
-Led Zeppelin
-D
+<?xml version="1.0" encoding="UTF-8"?><mei ixml:state="ambiguous" xmlns:ixml="http://invisiblexml.org/NS"><music><title>Going to California</title>
+<album>Led Zeppelin IV</album>
+<artist>Led Zeppelin</artist>
+<key>D</key>
 
-[Intro]
+<section type="Intro"><mdiv>
 D
  
- 
-[Verse 1]
+ </mdiv></section>
+<section type="Verse 1"><mdiv>
 G
 Spent my days with a woman unkind
                           D
@@ -21,13 +21,13 @@ Someone told me there's a girl out there
                                  D
 With love in her eyes and flowers in her hair.
  
- 
-[Bridge]
+ </mdiv></section>
+<section type="Bridge"><mdiv>
 Dm G D Dm
 G D
  
- 
-[Verse 2]
+ </mdiv></section>
+<section type="Verse 2"><mdiv>
 G
 Took my chances on a big jet plane
                                                   D
@@ -42,8 +42,8 @@ Mountains and the canyons started to tremble and shake
 Children of the sun began to awake.
 Watch out
  
- 
-[Interlude]
+ </mdiv></section>
+<section type="Interlude"><mdiv>
 Dm
 Seems that the wrath of the Gods
 Got a punch on the nose and it started to flow;
@@ -55,8 +55,8 @@ Meet you up there where the path
                   A
 Runs straight and high.
  
- 
-[Verse 3]
+ </mdiv></section>
+<section type="Verse 3"><mdiv>
 D   G
  To find a queen without a king;
                                        D
@@ -71,11 +71,12 @@ Standing on a hill in my mountain of dreams,
                                            D
 Telling myself it's not as hard, hard, hard as it seems
  
- 
-[Bridge]
+ </mdiv></section>
+<section type="Bridge"><mdiv>
 Dm G D Dm
 G D
  
- 
-[Outro]
+ </mdiv></section>
+<section type="Outro"><mdiv>
 D
+</mdiv></section></music></mei>

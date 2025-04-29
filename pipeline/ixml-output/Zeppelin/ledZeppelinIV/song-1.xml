@@ -1,9 +1,9 @@
-Black Dog
-Led Zeppelin IV
-Led Zeppelin
-A
+<?xml version="1.0" encoding="UTF-8"?><mei ixml:state="ambiguous" xmlns:ixml="http://invisiblexml.org/NS"><music><title>Black Dog</title>
+<album>Led Zeppelin IV</album>
+<artist>Led Zeppelin</artist>
+<key>A</key>
 
-[Verse 1]
+<section type="Verse 1"><mdiv>
 A7
 Hey, hey mama said the way you move,
 gonna make you sweat, gon' make you groove.
@@ -13,15 +13,15 @@ Hey hey baby when you walk that way,
                                             E7 A7
 watch your heartache drip, can't keep away .
  
- 
-[Chorus]
+ </mdiv></section>
+<section type="Chorus"><mdiv>
 A7                        C   A7
   Oh, yeah. Oh, yeah. Oh, oh, oh.
                         C   A7
 Oh, yeah. Oh, yeah. Oh, oh, oh.
  
- 
-[Verse 2]
+ </mdiv></section>
+<section type="Verse 2"><mdiv>
 A7
   I got to roll, I can't stand still,
 got a flamig heart can't get my fill.
@@ -30,8 +30,8 @@ dreams of you all through my head.
 Ah, ah, ah, ah, ah, ah
 ah, ah, ah, ah, ah, ah, ah.
  
- 
-[Bridge]
+ </mdiv></section>
+<section type="Bridge"><mdiv>
    A7
 Hey  baby,
     C A7
@@ -47,8 +47,8 @@ pretty baby,
      Dsus4             D        A7
 move the  way you're moving now.
  
- 
-[Verse 3]
+ </mdiv></section>
+<section type="Verse 3"><mdiv>
 C A7 Dsus4 D     A7
             It's been too long 'fore I found out,
 what people mean by down and out.
@@ -58,15 +58,15 @@ I don't know, but I've been told,
                                     E7 A7
 a biglegged woman ain't got no soul.
  
- 
-[Chorus]
+ </mdiv></section>
+<section type="Chorus"><mdiv>
 A7                        C   A7
   Oh, yeah. Oh, yeah. Oh, oh, oh.
                         C   A7
 Oh, yeah. Oh, yeah. Oh, oh, oh.
  
- 
-[Verse 4]
+ </mdiv></section>
+<section type="Verse 4"><mdiv>
 A7
 All I ask for, all I pray
 steady rolling woman 'gonna come my way.
@@ -75,8 +75,8 @@ won't tell me no lies, make me a happy man.
 Ah, ah, ah, ah, ah, ah
 ah, ah, ah, ah, ah, ah, ah.
  
- 
-[Solo]
+ </mdiv></section>
+<section type="Solo"><mdiv>
 A7 C A7 Dsus4 D A7
 C A7 Dsus4 D A7 C A7
 Dsus4 D A7 C A7 Dsus4
@@ -86,7 +86,8 @@ Dsus4 D A7 C A7 Dsus4
 D A7 C A7 Dsus4 D A7
 C A7 Dsus4 D A7
  
- 
-[Fade Out]
+ </mdiv></section>
+<section type="Fade Out"><mdiv>
 A7 C A7 Dsus4 D A7
 C A7 Dsus4 D A7 C A7
+</mdiv></section></music></mei>

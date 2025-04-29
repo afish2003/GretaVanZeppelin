@@ -1,14 +1,14 @@
-Rock and Roll
-Led Zeppelin IV
-Led Zeppelin
-A
+<?xml version="1.0" encoding="UTF-8"?><mei ixml:state="ambiguous" xmlns:ixml="http://invisiblexml.org/NS"><music><title>Rock and Roll</title>
+<album>Led Zeppelin IV</album>
+<artist>Led Zeppelin</artist>
+<key>A</key>
 
-[Intro]
+<section type="Intro"><mdiv>
 A D A E
 A
  
- 
-[Verse 1]
+ </mdiv></section>
+<section type="Verse 1"><mdiv>
      A
 It's been a long time since I rock and Rolled
 It's been a long time since I did the Stroll
@@ -22,8 +22,8 @@ It's been a long time been a long time
 Been a long lonely lonely lonely lonely lonely time
 Yes it has
  
- 
-[Verse 2]
+ </mdiv></section>
+<section type="Verse 2"><mdiv>
      A
 It's been a long time since The Book of Love
 I can't count the tears of a life with no love
@@ -36,14 +36,14 @@ It's been a long time been a long time
             D                                  A
 Been a long lonely lonely lonely lonely lonely time
  
- 
-[Solo]
+ </mdiv></section>
+<section type="Solo"><mdiv>
 D A E A
 A D A E
 D A
  
- 
-[Verse 3]
+ </mdiv></section>
+<section type="Verse 3"><mdiv>
 A
 Seems so long since we walked in the moonlight
 Making vows that just can't work right
@@ -56,9 +56,10 @@ It's been a long time been a long time
             D                                  A
 Been a long lonely lonely lonely lonely lonely time
  
- 
-[Instrumental]
+ </mdiv></section>
+<section type="Instrumental"><mdiv>
 D A E
      It's been a long time been a long time
 D                                      A
 Been a long lonely lonely lonely lonely
+</mdiv></section></music></mei>

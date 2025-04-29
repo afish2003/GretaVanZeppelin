@@ -68,7 +68,7 @@
             <p:with-input port="stylesheet" href="../../pullLyrics.xsl"/>
         </p:xslt>
         
-        <p:store name="plain-lyrics-out" href="../../plain-lyrics-output/ZeppelinII/ledZeppelin/{$filename}.txt" />
+        <p:store name="plain-lyrics-out" href="../../plain-lyrics-output/Zeppelin/ledZeppelinII/{$filename}.txt" />
         <p:identity message="Saved plain lyrics for {$filename}"/>
         
     </p:for-each>

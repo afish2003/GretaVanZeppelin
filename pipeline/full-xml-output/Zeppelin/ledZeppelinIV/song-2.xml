@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mei ixml:state="ambiguous"
+     xmlns:ixml="http://invisiblexml.org/NS">
+   <music>
+      <title>Rock and Roll</title>
+      <album>Led Zeppelin IV</album>
+      <artist>Led Zeppelin</artist>
+      <key>A</key>
+      <section type="Intro">
+         <chordLine>
+            <chord num="1">A</chord>
+            <chord num="4">D</chord>
+            <chord num="1">A</chord>
+            <chord num="5">E</chord>
+            <chord num="1">A</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Verse 1">
+         <chordLine>
+            <chord num="1">A</chord>
+         </chordLine>
+         <lyrics>It's been a long time since I rock and Rolled It's been a long time since I did the Stroll</lyrics>
+         <chordLine>
+            <chord num="4">D</chord>
+         </chordLine>
+         <lyrics>Ooh let me get it back let me get it back</lyrics>
+         <chordLine>
+            <chord num="1">A</chord>
+         </chordLine>
+         <lyrics>Let me get it back, baby, where I come from</lyrics>
+         <chordLine>
+            <chord num="5">E</chord>
+         </chordLine>
+         <lyrics>It's been a long time been a long time</lyrics>
+         <chordLine>
+            <chord num="4">D</chord>
+            <chord num="1">A</chord>
+         </chordLine>
+         <lyrics>Been a long lonely lonely lonely lonely lonely time Yes it has</lyrics>
+      </section>
+      <section type="Verse 2">
+         <chordLine>
+            <chord num="1">A</chord>
+         </chordLine>
+         <lyrics>It's been a long time since The Book of Love I can't count the tears of a life with no love</lyrics>
+         <chordLine>
+            <chord num="4">D</chord>
+         </chordLine>
+         <lyrics>Carry me back carry me back</lyrics>
+         <chordLine>
+            <chord num="1">A</chord>
+         </chordLine>
+         <lyrics>Carry me back baby where I come from</lyrics>
+         <chordLine>
+            <chord num="5">E</chord>
+         </chordLine>
+         <lyrics>It's been a long time been a long time</lyrics>
+         <chordLine>
+            <chord num="4">D</chord>
+            <chord num="1">A</chord>
+         </chordLine>
+         <lyrics>Been a long lonely lonely lonely lonely lonely time</lyrics>
+      </section>
+      <section type="Solo">
+         <chordLine>
+            <chord num="4">D</chord>
+            <chord num="1">A</chord>
+            <chord num="5">E</chord>
+            <chord num="1">A</chord>
+            <chord num="1">A</chord>
+            <chord num="4">D</chord>
+            <chord num="1">A</chord>
+            <chord num="5">E</chord>
+            <chord num="4">D</chord>
+            <chord num="1">A</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Verse 3">
+         <chordLine>
+            <chord num="1">A</chord>
+         </chordLine>
+         <lyrics>Seems so long since we walked in the moonlight Making vows that just can't work right</lyrics>
+         <chordLine>
+            <chord num="4">D</chord>
+         </chordLine>
+         <lyrics>Open your arms opens your arms</lyrics>
+         <chordLine>
+            <chord num="1">A</chord>
+         </chordLine>
+         <lyrics>Open your arms baby let my love come running in</lyrics>
+         <chordLine>
+            <chord num="5">E</chord>
+         </chordLine>
+         <lyrics>It's been a long time been a long time</lyrics>
+         <chordLine>
+            <chord num="4">D</chord>
+            <chord num="1">A</chord>
+         </chordLine>
+         <lyrics>Been a long lonely lonely lonely lonely lonely time</lyrics>
+      </section>
+      <section type="Instrumental">
+         <chordLine>
+            <chord num="4">D</chord>
+            <chord num="1">A</chord>
+            <chord num="5">E</chord>
+         </chordLine>
+         <lyrics>It's been a long time been a long time</lyrics>
+         <chordLine>
+            <chord num="4">D</chord>
+            <chord num="1">A</chord>
+         </chordLine>
+         <lyrics>Been a long lonely lonely lonely lonely</lyrics>
+      </section>
+   </music>
+</mei>

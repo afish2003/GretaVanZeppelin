@@ -54,6 +54,9 @@
                <xsl:if test=". = 'F'">
                    <chord num="6"><xsl:apply-templates/></chord>
                </xsl:if>
+               <xsl:if test=". = 'F5'">
+                   <chord num="6^5"><xsl:apply-templates/></chord>
+               </xsl:if>
                <xsl:if test=". = 'Fm'">
                    <chord num="6m"><xsl:apply-templates/></chord>
                </xsl:if>
@@ -74,6 +77,12 @@
                </xsl:if>
                <xsl:if test=". = 'A7'">
                    <chord num="1^7"><xsl:apply-templates/></chord>
+               </xsl:if>
+               <xsl:if test=". = 'Asus2'">
+                   <chord num="1sus2"><xsl:apply-templates/></chord>
+               </xsl:if>
+               <xsl:if test=". = 'Am'">
+                   <chord num="1m"><xsl:apply-templates/></chord>
                </xsl:if>
                <xsl:if test=". = 'Am7'">
                    <chord num="1m7"><xsl:apply-templates/></chord>
@@ -111,6 +120,9 @@
                <xsl:if test=". = 'Dsus2'">
                    <chord num="4sus2"><xsl:apply-templates/></chord>
                </xsl:if>
+               <xsl:if test=". = 'Dsus4'">
+                   <chord num="4sus4"><xsl:apply-templates/></chord>
+               </xsl:if>
                <xsl:if test=". = 'Dadd11/A'">
                    <chord num="4add11/1"><xsl:apply-templates/></chord>
                </xsl:if>
@@ -122,6 +134,9 @@
                </xsl:if>
                <xsl:if test=". = 'Esus4'">
                    <chord num="5sus4"><xsl:apply-templates/></chord>
+               </xsl:if>
+               <xsl:if test=". = 'Em7'">
+                   <chord num="5m7"><xsl:apply-templates/></chord>
                </xsl:if>
                <xsl:if test=". = 'Em/A'">
                    <chord num="5m/1"><xsl:apply-templates/></chord>
@@ -267,8 +282,17 @@
                <xsl:if test=". = 'Cm'">
                    <chord num="1m"><xsl:apply-templates/></chord>
                </xsl:if>
+               <xsl:if test=". = 'C/D'">
+                   <chord num="1/2"><xsl:apply-templates/></chord>
+               </xsl:if>
+               <xsl:if test=". = 'C/G'">
+                   <chord num="1/5"><xsl:apply-templates/></chord>
+               </xsl:if>
                <xsl:if test=". = 'D'">
                    <chord num="2"><xsl:apply-templates/></chord>
+               </xsl:if>
+               <xsl:if test=". = 'Dsus4'">
+                   <chord num="2sus4"><xsl:apply-templates/></chord>
                </xsl:if>
                <xsl:if test=". = 'D/A'">
                    <chord num="2/6"><xsl:apply-templates/></chord>
@@ -293,6 +317,9 @@
                </xsl:if>
                <xsl:if test=". = 'Em/A'">
                    <chord num="3m/6"><xsl:apply-templates/></chord>
+               </xsl:if>
+               <xsl:if test=". = 'Em/D'">
+                   <chord num="3m/2"><xsl:apply-templates/></chord>
                </xsl:if>
                <xsl:if test=". = 'Emadd11/A'">
                    <chord num="3madd11/6"><xsl:apply-templates/></chord>
@@ -359,6 +386,9 @@
                </xsl:if>
                <xsl:if test=". = 'Amadd9'">
                    <chord num="6madd9"><xsl:apply-templates/></chord>
+               </xsl:if>
+               <xsl:if test=". = 'Ammaj9'">
+                   <chord num="6m(maj9)"><xsl:apply-templates/></chord>
                </xsl:if>
                <xsl:if test=". = 'Bb'">
                    <chord num="b7"><xsl:apply-templates/></chord>
@@ -666,11 +696,17 @@
                <xsl:if test=". = 'G5'">
                    <chord num="b3^5"><xsl:apply-templates/></chord>
                </xsl:if>
+               <xsl:if test=". = 'G6/D'">
+                   <chord num="b3^6/b7"><xsl:apply-templates/></chord>
+               </xsl:if>
                <xsl:if test=". = 'G#m7'">
                    <chord num="3m7"><xsl:apply-templates/></chord>
                </xsl:if>
                <xsl:if test=". = 'A'">
                    <chord num="4"><xsl:apply-templates/></chord>
+               </xsl:if>
+               <xsl:if test=". = 'Asus2'">
+                   <chord num="4sus2"><xsl:apply-templates/></chord>
                </xsl:if>
                <xsl:if test=". = 'Asus4'">
                    <chord num="4sus4"><xsl:apply-templates/></chord>

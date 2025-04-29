@@ -1,0 +1,472 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mei ixml:state="ambiguous"
+     xmlns:ixml="http://invisiblexml.org/NS">
+   <music>
+      <title>Stairway to Heaven</title>
+      <album>Led Zeppelin IV</album>
+      <artist>Led Zeppelin</artist>
+      <key>C</key>
+      <section type="Intro">
+         <chordLine>
+            <chord num="6m">Am</chord>
+            <chord num="6m(maj9)">Ammaj9</chord>
+            <chord num="6m7">Am7</chord>
+            <chord num="2/b5">D/F#</chord>
+            <chord num="4maj7">Fmaj7</chord>
+            <chord num="5">G</chord>
+            <chord num="6m">Am</chord>
+            <chord num="6m">Am</chord>
+            <chord num="6m(maj9)">Ammaj9</chord>
+            <chord num="6m7">Am7</chord>
+            <chord num="2/b5">D/F#</chord>
+            <chord num="4maj7">Fmaj7</chord>
+            <chord num="5">G</chord>
+            <chord num="6m">Am</chord>
+            <chord num="1">C</chord>
+            <chord num="2">D</chord>
+            <chord num="4maj7">Fmaj7</chord>
+            <chord num="6m">Am</chord>
+            <chord num="1">C</chord>
+            <chord num="5">G</chord>
+            <chord num="2">D</chord>
+            <chord num="1">C</chord>
+            <chord num="2">D</chord>
+            <chord num="4maj7">Fmaj7</chord>
+            <chord num="6m">Am</chord>
+            <chord num="1">C</chord>
+            <chord num="2">D</chord>
+            <chord num="4maj7">Fmaj7</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Verse 1">
+         <chordLine/>
+         <lyrics>There's</lyrics>
+         <chordLine>
+            <chord num="6m">Am</chord>
+            <chord num="6m(maj9)">Ammaj9</chord>
+         </chordLine>
+         <lyrics>a lady who's sure</lyrics>
+         <chordLine>
+            <chord num="6m7">Am7</chord>
+            <chord num="2/b5">D/F#</chord>
+         </chordLine>
+         <lyrics>All that glitters is gold</lyrics>
+         <chordLine>
+            <chord num="4maj7">Fmaj7</chord>
+            <chord num="5">G</chord>
+            <chord num="6m">Am</chord>
+         </chordLine>
+         <lyrics>And she's buying a stairway to heaven.</lyrics>
+         <chordLine>
+            <chord num="6m">Am</chord>
+            <chord num="6m(maj9)">Ammaj9</chord>
+         </chordLine>
+         <lyrics>When she gets there she knows</lyrics>
+         <chordLine>
+            <chord num="6m7">Am7</chord>
+            <chord num="2/b5">D/F#</chord>
+         </chordLine>
+         <lyrics>If the stores are all closed</lyrics>
+         <chordLine>
+            <chord num="4maj7">Fmaj7</chord>
+            <chord num="5">G</chord>
+            <chord num="6m">Am</chord>
+         </chordLine>
+         <lyrics>With a word she can get what she came for.</lyrics>
+         <chordLine>
+            <chord num="1">C</chord>
+            <chord num="2/b5">D/F#</chord>
+            <chord num="4maj7">Fmaj7</chord>
+            <chord num="6m">Am</chord>
+            <chord num="1">C</chord>
+            <chord num="5">G</chord>
+            <chord num="2">D</chord>
+         </chordLine>
+         <lyrics>Oh o______h and she's buying a stairway to heaven.</lyrics>
+         <chordLine>
+            <chord num="1">C</chord>
+            <chord num="2">D</chord>
+            <chord num="4maj7">Fmaj7</chord>
+            <chord num="6m">Am</chord>
+         </chordLine>
+         <lyrics>There's a sign on the wall But she wants to be sure</lyrics>
+         <chordLine>
+            <chord num="1">C</chord>
+            <chord num="2">D</chord>
+            <chord num="4maj7">Fmaj7</chord>
+         </chordLine>
+         <lyrics>'Cause you know sometimes words have two meanings.</lyrics>
+         <chordLine>
+            <chord num="6m">Am</chord>
+            <chord num="6m(maj9)">Ammaj9</chord>
+         </chordLine>
+         <lyrics>In a tree by the brook</lyrics>
+         <chordLine>
+            <chord num="6m7">Am7</chord>
+            <chord num="2/b5">D/F#</chord>
+         </chordLine>
+         <lyrics>There's a songbird who sings,</lyrics>
+         <chordLine>
+            <chord num="4maj7">Fmaj7</chord>
+            <chord num="5">G</chord>
+            <chord num="6m">Am</chord>
+         </chordLine>
+         <lyrics>Sometimes all of our thoughts are misgiven.</lyrics>
+         <chordLine>
+            <chord num="6m">Am</chord>
+            <chord num="6m(maj9)">Ammaj9</chord>
+            <chord num="6m7">Am7</chord>
+            <chord num="2/b5">D/F#</chord>
+            <chord num="4maj7">Fmaj7</chord>
+            <chord num="5">G</chord>
+            <chord num="6m">Am</chord>
+            <chord num="5">G</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Bridge 1">
+         <chordLine>
+            <chord num="6m7">Am7</chord>
+            <chord num="2">D</chord>
+            <chord num="6m7">Am7</chord>
+         </chordLine>
+         <lyrics>Oh, it makes me wonder</lyrics>
+         <chordLine>
+            <chord num="3m/2">Em/D</chord>
+            <chord num="2">D</chord>
+            <chord num="1/2">C/D</chord>
+            <chord num="2">D</chord>
+            <chord num="6m7">Am7</chord>
+            <chord num="2">D</chord>
+         </chordLine>
+         <lyrics>Oh, it makes me wonder.</lyrics>
+         <chordLine>
+            <chord num="6m7">Am7</chord>
+            <chord num="3m/2">Em/D</chord>
+            <chord num="2">D</chord>
+            <chord num="1/2">C/D</chord>
+            <chord num="2">D</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Verse 2">
+         <lyrics>There's a</lyrics>
+         <chordLine>
+            <chord num="1">C</chord>
+            <chord num="5">G</chord>
+         </chordLine>
+         <lyrics>feeling I get</lyrics>
+         <chordLine>
+            <chord num="6m">Am</chord>
+         </chordLine>
+         <lyrics>When I look to the west,</lyrics>
+         <chordLine>
+            <chord num="1">C</chord>
+            <chord num="5">G</chord>
+            <chord num="4maj7">Fmaj7</chord>
+            <chord num="6m">Am</chord>
+         </chordLine>
+         <lyrics>And my spirit is crying for lea__ving.</lyrics>
+         <chordLine>
+            <chord num="1">C</chord>
+            <chord num="5">G</chord>
+         </chordLine>
+         <lyrics>In my thoughts I have seen</lyrics>
+         <chordLine>
+            <chord num="6m">Am</chord>
+         </chordLine>
+         <lyrics>Rings of smoke through the trees,</lyrics>
+         <chordLine>
+            <chord num="1">C</chord>
+            <chord num="5">G</chord>
+            <chord num="4maj7">Fmaj7</chord>
+            <chord num="6m">Am</chord>
+            <chord num="1">C</chord>
+            <chord num="5">G</chord>
+         </chordLine>
+         <lyrics>And the voices of those who stand loo__king.</lyrics>
+      </section>
+      <section type="Bridge 2">
+         <chordLine>
+            <chord num="6m7">Am7</chord>
+            <chord num="2">D</chord>
+            <chord num="6m7">Am7</chord>
+         </chordLine>
+         <lyrics>Ooh, it makes me wonder</lyrics>
+         <chordLine>
+            <chord num="3m/2">Em/D</chord>
+            <chord num="2">D</chord>
+            <chord num="1/2">C/D</chord>
+            <chord num="2">D</chord>
+            <chord num="6m7">Am7</chord>
+            <chord num="2">D</chord>
+         </chordLine>
+         <lyrics>Oh, it really makes me wonder.</lyrics>
+         <chordLine>
+            <chord num="6m7">Am7</chord>
+            <chord num="3m/2">Em/D</chord>
+            <chord num="2">D</chord>
+            <chord num="1/2">C/D</chord>
+            <chord num="2">D</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Verse 3">
+         <lyrics>And it's</lyrics>
+         <chordLine>
+            <chord num="1">C</chord>
+            <chord num="5">G</chord>
+            <chord num="6m">Am</chord>
+         </chordLine>
+         <lyrics>whispered that soon, If we all call the tune</lyrics>
+         <chordLine>
+            <chord num="1">C</chord>
+            <chord num="5">G</chord>
+            <chord num="4maj7">Fmaj7</chord>
+            <chord num="6m">Am</chord>
+         </chordLine>
+         <lyrics>Then the piper will lead us to rea__son.</lyrics>
+         <chordLine>
+            <chord num="1">C</chord>
+            <chord num="5">G</chord>
+         </chordLine>
+         <lyrics>And a new day will dawn</lyrics>
+         <chordLine>
+            <chord num="6m">Am</chord>
+         </chordLine>
+         <lyrics>For those who stand long</lyrics>
+         <chordLine>
+            <chord num="1">C</chord>
+            <chord num="5">G</chord>
+            <chord num="4maj7">Fmaj7</chord>
+            <chord num="6m">Am</chord>
+            <chord num="1">C</chord>
+            <chord num="5">G</chord>
+         </chordLine>
+         <lyrics>And the forests will echo with laughter.</lyrics>
+      </section>
+      <section type="Bridge 3">
+         <chordLine>
+            <chord num="6m7">Am7</chord>
+            <chord num="2">D</chord>
+            <chord num="6m7">Am7</chord>
+            <chord num="3m/2">Em/D</chord>
+            <chord num="2">D</chord>
+            <chord num="1/2">C/D</chord>
+            <chord num="2">D</chord>
+            <chord num="6m7">Am7</chord>
+            <chord num="2">D</chord>
+            <chord num="6m7">Am7</chord>
+            <chord num="3m/2">Em/D</chord>
+            <chord num="2">D</chord>
+            <chord num="1/2">C/D</chord>
+            <chord num="2">D</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Verse 4">
+         <chordLine>
+            <chord num="1">C</chord>
+            <chord num="5">G</chord>
+            <chord num="6m">Am</chord>
+         </chordLine>
+         <lyrics>If there's a bustle in your hedgerow, Don't be alarmed now,</lyrics>
+         <chordLine>
+            <chord num="1">C</chord>
+            <chord num="5">G</chord>
+            <chord num="4maj7">Fmaj7</chord>
+            <chord num="6m">Am</chord>
+         </chordLine>
+         <lyrics>It's just a spring clean for the May queen.</lyrics>
+         <chordLine>
+            <chord num="1">C</chord>
+            <chord num="5">G</chord>
+            <chord num="6m">Am</chord>
+         </chordLine>
+         <lyrics>Yes, there are two paths you can go by But in the long run</lyrics>
+         <chordLine>
+            <chord num="1">C</chord>
+            <chord num="5">G</chord>
+            <chord num="4maj7">Fmaj7</chord>
+            <chord num="6m">Am</chord>
+            <chord num="1">C</chord>
+            <chord num="5">G</chord>
+         </chordLine>
+         <lyrics>There's still time to change the road you're on.</lyrics>
+      </section>
+      <section type="Bridge 4">
+         <chordLine>
+            <chord num="6m7">Am7</chord>
+            <chord num="2">D</chord>
+            <chord num="6m7">Am7</chord>
+            <chord num="3m/2">Em/D</chord>
+         </chordLine>
+         <lyrics>And it makes me wonder.</lyrics>
+         <chordLine>
+            <chord num="2">D</chord>
+            <chord num="1/2">C/D</chord>
+            <chord num="2">D</chord>
+            <chord num="6m7">Am7</chord>
+            <chord num="2">D</chord>
+            <chord num="6m7">Am7</chord>
+            <chord num="3m/2">Em/D</chord>
+            <chord num="2">D</chord>
+            <chord num="1/2">C/D</chord>
+            <chord num="2">D</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Verse 5">
+         <chordLine>
+            <chord num="1">C</chord>
+            <chord num="5">G</chord>
+            <chord num="6m">Am</chord>
+         </chordLine>
+         <lyrics>Your head is humming and it won't go In case you don't know,</lyrics>
+         <chordLine>
+            <chord num="1">C</chord>
+            <chord num="5">G</chord>
+            <chord num="4maj7">Fmaj7</chord>
+            <chord num="6m">Am</chord>
+         </chordLine>
+         <lyrics>The piper's calling you to join him,</lyrics>
+         <chordLine>
+            <chord num="1">C</chord>
+            <chord num="5">G</chord>
+            <chord num="6m">Am</chord>
+         </chordLine>
+         <lyrics>Dear lady, can you hear the wind blow, And did you know</lyrics>
+         <chordLine>
+            <chord num="1">C</chord>
+            <chord num="5">G</chord>
+            <chord num="4maj7">Fmaj7</chord>
+            <chord num="6m">Am</chord>
+            <chord num="1">C</chord>
+            <chord num="5">G</chord>
+            <chord num="2">D</chord>
+         </chordLine>
+         <lyrics>Your stairway lies on the whis_pering wind.</lyrics>
+      </section>
+      <section type="Bridge 5">
+         <chordLine>
+            <chord num="2sus4">Dsus4</chord>
+            <chord num="2">D</chord>
+            <chord num="1">C</chord>
+            <chord num="2sus4">Dsus4</chord>
+            <chord num="2">D</chord>
+            <chord num="1">C</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Solo">
+         <chordLine>
+            <chord num="6m">Am</chord>
+            <chord num="1/5">C/G</chord>
+            <chord num="4maj7">Fmaj7</chord>
+            <chord num="6m">Am</chord>
+            <chord num="1/5">C/G</chord>
+            <chord num="4maj7">Fmaj7</chord>
+            <chord num="6m">Am</chord>
+            <chord num="1/5">C/G</chord>
+            <chord num="4maj7">Fmaj7</chord>
+            <chord num="6m">Am</chord>
+            <chord num="1/5">C/G</chord>
+            <chord num="4maj7">Fmaj7</chord>
+            <chord num="6m">Am</chord>
+            <chord num="1/5">C/G</chord>
+            <chord num="4maj7">Fmaj7</chord>
+            <chord num="6m">Am</chord>
+            <chord num="1/5">C/G</chord>
+            <chord num="4maj7">Fmaj7</chord>
+            <chord num="6m">Am</chord>
+            <chord num="1/5">C/G</chord>
+            <chord num="4maj7">Fmaj7</chord>
+            <chord num="6m">Am</chord>
+            <chord num="1/5">C/G</chord>
+            <chord num="4maj7">Fmaj7</chord>
+            <chord num="6m">Am</chord>
+            <chord num="1/5">C/G</chord>
+            <chord num="4maj7">Fmaj7</chord>
+            <chord num="6m">Am</chord>
+            <chord num="1/5">C/G</chord>
+            <chord num="4maj7">Fmaj7</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Verse 6">
+         <chordLine>
+            <chord num="6m">Am</chord>
+            <chord num="5">G</chord>
+            <chord num="4">F</chord>
+         </chordLine>
+         <lyrics>And as we wind on down the road</lyrics>
+         <chordLine>
+            <chord num="6m">Am</chord>
+            <chord num="5">G</chord>
+            <chord num="4">F</chord>
+         </chordLine>
+         <lyrics>Our shadows taller than our soul.</lyrics>
+         <chordLine>
+            <chord num="6m">Am</chord>
+            <chord num="5">G</chord>
+            <chord num="4">F</chord>
+         </chordLine>
+         <lyrics>There walks a lady we all know</lyrics>
+         <chordLine>
+            <chord num="6m">Am</chord>
+            <chord num="5">G</chord>
+            <chord num="4">F</chord>
+         </chordLine>
+         <lyrics>Who shines white light and wants to show</lyrics>
+         <chordLine>
+            <chord num="6m">Am</chord>
+            <chord num="5">G</chord>
+            <chord num="4">F</chord>
+         </chordLine>
+         <lyrics>How ev'rything still turns to gold.</lyrics>
+         <chordLine>
+            <chord num="6m">Am</chord>
+            <chord num="5">G</chord>
+            <chord num="4">F</chord>
+         </chordLine>
+         <lyrics>And if you listen very hard</lyrics>
+         <chordLine>
+            <chord num="6m">Am</chord>
+            <chord num="5">G</chord>
+            <chord num="4">F</chord>
+         </chordLine>
+         <lyrics>The tune will come to you at last.</lyrics>
+         <chordLine>
+            <chord num="6m">Am</chord>
+            <chord num="5">G</chord>
+            <chord num="4">F</chord>
+         </chordLine>
+         <lyrics>When all are one and one is all</lyrics>
+         <chordLine>
+            <chord num="6m">Am</chord>
+            <chord num="5">G</chord>
+            <chord num="4">F</chord>
+         </chordLine>
+         <lyrics>To be a rock and not to roll.</lyrics>
+      </section>
+      <section type="Outro">
+         <chordLine>
+            <chord num="6m">Am</chord>
+            <chord num="1/5">C/G</chord>
+            <chord num="4maj7">Fmaj7</chord>
+            <chord num="6m">Am</chord>
+            <chord num="1/5">C/G</chord>
+            <chord num="4maj7">Fmaj7</chord>
+            <chord num="6m">Am</chord>
+            <chord num="1/5">C/G</chord>
+            <chord num="6m">Am</chord>
+            <chord num="1/5">C/G</chord>
+            <chord num="6m">Am</chord>
+            <chord num="1/5">C/G</chord>
+            <chord num="4maj7">Fmaj7</chord>
+         </chordLine>
+         <lyrics>And she's buying a stairway to heaven.</lyrics>
+      </section>
+   </music>
+</mei>

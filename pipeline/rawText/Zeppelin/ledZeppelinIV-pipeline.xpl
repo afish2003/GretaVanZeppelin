@@ -11,7 +11,7 @@
     <!-- ================================================================ -->
     <p:option name="debug" as="xs:boolean" static="true" select="false()"/>
 
-    <p:directory-list name="sourceColl" path="ledZeppelinIII"
+    <p:directory-list name="sourceColl" path="ledZeppelinIV"
         include-filter="song-[0-9][0-9]?.txt"
         detailed="true"/>
     
@@ -21,7 +21,7 @@
         <!-- ebb: Don't worry. The above line is NOT a literal filepath. It's just XProc-speak for each individual file in the directory. -->
         <p:variable name="filename" as="xs:string" select="//c:file/@name ! substring-before(., '.txt')"/>
         
-        <p:load href="ledZeppelinIII/{//c:file/@name}"/>
+        <p:load href="ledZeppelinIV/{//c:file/@name}"/>
     
         <p:identity message="Fetched plain text input from {$filename}"/>
         
@@ -36,7 +36,7 @@
             </p:with-input>
         </p:invisible-xml>
         <p:identity use-when="$debug" message="Added markup with ixml"/>
-        <p:store name="simple-XML" href="../../ixml-output/Zeppelin/ledZeppelinIII/{$filename}.xml"/>
+        <p:store name="simple-XML" href="../../ixml-output/Zeppelin/ledZeppelinIV/{$filename}.xml"/>
         
         <!-- ================================================================ -->
         <!-- Finish markup with XSLT                                          -->
@@ -54,7 +54,7 @@
         <!-- ================================================================ -->
         <!-- Output finalized XML                                             -->
         <!-- ================================================================ -->
-        <p:store name="full-xml-out" href="../../full-xml-output/Zeppelin/ledZeppelinIII/{$filename}.xml" serialization="map {
+        <p:store name="full-xml-out" href="../../full-xml-output/Zeppelin/ledZeppelinIV/{$filename}.xml" serialization="map {
             'method' : 'xml',
             'indent' : true(),
             'omit-xml-declaration' : false()
@@ -68,7 +68,7 @@
             <p:with-input port="stylesheet" href="../../pullLyrics.xsl"/>
         </p:xslt>
         
-        <p:store name="plain-lyrics-out" href="../../plain-lyrics-output/Zeppelin/ledZeppelinIII/{$filename}.txt" />
+        <p:store name="plain-lyrics-out" href="../../plain-lyrics-output/Zeppelin/ledZeppelinIV/{$filename}.txt" />
         <p:identity message="Saved plain lyrics for {$filename}"/>
         
     </p:for-each>
