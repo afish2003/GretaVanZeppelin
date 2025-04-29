@@ -1,14 +1,14 @@
-Out on the Tiles
-Led Zeppelin III
-Led Zeppelin
-A
+<?xml version="1.0" encoding="UTF-8"?><mei ixml:state="ambiguous" xmlns:ixml="http://invisiblexml.org/NS"><music><title>Out on the Tiles</title>
+<album>Led Zeppelin III</album>
+<artist>Led Zeppelin</artist>
+<key>A</key>
 
-[Intro]
+<section type="Intro"><mdiv>
 G F# A
       As I
  
- 
-[Verse 1 - 1]
+ </mdiv></section>
+<section type="Verse 1 - 1"><mdiv>
 F#
 walk down the highway
         E          B7
@@ -23,8 +23,8 @@ Is no doubt about the words are clear
 The voice is strong it's oh so strong
 F# E F# E F#
  
- 
-[Verse 1 - 2]
+ </mdiv></section>
+<section type="Verse 1 - 2"><mdiv>
 F#
   Just simple guy
 E                   B7
@@ -42,8 +42,8 @@ Pass the time away
     A                      F# E F# E F#
 And walk a quiet mile with you
  
- 
-[Chorus]
+ </mdiv></section>
+<section type="Chorus"><mdiv>
 E      A                         E
  All I need from you is all your love
            A                    E        A
@@ -53,15 +53,15 @@ E      A                         E
            A                    E        A
 All you gotta give to me is all your love
  
- 
-[Bridge]
+ </mdiv></section>
+<section type="Bridge"><mdiv>
 G        F#        A
  Ooh yeah  ooh yeah
 G        F#        A
  Ooh yeah  ooh yeah
  
- 
-[Verse 2 - 1]
+ </mdiv></section>
+<section type="Verse 2 - 1"><mdiv>
 F#
 I'm so glad I'm livin'
 E                B7
@@ -77,8 +77,8 @@ Gonna give her all the lovin' like
 B7            A              F# E F# E F#
 nobody nobody nobody nobody can
  
- 
-[Verse 2 - 2]
+ </mdiv></section>
+<section type="Verse 2 - 2"><mdiv>
 F#
 Standin' in the noonday sun
 E                     B7
@@ -96,8 +96,8 @@ It must be race
 The best thing I can do is run
 F# E F# E F#
  
- 
-[Chorus]
+ </mdiv></section>
+<section type="Chorus"><mdiv>
 E      A                         E
  All I need from you is all your love
               A                      E   A
@@ -107,15 +107,15 @@ E      A                         E
               A                      E   A
 All you gotta give to me is all your love
  
- 
-[Bridge]
+ </mdiv></section>
+<section type="Bridge"><mdiv>
 G        F#        A
  Ooh yeah  ooh yeah
 G        F#        A
  Ooh yeah  ooh yeah
  
- 
-[Outro]
+ </mdiv></section>
+<section type="Outro"><mdiv>
 E5
   Aw yeah aw yeah aw yeah
 Oh just remember said you'd be my one
@@ -125,6 +125,7 @@ Ooh yeah ooh yeah ooh yeah
 Ah hah hah hah hah hah yeah yeah
 Ah hah hah hah hah hah hah yeah yeah
  
- 
-[Outro (Fade Out)]
+ </mdiv></section>
+<section type="Outro (Fade Out)"><mdiv>
 E5
+</mdiv></section></music></mei>

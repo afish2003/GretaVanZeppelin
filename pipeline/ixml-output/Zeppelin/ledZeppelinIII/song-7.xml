@@ -1,14 +1,14 @@
-Tangerine
-Led Zeppelin III
-Led Zeppelin
-G
+<?xml version="1.0" encoding="UTF-8"?><mei ixml:state="ambiguous" xmlns:ixml="http://invisiblexml.org/NS"><music><title>Tangerine</title>
+<album>Led Zeppelin III</album>
+<artist>Led Zeppelin</artist>
+<key>G</key>
 
-[Intro]
+<section type="Intro"><mdiv>
 Am C/G Am G D
 Am G D C G Am G D
  
- 
-[Verse 1]
+ </mdiv></section>
+<section type="Verse 1"><mdiv>
 D Am          G  D
   Measuring a summer's day
 Am            G     D    C      G
@@ -17,8 +17,8 @@ Am          C    D
   The hours they bring me pain
 C D G
  
- 
-[Chorus]
+ </mdiv></section>
+<section type="Chorus"><mdiv>
 G      D  C      D  G
  Tangerine Tangerine
               D  C            D G
@@ -28,8 +28,8 @@ I was her love  oh she was my queen
                         D
 and now a thousand years between
  
- 
-[Verse 2]
+ </mdiv></section>
+<section type="Verse 2"><mdiv>
 Am              G    D
 Thinking how it used to be
 Am               G  D         C         G
@@ -37,14 +37,14 @@ does she still remember times like these
 Am         G     D
   to think of us again and i do
  
- 
-[Solo]
+ </mdiv></section>
+<section type="Solo"><mdiv>
 Am G6 D F
 E F E F C G D
 C D G
  
- 
-[Chorus]
+ </mdiv></section>
+<section type="Chorus"><mdiv>
 G      D  C      D  G
  Tangerine Tangerine
               D  C            D G          D   C
@@ -54,7 +54,8 @@ she was my queen
                    D
 and now a thousand years between
  
- 
-[Outro]
+ </mdiv></section>
+<section type="Outro"><mdiv>
 D Am G F
 C G
+</mdiv></section></music></mei>

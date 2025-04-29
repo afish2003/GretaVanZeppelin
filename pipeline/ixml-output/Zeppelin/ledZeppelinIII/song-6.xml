@@ -1,14 +1,14 @@
-Gallows Pole
-Led Zeppelin III
-Led Zeppelin
-A
+<?xml version="1.0" encoding="UTF-8"?><mei ixml:state="ambiguous" xmlns:ixml="http://invisiblexml.org/NS"><music><title>Gallows Pole</title>
+<album>Led Zeppelin III</album>
+<artist>Led Zeppelin</artist>
+<key>A</key>
 
-[Intro]
+<section type="Intro"><mdiv>
 A7 Em/A A7 Am7 Em9/A Dadd11/A A7 Em/A A7 Am7 Em9/A Dadd11/A A7 Em/A A7 Am7 Em9/A Dadd11/A
 A7 Em/A A7 Am7 Em9/A Dadd11/A
  
- 
-[Verse 1]
+ </mdiv></section>
+<section type="Verse 1"><mdiv>
 A7      Em/A A7 Am7        Em9/A Dadd11/A A7        Em/A A7          Am7 Em9/A Dadd11/A A7       Em/A A7     Am7           Em9/A Dadd11/A G       D      A7  Em/A A7 Am7 Em9/A Dadd11/A A7 Em/A A7 Am7 Em9/A Dadd11/A
 Hangman,           hangman,                 hold it a    little while                     Think I     see my friends coming                Riding many a mile
 A7            Em/A A7       Am7    Em9/A Dadd11/A A7          Em/A A7          Am7 Em9/A Dadd11/A A7    Em/A A7           Am7                  Em9/A Dadd11/A G                D      A7  Em/A A7 Am7 Em9/A Dadd11/A A7 Em/A A7 Am7     Em9/A Dadd11/A A7   Em/A A7         Am7            Em9/A Dadd11/A A7     Em/A A7 Am7 Em9/A Dadd11/A A7 Em/A A7 Am7 Em9/A 
@@ -19,8 +19,8 @@ A7       Em/A A7     Am7    Em9/A Dadd11/A A7       Em/A A7     Am7 Em9/A Dadd11
 Dadd11/A G                 D      A7    Em/A A7 Am7 Em9/A Dadd11/A A7 Em/A A7 Am7
 To       keep you from the gallows  pole
  
- 
-[Bridge]
+ </mdiv></section>
+<section type="Bridge"><mdiv>
 A       G D       G A          D           G
 Hangman,  hangman,   hold it a little while
 A          G     D        G
@@ -29,8 +29,8 @@ G      D          G A G A
 Riding a many mile
 G A G A
  
- 
-[Verse 2]
+ </mdiv></section>
+<section type="Verse 2"><mdiv>
 G        A       G      A
 Brother, did you get me some silver?
 G    A       G       A
@@ -51,8 +51,8 @@ G A G A       C          D   G        A        G      A
        Yes, I brought you to keep you from the gallows pole
 G A G A
  
- 
-[Pre-Verse]
+ </mdiv></section>
+<section type="Pre-Verse"><mdiv>
 A       G D       G A          D     G
 Hangman,  hangman,   turn your head awhile
 A          G      D      G
@@ -60,8 +60,8 @@ A          G      D      G
 G     D       G    A G A      G   A G A G A
 Riding a many mile,     mile, mile
  
- 
-[Verse 3]
+ </mdiv></section>
+<section type="Verse 3"><mdiv>
 G  A                   G    A
 Sister, I implore you, take him by the hand
 G    A
@@ -73,8 +73,8 @@ G A       G    A
 G                D             G   A   G A
 Save me from the wrath of this man, man
  
- 
-[Pre-Verse]
+ </mdiv></section>
+<section type="Pre-Verse"><mdiv>
 A       G D       G  A       D           G
 Hangman,  hangman, upon your face a smile
      A       G        D           G
@@ -82,8 +82,8 @@ Pray tell me that I'm free to ride
 G        D         G A G A      G A G A
 Ride for many mile,       mile, mile
  
- 
-[Verse 4]
+ </mdiv></section>
+<section type="Verse 4"><mdiv>
 G A G A    G    A      G  A
        Oh, yes, you got a fine sister
     G      A  G     A
@@ -103,16 +103,16 @@ And see you swinging on the gallows  pole,   yeah       But now I laugh  and pul
             G               D      G A    G A
 And see you swinging on the gallows  pole,  pole, pole
  
- 
-[Bridge]
+ </mdiv></section>
+<section type="Bridge"><mdiv>
 G D G A G A
 G               D       G   A G A G               D       G   A G A G               D       G   A G A
 Swingin' on the gallows pole      Swingin' on the gallows pole      Swingin' on the gallows pole
 G                       D          G     A     G A     G          D     G A    G A   G    D G A G A G D G A G A G D G A G A G D G A G A
 Swingin' on the gallows pole, pole, pole, pole,  pole, pole, pole, pole,  pole,  pole pole
  
- 
-[Guitar Solo]
+ </mdiv></section>
+<section type="Guitar Solo"><mdiv>
 G D G A G A G D G A G A G D G A G A G D G A G A
 G D G A G A G D G A G A G D G A G A G D G A G A
 G D G A G A G D G A G A G D G A G A G D G A G A
@@ -120,9 +120,10 @@ G D G A G A G D G A G A G D G A G A G D G A G A
 G D G A G A G D G A G A G D G A G A G D G A G A
 G D G A G A
  
- 
-[Outro (Fade Out)]
+ </mdiv></section>
+<section type="Outro (Fade Out)"><mdiv>
 G D G A G A G D G A G A G D G A G A G D G A G A
 G D G A G A G D G A G A G D G A G A G D G A G A
 G D G A G A G D G A G A G D G A G A G D G A G A
 G D G A G A G D G A G A G D G A G A
+</mdiv></section></music></mei>

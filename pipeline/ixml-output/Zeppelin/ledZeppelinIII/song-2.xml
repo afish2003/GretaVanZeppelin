@@ -1,30 +1,30 @@
-Friends
-Led Zeppelin III
-Led Zeppelin
-C
+<?xml version="1.0" encoding="UTF-8"?><mei ixml:state="ambiguous" xmlns:ixml="http://invisiblexml.org/NS"><music><title>Friends</title>
+<album>Led Zeppelin III</album>
+<artist>Led Zeppelin</artist>
+<key>C</key>
 
-[Intro]
+<section type="Intro"><mdiv>
 C
  
- 
-[Main Theme]
+ </mdiv></section>
+<section type="Main Theme"><mdiv>
 C
  
- 
-[Bridge]
+ </mdiv></section>
+<section type="Bridge"><mdiv>
 C Cm Csus2 F5/C C C5 C(b5) C
  
- 
-[Main Theme]
+ </mdiv></section>
+<section type="Main Theme"><mdiv>
 C
  
- 
-[Bridge]
+ </mdiv></section>
+<section type="Bridge"><mdiv>
 C Cm Csus2 F5/C C C5 C(b5)
 C
  
- 
-[Verse 1]
+ </mdiv></section>
+<section type="Verse 1"><mdiv>
 C                    C
  Bright light almost blinding
 Cb5                           C
@@ -42,33 +42,33 @@ Am/C                             C
 Cb5                    C(b9)
 Looking for what I knew
  
- 
-[Interlude 1]
+ </mdiv></section>
+<section type="Interlude 1"><mdiv>
 C C Cb5 C
 Am/C C Cb5 C
  
- 
-[Main Theme]
+ </mdiv></section>
+<section type="Main Theme"><mdiv>
 C
  
- 
-[Bridge]
+ </mdiv></section>
+<section type="Bridge"><mdiv>
 C Cm Csus2 F5/C C C5 C(b5) C
  
- 
-[Chorus]
+ </mdiv></section>
+<section type="Chorus"><mdiv>
 C
  Mmm, I'm telling you now
 The greatest thing you ever can do now
 Is trade a smile with someone who's blue now
 It's very easy just
  
- 
-[Bridge]
+ </mdiv></section>
+<section type="Bridge"><mdiv>
 C Cm Csus2 F5/C C C5 C(b5) C
  
- 
-[Verse 2]
+ </mdiv></section>
+<section type="Verse 2"><mdiv>
 C                             C
  Met a man on the roadside crying
 Cb5                                 C
@@ -86,34 +86,34 @@ Am/C                                      C
 Cb5                      C(b9)
 Looking for what you knew
  
- 
-[Interlude 1]
+ </mdiv></section>
+<section type="Interlude 1"><mdiv>
 C C Cb5 C
 Am/C C Cb5 C
  
- 
-[Main Theme]
+ </mdiv></section>
+<section type="Main Theme"><mdiv>
 C
  
- 
-[Bridge]
+ </mdiv></section>
+<section type="Bridge"><mdiv>
 C Cm Csus2 F5/C C C5 C(b5) C
  
- 
-[Chorus]
+ </mdiv></section>
+<section type="Chorus"><mdiv>
 C
 Mmm, I'm telling you now
 The greatest thing you ever can do now
 Is trade a smile with someone who's blue now
 It's very easy just
  
- 
-[Bridge]
+ </mdiv></section>
+<section type="Bridge"><mdiv>
 C Cm Csus2 F5/C C C5 C(b5) C
      Ah   
  
- 
-[Interlude 2]
+ </mdiv></section>
+<section type="Interlude 2"><mdiv>
 C Cm Csus2 F5/C
 C C5 C(b5) C5
 Am/C Cm Csus2 F5/C
@@ -127,6 +127,7 @@ Is trade a smile with someone who's blue now
 It's very easy, It's very easy
 It's very easy, It's easy, easy, yeah
  
- 
-[Outro]
+ </mdiv></section>
+<section type="Outro"><mdiv>
 C
+</mdiv></section></music></mei>
