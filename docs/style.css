@@ -372,7 +372,8 @@ font-style: normal;
 
 /* Album Card */
 .album {
-    width: 200px;  /* Set width for the album cards */
+    width: 220px;  /* Set width for the album cards */
+    height: 220px;
     background: white;;
     padding: 20px;
     text-align: center;
