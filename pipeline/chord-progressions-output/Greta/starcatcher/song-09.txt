@@ -1,0 +1,58 @@
+intro:
+  1, 1sus2, 1^5, b7^6add9, b6maj7, b7^6add9, 1^5, 1, 1sus2, 1^5, b7^6add9, b6maj7, b7^6add9, 1^5
+
+verse 1:
+  1, b7^6add9
+  b6maj7, 6m7, 1^5, b7^6add9
+  1, b7^6add9
+  b6maj7, 6m7, 1^5
+
+chorus:
+  b7^6add9, 4add9, 1^5
+  b7^6add9, 4add9
+  1, b7^6add9, 4add9
+  1^5, b7^6add9, 4add9, 1
+
+bridge:
+  1, 1sus2, 1^5, b7^6add9, b6maj7, b7^6add9, 1^5, 1, 1sus2, 1^5, b7^6add9, b6maj7, b7^6add9, 1^5
+
+verse 2:
+  1, b7^6add9
+  b6maj7, 6m7
+  1^5, b7^6add9, 1, b7^6add9
+  b6maj7, 6m7, 1^5
+
+bridge:
+  1^5, b7^6add9, 1^5, b7^6add9
+  1^5, b7^6add9, 1^5, b7^6add9
+  1^5, b7^6add9, 1^5, b7^6add9, 1^5, b7^6add9, 1^5
+
+chorus:
+  b7^6add9, 4add9, 1^5
+  b7^6add9, 4add9
+  1, b7^6add9, 4add9, 1^5
+  b7^6add9, 4add9, 1
+
+guitar solo:
+  1, 5madd11, b7^6add9, 4add9, 1, 5madd11, b7^6add9, 4add9, 1, 5madd11, b7^6add9, 4add9, 1, 5madd11, b7^6add9, 4add9
+
+bridge:
+  1, 5madd11, b7^6add9, 4add9, 1
+  5madd11
+  b7^6add9
+  4add9
+  1
+  5madd11
+  b7^6add9
+  4add9
+  1
+  5madd11
+  b7^6add9
+  4add9
+
+outro:
+  1
+  5madd11
+  b7^6add9
+  4add9, 1^5
+

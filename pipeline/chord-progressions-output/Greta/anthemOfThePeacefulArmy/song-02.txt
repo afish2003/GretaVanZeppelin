@@ -1,0 +1,51 @@
+intro:
+  5, 1, 5, 1, 5, 1
+
+verse 1:
+  5
+  1, 5
+  1, 5
+  1, 5, 1
+
+chorus:
+  b7sus2, 4, 1
+  b7sus2, 4, 1
+  b7sus2
+  4, b6^6, b7, 1
+
+instrumental:
+  5, 1, 5
+
+verse 2:
+  1, 5
+  1, 5
+  1, 5
+  1, 5, 1
+
+chorus:
+  b7sus2, 4, 1
+  b7sus2, 4, 1
+  b7sus2, 4
+  b6^6, b7, 1
+
+interlude:
+  2m7, 5^7, 2m7, 5^7
+
+bass guitar solo:
+  2m7, 5^7, 2m7, 5^7, 2m7, 5^7, 2m7, 5^7
+
+interlude 2:
+  2, 1add11, 5, 2, 5, 2
+
+guitar solo:
+  2, 5sus2, 2, 5
+
+chorus:
+  b7sus2, 4, 1
+  b7sus2, 4, 1
+  b7sus2
+  4, b6^6, b7
+
+outro:
+  5
+

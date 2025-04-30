@@ -1,0 +1,29 @@
+intro:
+  1
+
+pre-verse:
+
+verse 1:
+  1
+
+chorus:
+  4
+  5, 1
+
+verse 2:
+  1
+
+chorus:
+  4
+  5, 1
+
+interlude:
+  1
+
+bridge:
+  1
+
+chorus:
+  4
+  5, 1
+
