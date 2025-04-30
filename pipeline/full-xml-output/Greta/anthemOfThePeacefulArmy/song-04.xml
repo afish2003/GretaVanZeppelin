@@ -2,249 +2,248 @@
 <mei ixml:state="ambiguous"
      xmlns:ixml="http://invisiblexml.org/NS">
    <music>
-      <title>When the Curtain Falls</title>
+      <title>Watching Over</title>
       <album>Anthem of the Peaceful Army</album>
       <artist>Greta Van Fleet</artist>
       <key>G</key>
       <section type="Intro">
          <chordLine>
-            <chord num="1sus4">Gsus4</chord>
-         </chordLine>
-         <lyrics/>
-      </section>
-      <section type="Main Riff">
-         <chordLine>
-            <chord num="1^7">G7</chord>
+            <chord num="2m">Am</chord>
+            <chord num="4">C</chord>
+            <chord num="5">D</chord>
+            <chord num="2m">Am</chord>
+            <chord num="4">C</chord>
+            <chord num="5">D</chord>
          </chordLine>
          <lyrics/>
       </section>
       <section type="Verse 1">
          <chordLine>
-            <chord num="1^7">G7</chord>
+            <chord num="2m">Am</chord>
+            <chord num="4">C</chord>
+            <chord num="5">D</chord>
          </chordLine>
-         <lyrics>Well you're so great and I love you so You know I'm your biggest fan I saw your picture and it's the best The finest in the land</lyrics>
+         <lyrics>Many long years amongst the trees</lyrics>
          <chordLine>
-            <chord num="1">G</chord>
+            <chord num="2m">Am</chord>
             <chord num="4">C</chord>
-            <chord num="1">G</chord>
-            <chord num="4">C</chord>
+            <chord num="5">D</chord>
          </chordLine>
-         <lyrics>Camera lights and action</lyrics>
+         <lyrics>Many long years in the ground</lyrics>
          <chordLine>
-            <chord num="1">G</chord>
+            <chord num="2m">Am</chord>
             <chord num="4">C</chord>
-            <chord num="1">G</chord>
-            <chord num="4">C</chord>
+            <chord num="5">D</chord>
          </chordLine>
-         <lyrics>And words you know so well</lyrics>
+         <lyrics>To be with one that's never seen</lyrics>
          <chordLine>
-            <chord num="1">G</chord>
+            <chord num="2m">Am</chord>
             <chord num="4">C</chord>
+            <chord num="5">D</chord>
          </chordLine>
-         <lyrics>You're in and out of fashion</lyrics>
+         <lyrics>The one that stands and watches over</lyrics>
+      </section>
+      <section type="Bridge">
          <chordLine>
-            <chord num="1">G</chord>
-            <chord num="4">C</chord>
-            <chord num="1">G</chord>
-            <chord num="4">C</chord>
-            <chord num="1">G</chord>
+            <chord num="6m">Em</chord>
+            <chord num="6m">Em</chord>
+            <chord num="6m">Em</chord>
+            <chord num="6m">Em</chord>
          </chordLine>
-         <lyrics>In Hollywood of hell</lyrics>
+         <lyrics/>
       </section>
       <section type="Chorus">
          <chordLine>
-            <chord num="1">G</chord>
-            <chord num="b7">F</chord>
-            <chord num="4">C</chord>
+            <chord num="6m">Em</chord>
+            <chord num="2^5">A5</chord>
+            <chord num="1^5">G5</chord>
          </chordLine>
-         <lyrics>When the curtain falls</lyrics>
+         <lyrics>I wonder when we'll realize</lyrics>
          <chordLine>
-            <chord num="1">G</chord>
-            <chord num="5m">Dm</chord>
-            <chord num="b7">F</chord>
-            <chord num="4">C</chord>
+            <chord num="6m">Em</chord>
+            <chord num="2^5">A5</chord>
+            <chord num="1^5">G5</chord>
          </chordLine>
-         <lyrics>Walk the hollow halls babe</lyrics>
+         <lyrics>This is what we got left</lyrics>
          <chordLine>
-            <chord num="1">G</chord>
-            <chord num="b7">F</chord>
-            <chord num="4">C</chord>
+            <chord num="6m">Em</chord>
          </chordLine>
-         <lyrics>Once a valley doll</lyrics>
+         <lyrics>And it's our demise</lyrics>
          <chordLine>
-            <chord num="1">G</chord>
-            <chord num="5m">Dm</chord>
-            <chord num="b7">F</chord>
+            <chord num="6m">Em</chord>
+            <chord num="2^5">A5</chord>
+            <chord num="1^5">G5</chord>
          </chordLine>
-         <lyrics>Now you're not at all</lyrics>
+         <lyrics>With the water rising</lyrics>
          <chordLine>
+            <chord num="6m">Em</chord>
+         </chordLine>
+         <lyrics>And the air so thin</lyrics>
+         <chordLine>
+            <chord num="6m">Em</chord>
+            <chord num="2^5">A5</chord>
+            <chord num="1^5">G5</chord>
+         </chordLine>
+         <lyrics>Still the children smiling</lyrics>
+         <chordLine>
+            <chord num="6m">Em</chord>
+         </chordLine>
+         <lyrics>And we see no sin</lyrics>
+         <chordLine>
+            <chord num="2^5">A5</chord>
+            <chord num="2^5">A5</chord>
+            <chord num="2^5">A5</chord>
+            <chord num="2^5">A5</chord>
+            <chord num="6m">Em</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Solo">
+         <chordLine>
+            <chord num="2m">Am</chord>
             <chord num="4">C</chord>
-            <chord num="1">G</chord>
+            <chord num="5">D</chord>
+            <chord num="2m">Am</chord>
+            <chord num="4">C</chord>
+            <chord num="5">D</chord>
+            <chord num="2m">Am</chord>
+            <chord num="4">C</chord>
+            <chord num="5">D</chord>
+            <chord num="2m">Am</chord>
+            <chord num="4">C</chord>
+            <chord num="5">D</chord>
          </chordLine>
          <lyrics/>
       </section>
       <section type="Verse 2">
          <chordLine>
-            <chord num="1^7">G7</chord>
-            <chord num="1^7">G7</chord>
+            <chord num="4">C</chord>
+            <chord num="2m">Am</chord>
+            <chord num="4">C</chord>
+            <chord num="5">D</chord>
          </chordLine>
-         <lyrics>Well I love you in that movie show Can I have your autograph It's so funny you have such charm And whole thing made me laugh</lyrics>
+         <lyrics>This is what we all have seen</lyrics>
          <chordLine>
-            <chord num="1">G</chord>
+            <chord num="2m">Am</chord>
             <chord num="4">C</chord>
+            <chord num="5">D</chord>
          </chordLine>
-         <lyrics>Obetral and cocktails</lyrics>
+         <lyrics>Too many years tearing down</lyrics>
          <chordLine>
-            <chord num="1">G</chord>
+            <chord num="2m">Am</chord>
             <chord num="4">C</chord>
-            <chord num="1">G</chord>
-            <chord num="4">C</chord>
+            <chord num="5">D</chord>
          </chordLine>
-         <lyrics>You're counting all your rings</lyrics>
+         <lyrics>Even though we could not believe</lyrics>
          <chordLine>
-            <chord num="1">G</chord>
+            <chord num="2m">Am</chord>
             <chord num="4">C</chord>
-            <chord num="1">G</chord>
-            <chord num="4">C</chord>
+            <chord num="5">D</chord>
          </chordLine>
-         <lyrics>They all said they loved you</lyrics>
-         <chordLine>
-            <chord num="1">G</chord>
-            <chord num="4">C</chord>
-         </chordLine>
-         <lyrics>(Didn't they darlin')</lyrics>
-         <chordLine>
-            <chord num="1">G</chord>
-            <chord num="4">C</chord>
-            <chord num="1">G</chord>
-         </chordLine>
-         <lyrics>Well they've taken all your things</lyrics>
-      </section>
-      <section type="Chorus">
-         <chordLine>
-            <chord num="1">G</chord>
-            <chord num="b7">F</chord>
-            <chord num="4">C</chord>
-         </chordLine>
-         <lyrics>When the curtain falls</lyrics>
-         <chordLine>
-            <chord num="1">G</chord>
-            <chord num="5m">Dm</chord>
-            <chord num="b7">F</chord>
-            <chord num="4">C</chord>
-         </chordLine>
-         <lyrics>Walk the hollow halls babe</lyrics>
-         <chordLine>
-            <chord num="1">G</chord>
-            <chord num="b7">F</chord>
-            <chord num="4">C</chord>
-         </chordLine>
-         <lyrics>Once a valley doll</lyrics>
-         <chordLine>
-            <chord num="1">G</chord>
-            <chord num="5m">Dm</chord>
-            <chord num="b7">F</chord>
-         </chordLine>
-         <lyrics>Now you're not at all</lyrics>
-         <chordLine>
-            <chord num="4">C</chord>
-            <chord num="1sus4">Gsus4</chord>
-         </chordLine>
-         <lyrics/>
+         <lyrics>It's only clearer in a mirror now</lyrics>
       </section>
       <section type="Bridge">
          <chordLine>
-            <chord num="1">G</chord>
-            <chord num="1sus4">Gsus4</chord>
-            <chord num="1">G</chord>
-            <chord num="1sus4">Gsus4</chord>
+            <chord num="6m">Em</chord>
+            <chord num="6m">Em</chord>
+            <chord num="6m">Em</chord>
+            <chord num="6m">Em</chord>
          </chordLine>
-         <lyrics>Well listen darlin'</lyrics>
-         <chordLine>
-            <chord num="1">G</chord>
-         </chordLine>
-         <lyrics>It's been real swell</lyrics>
-         <chordLine>
-            <chord num="b7">F</chord>
-         </chordLine>
-         <lyrics>What can I say You've got it all</lyrics>
-         <chordLine>
-            <chord num="1">G</chord>
-            <chord num="1sus4">Gsus4</chord>
-         </chordLine>
-         <lyrics>You're a one woman show</lyrics>
-         <chordLine>
-            <chord num="1">G</chord>
-         </chordLine>
-         <lyrics>But I'm not gonna' lie</lyrics>
-         <chordLine>
-            <chord num="b7">F</chord>
-         </chordLine>
-         <lyrics>You could use a little work</lyrics>
-         <chordLine>
-            <chord num="5">D</chord>
-         </chordLine>
-         <lyrics>Well at your age</lyrics>
-      </section>
-      <section type="Guitar Solo">
-         <chordLine>
-            <chord num="1">G</chord>
-            <chord num="b7">F</chord>
-            <chord num="4">C</chord>
-            <chord num="1">G</chord>
-            <chord num="5m">Dm</chord>
-            <chord num="b7">F</chord>
-            <chord num="4">C</chord>
-            <chord num="1">G</chord>
-            <chord num="b7">F</chord>
-            <chord num="4">C</chord>
-            <chord num="1">G</chord>
-            <chord num="5m">Dm</chord>
-            <chord num="b7">F</chord>
-            <chord num="4">C</chord>
-            <chord num="1">G</chord>
-            <chord num="b7">F</chord>
-            <chord num="4">C</chord>
-            <chord num="1">G</chord>
-            <chord num="5m">Dm</chord>
-            <chord num="b7">F</chord>
-            <chord num="4">C</chord>
-         </chordLine>
-         <lyrics>What've you got baby</lyrics>
+         <lyrics/>
       </section>
       <section type="Chorus">
          <chordLine>
-            <chord num="1">G</chord>
-            <chord num="b7">F</chord>
-            <chord num="4">C</chord>
+            <chord num="6m">Em</chord>
+            <chord num="2^5">A5</chord>
+            <chord num="1^5">G5</chord>
          </chordLine>
-         <lyrics>When the curtain falls</lyrics>
+         <lyrics>I wonder when we'll realize</lyrics>
          <chordLine>
-            <chord num="1">G</chord>
-            <chord num="5m">Dm</chord>
-            <chord num="b7">F</chord>
-            <chord num="4">C</chord>
+            <chord num="6m">Em</chord>
+            <chord num="2^5">A5</chord>
+            <chord num="1^5">G5</chord>
          </chordLine>
-         <lyrics>Walk the hollow halls babe</lyrics>
+         <lyrics>This is what we got left</lyrics>
          <chordLine>
-            <chord num="1">G</chord>
-            <chord num="b7">F</chord>
-            <chord num="4">C</chord>
+            <chord num="6m">Em</chord>
          </chordLine>
-         <lyrics>Once a valley doll</lyrics>
+         <lyrics>And it's our demise</lyrics>
          <chordLine>
-            <chord num="1">G</chord>
-            <chord num="5m">Dm</chord>
-            <chord num="b7">F</chord>
-            <chord num="4">C</chord>
+            <chord num="6m">Em</chord>
+            <chord num="2^5">A5</chord>
+            <chord num="1^5">G5</chord>
          </chordLine>
-         <lyrics>Now you're not at all</lyrics>
+         <lyrics>With the water rising</lyrics>
+         <chordLine>
+            <chord num="6m">Em</chord>
+         </chordLine>
+         <lyrics>And the air so thin</lyrics>
+         <chordLine>
+            <chord num="6m">Em</chord>
+            <chord num="2^5">A5</chord>
+            <chord num="1^5">G5</chord>
+         </chordLine>
+         <lyrics>Still the children smiling</lyrics>
+         <chordLine>
+            <chord num="6m">Em</chord>
+         </chordLine>
+         <lyrics>Can we see no sin</lyrics>
+         <chordLine>
+            <chord num="6m">Em</chord>
+            <chord num="2^5">A5</chord>
+            <chord num="1^5">G5</chord>
+         </chordLine>
+         <lyrics>See no</lyrics>
+         <chordLine>
+            <chord num="6m">Em</chord>
+            <chord num="2^5">A5</chord>
+            <chord num="1^5">G5</chord>
+            <chord num="6m">Em</chord>
+         </chordLine>
+         <lyrics>Sin, Say no sin</lyrics>
+      </section>
+      <section type="Interlude">
+         <chordLine>
+            <chord num="6m">Em</chord>
+            <chord num="2^5">A5</chord>
+            <chord num="1^5">G5</chord>
+            <chord num="6m">Em</chord>
+            <chord num="2^5">A5</chord>
+            <chord num="1^5">G5</chord>
+            <chord num="6m">Em</chord>
+            <chord num="2^5">A5</chord>
+            <chord num="1^5">G5</chord>
+            <chord num="6m">Em</chord>
+            <chord num="2^5">A5</chord>
+            <chord num="1^5">G5</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Chorus">
+         <chordLine>
+            <chord num="6m">Em</chord>
+            <chord num="2^5">A5</chord>
+            <chord num="1^5">G5</chord>
+            <chord num="6m">Em</chord>
+            <chord num="2^5">A5</chord>
+            <chord num="1^5">G5</chord>
+            <chord num="6m">Em</chord>
+            <chord num="2^5">A5</chord>
+            <chord num="1^5">G5</chord>
+            <chord num="6m">Em</chord>
+            <chord num="2^5">A5</chord>
+            <chord num="1^5">G5</chord>
+         </chordLine>
+         <lyrics/>
       </section>
       <section type="Outro">
          <chordLine>
-            <chord num="1^7">G7</chord>
+            <chord num="2^5">A5</chord>
+            <chord num="2^5">A5</chord>
+            <chord num="2^5">A5</chord>
+            <chord num="2^5">A5</chord>
+            <chord num="6m">Em</chord>
          </chordLine>
-         <lyrics>Goodbye baby, goodbye</lyrics>
       </section>
    </music>
 </mei>

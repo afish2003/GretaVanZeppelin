@@ -1,115 +1,117 @@
-<?xml version="1.0" encoding="UTF-8"?><mei ixml:state="ambiguous" xmlns:ixml="http://invisiblexml.org/NS"><music><title>When the Curtain Falls</title>
+<?xml version="1.0" encoding="UTF-8"?><mei ixml:state="ambiguous" xmlns:ixml="http://invisiblexml.org/NS"><music><title>Watching Over</title>
 <album>Anthem of the Peaceful Army</album>
 <artist>Greta Van Fleet</artist>
 <key>G</key>
 
 <section type="Intro"><mdiv>
-Gsus4
- 
- </mdiv></section>
-<section type="Main Riff"><mdiv>
-G7
+Am C D
+Am C D
  
  </mdiv></section>
 <section type="Verse 1"><mdiv>
-     G7
-Well you're so great and I love you so
-You know I'm your biggest fan
-I saw your picture and it's the best
-The finest in the land
-G                 C     G C
-Camera lights and action
-    G                 C   G C
-And words you know so well
-G                    C
-You're in and out of fashion
-G C   G           C    G
-   In Hollywood of hell
- 
- </mdiv></section>
-<section type="Chorus"><mdiv>
-G         F       C
- When the curtain falls
-G         Dm     F         C
- Walk the hollow halls babe
-G       F      C
- Once a valley doll
-G           Dm     F
- Now you're not at all
-C  G
-Yea
- 
- </mdiv></section>
-<section type="Verse 2"><mdiv>
-G7     G7
-  Well I love you in that movie show
-Can I have your autograph
-It's so funny you have such charm
-And whole thing made me laugh
-G           C
-Obetral and cocktails
-G C       G                 C
-   You're counting all your rings
-G C G                  C
-    They all said they loved you
-        G            C
-(Didn't they darlin')
-     G                      C     G
-Well they've taken all your things
- 
- </mdiv></section>
-<section type="Chorus"><mdiv>
-G         F       C
- When the curtain falls
-G         Dm     F         C
- Walk the hollow halls babe
-G       F      C
- Once a valley doll
-G           Dm     F
- Now you're not at all
-C  Gsus4
-Yea
+Am          C                      D
+  Many long years amongst the trees
+Am                C     D
+  Many long years in the ground
+Am              C            D
+  To be with one that's never seen
+Am                   C           D
+  The one that stands and watches over
  
  </mdiv></section>
 <section type="Bridge"><mdiv>
-G Gsus4 G     Gsus4
-         Well listen darlin'
-     G
-It's been real swell
- F
-What can I say
-You've got it all
-G         Gsus4
- You're a one  woman show
-        G
-But I'm not gonna' lie
-          F
-You could use a little work
-             D
-Well at your age
- 
- </mdiv></section>
-<section type="Guitar Solo"><mdiv>
-G F C G Dm F C G F C
-G Dm F
-C
-G F C G Dm F
-            C
-What've you got baby
+Em
+Em
+Em
+Em
  
  </mdiv></section>
 <section type="Chorus"><mdiv>
-G         F       C
- When the curtain falls
-G         Dm     F         C
- Walk the hollow halls babe
-G       F      C
- Once a valley doll
-G           Dm     F C
- Now you're not at all
+Em  A5         G5
+  I wonder when     we'll realize
+Em            A5      G5
+  This is what  we got  left
+Em
+  And it's our demise
+Em           A5    G5
+  With the water rising
+Em
+  And the air so thin
+Em              A5       G5
+  Still the children smiling
+Em
+  And we see no sin
+A5
+A5
+A5
+A5
+Em
+ 
+ </mdiv></section>
+<section type="Solo"><mdiv>
+Am C D
+Am C D
+Am C D
+Am C D
+ 
+ </mdiv></section>
+<section type="Verse 2"><mdiv>
+C Am        C                D
+    This is what we all have seen
+Am        C             D
+  Too many years tearing down
+Am           C                    D
+  Even though we could not believe
+Am              C           D
+  It's only clearer in a mirror now
+ 
+ </mdiv></section>
+<section type="Bridge"><mdiv>
+Em 
+Em 
+Em 
+Em
+ 
+ </mdiv></section>
+<section type="Chorus"><mdiv>
+Em  A5         G5
+  I wonder when     we'll realize
+Em            A5      G5
+  This is what  we got  left
+Em
+  And it's our demise
+Em           A5    G5
+  With the water rising
+Em
+  And the air so thin
+Em              A5       G5
+  Still the children smiling
+Em
+  Can we see no sin
+Em      A5 G5
+  See no
+Em  A5   G5 Em
+Sin, Say no sin
+ 
+ </mdiv></section>
+<section type="Interlude"><mdiv>
+Em A5 G5
+Em A5 G5
+Em A5 G5
+Em A5 G5
+ 
+ </mdiv></section>
+<section type="Chorus"><mdiv>
+Em A5 G5 
+Em A5 G5
+Em A5 G5 
+Em A5 G5
  
  </mdiv></section>
 <section type="Outro"><mdiv>
-G7
-  Goodbye baby, goodbye
+A5
+A5
+A5
+A5
+Em
 </mdiv></section></music></mei>
