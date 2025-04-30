@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mei ixml:state="ambiguous"
+     xmlns:ixml="http://invisiblexml.org/NS">
+   <music>
+      <title>Hats Off To (Roy) Harper</title>
+      <album>Led Zeppelin III</album>
+      <artist>Led Zeppelin</artist>
+      <key>C</key>
+      <section type="Note">
+         <lyrics>This song is almost impossible—and more importantly, useless for our purposes—to notate with chords. It's advanced riffing on an acoustic guitar throughout the whole song, mainly centered around the root power chord C5.</lyrics>
+         <chordLine/>
+      </section>
+      <section type="Intro">
+         <lyrics>Mmm, a, mmm, a, mmm, a mmm, a mmm, a come on down</lyrics>
+         <chordLine/>
+      </section>
+      <section type="Verse 1">
+         <lyrics>When I done quit hollering, baby I believe I'll shake 'em on down Get my babe, won't be late You know by that I mean ah, seconds late Ah, must I holler? Must I shake 'em on down?</lyrics>
+         <chordLine/>
+      </section>
+      <section type="Chorus">
+         <lyrics>Well, I've done quit hollerin', baby I believe I'll shake 'em on down Shake 'em</lyrics>
+         <chordLine/>
+         <lyrics/>
+      </section>
+      <section type="Verse 2">
+         <lyrics>Well, I ain't no monkey I can't climb no tree No brown-skin woman gonna make no monkey out of me Yeah, I ain't no monkey Sure can't climb no tree</lyrics>
+         <chordLine/>
+      </section>
+      <section type="Chorus">
+         <lyrics>I been mistreated, babe, I believe I'll shake 'em on down Well, I've been mistreated, babe, I believe I'll shake 'em on down Mmm, ha ha Ha ha haha, ha ha haha, ha ha haha, ha ha hahaaaaaaa.....</lyrics>
+         <chordLine/>
+      </section>
+      <section type="Verse 3">
+         <lyrics>Listen, mama, put on your mornin' gown Put on your nightshirt, mama We going to shake them down, yeah Must I holler? Must I, must I, must I shake them on down?</lyrics>
+         <chordLine/>
+      </section>
+      <section type="Chorus">
+         <lyrics>Ooh, I've done been mistreated, babe, I believe I'll shake 'em on down</lyrics>
+         <chordLine/>
+      </section>
+      <section type="Outro">
+         <lyrics>Gave my baby a twenty-dollar bill If that don't get her, I'm sure my shot, shot, shot-gun will Yeah, I gave my baby a twenty-dollar bill Well, if that don't get that woman, I'm sure my shot-gun will I'm gonna go shoot her now</lyrics>
+      </section>
+   </music>
+</mei>
