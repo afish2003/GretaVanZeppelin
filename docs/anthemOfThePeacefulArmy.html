@@ -6,16 +6,25 @@
         <title>Songs – Anthem of the Peaceful Army</title>
         <link rel="stylesheet" href="style.css" />
         <link rel="stylesheet" href="https://use.typekit.net/xxw1fdo.css"/>
+        <link rel="stylesheet" href="https://use.typekit.net/xxw1fdo.css"/>
+        <link rel="icon" href="images/favicon.png" type="image/png"/>
     </head>
     <body>
         <h1>Songs from <em>Anthem of the Peaceful Army</em></h1>
         
-        <nav>
-            <a href="index.html">Home</a> | 
-            <a href="about.html">About</a> | 
-            <a href="methods.html">Methods</a> | 
-            <a href="albums.html">Albums</a>
-        </nav>
+        <div class="corner-menu">
+            <button id="menu-toggle" class="hamburger" aria-label="Toggle menu">
+                <span class="bar"></span>
+                <span class="bar"></span>
+                <span class="bar"></span>
+            </button>
+            <div id="menu-content" class="menu-hidden">
+                <a href="index.html">Home</a>
+                <a href="about.html">About</a>
+                <a href="methods.html">Methods</a>
+                <a href="albums.html">Albums</a>
+            </div>
+        </div>
         
         <div class="song-list">
             <ul>
@@ -29,5 +38,25 @@
                 <li><a href="raw/Greta/anthemOfThePeacefulArmy/song8.html">Mountain of the Sun</a></li>
             </ul>
         </div>
+        <script>
+    const toggle = document.getElementById('menu-toggle');
+const menu = document.getElementById('menu-content');
+const hamburger = document.querySelector('.hamburger');
+
+toggle.addEventListener('click', () => {
+    // Toggle the hamburger button animation
+    hamburger.classList.toggle('open');
+    
+    if (menu.classList.contains('menu-hidden')) {
+        menu.classList.remove('menu-hidden');
+        // delay to allow display before animation
+        setTimeout(() => menu.classList.add('show'), 10);
+    } else {
+        menu.classList.remove('show');
+        setTimeout(() => menu.classList.add('menu-hidden'), 300);
+    }
+});
+
+</script>
     </body>
 </html>

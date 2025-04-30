@@ -6,16 +6,25 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <link rel="stylesheet" type="text/css" href="style.css" />
         <link rel="stylesheet" href="https://use.typekit.net/xxw1fdo.css"/>
+        <link rel="stylesheet" href="https://use.typekit.net/xxw1fdo.css"/>
+        <link rel="icon" href="images/favicon.png" type="image/png"/>
     </head>
     <body>
-        <h1>About</h1>
-        <nav>
-            <a href="index.html">Home</a> | 
-            <a href="about.html">About</a> | 
-            <a href="methods.html">Methods</a> | 
+        <h1>About the Team</h1>
+        <div class="corner-menu">
+        <button id="menu-toggle" class="hamburger" aria-label="Toggle menu">
+            <span class="bar"></span>
+            <span class="bar"></span>
+            <span class="bar"></span>
+        </button>
+        <div id="menu-content" class="menu-hidden">
+            <a href="index.html">Home</a>
+            <a href="about.html">About</a>
+            <a href="methods.html">Methods</a>
             <a href="albums.html">Albums</a>
-        </nav>
-        <h3 class="team">Team Members!</h3>
+        </div>
+        </div>
+        
         <section class="about-section">
             <div class="card">
 
@@ -23,9 +32,9 @@
                 <img src="images/member.jpg" alt="Alexander Fisher" class="member-photo" />
                 <div class="member-description">
                     <ul>
-                        <li>Major:</li>
-                        <li>About me: </li>
-                        <li>Project contributions:</li>
+                        <li><strong>Major:</strong></li>
+                        <li><strong>About me:</strong> </li>
+                        <li><strong>Project contributions:</strong></li>
                     </ul>
                 </div>
             </div>
@@ -36,10 +45,10 @@
                 <img src="images/Ash.jpg" alt="Ashlynn Allgeier" class="member-photo" />
                 <div class="member-description">
                     <ul>
-                        <li>Major: Digital Media, Arts, and Technology, B.A. from Penn State
+                        <li><strong>Major:</strong> Digital Media, Arts, and Technology, B.A. from Penn State
                             Behrend</li>
-                        <li>About me: </li>
-                        <li>Project contributions: </li>
+                        <li><strong>About me:</strong> </li>
+                        <li><strong>Project contributions:</strong> Website Development, Data Visualization, XSLT </li>
                     </ul>
                 </div>
             </div>
@@ -50,10 +59,10 @@
                 <img src="images/michael.jpg" alt="Michael Simons" class="member-photo" />
                 <div class="member-description">
                     <ul>
-                        <li>Major: Digital Media, Arts, and Technology, B.A. from Penn State
+                        <li><strong>Major:</strong> Digital Media, Arts, and Technology, B.A. from Penn State
                             Behrend</li>
-                        <li>About me: </li>
-                        <li>Project contributions: </li>
+                        <li><strong>About me:</strong> I put in two years toward a B.S. in Computer Science at Behrend, but I realized that wasn't allowing for the artistic creativity I wanted to put into my work. I grew up in Erie, PA, and most of my family lives here. Other than spending time with them, my main hobby is music. I'm in a local band, <a href="https://www.theband814.com">The Band 814</a>, and I work part-time in the music ministry at my church, <a href="https://www.facerie.org/">First Alliance Church</a>. </li>
+                        <li><strong>Project contributions:</strong> Quality Control / File Management Specialist, Writer &amp; Editor, XML Stack (XProc, ixml, XSLT) </li>
                     </ul>
                 </div>
             </div>
@@ -64,9 +73,9 @@
                 <img src="images/connor.jpg" alt="Connor Carpenter" class="member-photo" />
                 <div class="member-description">
                     <ul>
-                        <li>Major: Digital Media, Arts, and Technology, B.A. from Penn State
+                        <li><strong>Major:</strong> Digital Media, Arts, and Technology, B.A. from Penn State
                             Behrend</li>
-                        <li>About me: I am a sophmore DIGIT student at Penn State Behrend, looking
+                        <li><strong>About me:</strong> I am a sophmore DIGIT student at Penn State Behrend, looking
                             to get a degree in graphic design. I've lived in Erie my whole life and
                             decided to attend Behrend because it's close to home, and a lot of my
                             family has gone here. I chose to be a DIGIT major because I've always
@@ -74,10 +83,30 @@
                             to express my creativity. In my free time, I enjoy working out,
                             listening to music, playing basketball, spending time with my friends
                             and family, and playing games with my friends.</li>
-                        <li>Project contributions: </li>
+                        <li><strong>Project contributions:</strong> </li>
                     </ul>
                 </div>
             </div>
         </section>
+        <script>
+    const toggle = document.getElementById('menu-toggle');
+const menu = document.getElementById('menu-content');
+const hamburger = document.querySelector('.hamburger');
+
+toggle.addEventListener('click', () => {
+    // Toggle the hamburger button animation
+    hamburger.classList.toggle('open');
+    
+    if (menu.classList.contains('menu-hidden')) {
+        menu.classList.remove('menu-hidden');
+        // delay to allow display before animation
+        setTimeout(() => menu.classList.add('show'), 10);
+    } else {
+        menu.classList.remove('show');
+        setTimeout(() => menu.classList.add('menu-hidden'), 300);
+    }
+});
+
+</script>
     </body>
 </html>
