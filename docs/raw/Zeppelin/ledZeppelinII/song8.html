@@ -5,91 +5,37 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <title>Moby Dick – Led Zeppelin</title>
         <link rel="stylesheet" href="../../../style.css" />
+        <link rel="stylesheet" href="https://use.typekit.net/xxw1fdo.css"/>
+        <link rel="stylesheet" href="https://use.typekit.net/xxw1fdo.css"/>
+        <link rel="icon" href="images/favicon.png" type="image/png"/>
     </head>
     <body>
         <h1>Moby Dick</h1>
         <h2>Led Zeppelin II – Led Zeppelin</h2>
         
-        <nav>
-            <a href="../../../index.html">Home</a> | 
-            <a href="../../../about.html">About</a> | 
-            <a href="../../../methods.html">Methods</a> | 
-            <a href="../../../albums.html">Albums</a>
-        </nav>
-        
-        <div class="song-box">
-            
-            <pre>
-&lt;music&gt;
-      &lt;title&gt;Moby Dick&lt;/title&gt;
-      &lt;album&gt;Led Zeppelin II&lt;/album&gt;
-      &lt;artist&gt;Led Zeppelin&lt;/artist&gt;
-      &lt;key&gt;F&lt;/key&gt;
-      &lt;section type="Theme 1"&gt;
-         &lt;chordLine&gt;
-            &lt;chord num="6"&gt;D&lt;/chord&gt;
-            &lt;chord num="1/3"&gt;F/A&lt;/chord&gt;
-            &lt;chord num="6"&gt;D&lt;/chord&gt;
-            &lt;chord num="1/3"&gt;F/A&lt;/chord&gt;
-            &lt;chord num="6"&gt;D&lt;/chord&gt;
-            &lt;chord num="1/3"&gt;F/A&lt;/chord&gt;
-            &lt;chord num="6"&gt;D&lt;/chord&gt;
-            &lt;chord num="1/3"&gt;F/A&lt;/chord&gt;
-            &lt;chord num="2m"&gt;Gm&lt;/chord&gt;
-            &lt;chord num="4"&gt;Bb&lt;/chord&gt;
-            &lt;chord num="2m"&gt;Gm&lt;/chord&gt;
-            &lt;chord num="4"&gt;Bb&lt;/chord&gt;
-            &lt;chord num="6"&gt;D&lt;/chord&gt;
-            &lt;chord num="1/3"&gt;F/A&lt;/chord&gt;
-            &lt;chord num="6"&gt;D&lt;/chord&gt;
-            &lt;chord num="1/3"&gt;F/A&lt;/chord&gt;
-            &lt;chord num="3"&gt;A&lt;/chord&gt;
-            &lt;chord num="2m"&gt;Gm&lt;/chord&gt;
-            &lt;chord num="6"&gt;D&lt;/chord&gt;
-            &lt;chord num="1/3"&gt;F/A&lt;/chord&gt;
-            &lt;chord num="6"&gt;D&lt;/chord&gt;
-            &lt;chord num="1/3"&gt;F/A&lt;/chord&gt;
-         &lt;/chordLine&gt;
-         &lt;lyrics/&gt;
-      &lt;/section&gt;
-      &lt;section type="Theme 2"&gt;
-         &lt;chordLine&gt;
-            &lt;chord num="6"&gt;D&lt;/chord&gt;
-            &lt;chord num="1/3"&gt;F/A&lt;/chord&gt;
-            &lt;chord num="6"&gt;D&lt;/chord&gt;
-            &lt;chord num="6"&gt;D&lt;/chord&gt;
-            &lt;chord num="1/3"&gt;F/A&lt;/chord&gt;
-            &lt;chord num="6"&gt;D&lt;/chord&gt;
-            &lt;chord num="2m"&gt;Gm&lt;/chord&gt;
-            &lt;chord num="4"&gt;Bb&lt;/chord&gt;
-            &lt;chord num="6"&gt;D&lt;/chord&gt;
-            &lt;chord num="6"&gt;D&lt;/chord&gt;
-            &lt;chord num="1/3"&gt;F/A&lt;/chord&gt;
-            &lt;chord num="6"&gt;D&lt;/chord&gt;
-            &lt;chord num="3"&gt;A&lt;/chord&gt;
-            &lt;chord num="2m"&gt;Gm&lt;/chord&gt;
-            &lt;chord num="6"&gt;D&lt;/chord&gt;
-         &lt;/chordLine&gt;
-         &lt;lyrics/&gt;
-      &lt;/section&gt;
-      &lt;section type="Outro"&gt;
-         &lt;chordLine&gt;
-            &lt;chord num="6"&gt;D&lt;/chord&gt;
-            &lt;chord num="1/3"&gt;F/A&lt;/chord&gt;
-            &lt;chord num="6"&gt;D&lt;/chord&gt;
-            &lt;chord num="2m"&gt;Gm&lt;/chord&gt;
-            &lt;chord num="4"&gt;Bb&lt;/chord&gt;
-            &lt;chord num="2m"&gt;Gm&lt;/chord&gt;
-            &lt;chord num="3"&gt;A&lt;/chord&gt;
-            &lt;chord num="2m"&gt;Gm&lt;/chord&gt;
-            &lt;chord num="6"&gt;D&lt;/chord&gt;
-            &lt;chord num="5"&gt;C&lt;/chord&gt;
-            &lt;chord num="3"&gt;A&lt;/chord&gt;
-         &lt;/chordLine&gt;
-      &lt;/section&gt;
-   &lt;/music&gt;
-            </pre>
-            
+        <div class="corner-menu">
+            <button id="menu-toggle" class="hamburger" aria-label="Toggle menu">
+                <span class="bar"></span>
+                <span class="bar"></span>
+                <span class="bar"></span>
+            </button>
+            <div id="menu-content" class="menu-hidden">
+                <a href="../../../index.html">Home</a>
+                <a href="../../../about.html">About</a>
+                <a href="../../../methods.html">Methods</a>
+                <a href="../../../albums.html">Albums</a>
+            </div>
         </div>
+        
+        <div class="song-list">
+            <ul>
+                <li><a href="https://github.com/afish2003/GretaVanZeppelin/blob/db8a3b9af0a6eadd9e678bfd78dfe6d31f352b0e/pipeline/raw-text/Zeppelin/ledZeppelinII/song-08.txt">raw-text file</a></li>
+                <li><a href="https://github.com/afish2003/GretaVanZeppelin/blob/db8a3b9af0a6eadd9e678bfd78dfe6d31f352b0e/pipeline/ixml-output/Zeppelin/ledZeppelinII/song-08.xml">ixml-output file</a></li>
+                <li><a href="https://github.com/afish2003/GretaVanZeppelin/blob/db8a3b9af0a6eadd9e678bfd78dfe6d31f352b0e/pipeline/full-xml-output/Zeppelin/ledZeppelinII/song-08.xml">full-xml-output file</a></li>
+                <li><a href="https://github.com/afish2003/GretaVanZeppelin/blob/db8a3b9af0a6eadd9e678bfd78dfe6d31f352b0e/pipeline/plain-lyrics-output/Zeppelin/ledZeppelinII/song-08.txt">plain-lyrics-output file</a></li>
+                <li><a href="https://github.com/afish2003/GretaVanZeppelin/blob/db8a3b9af0a6eadd9e678bfd78dfe6d31f352b0e/pipeline/chord-progressions-output/Zeppelin/ledZeppelinII/song-08.txt">chord-progressions-output file</a></li>
+            </ul>
+        </div>
+        <script src="java.js"></script>
     </body>
 </html>
