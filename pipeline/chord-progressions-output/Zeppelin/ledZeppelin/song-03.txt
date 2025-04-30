@@ -1,0 +1,34 @@
+intro:
+  4, 1, 1
+
+verse 1:
+  4
+  1
+  5
+  4, 1
+  1
+
+verse 2:
+  4
+  1
+  5, 4
+  1
+
+organ solo:
+  1, 4, 1, 5, 4, 1
+
+harmonica solo:
+  1, 4, 1, 5, 4, 1
+
+guitar solo:
+  1, 4, 1, 5, 4, 1
+
+verse 3:
+  1
+  4
+  1
+  5
+
+outro:
+  4, 1
+

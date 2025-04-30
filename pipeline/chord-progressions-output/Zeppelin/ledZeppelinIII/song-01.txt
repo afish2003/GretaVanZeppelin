@@ -1,0 +1,38 @@
+intro:
+  6m, 1
+
+verse 1:
+  5
+  6m
+  1
+  5, 6m
+
+chorus:
+  1, 2
+  b3
+
+re-intro:
+  6m, 1
+
+verse 2:
+  5
+  6m
+  1
+  5, 6m
+
+chorus:
+  1, 2
+  b3
+
+outro:
+  6m
+  b7/b3, 6m
+  b7/b3, 6m, b7/b3
+  6m
+  b7/b3
+  6m, b7/b3
+  6m, b7/b3, 6m, b7/b3, 6m, b7/b3
+  6m
+  b7/b3, 6m, b7/b3
+  6m, b7/b3, 6m
+

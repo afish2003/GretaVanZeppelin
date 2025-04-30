@@ -1,0 +1,61 @@
+intro 1:
+  6m, 2m, 2m/6, 6m, 3m, 6m, 2m, 2m/6, 6m, 3m, 6m
+
+intro 2:
+  3m, 2m, 2m/6, 6m, 3, 6m, 1^7, 7^7, b7maj7
+
+pre-chorus:
+  6m, 2m, 2m/6
+  6m
+
+verse 1:
+  2m, 2m/6
+  6m
+
+chorus:
+  3m
+  4, 2m, 2m/6, 6m, 3, 6m, 1^7, 7^7, b7maj7
+
+verse 2:
+  2m, 2m/6
+  6m
+
+pre-chorus:
+  2m, 2m/6
+  6m
+
+chorus:
+  3m
+  2m, 2m/6, 6m, 3
+  6m, 1^7, 7^7, b7maj7
+
+solo:
+  6m, 2m, 2m/6, 6m, 2m, 2m/6, 6m, 3m, 2m, 2m/6, 6m, 3, 6m, 1^7, 7^7, b7maj7
+
+bridge:
+  6m
+  1
+  
+  6m, 3, 6m, 1^7, 7^7, b7maj7
+
+verse 3:
+  6m
+  2m, 2m/6
+  6m
+  6^7
+
+pre-chorus:
+  2m, 2m/6
+  6m
+
+chorus:
+  3m
+  2m, 2m/6
+  6m, 3, 6m, 1^7, 7^7
+  b7maj7
+
+outro:
+  2m, 2m/6
+  6m, 3
+  6m, 1^7, 7^7, b7maj7, 6m
+

@@ -1,0 +1,46 @@
+intro:
+  1maj7, 4/1, 1maj7, 4/1, 1maj7, 4/1, 1maj7, 4/1, 1maj7, 4/1, 1maj7, 4/1
+
+verse 1:
+  1maj7, 4/1, 1maj7, 4/1, 1maj7, 4/1
+  1maj7, 4/1, 1maj7, 4/1, 1maj7, 4/1
+  1maj7, 4/1, 1maj7, 4/1, 1maj7, 4/1
+  1maj7, 4/1, 1maj7, 4/1, 1maj7, 4/1
+
+interlude:
+  1maj7, 4/1, 1maj7, 4/1, 1maj7, 4/1, 1maj7, 4/1, 1maj7, 4/1, 1maj7, 4/1, 1maj7, 4/1, 1maj7, 4/1, 1maj7, 4/1
+
+verse 2:
+  1maj7, 4/1, 1maj7, 4/1, 1maj7, 4/1
+  1maj7, 4/1, 1maj7, 4/1, 1maj7, 4/1
+  1maj7, 4/1, 1maj7, 4/1, 1maj7, 4/1
+  1maj7, 4/1, 1maj7, 4/1, 1maj7, 4/1, 1maj7, 4/1, 1maj7
+
+interlude:
+  4/1, 1maj7, 4/1, 1maj7, 4/1, 1maj7, 4/1, 1maj7, 4/1, 1maj7, 4/1, 1maj7, 4/1, 1maj7, 4/1, 1maj7, 4/1, 1maj7, 4/1, 1maj7, 4/1
+
+verse 3:
+  1maj7, 4/1, 1maj7, 4/1, 1maj7, 4/1
+  1maj7, 4/1, 1maj7, 4/1, 1maj7, 4/1
+  1maj7, 4/1, 1maj7, 4/1, 1maj7, 4/1
+  1maj7, 4/1, 1maj7, 4/1, 1maj7, 4/1, b7maj7sus4/b3
+
+chorus:
+  b7maj7sus4/b3, b3
+  1maj7, 4/1, 1maj7, 4/1, 1, 4/1, 1, 4/1, 1
+  b7maj7sus4/b3, b3
+  5, 5m
+  5, 1maj7, 4/1
+
+interlude:
+  1maj7, 4/1, 1maj7, 4/1, 1maj7, 4/1
+
+verse 4:
+  1maj7, 4/1, 1maj7, 4/1, 1maj7, 4/1
+  1maj7, 4/1, 1maj7, 4/1, 1maj7, 4/1
+  1maj7, 4/1, 1maj7, 4/1, 1maj7, 4/1
+  1maj7, 4/1, 1maj7, 4/1, 1maj7, 4/1
+
+interlude:
+  1maj7, 4/1, 1maj7, 4/1, 1maj7, 4/1, 1maj7, 4/1, 1maj7, 4/1, 1maj7, 4/1, 1maj7, 4/1, 1maj7, 4/1, 1maj7, 4/1, 1maj7, 4/1, 1maj7, 4/1, 1maj7, 4/1
+

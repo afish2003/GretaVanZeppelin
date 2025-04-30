@@ -71,6 +71,18 @@
         <p:store name="plain-lyrics-out" href="../../plain-lyrics-output/Zeppelin/ledZeppelin/{$filename}.txt" />
         <p:identity message="Saved plain lyrics for {$filename}"/>
         
+        <!-- ================================================================ -->
+        <!-- Output just chord progressions                                   -->
+        <!-- ================================================================ -->
+        <p:xslt>
+            <p:with-input port="source">
+                <p:pipe step="full-xml-out" port="result"/>
+            </p:with-input>
+            <p:with-input port="stylesheet" href="../../chordProgressions.xsl"/>
+        </p:xslt>
+        
+        <p:store name="chord-progressions-out" href="../../chord-progressions-output/Zeppelin/ledZeppelin/{$filename}.txt" />
+        <p:identity message="Saved chord progressions for {$filename}"/>
     </p:for-each>
     
 </p:declare-step>

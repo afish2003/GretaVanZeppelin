@@ -1,0 +1,66 @@
+intro:
+  1
+
+main theme:
+  1
+
+bridge:
+
+main theme:
+  1
+
+bridge:
+  1
+
+verse 1:
+  1, 1
+  1(b5), 1
+  6m/1, 1
+  1, 1
+  1(b5), 1
+  6m/1, 1
+
+interlude 1:
+  1, 1, 1(b5), 1, 6m/1, 1, 1(b5), 1
+
+main theme:
+  1
+
+bridge:
+
+chorus:
+  1
+
+bridge:
+
+verse 2:
+  1, 1
+  1(b5), 1
+  6m/1, 1
+  1, 1
+  1(b5), 1
+  6m/1, 1
+
+interlude 1:
+  1, 1, 1(b5), 1, 6m/1, 1, 1(b5), 1
+
+main theme:
+  1
+
+bridge:
+
+chorus:
+  1
+
+bridge:
+  
+
+interlude 2:
+  1, 1m, 1sus2, 4^5/1
+  6m/1, 1m, 1sus2, 4^5/1
+  1^5, 6m/1, 1sus2, 1m, 1sus2
+  1
+
+outro:
+  1
+

@@ -1,0 +1,78 @@
+intro:
+  1m
+
+verse 1:
+  1m, b3, 1m, b3
+  1m, b3, 1m, b3
+  1m, b3, 1m, b3
+  1m, b3, 1m, b3
+  4
+  1m, b3, 1m, b3
+  1m, b3, 1m, b3
+  4
+  1m, b3, 1m, b3
+  1m, b3, 1m, b3
+  4, 1m, b3, 1m, b3, 1m, b3, 1m, b3
+
+chorus:
+  1^7, 4, 1^7, 4
+  b7^7, b3
+  b7^7, b3
+
+verse 2:
+  1m, b3, 1m, b3
+  1m, b3, 1m, b3
+  1m, b3, 1m, b3
+  1m, b3, 1m, b3, 4
+  1m, b3, 1m, b3
+  1m, b3, 1m, b3
+  4
+  1m, b3, 1m, b3
+  1m, b3, 1m, b3
+  4, 1m, b3, 1m, b3, 1m, b3, 1m, b3
+
+chorus:
+  1^7, 4, 1^7, 4
+  b7^7, b3
+  b7^7, b3
+
+verse 3:
+  1m, b3, 1m, b3
+  1m, b3, 1m, b3
+  1m, b3, 1m, b3
+  1m, b3, 1m, b3, 4
+  1m, b3, 1m, b3
+  1m, b3, 1m, b3
+  4
+  1m, b3, 1m, b3
+  1m, b3, 1m
+  b3, 4
+  1m, b3, 1m, b3, 1m, b3, 1m, b3
+
+chorus:
+  1^7, 4
+  1^7, 4
+  b7^7, b3
+  b7^7, b3, 1m
+
+interlude:
+  1sus2, 1m, 1sus2, 1m, 1sus2, 1m, 1sus2, 5m7
+
+outro 1:
+  1m, b3, 1m
+  b3, 1m, b3, 1m
+  b3, 1m, b3, 1m
+  b3, 1m, b3, 1m, b3
+  4
+  1m, b3, 1m
+  b3, 1m, b3, 1m, b3
+  4
+  1m
+
+outro 2:
+  1m, b3, 1m, b7, 1m, b3, 1m, b7, 1m, b3, 1m, b7, 1m, b3, 1m, b7
+  
+
+fade out:
+  1m, b3, 1m, b7, 1m, b3, 1m, b7, 1m, b3, 1m, b7, 1m, b3, 1m, b7, 1m, b3, 1m, b7, 1m, b3, 1m, b7, 1m, b3, 1m, b7
+

@@ -1,0 +1,52 @@
+intro:
+  2sus4, 6m, 5m
+
+pre-verse:
+  1, 1sus4, 1sus2, 1sus4, 1sus2, 1m/b7, 1, 1sus4, 1sus2, 1sus4, 1sus2, 1m/b7, 1, 1sus4, 1sus2, 1sus4, 1sus2, 1m/b7, 1, 1sus4, 1sus2, 1sus4, 1sus2, 1m/b7
+
+verse 1:
+  1, 1sus4, 1sus2, 1sus4, 1sus2, 1m/b7, 1, 1sus4, 1sus2
+  1sus4, 1sus2, 1m/b7, 1, 1sus4, 1sus2
+  1sus4, 1sus2, 1m/b7, 1, 1sus4, 1sus2
+
+verse 2:
+  1sus4, 1sus2, 1m/b7, 1, 1sus4, 1sus2, 1sus4, 1sus2, 1m/b7, 1, 1sus4
+  1sus2, 1sus4, 1sus2, 1m/b7, 1, 1sus4, 1sus2
+  1sus4, 1sus2, 1m/b7, 1, 7m7/1
+  b7/1, 2m/1
+
+chorus:
+  1, 1sus4, 1, 1sus2, 1, 4
+  1, 1sus4, 1, 1sus2, 1, 4
+  1, 1sus4, 1, 1sus2, 1, 4
+  1, 1sus4, 1, 1sus2, 1, 4
+  1, 1sus4, 1, 1sus2, 1, 4
+
+verse 3:
+  1, 1sus4, 1sus2
+  1sus4, 1sus2, 1m/b7, 1, 1sus4, 1sus2
+  1sus4, 1sus2, 1m/b7, 1, 1sus4, 1sus2
+  1sus4, 1sus2, 1m/b7, 1, 1sus4, 1sus2
+  1sus4, 1sus2, 1m/b7
+
+verse 4:
+  1, 1sus4, 1sus2
+  1sus4, 1sus2, 1m/b7, 1, 1sus4, 1sus2
+  1sus4, 1sus2, 1m/b7, 1, 1sus4, 1sus2
+  1sus4, 1sus2, 1m/b7
+  1, 7m7/1
+  b7/1
+  2m/1
+
+chorus:
+  1, 1sus4, 1, 1sus2, 1, 4
+  1, 1sus4, 1, 1sus2, 1, 4
+  1, 1sus4, 1, 1sus2, 1, 4
+  1, 1sus4, 1, 1sus2, 1, 4
+  1, 1sus4, 1, 1sus2, 1, 4
+  1, 1sus4, 1, 1sus2, 1, 4
+  1, 1sus4, 1, 1sus2, 1, 4
+  1, 1sus4, 1, 1sus2, 1, 4
+  1, 1sus4, 1, 1sus2, 1, 4
+  1, 1sus4, 1, 1sus2, 1, 4
+
