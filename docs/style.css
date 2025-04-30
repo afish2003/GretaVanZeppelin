@@ -194,17 +194,20 @@ font-style: normal;
 
 
 pre {
-    background-color: #f5f5f5; /* light gray background */
+    background-color: #1a1a1a; /* dark background */
     padding: 1rem;
-    border-radius: 0px;
+    border-radius: 6px;
     font-family: "Courier New", Courier, monospace;
-    font-size: 1rem;
+    font-size: 1rem; /* adjusted font size */
+    line-height: 1.6;
+    color: #e0e0e0; /* light text color */
     overflow-x: auto;
     white-space: pre-wrap;
     word-wrap: break-word;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1), inset 0 1px 3px rgba(0,0,0,0.05); /* combining both shadows */
     margin: 1.5rem 0;
     text-align: left;
+    border: 2px solid #444; /* subtle border */
 }
 
 
@@ -223,11 +226,11 @@ h3 {
     color: white;
 }
 
-
-
 .song-box {
     background: rgba(30, 30, 30, 0.85);
     padding: 1.5rem 2rem;
+    padding-left: 12rem;
+    padding-right:12rem;
     border-left: 6px solid #6a5acd;
     margin-bottom: 2rem;
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
@@ -248,20 +251,6 @@ h3 {
     display: inline-block;
     padding-bottom: 0.3rem;
     margin-bottom: 0.5rem;
-}
-
-pre {
-    background-color: #1a1a1a;
-    padding: 1rem;
-    overflow-x: auto;
-    font-family: 'Courier New', monospace;
-    white-space: pre-wrap;
-    border-radius: 6px;
-    border: 2px solid #444;
-    line-height: 1.6;
-    font-size: 0.95rem;
-    color: #e0e0e0;
-    box-shadow: inset 0 1px 3px rgba(0,0,0,0.05);
 }
 
 
@@ -352,6 +341,7 @@ font-style: normal;
     box-shadow: 0 8px 20px rgba(0, 0, 0, 0.4);
     backdrop-filter: blur(3px);
     border: 1px solid rgba(255, 255, 255, 0.1);
+      margin: 210px auto;
 }
 
 .intro-section h1 {
@@ -440,4 +430,104 @@ pre .chord {
 
 pre .lyric {
     color: #f0f0f0; /* keep lyrics soft white */
+}
+
+.logo {
+    width: 250px;
+    height: 250px;
+    position: absolute;
+    top: 0px;
+    left: 50%;
+    transform: translateX(-50%);
+    z-index: 1000;
+}
+
+
+.page-header {
+    position: relative;
+    padding-left: 100px; /* ensures space for logo */
+    padding-top: 60px;
+}
+
+/* Container positioning */
+.corner-menu {
+    position: absolute;
+    top: 15px;
+    right: 20px;
+    z-index: 1000;
+}
+
+/* Hamburger Button (Updated with animation) */
+.hamburger {
+    width: 35px;
+    height: 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    background: none;
+    border: none;
+    cursor: pointer;
+    padding: 0;
+    position: relative;
+    z-index: 1001;
+    transition: all 0.3s ease;
+}
+
+
+
+.hamburger .bar {
+    height: 4px;
+    width: 100%;
+    background-color: #222;
+    border-radius: 4px;
+    transition: all 0.3s ease;
+}
+
+/* Menu Styling */
+#menu-content a {
+    color: black; 
+    text-decoration: none;
+    padding: 12px 24px;
+    border-radius: 8px;
+    background-color: #e8e8e8; 
+    font-weight: bold;
+    display: block;
+    margin: 5px 0;
+    text-align: center;
+    transition: background-color 0.3s ease, transform 0.3s ease;
+}
+
+/* Hover Effect */
+#menu-content a:hover {
+    background-color: #ffd700; 
+    color: black;
+    transform: scale(1.05); 
+}
+
+/* Dropdown Menu Styling */
+#menu-content {
+    background-color: #e8e8e8; 
+    color: black; 
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    top: 60px;
+    right: 0;
+    min-width: 200px;
+    padding: 10px 0;
+    border-radius: 8px;
+    box-shadow: 0 8px 15px rgba(0, 0, 0, 0.3); 
+    opacity: 0;
+    transform: translateY(-10px);
+    transition: opacity 0.3s ease, transform 0.3s ease;
+}
+
+/* Show menu when active */
+#menu-content.show {
+    opacity: 1;
+    transform: translateY(0);
+}
+
+a{
+    color: white;
 }

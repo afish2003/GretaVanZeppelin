@@ -7,21 +7,61 @@
         <link rel="stylesheet" type="text/css" href="style.css" />
         <link rel="stylesheet" href="https://use.typekit.net/xxw1fdo.css"/>
         <link rel="stylesheet" href="https://use.typekit.net/xxw1fdo.css"/>
+        <link rel="icon" href="images/favicon.png" type="image/png"/>
    
     </head>
     <body>
-        <h1>Greta Van Fleet and Led Zeppelin Comparison</h1>
-        <nav>
-            <a href="index.html">Home</a> | 
-            <a href="about.html">About</a> | 
-            <a href="methods.html">Methods</a> | 
-            <a href="albums.html">Albums</a>
-        </nav>
+        <header class="page-header">
+            <a href="https://github.com/afish2003/GretaVanZeppelin"><img src="images/logo.png" alt="GretaVanZeppelin Logo" class="logo" /></a>
+            
+        </header>
+        
+        <div class="corner-menu">
+            <button id="menu-toggle" class="hamburger" aria-label="Toggle menu">
+                <span class="bar"></span>
+                <span class="bar"></span>
+                <span class="bar"></span>
+            </button>
+            <div id="menu-content" class="menu-hidden">
+                <a href="index.html">Home</a>
+                <a href="about.html">About</a>
+                <a href="methods.html">Methods</a>
+                <a href="albums.html">Albums</a>
+            </div>
+        </div>
+        
         
         <section class="intro-section">
-        <h1>Welcome to our Music Comparison Project</h1>
-        <p>
-            This site is part of our final project for DIGIT 210, where we explore the musical similarities between Greta Van Fleet and Led Zeppelin. Our focus is on analyzing their use of chord progressions and lyrical themes to see how modern rock echoes the classic sound. Dive in to discover the connections, contrasts, and what makes each band unique!</p>
+            <h1>Music Comparison</h1>
+            <p>
+                Is the up-and-coming band Greta Van Fleet actually that similar to the classic rockers of Led Zeppelin?</p>
+                
+            <p>This project for <a href="https://newtfire.org/courses/textAnalysis/">Penn State Behrend's DIGIT 210 course</a> aimed to use novel technologies in the XML stack to markup chord charts so that they could be analyzed by various Python and NLP programs. Our goal is to analyze their commonly used chord progressions and lyrical themes to discover connections, contrasts, and what makes each band unique!            </p>
         </section>
+        <script>
+    const toggle = document.getElementById('menu-toggle');
+const menu = document.getElementById('menu-content');
+const hamburger = document.querySelector('.hamburger');
+
+toggle.addEventListener('click', () => {
+    // Toggle the hamburger button animation
+    hamburger.classList.toggle('open');
+    
+    if (menu.classList.contains('menu-hidden')) {
+        menu.classList.remove('menu-hidden');
+        // delay to allow display before animation
+        setTimeout(() => menu.classList.add('show'), 10);
+    } else {
+        menu.classList.remove('show');
+        setTimeout(() => menu.classList.add('menu-hidden'), 300);
+    }
+});
+
+</script>
+        
     </body>
+    
+    
+    
 </html>
+
