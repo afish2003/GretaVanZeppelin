@@ -1,0 +1,58 @@
+intro:
+  6m, 1, 2, 4maj7, 6m, 1, 2, 4maj7
+
+verse 1:
+  6m, 1
+  2
+  4maj7, 6m, 1
+  2, 4maj7
+
+pre-chorus:
+  1, 5, 4, 4maj7
+  1, 5, 4, 4maj7
+  6m, 5, 4, 4maj7
+  6m, 5, 4, 4maj7
+
+chorus:
+  6m, 5, 4
+  6m, 5, 4
+  6m, 5, 4
+  6m, 5, 4
+
+bridge:
+  1, 2, 4maj7
+
+verse 2:
+  6m, 1
+  2
+  4maj7, 6m, 1
+  2, 4maj7
+
+pre-chorus:
+  1, 5, 4, 4maj7
+  1, 5, 4, 4maj7
+  6m, 5, 4, 4maj7
+  6m, 5, 4, 4maj7
+
+chorus:
+  6m, 5, 4
+  6m, 5, 4, 6m
+  5, 4
+  6m, 5, 4
+  6m, 5, 4, 4maj7
+
+interlude 1:
+  1, 2/1, 2m/1, 1, 2/1, 2m/1, 1, 2, 4, 1, 2, 4
+
+interlude 2:
+  6madd11, 4^6, 6madd11, 4^6, 6madd11, 4^6, 6madd11, 4^6, 6madd11, 4^6, 6madd11, 4^6
+
+solo:
+  6madd11, 4^6, 6madd11, 4^6, 6madd11, 4^6, 6madd11, 4^6, 6madd11, 4^6, 6madd11, 4^6, 6madd11, 4^6, 6madd11
+
+chorus:
+  4^6, 6m, 5, 4
+  6m, 5, 4, 6m
+  5, 4
+  6m, 5, 4
+

@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mei ixml:state="ambiguous"
+     xmlns:ixml="http://invisiblexml.org/NS">
+   <music>
+      <title>The Cold Wind</title>
+      <album>Anthem of the Peaceful Army</album>
+      <artist>Greta Van Fleet</artist>
+      <key>D</key>
+      <section type="Intro">
+         <chordLine>
+            <chord num="5">A</chord>
+            <chord num="1">D</chord>
+            <chord num="5">A</chord>
+            <chord num="1">D</chord>
+            <chord num="5">A</chord>
+            <chord num="1">D</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Verse 1">
+         <chordLine>
+            <chord num="5">A</chord>
+         </chordLine>
+         <lyrics>Oh sweet mama, lay me down in my grave</lyrics>
+         <chordLine>
+            <chord num="1">D</chord>
+            <chord num="5">A</chord>
+         </chordLine>
+         <lyrics>Leave me baby, I'm too far gone to save</lyrics>
+         <chordLine>
+            <chord num="1">D</chord>
+            <chord num="5">A</chord>
+         </chordLine>
+         <lyrics>The snow is comin', all the village folk know</lyrics>
+         <chordLine>
+            <chord num="1">D</chord>
+            <chord num="5">A</chord>
+            <chord num="1">D</chord>
+         </chordLine>
+         <lyrics>This wicked shiver, chills me down to my soul, oh</lyrics>
+      </section>
+      <section type="Chorus">
+         <chordLine>
+            <chord num="b7sus2">Csus2</chord>
+            <chord num="4">G</chord>
+            <chord num="1">D</chord>
+         </chordLine>
+         <lyrics>Only time will tell</lyrics>
+         <chordLine>
+            <chord num="b7sus2">Csus2</chord>
+            <chord num="4">G</chord>
+            <chord num="1">D</chord>
+         </chordLine>
+         <lyrics>Take the ox to town and you c an sell</lyrics>
+         <chordLine>
+            <chord num="b7sus2">Csus2</chord>
+         </chordLine>
+         <lyrics>Leave me in my bed</lyrics>
+         <chordLine>
+            <chord num="4">G</chord>
+            <chord num="b6^6">Bb6</chord>
+            <chord num="b7">C</chord>
+            <chord num="1">D</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Instrumental">
+         <chordLine>
+            <chord num="5">A</chord>
+            <chord num="1">D</chord>
+            <chord num="5">A</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Verse 2">
+         <chordLine>
+            <chord num="1">D</chord>
+            <chord num="5">A</chord>
+         </chordLine>
+         <lyrics>The Yankee peddler bargains with you on his way</lyrics>
+         <chordLine>
+            <chord num="1">D</chord>
+            <chord num="5">A</chord>
+         </chordLine>
+         <lyrics>Woe sweet mama's gotten herself a new dray</lyrics>
+         <chordLine>
+            <chord num="1">D</chord>
+            <chord num="5">A</chord>
+         </chordLine>
+         <lyrics>Keep the children snug as the wagon rolls on</lyrics>
+         <chordLine>
+            <chord num="1">D</chord>
+            <chord num="5">A</chord>
+            <chord num="1">D</chord>
+         </chordLine>
+         <lyrics>When the cold wind blows most of them will be gone, oh</lyrics>
+      </section>
+      <section type="Chorus">
+         <chordLine>
+            <chord num="b7sus2">Csus2</chord>
+            <chord num="4">G</chord>
+            <chord num="1">D</chord>
+         </chordLine>
+         <lyrics>Only time can tell</lyrics>
+         <chordLine>
+            <chord num="b7sus2">Csus2</chord>
+            <chord num="4">G</chord>
+            <chord num="1">D</chord>
+         </chordLine>
+         <lyrics>Take the ox to town and I'll get well</lyrics>
+         <chordLine>
+            <chord num="b7sus2">Csus2</chord>
+            <chord num="4">G</chord>
+         </chordLine>
+         <lyrics>Leave me in my bed</lyrics>
+         <chordLine>
+            <chord num="b6^6">Bb6</chord>
+            <chord num="b7">C</chord>
+            <chord num="1">D</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Interlude">
+         <chordLine>
+            <chord num="2m7">Em7</chord>
+            <chord num="5^7">A7</chord>
+            <chord num="2m7">Em7</chord>
+            <chord num="5^7">A7</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Bass Guitar Solo">
+         <chordLine>
+            <chord num="2m7">Em7</chord>
+            <chord num="5^7">A7</chord>
+            <chord num="2m7">Em7</chord>
+            <chord num="5^7">A7</chord>
+            <chord num="2m7">Em7</chord>
+            <chord num="5^7">A7</chord>
+            <chord num="2m7">Em7</chord>
+            <chord num="5^7">A7</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Interlude 2">
+         <chordLine>
+            <chord num="2">E</chord>
+            <chord num="1add11">Dadd11</chord>
+            <chord num="5">A</chord>
+            <chord num="2">E</chord>
+            <chord num="5">A</chord>
+            <chord num="2">E</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Guitar Solo">
+         <chordLine>
+            <chord num="2">E</chord>
+            <chord num="5sus2">Asus2</chord>
+            <chord num="2">E</chord>
+            <chord num="5">A</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Chorus">
+         <chordLine>
+            <chord num="b7sus2">Csus2</chord>
+            <chord num="4">G</chord>
+            <chord num="1">D</chord>
+         </chordLine>
+         <lyrics>Only time will tell</lyrics>
+         <chordLine>
+            <chord num="b7sus2">Csus2</chord>
+            <chord num="4">G</chord>
+            <chord num="1">D</chord>
+         </chordLine>
+         <lyrics>You take the ox to town and you can sell</lyrics>
+         <chordLine>
+            <chord num="b7sus2">Csus2</chord>
+         </chordLine>
+         <lyrics>Leave me in my bed</lyrics>
+         <chordLine>
+            <chord num="4">G</chord>
+            <chord num="b6^6">Bb6</chord>
+            <chord num="b7">C</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Outro">
+         <chordLine>
+            <chord num="5">A</chord>
+         </chordLine>
+      </section>
+   </music>
+</mei>

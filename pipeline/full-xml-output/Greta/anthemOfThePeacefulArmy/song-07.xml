@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mei ixml:state="ambiguous"
+     xmlns:ixml="http://invisiblexml.org/NS">
+   <music>
+      <title>The New Day</title>
+      <album>Anthem of the Peaceful Army</album>
+      <artist>Greta Van Fleet</artist>
+      <key>F</key>
+      <section type="Intro">
+         <chordLine>
+            <chord num="1">F</chord>
+            <chord num="5">C</chord>
+            <chord num="b7">Eb</chord>
+            <chord num="4">Bb</chord>
+            <chord num="1">F</chord>
+            <chord num="1">F</chord>
+            <chord num="5">C</chord>
+            <chord num="b7">Eb</chord>
+            <chord num="4">Bb</chord>
+            <chord num="1">F</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Verse 1">
+         <chordLine>
+            <chord num="1">F</chord>
+            <chord num="5">C</chord>
+            <chord num="b7">Eb</chord>
+            <chord num="4">Bb</chord>
+            <chord num="1">F</chord>
+         </chordLine>
+         <lyrics>Let the new day shine its light on me</lyrics>
+         <chordLine>
+            <chord num="1">F</chord>
+            <chord num="5">C</chord>
+            <chord num="b7">Eb</chord>
+            <chord num="4">Bb</chord>
+            <chord num="1">F</chord>
+         </chordLine>
+         <lyrics>Shake the old way, nights too dark to see</lyrics>
+         <chordLine>
+            <chord num="1">F</chord>
+            <chord num="5">C</chord>
+            <chord num="b7">Eb</chord>
+            <chord num="4">Bb</chord>
+            <chord num="1">F</chord>
+         </chordLine>
+         <lyrics>Free tomorrow, it's bright with something new</lyrics>
+         <chordLine>
+            <chord num="1">F</chord>
+            <chord num="5">C</chord>
+            <chord num="b7">Eb</chord>
+            <chord num="4">Bb</chord>
+            <chord num="1">F</chord>
+         </chordLine>
+         <lyrics>Celieve the righteous, and it will come true</lyrics>
+      </section>
+      <section type="Pre-Chorus">
+         <chordLine>
+            <chord num="5">C</chord>
+            <chord num="4">Bb</chord>
+            <chord num="1">F</chord>
+         </chordLine>
+         <lyrics>You're a child in the garden</lyrics>
+         <chordLine>
+            <chord num="5">C</chord>
+            <chord num="2m">Gm</chord>
+            <chord num="4">Bb</chord>
+            <chord num="1">F</chord>
+         </chordLine>
+         <lyrics>You're growing up I'll watch you bloom</lyrics>
+         <chordLine>
+            <chord num="5">C</chord>
+            <chord num="4">Bb</chord>
+            <chord num="1">F</chord>
+         </chordLine>
+         <lyrics>And your dreams are not forgotten</lyrics>
+         <chordLine>
+            <chord num="5">C</chord>
+            <chord num="2m">Gm</chord>
+            <chord num="4">Bb</chord>
+            <chord num="5">C</chord>
+         </chordLine>
+         <lyrics>You'll be a woman soon</lyrics>
+      </section>
+      <section type="Chorus">
+         <chordLine>
+            <chord num="1">F</chord>
+            <chord num="5">C</chord>
+            <chord num="4">Bb</chord>
+            <chord num="5">C</chord>
+         </chordLine>
+         <lyrics>Love isn't greed it's a need that goes unspoken</lyrics>
+         <chordLine>
+            <chord num="1">F</chord>
+            <chord num="5">C</chord>
+            <chord num="4">Bb</chord>
+            <chord num="5">C</chord>
+         </chordLine>
+         <lyrics>Love doesn't leave when you fade away</lyrics>
+         <chordLine>
+            <chord num="1">F</chord>
+            <chord num="5">C</chord>
+            <chord num="4">Bb</chord>
+            <chord num="5">C</chord>
+         </chordLine>
+         <lyrics>Pain isn't vain if it means your heart's been broken</lyrics>
+         <chordLine>
+            <chord num="1">F</chord>
+            <chord num="5">C</chord>
+            <chord num="4">Bb</chord>
+            <chord num="5">C</chord>
+         </chordLine>
+         <lyrics>Pain is the same as a means to heal</lyrics>
+      </section>
+      <section type="Bridge">
+         <chordLine>
+            <chord num="1">F</chord>
+            <chord num="1">F</chord>
+            <chord num="5">C</chord>
+            <chord num="b7">Eb</chord>
+            <chord num="4">Bb</chord>
+            <chord num="1">F</chord>
+            <chord num="1">F</chord>
+            <chord num="5">C</chord>
+            <chord num="b7">Eb</chord>
+            <chord num="4">Bb</chord>
+            <chord num="1">F</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Verse 2">
+         <chordLine>
+            <chord num="1">F</chord>
+            <chord num="5">C</chord>
+            <chord num="b7">Eb</chord>
+            <chord num="4">Bb</chord>
+            <chord num="1">F</chord>
+         </chordLine>
+         <lyrics>Let me try love, you know I'm only one</lyrics>
+         <chordLine>
+            <chord num="1">F</chord>
+            <chord num="5">C</chord>
+            <chord num="b7">Eb</chord>
+            <chord num="4">Bb</chord>
+            <chord num="1">F</chord>
+         </chordLine>
+         <lyrics>Live or die love, I tried and to me won</lyrics>
+         <chordLine>
+            <chord num="1">F</chord>
+            <chord num="5">C</chord>
+            <chord num="b7">Eb</chord>
+            <chord num="4">Bb</chord>
+            <chord num="1">F</chord>
+         </chordLine>
+         <lyrics>We're the future, it's hard to say we know</lyrics>
+         <chordLine>
+            <chord num="1">F</chord>
+            <chord num="5">C</chord>
+            <chord num="b7">Eb</chord>
+            <chord num="4">Bb</chord>
+            <chord num="1">F</chord>
+         </chordLine>
+         <lyrics>And the suture is what we have to sew</lyrics>
+      </section>
+      <section type="Pre-Chorus">
+         <chordLine>
+            <chord num="5">C</chord>
+            <chord num="4">Bb</chord>
+            <chord num="1">F</chord>
+         </chordLine>
+         <lyrics>You're a child in the garden</lyrics>
+         <chordLine>
+            <chord num="5">C</chord>
+            <chord num="2m">Gm</chord>
+            <chord num="4">Bb</chord>
+            <chord num="1">F</chord>
+         </chordLine>
+         <lyrics>You're growing up I'll watch you bloom</lyrics>
+         <chordLine>
+            <chord num="5">C</chord>
+            <chord num="4">Bb</chord>
+            <chord num="1">F</chord>
+         </chordLine>
+         <lyrics>And your dreams are not forgotten</lyrics>
+         <chordLine>
+            <chord num="5">C</chord>
+            <chord num="2m">Gm</chord>
+            <chord num="4">Bb</chord>
+            <chord num="5">C</chord>
+         </chordLine>
+         <lyrics>You'll be a woman soon</lyrics>
+      </section>
+      <section type="Solo">
+         <chordLine>
+            <chord num="1">F</chord>
+            <chord num="5">C</chord>
+            <chord num="4">Bb</chord>
+            <chord num="5">C</chord>
+            <chord num="1">F</chord>
+            <chord num="5">C</chord>
+            <chord num="4">Bb</chord>
+            <chord num="5">C</chord>
+            <chord num="1">F</chord>
+            <chord num="5">C</chord>
+            <chord num="4">Bb</chord>
+            <chord num="5">C</chord>
+            <chord num="1">F</chord>
+            <chord num="5">C</chord>
+            <chord num="4">Bb</chord>
+            <chord num="5">C</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Chorus">
+         <chordLine>
+            <chord num="1">F</chord>
+            <chord num="5">C</chord>
+            <chord num="4">Bb</chord>
+            <chord num="5">C</chord>
+         </chordLine>
+         <lyrics>Love isn't greed it's a need that goes unspoken</lyrics>
+         <chordLine>
+            <chord num="1">F</chord>
+            <chord num="5">C</chord>
+            <chord num="4">Bb</chord>
+            <chord num="5">C</chord>
+         </chordLine>
+         <lyrics>Love doesn't leave when you fade away</lyrics>
+         <chordLine>
+            <chord num="1">F</chord>
+            <chord num="5">C</chord>
+            <chord num="4">Bb</chord>
+            <chord num="5">C</chord>
+         </chordLine>
+         <lyrics>Pain isn't vain if it means your heart's been broken</lyrics>
+         <chordLine>
+            <chord num="1">F</chord>
+            <chord num="5">C</chord>
+            <chord num="4">Bb</chord>
+            <chord num="5">C</chord>
+         </chordLine>
+         <lyrics>Pain is the same as a means to heal</lyrics>
+      </section>
+      <section type="Outro">
+         <chordLine>
+            <chord num="1">F</chord>
+            <chord num="5">C</chord>
+            <chord num="4">Bb</chord>
+            <chord num="5">C</chord>
+            <chord num="1">F</chord>
+            <chord num="5">C</chord>
+         </chordLine>
+         <lyrics>Love doesn't fade away</lyrics>
+         <chordLine>
+            <chord num="4">Bb</chord>
+            <chord num="5">C</chord>
+            <chord num="1">F</chord>
+            <chord num="5">C</chord>
+            <chord num="4">Bb</chord>
+            <chord num="5">C</chord>
+            <chord num="1">F</chord>
+            <chord num="5">C</chord>
+            <chord num="4">Bb</chord>
+            <chord num="5">C</chord>
+            <chord num="1">F</chord>
+         </chordLine>
+         <lyrics>Ah Doesn't fade away</lyrics>
+      </section>
+   </music>
+</mei>

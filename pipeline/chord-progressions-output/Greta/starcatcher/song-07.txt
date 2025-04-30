@@ -1,0 +1,52 @@
+intro:
+  6m, 2, 6m, 2, 6m, 2
+
+verse 1:
+  6m, 3m, 4
+  6m, 4, 2/#4
+  6m
+  3m, 4
+  6m, 4, 2/#4
+
+pre-chorus:
+  6m, 5, 2, 6m
+  5, 2
+
+chorus:
+  6m, 1, 2sus2
+  6m, 1
+  2sus2, 6m, 1, 2sus2
+  6m, 1
+  2sus2, 5, 2
+
+break:
+  6m, 2
+
+verse 2:
+  6m, 3m, 4
+  6m, 4, 2/#4
+  6m, 3m, 4
+  6m, 4, 2/#4
+
+pre-chorus:
+  6m, 5, 2, 6m
+  5, 2
+  6m, 5, 2, 6m
+  5, 2
+
+chorus:
+  6m, 1, 2sus2
+  6m, 1
+  2sus2, 6m, 1, 2sus2
+  6m, 1
+  2sus2, 2, 2sus4, 2, 5, 2, 4, 5
+
+guitar solo:
+  6m, 1, 2sus2, 6m, 1, 2sus2, 6m, 1, 2sus2, 6m, 1, 2sus2
+
+chorus:
+  6m, 1, 2sus2
+  6m, 1
+  2sus2, 6m, 1, 2sus2
+  6m, 1
+

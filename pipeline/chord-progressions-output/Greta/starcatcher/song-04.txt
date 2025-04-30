@@ -1,0 +1,72 @@
+intro:
+  6m7, 1, 2, 5sus4, 5add9/2, 2, 6m7, 1, 2, 5sus4, 5add9/2, 2
+
+verse 1:
+  6m, 5add9, 6m, 5add9, 2^6/#4, 6m
+  5add9, 6m, 5add9, 2^6/#4, 6m, 5add9, 6m, 5add9, 2^6/#4, 6m
+  5add9, 6m, 5add9, 2^6/#4
+
+pre-chorus:
+  1, 5, 2
+  1, 5, 2
+
+chorus:
+  6m, 1^6, 5add9
+  2
+  6m, 1^6
+  5add9
+  2
+  6m, 1^6
+  5add9, 2
+  6m, 1^6, 5add9
+  2, 6m7, 1, 2
+
+pre-verse:
+  5sus4, 5add9/2, 2, 6m7, 1, 2, 5sus4, 5add9/2, 2
+
+verse 2:
+  6m, 5add9, 6m
+  5add9, 2^6/#4, 6m
+  5add9, 6m, 5add9, 2^6/#4, 6m, 5add9, 6m, 5add9, 2^6/#4, 6m
+  5add9, 6m, 5add9, 2^6/#4
+
+pre-chorus:
+  1, 5, 2
+  1, 5, 2
+
+chorus:
+  6m, 1^6, 5add9
+  2
+  6m, 1^6
+  5add9
+  2
+  6m, 1^6
+  5add9, 2
+  6m, 1^6, 5add9
+  2
+
+interlude:
+  6m, 1, 2, 6m, 6m, 1, 2, 6m, 6m, 1, 2, 6m
+  6m, 1, 2, 6m, 6m, 6m, 1, 5add9, 2, 6m, 1
+  5add9, 2
+
+chorus:
+  6m, 1^6, 5add9
+  2
+  6m, 1^6
+  5add9
+  2
+  6m, 1^6
+  5add9, 2
+  6m, 1^6, 5add9
+  2, 6m, 1^6, 5add9, 2
+
+solo:
+  6m, 1^6, 5add9, 2, 6m, 1^6, 5add9, 2, 6m, 1^6, 5add9, 2, 6m, 1^6
+  5add9, 2
+  6m, 1^6, 5add9
+  2, 6m, 1
+
+outro:
+  5add9, 2, 6m, 1, 5add9, 2
+
