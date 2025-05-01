@@ -1,7 +1,12 @@
-intro:
+Title: Thank You
+Album: Led Zeppelin II
+Artist: Led Zeppelin
+Key: G
+
+[Intro]
   6m, 4maj7, 6m, 4maj7, 6m, 4maj7, 6m, 4maj7, 6m, 4maj7, 6m, 4maj7, 6m, 4maj7, 6m, 4maj7
 
-verse 1:
+[Verse 1]
   6m, 4maj7
   5, 1, 5/7, 6m, 4maj7
   5
@@ -11,7 +16,7 @@ verse 1:
   4maj7
   6m, 4maj7, 6m, 4maj7
 
-verse 2:
+[Verse 2]
   6m, 4maj7
   5
   1, 5/7, 6m, 4maj7
@@ -22,16 +27,16 @@ verse 2:
   6m
   4maj7
 
-chorus:
+[Chorus]
   1, 4maj7
   1, 4maj7
   1, 4maj7
   3m7, 2m7
 
-interlude:
+[Interlude]
   1, 4maj7, 1, 4maj7, 1, 4maj7, 3m7, 2m7
 
-verse 3:
+[Verse 3]
   1, 4maj7
   1
   4maj7, 1
@@ -39,7 +44,7 @@ verse 3:
   3m7
   2m7
 
-chorus:
+[Chorus]
   1, 4maj7
   1, 4maj7
   1, 4maj7

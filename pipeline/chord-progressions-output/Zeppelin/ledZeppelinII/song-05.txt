@@ -1,7 +1,12 @@
-intro:
+Title: Heartbreaker
+Album: Led Zeppelin II
+Artist: Led Zeppelin
+Key: A
+
+[Intro]
   1, 2, 1
 
-verse 1:
+[Verse 1]
   1
   4, 1
   4
@@ -12,7 +17,7 @@ verse 1:
   1, 4
   1, 4, 1, 4, 1, 1, 2m, 1
 
-verse 2:
+[Verse 2]
   1, 4
   1
   4
@@ -23,12 +28,12 @@ verse 2:
   1, 4
   1, 4, 1, 4, 1
 
-verse 3:
+[Verse 3]
   b3
   4
   5
 
-verse 4:
+[Verse 4]
   1^7, 1^7, 1^7, 1
   4
   1

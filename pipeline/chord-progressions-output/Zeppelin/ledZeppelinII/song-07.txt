@@ -1,7 +1,12 @@
-intro:
+Title: Ramble On
+Album: Led Zeppelin II
+Artist: Led Zeppelin
+Key: E
+
+[Intro]
   1, b7/1, 2m7, 4, 4sus4, 4, 1, b7/1, 2m7, 4, 4sus4, 4, 1, b7/1, 2m7, 4, 4sus4, 4, 1, b7/1, 2m7, 4, 4sus4, 4
 
-verse 1:
+[Verse 1]
   1, b7/1, 2m7, 4, 4sus4, 4, 1, b7/1, 2m7
   4, 4sus4, 4, 1, b7/1, 2m7, 4, 4sus4, 4, 1, b7/1, 2m7, 4, 4sus4, 4
   1, b7/1, 2m7, 4, 4sus4, 4
@@ -9,7 +14,7 @@ verse 1:
   1, b7/1, 2m7, 4, 4sus4, 4, 1, b7/1, 2m7
   4, 4sus4, 4, 5/1, 2m7, 5sus2/3, 4sus4, 4/6, 5sus2/1, 5/1, 2m7, 5sus2/3, 4sus4, 4/6, 5sus2/1
 
-chorus:
+[Chorus]
   1
   4^7, 4^7sus4, 2m
   1
@@ -19,15 +24,15 @@ chorus:
   1
   4^7, 4^7sus4, 2m
 
-verse 2:
+[Verse 2]
   1, b7/1, 2m7, 4, 4sus4, 4, 1, b7/1, 2m7
   4, 4sus4, 4, 1, b7/1, 2m7, 4, 4sus4, 4, 1, b7/1, 2m7
   4, 4sus4, 4
 
-solo:
+[Solo]
   1, b7/1, 2m7, 4, 4sus4, 4, 1, b7/1, 2m7, 4, 4sus4, 4, 1, b7/1, 2m7, 4, 4sus4, 4, 1, b7/1, 2m7, 4, 4sus4, 4
 
-chorus:
+[Chorus]
   1
   4^7, 4^7sus4, 2m
   1
@@ -38,13 +43,13 @@ chorus:
   4^7, 4^7sus4, 2m
   4, b3, 4, b3, 4, b3, 4, b3
 
-verse 3:
+[Verse 3]
   1, b7/1, 2m7, 4, 4sus4, 4, 1, b7/1, 2m7
   4, 4sus4, 4, 1, b7/1, 2m7, 4, 4sus4, 4, 1, b7/1, 2m7, 4, 4sus4, 4, 1, b7/1, 2m7, 4, 4sus4, 4, 1, b7/1, 2m7
   4, 4sus4, 4, 1, b7/1, 2m7, 4, 4sus4, 4, 1, b7/1, 2m7, 4, 4sus4, 4, 5/1, 2m7, 5sus2/3, 4sus4, 4/6, 5sus2/1, 5/1, 2m7
   5sus2/3, 4sus4, 4/6, 5sus2/1
 
-chorus:
+[Chorus]
   1
   4^7, 4^7sus4, 2m, 1
   4^7, 4^7sus4, 2m, 1, 4^7, 4^7sus4, 2m

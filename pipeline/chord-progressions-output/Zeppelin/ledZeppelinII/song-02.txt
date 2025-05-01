@@ -1,12 +1,17 @@
-intro:
+Title: What Is and What Should Never Be
+Album: Led Zeppelin II
+Artist: Led Zeppelin
+Key: E
+
+[Intro]
   1^7, 4^13
 
-verse 1:
+[Verse 1]
   1^7, 4^13
   1^7, 4^13
   1^7, 4^13
 
-chorus:
+[Chorus]
   4
   4^7
   4^6, b7, 4
@@ -15,12 +20,12 @@ chorus:
   3m7, 1, 5, 2
   4, 1, 4^13
 
-verse 2:
+[Verse 2]
   1^7, 4^13
   1^7, 4^13
   1^7, 4^13
 
-chorus:
+[Chorus]
   4
   4^7
   4^6, b7, 4
@@ -28,15 +33,15 @@ chorus:
   4^6, b7, 4, 5, 5/4
   3m7, 1, 5, 2, 4, 1
 
-solo:
+[Solo]
   4^13, 1^7, 4^13, 1^7, 4^13, 1^7, 4^13, 4, 4^7, 4^6, b7, 4, 4^7, 4^6, b7, 4, 5, 5/4, 3m7, 1, 5, 2, 4, 1, 4^13
 
-verse 3:
+[Verse 3]
   1^7, 4^13
   1^7, 4^13
   1^7, 4^13
 
-chorus:
+[Chorus]
   4
   4^7
   4^6, b7, 4
@@ -44,10 +49,10 @@ chorus:
   4^6, b7, 4, 5, 5/4
   3m7, 1, 5, 2, 4, 1
 
-interlude:
+[Interlude]
   1^5
 
-outro (fade out):
+[Outro (Fade Out)]
   1^5
   
 

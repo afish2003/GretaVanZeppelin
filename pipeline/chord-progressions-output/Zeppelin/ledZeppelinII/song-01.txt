@@ -1,7 +1,12 @@
-intro:
+Title: Whole Lotta Love
+Album: Led Zeppelin II
+Artist: Led Zeppelin
+Key: E
+
+[Intro]
   1, b7, 1
 
-verse 1:
+[Verse 1]
   b7, 1, b7
   1, b7
   1, b7
@@ -11,14 +16,14 @@ verse 1:
   1, b7
   1, b7
 
-chorus:
+[Chorus]
   1
   b7, 1
   b7, 1
   b7, 1
   b7, 1, b7
 
-verse 2:
+[Verse 2]
   1, b7
   1, b7
   1
@@ -30,12 +35,12 @@ verse 2:
   1
   b7, 1
 
-chorus:
+[Chorus]
   b7, 1
   b7, 1
   b7, 1
 
-verse 3:
+[Verse 3]
   1, 1, b7, 1, b7
   1, b7
   1, b7, 1, b7
@@ -46,17 +51,17 @@ verse 3:
   1, b7
   1, b7
 
-chorus:
+[Chorus]
   1, b7, 1
   b7, 1
   b7, 1
   b7
 
-bridge:
+[Bridge]
   1
   4, b7
 
-outro:
+[Outro]
   1, b7, 1, b7
   1, b7
   1, b7
@@ -70,7 +75,7 @@ outro:
   1, b7, 1, b7
   1, b7
 
-fade out:
+[Fade Out]
   1, b7
   1, b7
   1, b7, 1, b7, 1, b7

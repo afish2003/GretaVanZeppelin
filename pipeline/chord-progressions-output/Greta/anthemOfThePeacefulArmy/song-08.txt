@@ -1,57 +1,62 @@
-intro:
+Title: Mountain of the Sun
+Album: Anthem of the Peaceful Army
+Artist: Greta Van Fleet
+Key: F
+
+[Intro]
   1, 4
 
-verse 1:
+[Verse 1]
   1, 4, 1, 4
   1, 4
   1, 4
   1, 4
 
-pre-chorus:
+[Pre-Chorus]
   b3, 4, 5
 
-chorus:
+[Chorus]
   1, 5, 4
   1, 5, 4
   1, 5, 4
   1, 5, 4, 1
 
-verse 2:
+[Verse 2]
   1, 4
   1, 4
   1, 4
   1, 4
 
-pre-chorus:
+[Pre-Chorus]
   b3, 4, 5
 
-chorus:
+[Chorus]
   1, 5, 4
   1, 5, 4
   1, 5, 4
   1, 5, 4
 
-guitar solo:
+[Guitar Solo]
   1, 5, 4, 1, 5, 4, 1, 5, 4, 1, 5, 4
 
-pre-chorus:
+[Pre-Chorus]
   b3, 4, 5
 
-verse 3:
+[Verse 3]
   1
 
-chorus:
+[Chorus]
   1, 5, 4
   1, 5, 4
   1, 5, 4
   1, 5, 4
 
-outro 1:
+[Outro 1]
   1, 5, 4, 1, 5, 4, 1, 5, 4, 1, 5, 4
 
-outro 2:
+[Outro 2]
   1, 5, 4, 1, 5, 4, 1, 5, 4, 1, 5, 4
 
-outro 3:
+[Outro 3]
   1, 5, 4, 1, 5, 4, 1, 5, 4, 1, 5, 4, 1
 

@@ -1,51 +1,56 @@
-intro:
+Title: The Cold Wind
+Album: Anthem of the Peaceful Army
+Artist: Greta Van Fleet
+Key: D
+
+[Intro]
   5, 1, 5, 1, 5, 1
 
-verse 1:
+[Verse 1]
   5
   1, 5
   1, 5
   1, 5, 1
 
-chorus:
+[Chorus]
   b7sus2, 4, 1
   b7sus2, 4, 1
   b7sus2
   4, b6^6, b7, 1
 
-instrumental:
+[Instrumental]
   5, 1, 5
 
-verse 2:
+[Verse 2]
   1, 5
   1, 5
   1, 5
   1, 5, 1
 
-chorus:
+[Chorus]
   b7sus2, 4, 1
   b7sus2, 4, 1
   b7sus2, 4
   b6^6, b7, 1
 
-interlude:
+[Interlude]
   2m7, 5^7, 2m7, 5^7
 
-bass guitar solo:
+[Bass Guitar Solo]
   2m7, 5^7, 2m7, 5^7, 2m7, 5^7, 2m7, 5^7
 
-interlude 2:
+[Interlude 2]
   2, 1add11, 5, 2, 5, 2
 
-guitar solo:
+[Guitar Solo]
   2, 5sus2, 2, 5
 
-chorus:
+[Chorus]
   b7sus2, 4, 1
   b7sus2, 4, 1
   b7sus2
   4, b6^6, b7
 
-outro:
+[Outro]
   5
 

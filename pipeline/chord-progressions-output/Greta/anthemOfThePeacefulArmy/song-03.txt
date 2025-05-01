@@ -1,24 +1,29 @@
-intro:
+Title: When the Curtain Falls
+Album: Anthem of the Peaceful Army
+Artist: Greta Van Fleet
+Key: G
+
+[Intro]
   1sus4
 
-main riff:
+[Main Riff]
   1^7
 
-verse 1:
+[Verse 1]
   1^7
   1, 4, 1, 4
   1, 4, 1, 4
   1, 4
   1, 4, 1, 4, 1
 
-chorus:
+[Chorus]
   1, b7, 4
   1, 5m, b7, 4
   1, b7, 4
   1, 5m, b7
   4, 1
 
-verse 2:
+[Verse 2]
   1^7, 1^7
   1, 4
   1, 4, 1, 4
@@ -26,14 +31,14 @@ verse 2:
   1, 4
   1, 4, 1
 
-chorus:
+[Chorus]
   1, b7, 4
   1, 5m, b7, 4
   1, b7, 4
   1, 5m, b7
   4, 1sus4
 
-bridge:
+[Bridge]
   1, 1sus4, 1, 1sus4
   1
   b7
@@ -42,15 +47,15 @@ bridge:
   b7
   5
 
-guitar solo:
+[Guitar Solo]
   1, b7, 4, 1, 5m, b7, 4, 1, b7, 4, 1, 5m, b7, 4, 1, b7, 4, 1, 5m, b7, 4
 
-chorus:
+[Chorus]
   1, b7, 4
   1, 5m, b7, 4
   1, b7, 4
   1, 5m, b7, 4
 
-outro:
+[Outro]
   1^7
 

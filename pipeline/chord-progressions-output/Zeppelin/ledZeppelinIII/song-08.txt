@@ -1,46 +1,51 @@
-intro:
+Title: That's the Way
+Album: Led Zeppelin III
+Artist: Led Zeppelin
+Key: Gb
+
+[Intro]
   1maj7, 4/1, 1maj7, 4/1, 1maj7, 4/1, 1maj7, 4/1, 1maj7, 4/1, 1maj7, 4/1
 
-verse 1:
+[Verse 1]
   1maj7, 4/1, 1maj7, 4/1, 1maj7, 4/1
   1maj7, 4/1, 1maj7, 4/1, 1maj7, 4/1
   1maj7, 4/1, 1maj7, 4/1, 1maj7, 4/1
   1maj7, 4/1, 1maj7, 4/1, 1maj7, 4/1
 
-interlude:
+[Interlude]
   1maj7, 4/1, 1maj7, 4/1, 1maj7, 4/1, 1maj7, 4/1, 1maj7, 4/1, 1maj7, 4/1, 1maj7, 4/1, 1maj7, 4/1, 1maj7, 4/1
 
-verse 2:
+[Verse 2]
   1maj7, 4/1, 1maj7, 4/1, 1maj7, 4/1
   1maj7, 4/1, 1maj7, 4/1, 1maj7, 4/1
   1maj7, 4/1, 1maj7, 4/1, 1maj7, 4/1
   1maj7, 4/1, 1maj7, 4/1, 1maj7, 4/1, 1maj7, 4/1, 1maj7
 
-interlude:
+[Interlude]
   4/1, 1maj7, 4/1, 1maj7, 4/1, 1maj7, 4/1, 1maj7, 4/1, 1maj7, 4/1, 1maj7, 4/1, 1maj7, 4/1, 1maj7, 4/1, 1maj7, 4/1, 1maj7, 4/1
 
-verse 3:
+[Verse 3]
   1maj7, 4/1, 1maj7, 4/1, 1maj7, 4/1
   1maj7, 4/1, 1maj7, 4/1, 1maj7, 4/1
   1maj7, 4/1, 1maj7, 4/1, 1maj7, 4/1
   1maj7, 4/1, 1maj7, 4/1, 1maj7, 4/1, b7maj7sus4/b3
 
-chorus:
+[Chorus]
   b7maj7sus4/b3, b3
   1maj7, 4/1, 1maj7, 4/1, 1, 4/1, 1, 4/1, 1
   b7maj7sus4/b3, b3
   5, 5m
   5, 1maj7, 4/1
 
-interlude:
+[Interlude]
   1maj7, 4/1, 1maj7, 4/1, 1maj7, 4/1
 
-verse 4:
+[Verse 4]
   1maj7, 4/1, 1maj7, 4/1, 1maj7, 4/1
   1maj7, 4/1, 1maj7, 4/1, 1maj7, 4/1
   1maj7, 4/1, 1maj7, 4/1, 1maj7, 4/1
   1maj7, 4/1, 1maj7, 4/1, 1maj7, 4/1
 
-interlude:
+[Interlude]
   1maj7, 4/1, 1maj7, 4/1, 1maj7, 4/1, 1maj7, 4/1, 1maj7, 4/1, 1maj7, 4/1, 1maj7, 4/1, 1maj7, 4/1, 1maj7, 4/1, 1maj7, 4/1, 1maj7, 4/1, 1maj7, 4/1
 

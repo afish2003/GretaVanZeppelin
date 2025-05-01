@@ -1,53 +1,58 @@
-intro:
+Title: Light My Love
+Album: The Battle of Garden's Gate
+Artist: Greta Van Fleet
+Key: F
+
+[Intro]
   4, 1, 5, 4, 2, 4
 
-main riff:
+[Main Riff]
   1, 5, 4, 1, 5, 4
 
-verse 1:
+[Verse 1]
   1, 5, 4
   1, 5, 4
   1, 5, 4
   1, 5, 4
 
-pre-chorus:
+[Pre-Chorus]
   5, 4
   5, 4
   5, 4
   5
 
-chorus:
+[Chorus]
   1, 5, 4, 1, 5, 4
   1, 3m, 4, 1, 5, 4, 1, 5
 
-main riff:
+[Main Riff]
   1, 5, 4, 1, 5, 4
 
-verse 2:
+[Verse 2]
   1, 5, 4
   1, 5, 4
   1, 5, 4
   1, 5, 4
 
-pre-chorus:
+[Pre-Chorus]
   5, 4
   5, 4
   5, 4
   5
 
-chorus:
+[Chorus]
   1, 5, 4, 1, 5, 4
   1, 3m, 4, 1, 5, 4, 1, 5
 
-bridge:
+[Bridge]
   2, 4
   2, 4, 5
 
-chorus:
+[Chorus]
   4, 1, 5, 2m
   1, 3m, 4, 1, 5, 2m
 
-outro:
+[Outro]
   1, 5, 4, 1, 5, 2m, 1, 3m, 4, 1, 5, 2m, 1, 5, 4
   1, 5, 2m
   1, 3m, 4

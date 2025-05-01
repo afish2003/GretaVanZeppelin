@@ -1,50 +1,55 @@
-intro:
+Title: Farewell for Now
+Album: Starcatcher
+Artist: Greta Van Fleet
+Key: D
+
+[Intro]
   1, b6, 1, b6
 
-verse 1:
+[Verse 1]
   1, b7, 4
   1, b7, 4
   1, b7, 4
   1, b7, 4
 
-interlude:
+[Interlude]
   1, b6, 1, b6
 
-chorus:
+[Chorus]
   1, b7, 4
   1, b7, 4
   1, b7, 4
   1, b7, 4
   b6, 4, 1
 
-verse 2:
+[Verse 2]
   1, b7, 4
   1, b7, 4
   1, b7, 4
   1, b7, 4
 
-interlude:
+[Interlude]
   1, b6, 1, b6
 
-chorus:
+[Chorus]
   1, b7, 4
   1, b7, 4
   1, b7, 4
   1, b7, 4, b6, 4
 
-bridge:
+[Bridge]
   b3, 4^6, b6, b7, 1
 
-solo guitar:
+[Solo Guitar]
   1, b7, 4, 1, b7, 4, 1, b7, 4, 1, b7, 4
 
-chorus:
+[Chorus]
   1, b7, 4
   1, b7, 4
   1, b7, 4
   1, b7, 4, b6, 4
 
-outro:
+[Outro]
   1, 1^7, 4
   b6, b7
   1

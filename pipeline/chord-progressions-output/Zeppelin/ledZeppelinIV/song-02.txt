@@ -1,31 +1,36 @@
-intro:
+Title: Rock and Roll
+Album: Led Zeppelin IV
+Artist: Led Zeppelin
+Key: A
+
+[Intro]
   1, 4, 1, 5, 1
 
-verse 1:
+[Verse 1]
   1
   4
   1
   5
   4, 1
 
-verse 2:
+[Verse 2]
   1
   4
   1
   5
   4, 1
 
-solo:
+[Solo]
   4, 1, 5, 1, 1, 4, 1, 5, 4, 1
 
-verse 3:
+[Verse 3]
   1
   4
   1
   5
   4, 1
 
-instrumental:
+[Instrumental]
   4, 1, 5
   4, 1
 

@@ -1,62 +1,67 @@
-intro:
+Title: The Lemon Song
+Album: Led Zeppelin II
+Artist: Led Zeppelin
+Key: E
+
+[Intro]
   1^7
 
-verse 1:
+[Verse 1]
   1^7
   4^7, 1^7
   5^7
   4^7
 
-verse 2:
+[Verse 2]
   1^7, 1^7
   4^7, 1^7
   5^7
   4^7, 1^7
 
-bridge:
+[Bridge]
   1^7, 4^7, 1^7, 5^7, 4^7, 1^7
 
-solo 1:
+[Solo 1]
   1^7, 4^7, 1^7, 5^7, 4^7, 1^7, 4^7, 1^7, 5^7, 4^7, 1^7
 
-interlude:
+[Interlude]
   1^7
   4^7, 1^7, 5^7
   4^7, 1^7
 
-verse 3:
+[Verse 3]
   1^7
   4^7
   1^7
   5^7
   4^7, 1^7
 
-verse 4:
+[Verse 4]
   1^7
   4^7
   1^7
   5^7
   4^7, 1^7
 
-verse 5:
+[Verse 5]
   1^7
   4^7, 1^7
   5^7
   4^7
   1^7
 
-solo 2:
+[Solo 2]
   1^7, 4^7, 1^7, 5^7, 4^7, 1^7
 
-interlude 2:
+[Interlude 2]
   1^7
   4^7
   1^7
   5^7, 4^7, 1^7
 
-bridge:
+[Bridge]
   1^7, 4^7, 1^7, 5^7, 4^7, 1^7
 
-outro:
+[Outro]
   1^7, 4^7, 1^7, 5^7, 4^7, 1^7
 

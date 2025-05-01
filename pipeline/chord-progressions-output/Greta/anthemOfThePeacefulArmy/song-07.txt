@@ -1,49 +1,54 @@
-intro:
+Title: The New Day
+Album: Anthem of the Peaceful Army
+Artist: Greta Van Fleet
+Key: F
+
+[Intro]
   1, 5, b7, 4, 1, 1, 5, b7, 4, 1
 
-verse 1:
+[Verse 1]
   1, 5, b7, 4, 1
   1, 5, b7, 4, 1
   1, 5, b7, 4, 1
   1, 5, b7, 4, 1
 
-pre-chorus:
+[Pre-Chorus]
   5, 4, 1
   5, 2m, 4, 1
   5, 4, 1
   5, 2m, 4, 5
 
-chorus:
+[Chorus]
   1, 5, 4, 5
   1, 5, 4, 5
   1, 5, 4, 5
   1, 5, 4, 5
 
-bridge:
+[Bridge]
   1, 1, 5, b7, 4, 1, 1, 5, b7, 4, 1
 
-verse 2:
+[Verse 2]
   1, 5, b7, 4, 1
   1, 5, b7, 4, 1
   1, 5, b7, 4, 1
   1, 5, b7, 4, 1
 
-pre-chorus:
+[Pre-Chorus]
   5, 4, 1
   5, 2m, 4, 1
   5, 4, 1
   5, 2m, 4, 5
 
-solo:
+[Solo]
   1, 5, 4, 5, 1, 5, 4, 5, 1, 5, 4, 5, 1, 5, 4, 5
 
-chorus:
+[Chorus]
   1, 5, 4, 5
   1, 5, 4, 5
   1, 5, 4, 5
   1, 5, 4, 5
 
-outro:
+[Outro]
   1, 5, 4, 5, 1, 5
   4, 5, 1, 5, 4, 5, 1, 5, 4, 5, 1
 

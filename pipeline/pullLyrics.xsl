@@ -6,7 +6,6 @@
     
     <xsl:output method="text" encoding="UTF-8"/>
     
-    
     <xsl:strip-space elements="*"/>
     
     <!-- Metadata Processing -->

@@ -1,44 +1,49 @@
-intro:
+Title: You're the One
+Album: Anthem of the Peaceful Army
+Artist: Greta Van Fleet
+Key: D
+
+[Intro]
   1, 5, 4, 1, 5, 4
 
-pre-verse:
+[Pre-Verse]
   1, 5, 4, 1, 5, 4
 
-verse 1:
+[Verse 1]
   1, 5, 4
   1, 5, 4
   1, 5, 4
   1, 5, 4
 
-chorus:
+[Chorus]
   1, 4
   1, 4
   1, 4
   1, 4
 
-pre-verse:
+[Pre-Verse]
   1, 5, 4, 1, 5, 4
 
-verse 2:
+[Verse 2]
   1, 5, 4
   1, 5, 4
   1, 5, 4
   1, 5, 4
 
-chorus:
+[Chorus]
   1, 4
   1, 4
   1, 4
   1, 4
 
-organ solo:
+[Organ Solo]
   1, 5, 4, 1, 5, 4, 1, 5, 4, 1, 5, 4
 
-verse 3:
+[Verse 3]
   1, 5, 4
   1, 5, 4
 
-chorus:
+[Chorus]
   1, 4
   1, 4
   1, 4
@@ -48,9 +53,9 @@ chorus:
   1, 4
   1, 4
 
-guitar solo:
+[Guitar Solo]
   1, 4, 1, 4, 1, 4, 1
 
-outro:
+[Outro]
   4, 1
 

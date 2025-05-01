@@ -1,45 +1,50 @@
-intro:
+Title: Caravel
+Album: The Battle of Garden's Gate
+Artist: Greta Van Fleet
+Key: G
+
+[Intro]
   6m, 3m, 2m, 6m, 2sus4, 6m, 3m, 2m, 6m, 2sus4
 
-verse 1:
+[Verse 1]
   6m, 3m, 2m, 6m, 2sus4
   6m, 3m, 2m, 6m, 2sus4
   6m, 3m, 2m, 6m, 2sus4
   6m, 3m, 2m, 6m, 2sus4
 
-breakdown:
+[Breakdown]
   1, 5/7
 
-chorus:
+[Chorus]
   2m, 5, 4, b7
   2m, 5, 4, b7
   2m, 5, 4, b7
   2m, 5, 4, b7, 3^7
 
-pre-verse:
+[Pre-Verse]
   6m, 3m, 2m, 6m, 2sus4, 6m, 3m, 2m, 6m, 2sus4
 
-verse 2:
+[Verse 2]
   6m, 3m, 2m, 6m, 2sus4, 6m, 3m, 2m, 6m, 2sus4
   6m, 3m, 2m, 6m, 2sus4, 6m, 3m, 2m, 6m, 2sus4, 1, 5
 
-bridge 1:
+[Bridge 1]
   2m, 1, 2m, 1, 2m, 1, 2m, 1, 2m, 1
   2m, 1, 2m, 1, 2m, 1, b7, 1
 
-chorus:
+[Chorus]
   2m, 5, 4, b7
   2m, 5, 4, b7
   2m, 5, 4, b7
   2m, 5, 4, b7, 1, 6^7
 
-interlude:
+[Interlude]
   b7, 4, b7
 
-bridge 2:
+[Bridge 2]
   2m, 5, b7, 4
 
-outro:
+[Outro]
   2m, 1, 2m, 1, 2m, 1, 2m, 1, 2m, 1, 2m, 1, 2m, 1
   2m, 1, b7, 2m
 

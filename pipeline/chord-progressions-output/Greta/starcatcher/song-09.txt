@@ -1,42 +1,47 @@
-intro:
+Title: Meeting the Master
+Album: Starcatcher
+Artist: Greta Van Fleet
+Key: Db
+
+[Intro]
   1, 1sus2, 1^5, b7^6add9, b6maj7, b7^6add9, 1^5, 1, 1sus2, 1^5, b7^6add9, b6maj7, b7^6add9, 1^5
 
-verse 1:
+[Verse 1]
   1, b7^6add9
   b6maj7, 6m7, 1^5, b7^6add9
   1, b7^6add9
   b6maj7, 6m7, 1^5
 
-chorus:
+[Chorus]
   b7^6add9, 4add9, 1^5
   b7^6add9, 4add9
   1, b7^6add9, 4add9
   1^5, b7^6add9, 4add9, 1
 
-bridge:
+[Bridge]
   1, 1sus2, 1^5, b7^6add9, b6maj7, b7^6add9, 1^5, 1, 1sus2, 1^5, b7^6add9, b6maj7, b7^6add9, 1^5
 
-verse 2:
+[Verse 2]
   1, b7^6add9
   b6maj7, 6m7
   1^5, b7^6add9, 1, b7^6add9
   b6maj7, 6m7, 1^5
 
-bridge:
+[Bridge]
   1^5, b7^6add9, 1^5, b7^6add9
   1^5, b7^6add9, 1^5, b7^6add9
   1^5, b7^6add9, 1^5, b7^6add9, 1^5, b7^6add9, 1^5
 
-chorus:
+[Chorus]
   b7^6add9, 4add9, 1^5
   b7^6add9, 4add9
   1, b7^6add9, 4add9, 1^5
   b7^6add9, 4add9, 1
 
-guitar solo:
+[Guitar Solo]
   1, 5madd11, b7^6add9, 4add9, 1, 5madd11, b7^6add9, 4add9, 1, 5madd11, b7^6add9, 4add9, 1, 5madd11, b7^6add9, 4add9
 
-bridge:
+[Bridge]
   1, 5madd11, b7^6add9, 4add9, 1
   5madd11
   b7^6add9
@@ -50,7 +55,7 @@ bridge:
   b7^6add9
   4add9
 
-outro:
+[Outro]
   1
   5madd11
   b7^6add9

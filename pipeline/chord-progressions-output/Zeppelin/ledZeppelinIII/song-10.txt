@@ -1,26 +1,31 @@
-note:
+Title: Hats Off To (Roy) Harper
+Album: Led Zeppelin III
+Artist: Led Zeppelin
+Key: C
+
+[Note]
   
 
-intro:
+[Intro]
   
 
-verse 1:
+[Verse 1]
   
 
-chorus:
+[Chorus]
   
 
-verse 2:
+[Verse 2]
   
 
-chorus:
+[Chorus]
   
 
-verse 3:
+[Verse 3]
   
 
-chorus:
+[Chorus]
   
 
-outro:
+[Outro]
 

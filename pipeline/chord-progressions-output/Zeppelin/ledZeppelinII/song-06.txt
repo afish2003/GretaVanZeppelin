@@ -1,39 +1,44 @@
-verse 1:
+Title: Living Loving Maid (She's Just a Woman)
+Album: Led Zeppelin II
+Artist: Led Zeppelin
+Key: A
+
+[Verse 1]
   1
   b7, 1, b7, 1, 1, 4, 1, 1
   b7, 1, b7, 1, 1, 4, 1
 
-chorus:
+[Chorus]
   4, 1
   4, 5
 
-verse 2:
+[Verse 2]
   1, b7, 1, b7, 1, 1, 4, 1, 1
   b7, 1, b7, 1, 1, 4, 1, 1
   b7, 1, b7, 1, 1, 4, 1
 
-chorus:
+[Chorus]
   4, 1
   4, 5
 
-verse 3:
+[Verse 3]
   1
   b7, 1, b7, 1, 1, 4, 1, 1
   b7, 1, b7, 1, 1, 4, 1
 
-solo:
+[Solo]
   4, 1, 4, 5
 
-verse 4:
+[Verse 4]
   1, b7, 1, b7, 1, 1, 4, 1, 1
   b7, 1, b7, 1, 4, 1, 1
   b7, 1, b7, 1, 4, 1
 
-chorus:
+[Chorus]
   4, 1
   4, 5
 
-outro:
+[Outro]
   1, b7, 1, b7, 1, 1, 4, 1, 1, b7, 1, b7, 1, 1, 4, 1
   1, b7, 1, 4, 1
 

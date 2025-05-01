@@ -1,7 +1,12 @@
-intro:
+Title: Out on the Tiles
+Album: Led Zeppelin III
+Artist: Led Zeppelin
+Key: A
+
+[Intro]
   b7, 6, 1
 
-verse 1 - 1:
+[Verse 1 - 1]
   6
   5, 2^7
   6
@@ -10,7 +15,7 @@ verse 1 - 1:
   2^7, 1
   6, 5, 6, 5, 6
 
-verse 1 - 2:
+[Verse 1 - 2]
   6
   5, 2^7
   6
@@ -20,17 +25,17 @@ verse 1 - 2:
   2^7
   1, 6, 5, 6, 5, 6
 
-chorus:
+[Chorus]
   5, 1, 5
   1, 5, 1
   5, 1, 5
   1, 5, 1
 
-bridge:
+[Bridge]
   b7, 6, 1
   b7, 6, 1
 
-verse 2 - 1:
+[Verse 2 - 1]
   6
   5, 2^7
   6
@@ -39,7 +44,7 @@ verse 2 - 1:
   5
   2^7, 1, 6, 5, 6, 5, 6
 
-verse 2 - 2:
+[Verse 2 - 2]
   6
   5, 2^7
   6
@@ -49,19 +54,19 @@ verse 2 - 2:
   2^7, 1
   6, 5, 6, 5, 6
 
-chorus:
+[Chorus]
   5, 1, 5
   1, 5, 1
   5, 1, 5
   1, 5, 1
 
-bridge:
+[Bridge]
   b7, 6, 1
   b7, 6, 1
 
-outro:
+[Outro]
   5^5
 
-outro (fade out):
+[Outro (Fade Out)]
   5^5
 

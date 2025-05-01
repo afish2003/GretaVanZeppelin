@@ -1,7 +1,12 @@
-intro:
+Title: The Archer
+Album: Starcatcher
+Artist: Greta Van Fleet
+Key: Eb
+
+[Intro]
   6m, 2, 6m, 5, 6m, 2, 6m, 5, 6m, 5, 6m, 2
 
-verse 1:
+[Verse 1]
   6m
   5, 6m
   5, 6m
@@ -11,38 +16,38 @@ verse 1:
   5, 6m
   2, 6m, 5
 
-pre-chorus:
+[Pre-Chorus]
   6m, 2, 6m, 2, 6m
 
-chorus:
+[Chorus]
   6m, 5
   6m, 2, 6m
 
-verse 2:
+[Verse 2]
   6m
   5, 6m
   5, 6m
   2, 6m, 5
 
-pre-chorus:
+[Pre-Chorus]
   6m, 2, 6m, 2, 6m
 
-chorus:
+[Chorus]
   6m, 5
   6m, 2
 
-bridge:
+[Bridge]
   6m
 
-guitar solo:
+[Guitar Solo]
   6m, 5, 6m, 2, 6m, 5, 6m, 2
 
-chorus:
+[Chorus]
   6m, 5
   6m, 2
   6m, 5
   6m, 2, 6m
 
-outro:
+[Outro]
   6m
 

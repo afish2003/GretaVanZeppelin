@@ -1,16 +1,21 @@
-intro:
+Title: Waited All Your Life
+Album: Starcatcher
+Artist: Greta Van Fleet
+Key: G
+
+[Intro]
   5^7sus4, 1, 4^7sus4, b7, 1, 6m, b7, 5, 1m, 5m, 4, b7, 1m, 5m, 4, b7
 
-verse 1:
+[Verse 1]
   1m, 5m, 4, b7
   1m, 5m, 4, b7
   1m, 5m, 4, b7
   1m, 5m, 4, b7
 
-pre-chorus:
+[Pre-Chorus]
   1, 6m, b7, 4/6, 4, 1, 6m, b7, 4/6, 5
 
-chorus:
+[Chorus]
   1, b7, 4
   1
   b7, 4, b7
@@ -21,16 +26,16 @@ chorus:
   4, 1/3
   b3sus2, b7/2, b7
 
-verse 2:
+[Verse 2]
   1m, 5m, 4, b7
   1m, 5m, 4, b7
   1m, 5m, 4, b7
   1m, 5m, 4, b7
 
-pre-chorus:
+[Pre-Chorus]
   1, 6m, b7, 4/6, 4, 1, 6m, b7, 4/6, 5
 
-chorus:
+[Chorus]
   1, b7, 4
   1
   b7, 4, b7
@@ -40,11 +45,11 @@ chorus:
   b7
   4
 
-bridge:
+[Bridge]
   b3maj7, 2m, 5, b3maj7, 2m, 5, b3maj7, 2m, 5, b3maj7, 4, b6maj7, b7
   1
 
-chorus:
+[Chorus]
   1, b7, 4
   1
   b7, 4, b7
@@ -55,12 +60,12 @@ chorus:
   4, 1
   b7, 4
 
-guitar solo:
+[Guitar Solo]
   1, b7, 4, b7, 4
   1, b7, 4
   1, b7, 4
 
-outro:
+[Outro]
   4
   1/3, b3sus2, b7/2, 1
 

@@ -1,42 +1,47 @@
-intro:
+Title: Built By Nations
+Album: The Battle of Garden's Gate
+Artist: Greta Van Fleet
+Key: G
+
+[Intro]
   6m, 6m7, 5, 4/1, 6m7, 5, 4/1
 
-verse 1:
+[Verse 1]
   6m7, 1, 4/1
   6m7, 4/1
   6m7, 1, 4/1
   6m7, 4/1
 
-chorus:
+[Chorus]
   6m7, 5, 4/1
   6m7, 5, 4/1
   6m7, 5, 4/1
   6m7, 5, 4/1, 6m
 
-verse 2:
+[Verse 2]
   6m7, 1, 4/1
   6m7, 4/1
   6m7, 1, 4/1
   6m7, 4/1
 
-chorus:
+[Chorus]
   6m7, 5, 4/1
   6m7, 5, 4/1
   6m7, 5, 4/1
   6m7, 5, 4/1
 
-bridge:
+[Bridge]
   4/1
 
-solo:
+[Solo]
   6m7, 5, 4/1, 5, 2, 6m7, 5, 4/1, 5, 2
 
-chorus:
+[Chorus]
   6m7, 5, 4/1
   5, 2
   6m7, 5, 4/1
   5, 2
 
-outro:
+[Outro]
   6m
 

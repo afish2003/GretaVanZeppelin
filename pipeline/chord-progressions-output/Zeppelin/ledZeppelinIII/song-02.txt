@@ -1,18 +1,23 @@
-intro:
+Title: Friends
+Album: Led Zeppelin III
+Artist: Led Zeppelin
+Key: C
+
+[Intro]
   1
 
-main theme:
+[Main Theme]
   1
 
-bridge:
+[Bridge]
 
-main theme:
+[Main Theme]
   1
 
-bridge:
+[Bridge]
   1
 
-verse 1:
+[Verse 1]
   1, 1
   1(b5), 1
   6m/1, 1
@@ -20,20 +25,20 @@ verse 1:
   1(b5), 1
   6m/1, 1
 
-interlude 1:
+[Interlude 1]
   1, 1, 1(b5), 1, 6m/1, 1, 1(b5), 1
 
-main theme:
+[Main Theme]
   1
 
-bridge:
+[Bridge]
 
-chorus:
+[Chorus]
   1
 
-bridge:
+[Bridge]
 
-verse 2:
+[Verse 2]
   1, 1
   1(b5), 1
   6m/1, 1
@@ -41,26 +46,26 @@ verse 2:
   1(b5), 1
   6m/1, 1
 
-interlude 1:
+[Interlude 1]
   1, 1, 1(b5), 1, 6m/1, 1, 1(b5), 1
 
-main theme:
+[Main Theme]
   1
 
-bridge:
+[Bridge]
 
-chorus:
+[Chorus]
   1
 
-bridge:
+[Bridge]
   
 
-interlude 2:
+[Interlude 2]
   1, 1m, 1sus2, 4^5/1
   6m/1, 1m, 1sus2, 4^5/1
   1^5, 6m/1, 1sus2, 1m, 1sus2
   1
 
-outro:
+[Outro]
   1
 

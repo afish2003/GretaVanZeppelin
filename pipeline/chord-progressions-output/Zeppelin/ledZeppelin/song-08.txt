@@ -1,4 +1,9 @@
-verse 1:
+Title: I Can't Quit You Baby
+Album: Led Zeppelin
+Artist: Led Zeppelin
+Key: A
+
+[Verse 1]
   1
   4, 1
   4
@@ -6,11 +11,11 @@ verse 1:
   5
   4, 1
 
-bridge:
+[Bridge]
   b2
   1, b2
 
-verse 2:
+[Verse 2]
   1
   4, 1
   4
@@ -18,13 +23,13 @@ verse 2:
   5
   4, 1
 
-bridge:
+[Bridge]
   b2, 1, b2
 
-solo:
+[Solo]
   1, 4, 1, 4, 1, 5, 4, 1, b2, 1, b2, 1, 4, 1, 5, 4, 1, b2, 1, b2
 
-verse 3:
+[Verse 3]
   1
   4, 1
   4
@@ -32,7 +37,7 @@ verse 3:
   5
   4, 1
 
-outro:
+[Outro]
   b2
   1, b2, 1, b2
 
