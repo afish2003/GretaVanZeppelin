@@ -1,8 +1,6 @@
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml">
-    
     <head>
-        
         <title>Methods</title>
         <meta charset="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -11,10 +9,11 @@
         <link rel="stylesheet" href="https://use.typekit.net/xxw1fdo.css"/>
         <link rel="stylesheet" href="https://use.typekit.net/xxw1fdo.css"/>
         <link rel="icon" href="images/favicon.png" type="image/png"/>
-        
     </head>
+    
     <body>
         <h1>Methods</h1>
+        
         <div class="corner-menu">
             <button id="menu-toggle" class="hamburger" aria-label="Toggle menu">
                 <span class="bar"></span>
@@ -26,8 +25,43 @@
                 <a href="about.html">About</a>
                 <a href="methods.html">Methods</a>
                 <a href="albums.html">Albums</a>
+                <a href="analysis.html">Analysis</a>
             </div>
         </div>
+        
+        <section>
+            <h2>XProc Pipeline</h2>
+            
+            <blockquote>
+                <p>
+                    "XProc is a declarative programming language with an XML syntax for processing data in pipelines. XProc is based on the concept of pipelines. Pipelines take data as input and generate output data. A pipeline consists of steps which perform various actions on the data. These actions range from reading and writing data, Web requests and complex transformations and validations. XProc is mainly focused on manipulating XML but can handle HTML, JSON, text and binary data as well."
+                </p>
+                <footer>—Martin Kraetke, <cite>[source]</cite></footer>
+            </blockquote>
+            
+            <p>
+                Basically, XProc makes our lives easier and more organized when we have lots of input data and want to transform/output it in multiple steps.
+            </p>
+            
+            <p>
+                Here is an example of one of our pipeline files (<code>.xpl</code> file extension, for "XProc PipeLine"). The pipeline contains multiple steps which are explained in detail below.
+            </p>
+            
+            <p>
+                You can run this pipeline file via command-line using an XProc Processor. There are two open-source options: <strong>XML Calabash</strong> or <strong>MorganaXProc-III</strong>. We installed and worked with both in DIGIT 210, but ultimately we used MorganaXProc-III because it ran more efficiently.
+            </p>
+            
+            <p>
+                Using a step called <code>&lt;p:identity message="[text here]"/&gt;</code>, you can tell your pipeline to output messages in the command-line as it is running. This helps you understand what the pipeline is doing and when exactly it hits an error. This is especially useful when running a <code>&lt;p:for-each&gt;</code> loop to process each song in an album. We created a variable called <code>filename</code> and used <code>$filename</code> in these messages to track which song file caused an error.
+            </p>
+            
+            <p>
+                Note: There is one pipeline file for each album, stored with the input data for each album. Ideally, one pipeline file could handle everything, but we chose to use nearly identical pipeline files for each album with only the file paths differing. This was because we couldn’t easily create a single pipeline to read all directories (albums) of songs and output them in a consistent, organized manner. So, each pipeline processes one album at a time.
+            </p>
+            
+            
+        </section>
+        
         <footer class="footer">
             <p>
                 <span>The GretaVanZeppelin Project</span> by 
@@ -41,9 +75,7 @@
                 </a>
             </p>
         </footer>
+        
         <script src="java.js"></script>
-        
     </body>
-    
-        
 </html>

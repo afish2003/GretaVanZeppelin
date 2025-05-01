@@ -402,6 +402,7 @@ pre .lyric {
     top: 15px;
     right: 20px;
     z-index: 1000;
+    font-family: "itc-benguiat", serif;
 }
 
 /* Hamburger Button (Updated with animation) */
@@ -509,3 +510,76 @@ a{
   margin-left: 4px;
 }
 
+
+section {
+  max-width: 800px;
+  margin: 0 auto; /* centers the whole section */
+  padding: 1.5rem;
+  text-align: center; /* centers the inline content like text in <p> */
+}
+
+section h2,
+section h3 {
+  font-family: "corporate-a", serif;
+  color: white;
+  margin-top: 1rem;
+  margin-bottom: 0.5rem;
+}
+
+section h2{
+    color: #ffd700;
+}
+
+section p {
+  line-height: 1.7;
+  margin: 0.75rem auto;
+  font-size: 1rem;
+  color: white;
+  max-width: 700px;
+  font-size: 18px;
+}
+
+section code {
+  background-color: grey; /* dark background */
+  color: white;            /* light text */
+  padding: 4px 8px;
+  border-radius: 6px;
+  font-family: "Courier New", monospace;
+  font-size: 0.95em;
+  white-space: pre-wrap;     /* keeps formatting but wraps if needed */
+  display: inline-block;     /* makes inline code stand out more */
+}
+
+/* For multi-line code blocks */
+section pre {
+  background-color: #1e1e1e;
+  color: white;
+  padding: 1rem;
+  border-radius: 8px;
+  overflow-x: auto;
+  text-align: left; /* keep code left-aligned even in a centered layout */
+  font-family: "Courier New", monospace;
+  font-size: 0.95em;
+  margin: 1rem auto;
+  max-width: 700px;
+}
+
+
+blockquote {
+  border-left: 4px solid #ffd700;
+  padding: 1rem 1.5rem;
+  margin: 1rem auto;
+  font-style: italic;
+  color: white;
+  max-width: 700px;
+}
+
+a {
+  color: #ffd700;
+  text-decoration: none;
+}
+
+a:hover,
+a:focus {
+  text-decoration: underline;
+}
