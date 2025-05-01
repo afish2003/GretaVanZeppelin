@@ -33,6 +33,10 @@ font-weight: 700;
 font-style: normal;
 }
 
+h2{
+    font-family: "corporate-a", serif;
+}
+
 h3{
     color: #f8f8f8;
 }
@@ -478,3 +482,30 @@ a{
     font-weight: bold;
     color: #ffd700;
 }
+.footer {
+  font-family: "corporate-a", serif;
+  font-size: 0.9rem;
+  color: white;
+  text-align: center;
+  margin-top: 40px;
+  background-color: transparent;
+  position: relative;
+  z-index: 10;
+}
+
+
+.footer a {
+  color: #ffd700;
+  text-decoration: none;
+}
+
+.footer a:hover {
+  text-decoration: underline;
+}
+
+.footer img {
+  height: 25px;
+  vertical-align: middle;
+  margin-left: 4px;
+}
+
