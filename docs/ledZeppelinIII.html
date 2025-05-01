@@ -40,25 +40,19 @@
                 <li><a href="raw/Zeppelin/ledZeppelinIII/song10.html">Hats Off To (Roy) Harper</a></li>
             </ul>
         </div>
-        <script>
-    const toggle = document.getElementById('menu-toggle');
-const menu = document.getElementById('menu-content');
-const hamburger = document.querySelector('.hamburger');
-
-toggle.addEventListener('click', () => {
-    // Toggle the hamburger button animation
-    hamburger.classList.toggle('open');
-    
-    if (menu.classList.contains('menu-hidden')) {
-        menu.classList.remove('menu-hidden');
-        // delay to allow display before animation
-        setTimeout(() => menu.classList.add('show'), 10);
-    } else {
-        menu.classList.remove('show');
-        setTimeout(() => menu.classList.add('menu-hidden'), 300);
-    }
-});
-
-</script>
+        <footer class="footer">
+            <p>
+                <span>The GretaVanZeppelin Project</span> by 
+                <a href="https://github.com/afish2003/GretaVanZeppelin">Alexander Fisher, Ashlynn Allgeier, Michael Simons, and Connor Carpenter</a> 
+                is licensed under 
+                <a href="https://creativecommons.org/licenses/by-nc/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer">
+                    CC BY-NC 4.0
+                    <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt="CC" />
+                    <img src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt="BY" />
+                    <img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1" alt="NC" />
+                </a>
+            </p>
+        </footer>
+        <script src="java.js"></script>
     </body>
 </html>
