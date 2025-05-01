@@ -8,11 +8,24 @@
     
     <!-- Match the root element -->
     <xsl:template match="/mei/music">
-        <xsl:for-each select="section">
-            <!-- Output the lowercase section type followed by a colon -->
-            <xsl:value-of select="lower-case(@type)"/>
-            <xsl:text>:</xsl:text>
+        <!-- Metadata Processing -->
+        <xsl:template match="/mei/music">
+            <xsl:text>Title: </xsl:text><xsl:value-of select="title"/><xsl:text>&#10;</xsl:text>
+            <xsl:text>Album: </xsl:text><xsl:value-of select="album"/><xsl:text>&#10;</xsl:text>
+            <xsl:text>Artist: </xsl:text><xsl:value-of select="artist"/><xsl:text>&#10;</xsl:text>
+            <xsl:text>Key: </xsl:text><xsl:value-of select="key"/><xsl:text>&#10;&#10;</xsl:text>
+            
+            <!-- Process each section -->
+            <xsl:apply-templates select="section"/>
+        </xsl:template>
+        
+        <!-- Section processing -->
+        <xsl:template match="section">
+            <xsl:text>[</xsl:text><xsl:value-of select="@type"/><xsl:text>]</xsl:text>
             <xsl:text>&#10;</xsl:text>
+            <xsl:apply-templates select="lyrics"/>
+            <xsl:text>&#10;</xsl:text>
+        </xsl:template>
             
             <!-- Loop through all chordLine elements within the section -->
             <xsl:for-each select="chordLine">
