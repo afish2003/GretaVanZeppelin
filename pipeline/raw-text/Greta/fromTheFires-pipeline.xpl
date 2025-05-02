@@ -70,7 +70,7 @@
         
         <p:store name="plain-lyrics-out" href="../../plain-lyrics-output/Greta/fromTheFires/{$filename}.txt" />
         <p:identity message="Saved plain lyrics for {$filename}"/>
-        
+         
         <!-- ================================================================ -->
         <!-- Output just chord progressions                                   -->
         <!-- ================================================================ -->
