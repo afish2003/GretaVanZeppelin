@@ -29,22 +29,24 @@
             </div>
         </div>
         
-        <section>
-            <h2>XProc Pipeline</h2>
+        <section class="methods-section">
             
+            <h2>XProc Pipeline</h2>
+            <div class="text-box">
             <blockquote>
                 <p>
                     "XProc is a declarative programming language with an XML syntax for processing data in pipelines. XProc is based on the concept of pipelines. Pipelines take data as input and generate output data. A pipeline consists of steps which perform various actions on the data. These actions range from reading and writing data, Web requests and complex transformations and validations. XProc is mainly focused on manipulating XML but can handle HTML, JSON, text and binary data as well."
                 </p>
                 <footer>—Martin Kraetke, <cite>[source]</cite></footer>
             </blockquote>
-            
+            </div>
+            <div class="text-box">
             <p>
                 Basically, XProc makes our lives easier and more organized when we have lots of input data and want to transform/output it in multiple steps.
             </p>
             
             <p>
-                Here is an example of one of our pipeline files (<code>.xpl</code> file extension, for "XProc PipeLine"). The pipeline contains multiple steps which are explained in detail below.
+                Here is an example of one of our pipeline files (<code>.xpl</code> file extension, for "<b>X</b>Proc <b>P</b>ipe<b>L</b>ine"). The pipeline contains multiple steps which are explained in detail below.
             </p>
             
             <p>
@@ -56,9 +58,9 @@
             </p>
             
             <p>
-                Note: There is one pipeline file for each album, stored with the input data for each album. Ideally, one pipeline file could handle everything, but we chose to use nearly identical pipeline files for each album with only the file paths differing. This was because we couldn’t easily create a single pipeline to read all directories (albums) of songs and output them in a consistent, organized manner. So, each pipeline processes one album at a time.
+                <em>Note: There is one pipeline file for each album, stored with the input data for each album. Ideally, one pipeline file could handle everything, but we chose to use nearly identical pipeline files for each album with only the file paths differing. This was because we couldn’t easily create a single pipeline to read all directories (albums) of songs and output them in a consistent, organized manner. So, each pipeline processes one album at a time.</em>
             </p>
-            
+        </div>
             
         </section>
         

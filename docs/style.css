@@ -34,7 +34,8 @@ font-style: normal;
 }
 
 h2{
-    font-family: "corporate-a", serif;
+    font-family: 'Georgia', serif;
+    font-weight: 800;
 }
 
 h3{
@@ -47,13 +48,13 @@ p {
     max-width: 700px;
     margin-left: auto;
     margin-right: auto;
-    background: rgba(0, 0, 0, 0.6);
-    padding: 15px;
-    border-radius: 8px;
-     color: #f0f0f0;
-     font-family: "corporate-a", serif;
-font-weight: 400;
-font-style: normal;
+    color: #f0f0f0;
+    font-family: 'Georgia', serif;
+    font-weight: 400;
+    font-style: normal;
+    text-align: left;
+    padding-bottom: 5px;
+    padding-top: 5px;
 }
 
 img#PSB {
@@ -126,7 +127,7 @@ font-style: normal;
     color: #dcdcdc;
     margin-bottom: 15px;
     text-align: left;
-    font-family: "corporate-a", serif;
+    font-family: 'Georgia', serif;
 }
 
 .member-description ul {
@@ -138,6 +139,9 @@ font-style: normal;
     margin-bottom: 20px;
 }
 
+.member-description h4 {
+    margin-bottom: .5rem;
+}
 
 pre {
     background-color: #1a1a1a; /* dark background */
@@ -158,7 +162,7 @@ pre {
 
 
 .text-box {
-    display: flex;
+    /* display: flex;
     flex-direction: column;
     margin: 30px auto;
     padding: 15px;
@@ -166,6 +170,11 @@ pre {
     box-shadow: 0px 0px 9px 0px rgba(0, 0, 0, 0.2);
     max-width: 800px;
     color: #342a1e;
+    */
+    background: rgba(0, 0, 0, 0.6);
+    margin: 0px 60px 20px 60px;
+    padding: 10px;
+    border-radius: 8px;
 }
 
 h3 {
@@ -287,7 +296,7 @@ font-style: normal;
     box-shadow: 0 8px 20px rgba(0, 0, 0, 0.4);
     backdrop-filter: blur(3px);
     border: 1px solid rgba(255, 255, 255, 0.1);
-      margin: 210px auto;
+    margin-top: 210px;
 }
 
 .intro-section h1 {
@@ -348,6 +357,8 @@ font-style: normal;
 .album h3, .album p {
     margin: 5px;
     color: #000000;
+    text-align: center;
+    padding: 10px;
 }
 
 /* Hover effect */
@@ -497,7 +508,7 @@ a{
     color: #ffd700;
 }
 .footer {
-  font-family: "corporate-a", serif;
+  font-family: 'Georgia', serif;
   font-size: 0.9rem;
   color: white;
   text-align: center;
@@ -505,6 +516,9 @@ a{
   background-color: transparent;
   position: relative;
   z-index: 10;
+  background: rgba(0, 0, 0, 0.6);
+  padding: 10px;
+  border-radius: 8px;
 }
 
 
@@ -533,7 +547,7 @@ section {
 
 section h2,
 section h3 {
-  font-family: "corporate-a", serif;
+  font-family: 'Georgia', serif;
   color: white;
   margin-top: 1rem;
   margin-bottom: 0.5rem;
@@ -582,10 +596,12 @@ section pre {
 blockquote {
   border-left: 4px solid #ffd700;
   padding: 1rem 1.5rem;
-  margin: 1rem auto;
+  margin: 1rem;
   font-style: italic;
   color: white;
   max-width: 700px;
+  text-align: left;
+  padding-left: 40px;
 }
 
 a {
@@ -653,4 +669,26 @@ table td:first-child {
   th, td {
     padding: 0.5rem;
   }
+}
+
+.methods-section {
+    background: rgba(0, 0, 0, 0.6);
+    color: #fff;
+    padding: 50px 30px;
+    max-width: 900px;
+    border-radius: 15px;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.4);
+    backdrop-filter: blur(3px);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    margin: 50px auto;
+}
+
+.methods-section h2 {
+    font-weight: 800;
+    font-size: 2rem;
+    margin-bottom: 30px;
+}
+
+.methods-section p {
+    line-height: 1.5;
 }
