@@ -604,9 +604,27 @@ blockquote {
   padding-left: 40px;
 }
 
+blockquote a {
+    text-decoration: underline;
+}
+
 a {
   color: #ffd700;
   text-decoration: none;
+}
+
+h2 a {
+    text-decoration: underline;
+    font-weight: 400;
+}
+
+h3 a {
+    text-decoration: underline;
+    font-weight: 400;
+}
+
+p a {
+    text-decoration: underline;
 }
 
 a:hover,
