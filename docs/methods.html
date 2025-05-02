@@ -30,8 +30,15 @@
         </div>
         
         <section class="methods-section">
+            <h2>Why "Greta Van Zeppelin"?</h2>
+            <div class="text-box">
+                <p>The topic of this project was chosen because many people compare the modern rock band <strong>Greta Van Fleet</strong> to the classic rock band <strong>Led Zeppelin</strong>. <a href="https://guitar.com/features/opinion-analysis/why-does-greta-van-fleet-sound-like-led-zeppelin/">One author writes</a>, <em>"From the moment the Grammy-winning four-piece burst on to the scene, the Michigan rockers [of Greta Van Fleet] have drawn heavy comparison with hard rock’s most iconic and influential band [Led Zeppelin]."</em> We wanted to use XML and Python tools to do a deeper analysis of their music to see if that's true.
+                    </p>
+            </div>
+        </section>       
             
-            <h2>XProc Pipeline</h2>
+        <section class="methods-section">
+            <h2>XProc Pipeline <a href="https://github.com/afish2003/GretaVanZeppelin/blob/08a8d24e08f49e5ce8dce77558407119f7f5bd5c/pipeline/raw-text/Greta/fromTheFires-pipeline.xpl"><em>[example file on GitHub]</em></a></h2>
             <div class="text-box">
             <blockquote>
                 <p>
@@ -67,7 +74,10 @@
         <section class="methods-section">
             <h2>Raw Text <a href="https://github.com/afish2003/GretaVanZeppelin/tree/10058241afc5fe100202a362464a7489defd3846/pipeline/raw-text"><em>[directory on GitHub]</em></a> | (Pipeline)</h2>
             <div class="text-box">
-                <p></p>
+                <p>Our raw text files are <a href="https://en.wikipedia.org/wiki/Chord_chart#Format:_Chords_over_lyrics_(ASCII)">chord charts</a> of every song on the first four albums of each artist, and they are organized as such: <code>../Artist/Album/song-##.txt</code>.</p>
+                <p><em>Our raw-text resources also include the latest five albums of Led Zeppelin's discography, but due to both time constraints and Fleet's discography currently containing four albums, we decided to only process Led Zeppelin's first four albums.</em></p>
+                <p>The chord charts we used are in the <a href="https://en.wikipedia.org/wiki/Chord_chart#Format:_Chords_over_lyrics_(ASCII)">"chords over lyrics" format</a>, meaning that the chords (roughly) line up with what lyrics they're being played with. We did not check this aspect for accuracy simply because for this project, this complex data would not be analyzed or preserved throughout the pipeline process.</p>
+                <p>These chord charts were pulled from <a href="https://www.ultimate-guitar.com/">Ultimate Guitar</a>, an online platform for guitarists and musicians to find user-created learning resources for millions of songs. They offer the ability to download chord charts as PDFs; but for our purposes, copying &amp; pasting into <code>.txt</code> files was more efficient. The accuracy and formatting consistency of these resources is surprisingly high considering they are all user-created, but it's still ideal to check them manually. <a href="https://github.com/mrs7068">@mrs7068</a> checked a good portion of the songs, but he points out that, while largely inconsequential to the project, there are still many errors throughout the song files.</p>
             </div>
         </section>
         
@@ -76,6 +86,10 @@
             <div class="text-box">
                 <p></p>
             </div>
+            <div class="text-box">
+                <h3><a href="https://music-encoding.org/">Music Encoding Initiative (MEI)</a></h3>
+                <p>The <a href="https://music-encoding.org/">MEI</a> gets an honorable mention here because we researched it in the early stages of our project. It is an expansive "open-source effort to define a system for encoding musical documents in a machine-readable structure" (<a href="https://music-encoding.org/"><em>music-encoding.org</em></a>). We chose to mention it here after the ixml step because the resulting basic XML structure could be transformed into <a href="https://github.com/music-encoding/schema">MEI schema</a>-compliant data. Ultimately, given the scope of this project, conforming to MEI's guidelines was unnecessary. But, they're worth checking out if you find our project interesting!</p>
+            </div>
         </section>
         
         <section class="methods-section">
@@ -83,6 +97,7 @@
             <div class="text-box">
                 <h3>Full XML Markup <a href="https://github.com/afish2003/GretaVanZeppelin/blob/990d475be5bbdb5b0ecf9953fbb0d1f13405334d/pipeline/full-markup.xsl"><em>[full-markup.xsl on GitHub]</em></a></h3>
                 <p></p>
+                <p style="text-align: center"><code><strong>\n(\s*([A-Z][#ba-z/0-9]*) *([A-Z][#ba-z/0-9]*)?)*\n</strong></code></p>
             </div>
             
             <div class="text-box">
