@@ -627,6 +627,11 @@ p a {
     text-decoration: underline;
 }
 
+code a {
+      color: #ffd700;
+      text-decoration: underline;
+}
+
 a:hover,
 a:focus {
   text-decoration: underline;

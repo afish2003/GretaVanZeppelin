@@ -38,7 +38,7 @@
         </section>       
             
         <section class="methods-section">
-            <h2>XProc Pipeline <a href="https://github.com/afish2003/GretaVanZeppelin/blob/08a8d24e08f49e5ce8dce77558407119f7f5bd5c/pipeline/raw-text/Greta/fromTheFires-pipeline.xpl"><em>[example file on GitHub]</em></a></h2>
+            <h2>XProc Pipeline <a href="https://github.com/afish2003/GretaVanZeppelin/blob/main/pipeline/raw-text/Greta/fromTheFires-pipeline.xpl"><em>[example file on GitHub]</em></a></h2>
             <div class="text-box">
             <blockquote>
                 <p>
@@ -53,7 +53,7 @@
             </p>
             
             <p>
-                Here is an <a href="https://github.com/afish2003/GretaVanZeppelin/blob/08a8d24e08f49e5ce8dce77558407119f7f5bd5c/pipeline/raw-text/Greta/fromTheFires-pipeline.xpl">example</a> of one of our pipeline files (<code>.xpl</code> file extension, for "<b>X</b>Proc <b>P</b>ipe<b>L</b>ine"). The pipeline contains multiple steps which are explained in detail below.
+                Here is an <a href="https://github.com/afish2003/GretaVanZeppelin/blob/main/pipeline/raw-text/Greta/fromTheFires-pipeline.xpl">example</a> of one of our pipeline files (<code>.xpl</code> file extension, for "<b>X</b>Proc <b>P</b>ipe<b>L</b>ine"). The pipeline contains multiple steps which are explained in detail below.
             </p>
             
             <p>
@@ -72,7 +72,7 @@
         </section>
         
         <section class="methods-section">
-            <h2>Raw Text <a href="https://github.com/afish2003/GretaVanZeppelin/tree/10058241afc5fe100202a362464a7489defd3846/pipeline/raw-text"><em>[directory on GitHub]</em></a> | (Pipeline)</h2>
+            <h2>Raw Text <a href="https://github.com/afish2003/GretaVanZeppelin/tree/main/pipeline/raw-text"><em>[directory on GitHub]</em></a> | (Pipeline)</h2>
             <div class="text-box">
                 <p>Our raw text files are <a href="https://en.wikipedia.org/wiki/Chord_chart#Format:_Chords_over_lyrics_(ASCII)">chord charts</a> of every song on the first four albums of each artist, and they are organized as such: <code>../Artist/Album/song-##.txt</code>.</p>
                 <p><em>Our raw-text resources also include the latest five albums of Led Zeppelin's discography, but due to both time constraints and Fleet's discography currently containing four albums, we decided to only process Led Zeppelin's first four albums.</em></p>
@@ -82,9 +82,21 @@
         </section>
         
         <section class="methods-section">
-            <h2>ixml <a href="https://github.com/afish2003/GretaVanZeppelin/blob/990d475be5bbdb5b0ecf9953fbb0d1f13405334d/pipeline/InvisibleXML.ixml"><em>[file on GitHub]</em></a> | (Pipeline)</h2>
+            <h2>ixml <a href="https://github.com/afish2003/GretaVanZeppelin/blob/main/pipeline/InvisibleXML.ixml"><em>[file on GitHub]</em></a> | (Pipeline)</h2>
             <div class="text-box">
-                <p></p>
+                <blockquote>
+                    <p>
+                        "Invisible XML is a language for describing the implicit structure of data, and a set of technologies for making that structure explicit as XML markup. It allows you to write a declarative description of the format of some text and then leverage that format to represent the text as structured information."
+                    </p>
+                    <footer>—<a href="https://www.xml.com/authors/norm-tovey-walsh/">Norm Tovey-Walsh</a>, <cite><a href="https://www.xml.com/articles/2022/03/01/invisible-xml/">[source]</a></cite></footer>
+                </blockquote>
+            </div>
+            <div class="text-box">
+                <p><a href="https://invisiblexml.org/">Invisible XML (ixml)</a> is a relatively new language (c. 2022). It allows plain text to be turned into XML by analyzing the <em>"invisible"</em> patterns in the text and creating a set of rules called a "grammar." If you want to learn more, check out <a href="https://www.xml.com/articles/2022/03/01/invisible-xml/">Norm Tovey-Walsh's introduction to ixml</a>.</p>
+                <p>There are lots of ixml processors that also run at the command-line, similar to XProc processors. <em><a href="https://github.com/mrs7068">@mrs7068</a>: When I ran the ixml on it's own, I used <a href="https://github.com/GuntherRademacher/markup-blitz">Markup Blitz</a>, but I believe my configuration of MorganaXProc-III used Norm Tovey-Walsh's <a href="https://docs.nineml.org/current/coffeepot/">CoffeePot</a> in the pipeline.</em></p>
+                <p>The extent of ixml in this project was outlining the different song sections (all of which begin with brackets around the section name: <code>[Section]</code>), as well as creating root elements for well-formed XML, and using the first four lines of each file as metadata for the song (<code>title</code>, <code>album</code>, <code>artist</code>, <code>key</code>).</p>
+                <p>There is a possibility that the texts could have been further encoded using ixml, but given that it is so new and there are limited help resources available, our implementation was enough of a challenge!</p>
+                <p><em>This step results in the <a href="https://github.com/afish2003/GretaVanZeppelin/tree/main/pipeline/ixml-output"><strong>ixml-output directory</strong></a>.</em></p>
             </div>
             <div class="text-box">
                 <h3><a href="https://music-encoding.org/">Music Encoding Initiative (MEI)</a></h3>
@@ -95,24 +107,31 @@
         <section class="methods-section">
             <h2>XSLT | (Pipeline)</h2>
             <div class="text-box">
-                <h3>Full XML Markup <a href="https://github.com/afish2003/GretaVanZeppelin/blob/990d475be5bbdb5b0ecf9953fbb0d1f13405334d/pipeline/full-markup.xsl"><em>[full-markup.xsl on GitHub]</em></a></h3>
-                <p></p>
+                <h3>Full XML Markup <a href="https://github.com/afish2003/GretaVanZeppelin/blob/main/pipeline/full-markup.xsl"><em>[full-markup.xsl on GitHub]</em></a></h3>
+                <p>This is pretty basic XSLT with one exception—a monster Regex statement created by <a href="https://github.com/ebeshero">@ebeshero</a>:</p>
                 <p style="text-align: center"><code><strong>\n(\s*([A-Z][#ba-z/0-9]*) *([A-Z][#ba-z/0-9]*)?)*\n</strong></code></p>
+                <p>This line is used in <code>&lt;xsl:analyze-string&gt;</code> to differentiate a line of chords from a line of lyrics. It is very impressive and deserves a moment of recognition, as it has not resulted in any noticeable errors (like classifying the word "Oh" to be a chord, even though it technically could qualify). So, after the <code>analyze-string</code> determines chords or lyrics, it will either tokenize the chords by space(s) and wrap them in an individual element (and wrap all of those in a <code>&lt;chordLine&gt;</code> element per line of chords/lyrics), or simply tag the lyrics.</p>
             </div>
             
             <div class="text-box">
-                <h3>Converting Chords to Nashville Numbers <a href="https://github.com/afish2003/GretaVanZeppelin/blob/990d475be5bbdb5b0ecf9953fbb0d1f13405334d/pipeline/chordsToNumbers.xsl"><em>[chordsToNumbers.xsl on GitHub]</em></a></h3>
-                <p></p>
+                <h3>Converting Chords to Nashville Numbers <a href="https://github.com/afish2003/GretaVanZeppelin/blob/main/pipeline/chordsToNumbers.xsl"><em>[chordsToNumbers.xsl on GitHub]</em></a></h3>
+                <p>This XSLT document is an ever-growing monster. It takes the full XML output and adds an attribute <code>@num</code> to the <code>&lt;chord&gt;</code> elements. It only does so if the chord is defined explicitly in the XSLT document, which means all of the possible/needed <code>@num</code> values had to be created by hand.</p>
+                <p>What is this mysterious <code>@num</code> value? It is the number associated with the chord according to the <a href="https://en.wikipedia.org/wiki/Nashville_Number_System">Nashville Number System</a>. According to the Nashville Number System, each chord is assigned a number based on it's position in the scale (or key) that the song uses. For example, take a song in <strong>C</strong>. The <strong>C</strong> chord would be assigned the number <strong>1</strong>, <strong>D</strong> would be assigned number <strong>2</strong>, and so on. So, using the song's key (found in the metadata), the chords are assigned numbers based on the set defined for that key. There are, of course, chord extensions like "m" for minor, "maj7" for adding the major 7th scale degree, etc. These all needed to be accounted for in the <a href="https://github.com/afish2003/GretaVanZeppelin/blob/main/pipeline/chordsToNumbers.xsl">chordsToNumbers.xsl</a> XSLT stylesheet so that those chords with extensions would also receive an accurate <code>@num</code> value based on the Nashville Numbering System.
+                </p>
+                <p>So, why take this extra step? Because it makes the most sense for comparing the chords of songs with one another. Sure, the original data can be used to see if there are commonly played chords since there are chords that are easier to play on the guitar. But, in order to analyze chord <em>progressions</em> in a meaningful way, all the songs would have to be in the same key (which they're not) or else you would just be comparing a set of letters with a completely different set of letters with no meaningful connection. Different chord progressions sound different and invoke different emotions. Converting the chords to numbers allows you to see which songs use the happy progression of <code>1 4 5 1</code> despite those songs being in different keys.</p>
+                <p><em>This and the previous step result in the <a href="https://github.com/afish2003/GretaVanZeppelin/tree/main/pipeline/full-xml-output"><strong>full-xml-output directory</strong></a>.</em></p>
             </div>
             
             <div class="text-box">
-                <h3>Pulling Only Lyrics <a href="https://github.com/afish2003/GretaVanZeppelin/blob/990d475be5bbdb5b0ecf9953fbb0d1f13405334d/pipeline/pullLyrics.xsl"><em>[pullLyrics.xsl on GitHub]</em></a></h3>
-                <p></p>
+                <h3>Pulling Only Lyrics <a href="https://github.com/afish2003/GretaVanZeppelin/blob/main/pipeline/pullLyrics.xsl"><em>[pullLyrics.xsl on GitHub]</em></a></h3>
+                <p>It does what it says it does. ¯\\(ツ)/¯</p>
+                <p><em>This step results in the <a href="https://github.com/afish2003/GretaVanZeppelin/tree/main/pipeline/plain-lyrics-output"><strong>plain-lyrics-output directory</strong></a>.</em></p>
             </div>
             
             <div class="text-box">
-                <h3>Pulling Only Chords <a href="https://github.com/afish2003/GretaVanZeppelin/blob/990d475be5bbdb5b0ecf9953fbb0d1f13405334d/pipeline/progressions.xsl"><em>[chordProgressions.xsl on GitHub]</em></a></h3>
-                <p></p>
+                <h3>Pulling Only Chords <a href="https://github.com/afish2003/GretaVanZeppelin/blob/main/pipeline/progressions.xsl"><em>[chordProgressions.xsl on GitHub]</em></a></h3>
+                <p>It also does what it says it does. ¯\\(ツ)/¯</p>
+                <p><em>This step results in the <a href="https://github.com/afish2003/GretaVanZeppelin/tree/main/pipeline/chord-progressions-output"><strong>chord-progressions-output directory</strong></a>.</em></p>
             </div>
         </section>
         
