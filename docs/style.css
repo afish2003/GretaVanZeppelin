@@ -624,7 +624,8 @@ h2 a {
 
 h3 a {
     text-decoration: underline;
-    font-weight: 400;
+    font-weight: 500;
+    font-family: "itc-benguiat", serif;
 }
 
 p a {
