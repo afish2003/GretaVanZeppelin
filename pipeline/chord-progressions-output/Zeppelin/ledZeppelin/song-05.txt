@@ -1,0 +1,57 @@
+Title: Your Time Is Gonna Come
+Album: Led Zeppelin
+Artist: Led Zeppelin
+Key: D
+
+[Intro]
+  2sus4, 6m, 5m
+
+[Pre-Verse]
+  1, 1sus4, 1sus2, 1sus4, 1sus2, 1m/b7, 1, 1sus4, 1sus2, 1sus4, 1sus2, 1m/b7, 1, 1sus4, 1sus2, 1sus4, 1sus2, 1m/b7, 1, 1sus4, 1sus2, 1sus4, 1sus2, 1m/b7
+
+[Verse 1]
+  1, 1sus4, 1sus2, 1sus4, 1sus2, 1m/b7, 1, 1sus4, 1sus2
+  1sus4, 1sus2, 1m/b7, 1, 1sus4, 1sus2
+  1sus4, 1sus2, 1m/b7, 1, 1sus4, 1sus2
+
+[Verse 2]
+  1sus4, 1sus2, 1m/b7, 1, 1sus4, 1sus2, 1sus4, 1sus2, 1m/b7, 1, 1sus4
+  1sus2, 1sus4, 1sus2, 1m/b7, 1, 1sus4, 1sus2
+  1sus4, 1sus2, 1m/b7, 1, 7m7/1
+  b7/1, 2m/1
+
+[Chorus]
+  1, 1sus4, 1, 1sus2, 1, 4
+  1, 1sus4, 1, 1sus2, 1, 4
+  1, 1sus4, 1, 1sus2, 1, 4
+  1, 1sus4, 1, 1sus2, 1, 4
+  1, 1sus4, 1, 1sus2, 1, 4
+
+[Verse 3]
+  1, 1sus4, 1sus2
+  1sus4, 1sus2, 1m/b7, 1, 1sus4, 1sus2
+  1sus4, 1sus2, 1m/b7, 1, 1sus4, 1sus2
+  1sus4, 1sus2, 1m/b7, 1, 1sus4, 1sus2
+  1sus4, 1sus2, 1m/b7
+
+[Verse 4]
+  1, 1sus4, 1sus2
+  1sus4, 1sus2, 1m/b7, 1, 1sus4, 1sus2
+  1sus4, 1sus2, 1m/b7, 1, 1sus4, 1sus2
+  1sus4, 1sus2, 1m/b7
+  1, 7m7/1
+  b7/1
+  2m/1
+
+[Chorus]
+  1, 1sus4, 1, 1sus2, 1, 4
+  1, 1sus4, 1, 1sus2, 1, 4
+  1, 1sus4, 1, 1sus2, 1, 4
+  1, 1sus4, 1, 1sus2, 1, 4
+  1, 1sus4, 1, 1sus2, 1, 4
+  1, 1sus4, 1, 1sus2, 1, 4
+  1, 1sus4, 1, 1sus2, 1, 4
+  1, 1sus4, 1, 1sus2, 1, 4
+  1, 1sus4, 1, 1sus2, 1, 4
+  1, 1sus4, 1, 1sus2, 1, 4
+

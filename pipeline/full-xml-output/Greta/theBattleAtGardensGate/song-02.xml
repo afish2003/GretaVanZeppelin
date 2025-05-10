@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mei ixml:state="ambiguous"
+     xmlns:ixml="http://invisiblexml.org/NS">
+   <music>
+      <title>My Way, Soon</title>
+      <album>The Battle of Garden's Gate</album>
+      <artist>Greta Van Fleet</artist>
+      <key>F</key>
+      <section type="Intro">
+         <chordLine>
+            <chord num="1">F</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Verse 1">
+         <chordLine>
+            <chord num="1">F</chord>
+            <chord num="4">Bb</chord>
+         </chordLine>
+         <lyrics>I've seen many people</lyrics>
+         <chordLine>
+            <chord num="1">F</chord>
+            <chord num="4">Bb</chord>
+         </chordLine>
+         <lyrics>There are so many people</lyrics>
+         <chordLine>
+            <chord num="1">F</chord>
+            <chord num="4">Bb</chord>
+         </chordLine>
+         <lyrics>Some are much younger people</lyrics>
+         <chordLine>
+            <chord num="1">F</chord>
+            <chord num="4">Bb</chord>
+         </chordLine>
+         <lyrics>And some are so old</lyrics>
+         <chordLine>
+            <chord num="1">F</chord>
+            <chord num="4">Bb</chord>
+         </chordLine>
+         <lyrics>I've seen many places</lyrics>
+         <chordLine>
+            <chord num="1">F</chord>
+            <chord num="4">Bb</chord>
+         </chordLine>
+         <lyrics>There are so many places</lyrics>
+         <chordLine>
+            <chord num="1">F</chord>
+            <chord num="4">Bb</chord>
+         </chordLine>
+         <lyrics>And where are the people going?</lyrics>
+         <chordLine>
+            <chord num="1">F</chord>
+            <chord num="4">Bb</chord>
+         </chordLine>
+         <lyrics>Will they choose the road?</lyrics>
+      </section>
+      <section type="Pre-Chorus">
+         <chordLine>
+            <chord num="b7/1">D#/F</chord>
+            <chord num="4">Bb</chord>
+            <chord num="b7/1">D#/F</chord>
+            <chord num="4">Bb</chord>
+            <chord num="b7/1">D#/F</chord>
+            <chord num="5">C</chord>
+            <chord num="b7/1">D#/F</chord>
+            <chord num="5">C</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Chorus">
+         <chordLine>
+            <chord num="1">F</chord>
+            <chord num="4">Bb</chord>
+            <chord num="1">F</chord>
+            <chord num="b7">Eb</chord>
+            <chord num="4">Bb</chord>
+         </chordLine>
+         <lyrics>I've packed my bags and I've got my freedom</lyrics>
+         <chordLine>
+            <chord num="b7">Eb</chord>
+            <chord num="4">Bb</chord>
+            <chord num="1">F</chord>
+            <chord num="4">Bb</chord>
+            <chord num="1">F</chord>
+            <chord num="b7">Eb</chord>
+            <chord num="4">Bb</chord>
+         </chordLine>
+         <lyrics>I've sacked the rules so I don't have to heed them</lyrics>
+         <chordLine>
+            <chord num="b7">Eb</chord>
+            <chord num="4">Bb</chord>
+            <chord num="1">F</chord>
+            <chord num="4">Bb</chord>
+            <chord num="1">F</chord>
+            <chord num="b7">Eb</chord>
+            <chord num="4">Bb</chord>
+         </chordLine>
+         <lyrics>I'll bet on a chance if I've just got one</lyrics>
+         <chordLine>
+            <chord num="b7">Eb</chord>
+            <chord num="4">Bb</chord>
+            <chord num="1">F</chord>
+            <chord num="4">Bb</chord>
+            <chord num="1">F</chord>
+            <chord num="b7">Eb</chord>
+            <chord num="4">Bb</chord>
+            <chord num="b7">Eb</chord>
+            <chord num="4">Bb</chord>
+         </chordLine>
+         <lyrics>I'll throw out the plans and live with no burden</lyrics>
+      </section>
+      <section type="Post-Chorus">
+         <chordLine>
+            <chord num="1">F</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Verse 2">
+         <chordLine>
+            <chord num="1">F</chord>
+            <chord num="4">Bb</chord>
+         </chordLine>
+         <lyrics>I have but a lifetime</lyrics>
+         <chordLine>
+            <chord num="1">F</chord>
+            <chord num="4">Bb</chord>
+         </chordLine>
+         <lyrics>Seems so long but it flies by</lyrics>
+         <chordLine>
+            <chord num="1">F</chord>
+            <chord num="4">Bb</chord>
+         </chordLine>
+         <lyrics>And in the moments passing</lyrics>
+         <chordLine>
+            <chord num="1">F</chord>
+            <chord num="4">Bb</chord>
+         </chordLine>
+         <lyrics>I'll bear no load</lyrics>
+         <chordLine>
+            <chord num="1">F</chord>
+            <chord num="4">Bb</chord>
+         </chordLine>
+         <lyrics>I have yet to wander</lyrics>
+         <chordLine>
+            <chord num="1">F</chord>
+            <chord num="4">Bb</chord>
+         </chordLine>
+         <lyrics>Many miles far yonder</lyrics>
+         <chordLine>
+            <chord num="1">F</chord>
+            <chord num="4">Bb</chord>
+         </chordLine>
+         <lyrics>And with so much left to ponder</lyrics>
+         <chordLine>
+            <chord num="1">F</chord>
+            <chord num="4">Bb</chord>
+         </chordLine>
+         <lyrics>I choose the road</lyrics>
+      </section>
+      <section type="Pre-Chorus">
+         <chordLine>
+            <chord num="b7/1">D#/F</chord>
+            <chord num="4">Bb</chord>
+            <chord num="b7/1">D#/F</chord>
+            <chord num="4">Bb</chord>
+            <chord num="b7/1">D#/F</chord>
+            <chord num="5">C</chord>
+            <chord num="b7/1">D#/F</chord>
+            <chord num="5">C</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Chorus">
+         <chordLine>
+            <chord num="1">F</chord>
+            <chord num="4">Bb</chord>
+            <chord num="1">F</chord>
+            <chord num="b7">Eb</chord>
+            <chord num="4">Bb</chord>
+         </chordLine>
+         <lyrics>I've packed my bags and I've got my freedom</lyrics>
+         <chordLine>
+            <chord num="b7">Eb</chord>
+            <chord num="4">Bb</chord>
+            <chord num="1">F</chord>
+            <chord num="4">Bb</chord>
+            <chord num="1">F</chord>
+            <chord num="b7">Eb</chord>
+            <chord num="4">Bb</chord>
+         </chordLine>
+         <lyrics>I've sacked the rules so I don't have to heed them</lyrics>
+         <chordLine>
+            <chord num="b7">Eb</chord>
+            <chord num="4">Bb</chord>
+            <chord num="1">F</chord>
+            <chord num="4">Bb</chord>
+            <chord num="1">F</chord>
+            <chord num="b7">Eb</chord>
+            <chord num="4">Bb</chord>
+         </chordLine>
+         <lyrics>I'll bet on a chance if I've just got one</lyrics>
+         <chordLine>
+            <chord num="b7">Eb</chord>
+            <chord num="4">Bb</chord>
+            <chord num="1">F</chord>
+            <chord num="4">Bb</chord>
+            <chord num="1">F</chord>
+            <chord num="b7">Eb</chord>
+            <chord num="4">Bb</chord>
+            <chord num="b7">Eb</chord>
+            <chord num="4">Bb</chord>
+         </chordLine>
+         <lyrics>I'll throw out the plans and live with no burden</lyrics>
+      </section>
+      <section type="Interlude">
+         <chordLine>
+            <chord num="1">F</chord>
+            <chord num="b3">Ab</chord>
+            <chord num="4">Bb</chord>
+            <chord num="1">F</chord>
+            <chord num="b7">Eb</chord>
+            <chord num="4">Bb</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Solo">
+         <chordLine>
+            <chord num="1">F</chord>
+            <chord num="b3">Ab</chord>
+            <chord num="4">Bb</chord>
+            <chord num="1">F</chord>
+            <chord num="b7">Eb</chord>
+            <chord num="4">Bb</chord>
+            <chord num="1">F</chord>
+            <chord num="b3">Ab</chord>
+            <chord num="4">Bb</chord>
+            <chord num="1">F</chord>
+            <chord num="b7">Eb</chord>
+            <chord num="4">Bb</chord>
+            <chord num="1">F</chord>
+            <chord num="b3">Ab</chord>
+            <chord num="4">Bb</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Chorus">
+         <chordLine>
+            <chord num="1">F</chord>
+            <chord num="4">Bb</chord>
+            <chord num="1">F</chord>
+            <chord num="b7">Eb</chord>
+            <chord num="4">Bb</chord>
+         </chordLine>
+         <lyrics>I've packed my bags and I've got my freedom</lyrics>
+         <chordLine>
+            <chord num="b7">Eb</chord>
+            <chord num="4">Bb</chord>
+            <chord num="1">F</chord>
+            <chord num="4">Bb</chord>
+            <chord num="1">F</chord>
+            <chord num="b7">Eb</chord>
+            <chord num="4">Bb</chord>
+         </chordLine>
+         <lyrics>I've sacked the rules so I don't have to heed them</lyrics>
+         <chordLine>
+            <chord num="b7">Eb</chord>
+            <chord num="4">Bb</chord>
+            <chord num="1">F</chord>
+            <chord num="4">Bb</chord>
+            <chord num="1">F</chord>
+            <chord num="b7">Eb</chord>
+            <chord num="4">Bb</chord>
+         </chordLine>
+         <lyrics>I'll bet on a chance if I've just got one</lyrics>
+         <chordLine>
+            <chord num="b7">Eb</chord>
+            <chord num="4">Bb</chord>
+            <chord num="1">F</chord>
+            <chord num="4">Bb</chord>
+            <chord num="1">F</chord>
+            <chord num="b7">Eb</chord>
+            <chord num="4">Bb</chord>
+            <chord num="b7">Eb</chord>
+         </chordLine>
+         <lyrics>I'll throw out the plans and live with no burden</lyrics>
+      </section>
+      <section type="Outro">
+         <chordLine>
+            <chord num="1">F</chord>
+         </chordLine>
+      </section>
+   </music>
+</mei>

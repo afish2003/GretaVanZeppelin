@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mei ixml:state="ambiguous"
+     xmlns:ixml="http://invisiblexml.org/NS">
+   <music>
+      <title>Black Dog</title>
+      <album>Led Zeppelin IV</album>
+      <artist>Led Zeppelin</artist>
+      <key>A</key>
+      <section type="Verse 1">
+         <chordLine>
+            <chord num="1^7">A7</chord>
+         </chordLine>
+         <lyrics>Hey, hey mama said the way you move, gonna make you sweat, gon' make you groove. Ahah child the way you shake that thing, gon' make you burn gon' make you sting. Hey hey baby when you walk that way,</lyrics>
+         <chordLine>
+            <chord num="1^7">A7</chord>
+         </chordLine>
+         <lyrics>watch your heartache drip, can't keep away .</lyrics>
+      </section>
+      <section type="Chorus">
+         <chordLine>
+            <chord num="1^7">A7</chord>
+            <chord num="b3">C</chord>
+            <chord num="1^7">A7</chord>
+         </chordLine>
+         <lyrics>Oh, yeah. Oh, yeah. Oh, oh, oh.</lyrics>
+         <chordLine>
+            <chord num="b3">C</chord>
+            <chord num="1^7">A7</chord>
+         </chordLine>
+         <lyrics>Oh, yeah. Oh, yeah. Oh, oh, oh.</lyrics>
+      </section>
+      <section type="Verse 2">
+         <chordLine>
+            <chord num="1^7">A7</chord>
+         </chordLine>
+         <lyrics>I got to roll, I can't stand still, got a flamig heart can't get my fill. Eyes that shin e a burning red, dreams of you all through my head. Ah, ah, ah, ah, ah, ah ah, ah, ah, ah, ah, ah, ah.</lyrics>
+      </section>
+      <section type="Bridge">
+         <chordLine>
+            <chord num="1^7">A7</chord>
+         </chordLine>
+         <lyrics>Hey baby,</lyrics>
+         <chordLine>
+            <chord num="b3">C</chord>
+            <chord num="1^7">A7</chord>
+         </chordLine>
+         <lyrics>oh, baby, pretty baby,</lyrics>
+         <chordLine>
+            <chord num="4sus4">Dsus4</chord>
+            <chord num="4">D</chord>
+            <chord num="1^7">A7</chord>
+         </chordLine>
+         <lyrics>darling give it to me now.</lyrics>
+         <chordLine>
+            <chord num="b3">C</chord>
+            <chord num="1^7">A7</chord>
+            <chord num="4sus4">Dsus4</chord>
+            <chord num="4">D</chord>
+            <chord num="1^7">A7</chord>
+         </chordLine>
+         <lyrics>Hey baby,</lyrics>
+         <chordLine>
+            <chord num="b3">C</chord>
+            <chord num="1^7">A7</chord>
+         </chordLine>
+         <lyrics>oh, baby, pretty baby,</lyrics>
+         <chordLine>
+            <chord num="4sus4">Dsus4</chord>
+            <chord num="4">D</chord>
+            <chord num="1^7">A7</chord>
+         </chordLine>
+         <lyrics>move the way you're moving now.</lyrics>
+      </section>
+      <section type="Verse 3">
+         <chordLine>
+            <chord num="b3">C</chord>
+            <chord num="1^7">A7</chord>
+            <chord num="4sus4">Dsus4</chord>
+            <chord num="4">D</chord>
+            <chord num="1^7">A7</chord>
+         </chordLine>
+         <lyrics>It's been too long 'fore I found out, what people mean by down and out. Spent my money, took my car, started telling her friends she gon' be a star. I don't know, but I've been told,</lyrics>
+         <chordLine>
+            <chord num="1^7">A7</chord>
+         </chordLine>
+         <lyrics>a biglegged woman ain't got no soul.</lyrics>
+      </section>
+      <section type="Chorus">
+         <chordLine>
+            <chord num="1^7">A7</chord>
+            <chord num="b3">C</chord>
+            <chord num="1^7">A7</chord>
+         </chordLine>
+         <lyrics>Oh, yeah. Oh, yeah. Oh, oh, oh.</lyrics>
+         <chordLine>
+            <chord num="b3">C</chord>
+            <chord num="1^7">A7</chord>
+         </chordLine>
+         <lyrics>Oh, yeah. Oh, yeah. Oh, oh, oh.</lyrics>
+      </section>
+      <section type="Verse 4">
+         <chordLine>
+            <chord num="1^7">A7</chord>
+         </chordLine>
+         <lyrics>All I ask for, all I pray steady rolling woman 'gonna come my way. Need a woman who's gonna hold my hand, won't tell me no lies, make me a happy man. Ah, ah, ah, ah, ah, ah ah, ah, ah, ah, ah, ah, ah.</lyrics>
+      </section>
+      <section type="Solo">
+         <chordLine>
+            <chord num="1^7">A7</chord>
+            <chord num="b3">C</chord>
+            <chord num="1^7">A7</chord>
+            <chord num="4sus4">Dsus4</chord>
+            <chord num="4">D</chord>
+            <chord num="1^7">A7</chord>
+            <chord num="b3">C</chord>
+            <chord num="1^7">A7</chord>
+            <chord num="4sus4">Dsus4</chord>
+            <chord num="4">D</chord>
+            <chord num="1^7">A7</chord>
+            <chord num="b3">C</chord>
+            <chord num="1^7">A7</chord>
+            <chord num="4sus4">Dsus4</chord>
+            <chord num="4">D</chord>
+            <chord num="1^7">A7</chord>
+            <chord num="b3">C</chord>
+            <chord num="1^7">A7</chord>
+            <chord num="4sus4">Dsus4</chord>
+            <chord num="4">D</chord>
+            <chord num="1^7">A7</chord>
+            <chord num="b3">C</chord>
+            <chord num="1^7">A7</chord>
+            <chord num="4sus4">Dsus4</chord>
+            <chord num="4">D</chord>
+            <chord num="1^7">A7</chord>
+            <chord num="b3">C</chord>
+            <chord num="1^7">A7</chord>
+            <chord num="4sus4">Dsus4</chord>
+            <chord num="4">D</chord>
+            <chord num="1^7">A7</chord>
+            <chord num="b3">C</chord>
+            <chord num="1^7">A7</chord>
+            <chord num="4sus4">Dsus4</chord>
+            <chord num="4">D</chord>
+            <chord num="1^7">A7</chord>
+            <chord num="b3">C</chord>
+            <chord num="1^7">A7</chord>
+            <chord num="4sus4">Dsus4</chord>
+            <chord num="4">D</chord>
+            <chord num="1^7">A7</chord>
+            <chord num="b3">C</chord>
+            <chord num="1^7">A7</chord>
+            <chord num="4sus4">Dsus4</chord>
+            <chord num="4">D</chord>
+            <chord num="1^7">A7</chord>
+            <chord num="b3">C</chord>
+            <chord num="1^7">A7</chord>
+            <chord num="4sus4">Dsus4</chord>
+            <chord num="4">D</chord>
+            <chord num="1^7">A7</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Fade Out">
+         <chordLine>
+            <chord num="1^7">A7</chord>
+            <chord num="b3">C</chord>
+            <chord num="1^7">A7</chord>
+            <chord num="4sus4">Dsus4</chord>
+            <chord num="4">D</chord>
+            <chord num="1^7">A7</chord>
+            <chord num="b3">C</chord>
+            <chord num="1^7">A7</chord>
+            <chord num="4sus4">Dsus4</chord>
+            <chord num="4">D</chord>
+            <chord num="1^7">A7</chord>
+            <chord num="b3">C</chord>
+            <chord num="1^7">A7</chord>
+         </chordLine>
+      </section>
+   </music>
+</mei>

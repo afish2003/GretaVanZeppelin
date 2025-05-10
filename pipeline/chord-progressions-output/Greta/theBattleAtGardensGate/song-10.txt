@@ -1,0 +1,48 @@
+Title: The Barbarians
+Album: The Battle of Garden's Gate
+Artist: Greta Van Fleet
+Key: Bb
+
+[Intro]
+  6m, 5, 6m, 5, 6m, 5, 1, b7, 4, 5, 6m, 5, 6m, 5, 6m, 5, 1, b7, 4, 5
+
+[Verse 1]
+  6m, 5, 6m, 5
+  6m, 5, 4, 5
+  6m, 5, 6m, 5
+  6m, 5, 1, b7, 4, 5
+
+[Bridge]
+  2m, 6m, b7, 1, 2m, 6m, b7, 5
+
+[Chorus]
+  5, 6m, 5, 6m, 5, 6m, 1, 2m, 4, 5
+  5, 6m, 5, 6m, 5, 6m, 1, 2m, 1, 5
+  5, 6m, 5, 6m, 5, 6m, 1, 2m, 4, 5
+  5, 6m, 5, 6m, 5, 6m, 1, 2m
+
+[Verse 2]
+  6m, 5, 6m, 5
+  6m, 5, 1, b7, 4, 5
+
+[Bridge]
+  2m, 6m, b7, 1, 2m, 6m, b7, 5
+
+[Chorus]
+  5, 6m, 5, 6m, 5, 6m, 1, 2m, 4, 5
+  5, 6m, 5, 6m, 5, 6m, 1, 2m, 1, 5
+  5, 6m, 5, 6m, 5, 6m, 1, 2m, 4, 5
+  5, 6m, 5, 6m, 5, 6m, 1, 2m
+
+[Middle]
+  b5, 2, b5, 2, b5, 2, b5, 2, b5, 2, b5, 2, b5, 2, b5, 2, 6, 4, 5
+
+[Chorus]
+  5, 6m, 5, 6m, 5, 6m, 1, 2m, 4, 5
+  5, 6m, 5, 6m, 5, 6m, 1, 2m, 1, 5
+  5, 6m, 5, 6m, 5, 6m, 1, 2m, 4, 5
+  5, 6m, 5, 6m, 5, 6m, 1, 2m
+
+[Outro]
+  5, 6m, 5, 6m, 5, 6m
+

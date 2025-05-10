@@ -1,0 +1,63 @@
+Title: Broken Bells
+Album: The Battle of Garden's Gate
+Artist: Greta Van Fleet
+Key: D
+
+[Intro]
+  6m, 1, 2, 4maj7, 6m, 1, 2, 4maj7
+
+[Verse 1]
+  6m, 1
+  2
+  4maj7, 6m, 1
+  2, 4maj7
+
+[Pre-Chorus]
+  1, 5, 4, 4maj7
+  1, 5, 4, 4maj7
+  6m, 5, 4, 4maj7
+  6m, 5, 4, 4maj7
+
+[Chorus]
+  6m, 5, 4
+  6m, 5, 4
+  6m, 5, 4
+  6m, 5, 4
+
+[Bridge]
+  1, 2, 4maj7
+
+[Verse 2]
+  6m, 1
+  2
+  4maj7, 6m, 1
+  2, 4maj7
+
+[Pre-Chorus]
+  1, 5, 4, 4maj7
+  1, 5, 4, 4maj7
+  6m, 5, 4, 4maj7
+  6m, 5, 4, 4maj7
+
+[Chorus]
+  6m, 5, 4
+  6m, 5, 4, 6m
+  5, 4
+  6m, 5, 4
+  6m, 5, 4, 4maj7
+
+[Interlude 1]
+  1, 2/1, 2m/1, 1, 2/1, 2m/1, 1, 2, 4, 1, 2, 4
+
+[Interlude 2]
+  6madd11, 4^6, 6madd11, 4^6, 6madd11, 4^6, 6madd11, 4^6, 6madd11, 4^6, 6madd11, 4^6
+
+[Solo]
+  6madd11, 4^6, 6madd11, 4^6, 6madd11, 4^6, 6madd11, 4^6, 6madd11, 4^6, 6madd11, 4^6, 6madd11, 4^6, 6madd11
+
+[Chorus]
+  4^6, 6m, 5, 4
+  6m, 5, 4, 6m
+  5, 4
+  6m, 5, 4
+

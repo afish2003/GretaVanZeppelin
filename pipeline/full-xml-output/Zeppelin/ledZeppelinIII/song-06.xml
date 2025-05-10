@@ -1,0 +1,769 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mei ixml:state="ambiguous"
+     xmlns:ixml="http://invisiblexml.org/NS">
+   <music>
+      <title>Gallows Pole</title>
+      <album>Led Zeppelin III</album>
+      <artist>Led Zeppelin</artist>
+      <key>A</key>
+      <section type="Intro">
+         <chordLine>
+            <chord num="1^7">A7</chord>
+            <chord num="5m/1">Em/A</chord>
+            <chord num="1^7">A7</chord>
+            <chord num="1m7">Am7</chord>
+            <chord num="5m9/1">Em9/A</chord>
+            <chord num="4add11/1">Dadd11/A</chord>
+            <chord num="1^7">A7</chord>
+            <chord num="5m/1">Em/A</chord>
+            <chord num="1^7">A7</chord>
+            <chord num="1m7">Am7</chord>
+            <chord num="5m9/1">Em9/A</chord>
+            <chord num="4add11/1">Dadd11/A</chord>
+            <chord num="1^7">A7</chord>
+            <chord num="5m/1">Em/A</chord>
+            <chord num="1^7">A7</chord>
+            <chord num="1m7">Am7</chord>
+            <chord num="5m9/1">Em9/A</chord>
+            <chord num="4add11/1">Dadd11/A</chord>
+            <chord num="1^7">A7</chord>
+            <chord num="5m/1">Em/A</chord>
+            <chord num="1^7">A7</chord>
+            <chord num="1m7">Am7</chord>
+            <chord num="5m9/1">Em9/A</chord>
+            <chord num="4add11/1">Dadd11/A</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Verse 1">
+         <chordLine>
+            <chord num="1^7">A7</chord>
+            <chord num="5m/1">Em/A</chord>
+            <chord num="1^7">A7</chord>
+            <chord num="1m7">Am7</chord>
+            <chord num="5m9/1">Em9/A</chord>
+            <chord num="4add11/1">Dadd11/A</chord>
+            <chord num="1^7">A7</chord>
+            <chord num="5m/1">Em/A</chord>
+            <chord num="1^7">A7</chord>
+            <chord num="1m7">Am7</chord>
+            <chord num="5m9/1">Em9/A</chord>
+            <chord num="4add11/1">Dadd11/A</chord>
+            <chord num="1^7">A7</chord>
+            <chord num="5m/1">Em/A</chord>
+            <chord num="1^7">A7</chord>
+            <chord num="1m7">Am7</chord>
+            <chord num="5m9/1">Em9/A</chord>
+            <chord num="4add11/1">Dadd11/A</chord>
+            <chord num="b7">G</chord>
+            <chord num="4">D</chord>
+            <chord num="1^7">A7</chord>
+            <chord num="5m/1">Em/A</chord>
+            <chord num="1^7">A7</chord>
+            <chord num="1m7">Am7</chord>
+            <chord num="5m9/1">Em9/A</chord>
+            <chord num="4add11/1">Dadd11/A</chord>
+            <chord num="1^7">A7</chord>
+            <chord num="5m/1">Em/A</chord>
+            <chord num="1^7">A7</chord>
+            <chord num="1m7">Am7</chord>
+            <chord num="5m9/1">Em9/A</chord>
+            <chord num="4add11/1">Dadd11/A</chord>
+         </chordLine>
+         <lyrics>Hangman, hangman, hold it a little while Think I see my friends coming Riding many a mile</lyrics>
+         <chordLine>
+            <chord num="1^7">A7</chord>
+            <chord num="5m/1">Em/A</chord>
+            <chord num="1^7">A7</chord>
+            <chord num="1m7">Am7</chord>
+            <chord num="5m9/1">Em9/A</chord>
+            <chord num="4add11/1">Dadd11/A</chord>
+            <chord num="1^7">A7</chord>
+            <chord num="5m/1">Em/A</chord>
+            <chord num="1^7">A7</chord>
+            <chord num="1m7">Am7</chord>
+            <chord num="5m9/1">Em9/A</chord>
+            <chord num="4add11/1">Dadd11/A</chord>
+            <chord num="1^7">A7</chord>
+            <chord num="5m/1">Em/A</chord>
+            <chord num="1^7">A7</chord>
+            <chord num="1m7">Am7</chord>
+            <chord num="5m9/1">Em9/A</chord>
+            <chord num="4add11/1">Dadd11/A</chord>
+            <chord num="b7">G</chord>
+            <chord num="4">D</chord>
+            <chord num="1^7">A7</chord>
+            <chord num="5m/1">Em/A</chord>
+            <chord num="1^7">A7</chord>
+            <chord num="1m7">Am7</chord>
+            <chord num="5m9/1">Em9/A</chord>
+            <chord num="4add11/1">Dadd11/A</chord>
+            <chord num="1^7">A7</chord>
+            <chord num="5m/1">Em/A</chord>
+            <chord num="1^7">A7</chord>
+            <chord num="1m7">Am7</chord>
+            <chord num="5m9/1">Em9/A</chord>
+            <chord num="4add11/1">Dadd11/A</chord>
+            <chord num="1^7">A7</chord>
+            <chord num="5m/1">Em/A</chord>
+            <chord num="1^7">A7</chord>
+            <chord num="1m7">Am7</chord>
+            <chord num="5m9/1">Em9/A</chord>
+            <chord num="4add11/1">Dadd11/A</chord>
+            <chord num="1^7">A7</chord>
+            <chord num="5m/1">Em/A</chord>
+            <chord num="1^7">A7</chord>
+            <chord num="1m7">Am7</chord>
+            <chord num="5m9/1">Em9/A</chord>
+            <chord num="4add11/1">Dadd11/A</chord>
+            <chord num="1^7">A7</chord>
+            <chord num="5m/1">Em/A</chord>
+            <chord num="1^7">A7</chord>
+            <chord num="1m7">Am7</chord>
+            <chord num="5m9/1">Em9/A</chord>
+         </chordLine>
+         <lyrics>Friends did you get some silver? Did you get a little gold? What did you bring me my dear friends To keep me from the gallows pole? What did you bring me to keep me from the gallows pole?</lyrics>
+         <chordLine>
+            <chord num="4add11/1">Dadd11/A</chord>
+            <chord num="1^7">A7</chord>
+            <chord num="5m/1">Em/A</chord>
+            <chord num="1^7">A7</chord>
+            <chord num="1m7">Am7</chord>
+            <chord num="5m9/1">Em9/A</chord>
+            <chord num="4add11/1">Dadd11/A</chord>
+            <chord num="1^7">A7</chord>
+            <chord num="5m/1">Em/A</chord>
+            <chord num="1^7">A7</chord>
+            <chord num="1m7">Am7</chord>
+            <chord num="5m9/1">Em9/A</chord>
+            <chord num="4add11/1">Dadd11/A</chord>
+            <chord num="1^7">A7</chord>
+            <chord num="5m/1">Em/A</chord>
+            <chord num="1^7">A7</chord>
+            <chord num="1m7">Am7</chord>
+            <chord num="5m9/1">Em9/A</chord>
+         </chordLine>
+         <lyrics>I couldn't get no silver, I couldn't get no gold You know that we're too damn poor</lyrics>
+         <chordLine>
+            <chord num="4add11/1">Dadd11/A</chord>
+            <chord num="b7">G</chord>
+            <chord num="4">D</chord>
+            <chord num="1^7">A7</chord>
+            <chord num="5m/1">Em/A</chord>
+            <chord num="1^7">A7</chord>
+            <chord num="1m7">Am7</chord>
+            <chord num="5m9/1">Em9/A</chord>
+            <chord num="4add11/1">Dadd11/A</chord>
+            <chord num="1^7">A7</chord>
+            <chord num="5m/1">Em/A</chord>
+            <chord num="1^7">A7</chord>
+            <chord num="1m7">Am7</chord>
+         </chordLine>
+         <lyrics>To keep you from the gallows pole</lyrics>
+      </section>
+      <section type="Bridge">
+         <chordLine>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="4">D</chord>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+            <chord num="4">D</chord>
+            <chord num="b7">G</chord>
+         </chordLine>
+         <lyrics>Hangman, hangman, hold it a little while</lyrics>
+         <chordLine>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="4">D</chord>
+            <chord num="b7">G</chord>
+         </chordLine>
+         <lyrics>I think I see my brother coming</lyrics>
+         <chordLine>
+            <chord num="b7">G</chord>
+            <chord num="4">D</chord>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+         </chordLine>
+         <lyrics>Riding a many mile</lyrics>
+         <chordLine>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Verse 2">
+         <chordLine>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+         </chordLine>
+         <lyrics>Brother, did you get me some silver?</lyrics>
+         <chordLine>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+         </chordLine>
+         <lyrics>Did you get a little gold?</lyrics>
+         <chordLine>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+         </chordLine>
+         <lyrics>What did you bring me, my brother</lyrics>
+         <chordLine>
+            <chord num="b7">G</chord>
+            <chord num="4">D</chord>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+         </chordLine>
+         <lyrics>To keep me from the gallows pole?</lyrics>
+         <chordLine>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+         </chordLine>
+         <lyrics>Brother, I brought you some silver</lyrics>
+         <chordLine>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+         </chordLine>
+         <lyrics>I brought a little gold,</lyrics>
+         <chordLine>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+         </chordLine>
+         <lyrics>I brought a little of everything</lyrics>
+         <chordLine>
+            <chord num="b7">G</chord>
+            <chord num="4">D</chord>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+         </chordLine>
+         <lyrics>To keep you from the gallows pole</lyrics>
+         <chordLine>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+            <chord num="b3">C</chord>
+            <chord num="4">D</chord>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+         </chordLine>
+         <lyrics>Yes, I brought you to keep you from the gallows pole</lyrics>
+         <chordLine>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Pre-Verse">
+         <chordLine>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="4">D</chord>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+            <chord num="4">D</chord>
+            <chord num="b7">G</chord>
+         </chordLine>
+         <lyrics>Hangman, hangman, turn your head awhile</lyrics>
+         <chordLine>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="4">D</chord>
+            <chord num="b7">G</chord>
+         </chordLine>
+         <lyrics>I think I see my sister coming</lyrics>
+         <chordLine>
+            <chord num="b7">G</chord>
+            <chord num="4">D</chord>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+         </chordLine>
+         <lyrics>Riding a many mile, mile, mile</lyrics>
+      </section>
+      <section type="Verse 3">
+         <chordLine>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+         </chordLine>
+         <lyrics>Sister, I implore you, take him by the hand</lyrics>
+         <chordLine>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+         </chordLine>
+         <lyrics>Take him to some shady bower</lyrics>
+         <chordLine>
+            <chord num="b7">G</chord>
+            <chord num="4">D</chord>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+         </chordLine>
+         <lyrics>Save me from the wrath of this man</lyrics>
+         <chordLine>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+         </chordLine>
+         <lyrics>Please take him</lyrics>
+         <chordLine>
+            <chord num="b7">G</chord>
+            <chord num="4">D</chord>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+         </chordLine>
+         <lyrics>Save me from the wrath of this man, man</lyrics>
+      </section>
+      <section type="Pre-Verse">
+         <chordLine>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="4">D</chord>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+            <chord num="4">D</chord>
+            <chord num="b7">G</chord>
+         </chordLine>
+         <lyrics>Hangman, hangman, upon your face a smile</lyrics>
+         <chordLine>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="4">D</chord>
+            <chord num="b7">G</chord>
+         </chordLine>
+         <lyrics>Pray tell me that I'm free to ride</lyrics>
+         <chordLine>
+            <chord num="b7">G</chord>
+            <chord num="4">D</chord>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+         </chordLine>
+         <lyrics>Ride for many mile, mile, mile</lyrics>
+      </section>
+      <section type="Verse 4">
+         <chordLine>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+         </chordLine>
+         <lyrics>Oh, yes, you got a fine sister</lyrics>
+         <chordLine>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+         </chordLine>
+         <lyrics>She warmed my blood from cold</lyrics>
+         <chordLine>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+         </chordLine>
+         <lyrics>She brought my blood to boiling hot</lyrics>
+         <chordLine>
+            <chord num="b7">G</chord>
+            <chord num="4">D</chord>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+         </chordLine>
+         <lyrics>To keep you from the gallows pole, pole, pole, pole, yeah</lyrics>
+         <chordLine>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+         </chordLine>
+         <lyrics>Your brother brought me silver</lyrics>
+         <chordLine>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+         </chordLine>
+         <lyrics>Your sister warmed my soul</lyrics>
+         <chordLine>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+         </chordLine>
+         <lyrics>But now I laugh and pull so hard</lyrics>
+         <chordLine>
+            <chord num="b7">G</chord>
+            <chord num="4">D</chord>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+         </chordLine>
+         <lyrics>And see you swinging on the gallows pole, yeah But now I laugh and pull so hard</lyrics>
+         <chordLine>
+            <chord num="b7">G</chord>
+            <chord num="4">D</chord>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+         </chordLine>
+         <lyrics>And see you swinging on the gallows pole, pole, pole</lyrics>
+      </section>
+      <section type="Bridge">
+         <chordLine>
+            <chord num="b7">G</chord>
+            <chord num="4">D</chord>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="4">D</chord>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="4">D</chord>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="4">D</chord>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+         </chordLine>
+         <lyrics>Swingin' on the gallows pole Swingin' on the gallows pole Swingin' on the gallows pole</lyrics>
+         <chordLine>
+            <chord num="b7">G</chord>
+            <chord num="4">D</chord>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="4">D</chord>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="4">D</chord>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="4">D</chord>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="4">D</chord>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="4">D</chord>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+         </chordLine>
+         <lyrics>Swingin' on the gallows pole, pole, pole, pole, pole, pole, pole, pole, pole, pole pole</lyrics>
+      </section>
+      <section type="Guitar Solo">
+         <chordLine>
+            <chord num="b7">G</chord>
+            <chord num="4">D</chord>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="4">D</chord>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="4">D</chord>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="4">D</chord>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="4">D</chord>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="4">D</chord>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="4">D</chord>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="4">D</chord>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="4">D</chord>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="4">D</chord>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="4">D</chord>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="4">D</chord>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="4">D</chord>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="4">D</chord>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="4">D</chord>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="4">D</chord>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="4">D</chord>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="4">D</chord>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="4">D</chord>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="4">D</chord>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="4">D</chord>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Outro (Fade Out)">
+         <chordLine>
+            <chord num="b7">G</chord>
+            <chord num="4">D</chord>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="4">D</chord>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="4">D</chord>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="4">D</chord>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="4">D</chord>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="4">D</chord>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="4">D</chord>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="4">D</chord>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="4">D</chord>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="4">D</chord>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="4">D</chord>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="4">D</chord>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="4">D</chord>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="4">D</chord>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="4">D</chord>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="1">A</chord>
+         </chordLine>
+      </section>
+   </music>
+</mei>

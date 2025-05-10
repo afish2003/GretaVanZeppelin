@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mei ixml:state="ambiguous"
+     xmlns:ixml="http://invisiblexml.org/NS">
+   <music>
+      <title>Edge of Darkness</title>
+      <album>From the Fires</album>
+      <artist>Greta Van Fleet</artist>
+      <key>A</key>
+      <section type="Intro">
+         <chordLine>
+            <chord num="6m">F#m</chord>
+            <chord num="1">A</chord>
+            <chord num="4">D</chord>
+            <chord num="6m">F#m</chord>
+            <chord num="1">A</chord>
+            <chord num="4">D</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Bridge 1">
+         <chordLine>
+            <chord num="6m">F#m</chord>
+            <chord num="1">A</chord>
+            <chord num="4">D</chord>
+            <chord num="6m">F#m</chord>
+            <chord num="1">A</chord>
+            <chord num="4">D</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Verse 1">
+         <chordLine>
+            <chord num="6m">F#m</chord>
+            <chord num="1">A</chord>
+            <chord num="4">D</chord>
+         </chordLine>
+         <lyrics>Every day's a new day</lyrics>
+         <chordLine>
+            <chord num="6m">F#m</chord>
+            <chord num="1">A</chord>
+            <chord num="4">D</chord>
+         </chordLine>
+         <lyrics>Every way's a new way</lyrics>
+         <chordLine>
+            <chord num="6m">F#m</chord>
+            <chord num="1">A</chord>
+            <chord num="4">D</chord>
+         </chordLine>
+         <lyrics>On the edge of darkness</lyrics>
+         <chordLine>
+            <chord num="6m">F#m</chord>
+            <chord num="1">A</chord>
+            <chord num="4">D</chord>
+         </chordLine>
+         <lyrics>Finding out what it means to love</lyrics>
+      </section>
+      <section type="Pre-Chorus">
+         <chordLine>
+            <chord num="5">E</chord>
+            <chord num="4">D</chord>
+         </chordLine>
+         <lyrics>And to think we've found the time</lyrics>
+      </section>
+      <section type="Chorus">
+         <chordLine>
+            <chord num="1">A</chord>
+         </chordLine>
+         <lyrics>All my brothers we stand</lyrics>
+         <chordLine>
+            <chord num="b7">G</chord>
+         </chordLine>
+         <lyrics>For the peace of the land</lyrics>
+         <chordLine>
+            <chord num="4">D</chord>
+         </chordLine>
+         <lyrics>Is there meaning</lyrics>
+         <chordLine>
+            <chord num="1">A</chord>
+         </chordLine>
+         <lyrics>I've got love in my heart</lyrics>
+         <chordLine>
+            <chord num="b7">G</chord>
+         </chordLine>
+         <lyrics>For an army apart</lyrics>
+         <chordLine>
+            <chord num="4">D</chord>
+         </chordLine>
+         <lyrics>I am bleeding</lyrics>
+         <chordLine>
+            <chord num="1">A</chord>
+         </chordLine>
+         <lyrics>All my brothers we stand</lyrics>
+         <chordLine>
+            <chord num="b7">G</chord>
+         </chordLine>
+         <lyrics>For the peace of the land</lyrics>
+         <chordLine>
+            <chord num="4">D</chord>
+         </chordLine>
+         <lyrics>Is there meaning</lyrics>
+         <chordLine>
+            <chord num="1">A</chord>
+         </chordLine>
+         <lyrics>I've got love in my heart</lyrics>
+         <chordLine>
+            <chord num="b7">G</chord>
+         </chordLine>
+         <lyrics>For an army apart</lyrics>
+         <chordLine>
+            <chord num="4">D</chord>
+         </chordLine>
+         <lyrics>I am bleeding</lyrics>
+      </section>
+      <section type="Bridge 2">
+         <chordLine>
+            <chord num="6m">F#m</chord>
+            <chord num="1">A</chord>
+            <chord num="4">D</chord>
+            <chord num="6m">F#m</chord>
+            <chord num="1">A</chord>
+            <chord num="4">D</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Verse 2">
+         <chordLine>
+            <chord num="6m">F#m</chord>
+            <chord num="1">A</chord>
+            <chord num="4">D</chord>
+         </chordLine>
+         <lyrics>Always searching for love</lyrics>
+         <chordLine>
+            <chord num="6m">F#m</chord>
+            <chord num="1">A</chord>
+            <chord num="4">D</chord>
+         </chordLine>
+         <lyrics>Always searching for light</lyrics>
+         <chordLine>
+            <chord num="6m">F#m</chord>
+            <chord num="1">A</chord>
+            <chord num="4">D</chord>
+         </chordLine>
+         <lyrics>What the world is made of</lyrics>
+         <chordLine>
+            <chord num="6m">F#m</chord>
+            <chord num="1">A</chord>
+            <chord num="4">D</chord>
+         </chordLine>
+         <lyrics>When I'm thinking it's right</lyrics>
+      </section>
+      <section type="Pre-Chorus">
+         <chordLine>
+            <chord num="5">E</chord>
+            <chord num="4">D</chord>
+         </chordLine>
+         <lyrics>And to think we've found the time</lyrics>
+      </section>
+      <section type="Chorus">
+         <chordLine>
+            <chord num="1">A</chord>
+         </chordLine>
+         <lyrics>All my brothers we stand</lyrics>
+         <chordLine>
+            <chord num="b7">G</chord>
+         </chordLine>
+         <lyrics>For the peace of the land</lyrics>
+         <chordLine>
+            <chord num="4">D</chord>
+         </chordLine>
+         <lyrics>Is there meaning</lyrics>
+         <chordLine>
+            <chord num="1">A</chord>
+         </chordLine>
+         <lyrics>I've got love in my heart</lyrics>
+         <chordLine>
+            <chord num="b7">G</chord>
+         </chordLine>
+         <lyrics>For an army apart</lyrics>
+         <chordLine>
+            <chord num="4">D</chord>
+         </chordLine>
+         <lyrics>I am bleeding</lyrics>
+         <chordLine>
+            <chord num="1">A</chord>
+         </chordLine>
+         <lyrics>All my brothers we stand</lyrics>
+         <chordLine>
+            <chord num="b7">G</chord>
+         </chordLine>
+         <lyrics>For the peace of the land</lyrics>
+         <chordLine>
+            <chord num="4">D</chord>
+         </chordLine>
+         <lyrics>Is there meaning</lyrics>
+         <chordLine>
+            <chord num="1">A</chord>
+         </chordLine>
+         <lyrics>I've got love in my heart</lyrics>
+         <chordLine>
+            <chord num="b7">G</chord>
+         </chordLine>
+         <lyrics>For an army apart</lyrics>
+         <chordLine>
+            <chord num="4">D</chord>
+         </chordLine>
+         <lyrics>I am bleeding</lyrics>
+      </section>
+      <section type="Interlude">
+         <chordLine>
+            <chord num="6m">F#m</chord>
+            <chord num="5">E</chord>
+            <chord num="6m">F#m</chord>
+            <chord num="5">E</chord>
+            <chord num="6m">F#m</chord>
+            <chord num="5">E</chord>
+            <chord num="6m">F#m</chord>
+            <chord num="5">E</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Chorus">
+         <chordLine>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="4">D</chord>
+            <chord num="1">A</chord>
+         </chordLine>
+         <lyrics>I've got love in my heart</lyrics>
+         <chordLine>
+            <chord num="b7">G</chord>
+         </chordLine>
+         <lyrics>For an army apart</lyrics>
+         <chordLine>
+            <chord num="4">D</chord>
+         </chordLine>
+         <lyrics>I am bleeding</lyrics>
+         <chordLine>
+            <chord num="1">A</chord>
+         </chordLine>
+         <lyrics>All my brothers we stand</lyrics>
+         <chordLine>
+            <chord num="b7">G</chord>
+         </chordLine>
+         <lyrics>For the peace of the land</lyrics>
+         <chordLine>
+            <chord num="4">D</chord>
+         </chordLine>
+         <lyrics>Is there meaning</lyrics>
+         <chordLine>
+            <chord num="1">A</chord>
+         </chordLine>
+         <lyrics>I've got love in my heart</lyrics>
+         <chordLine>
+            <chord num="b7">G</chord>
+         </chordLine>
+         <lyrics>For an army apart</lyrics>
+         <chordLine>
+            <chord num="4">D</chord>
+         </chordLine>
+         <lyrics>I am bleeding</lyrics>
+      </section>
+      <section type="Outro">
+         <chordLine>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="4">D</chord>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="4">D</chord>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="4">D</chord>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="4">D</chord>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="4">D</chord>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="4">D</chord>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="4">D</chord>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="4">D</chord>
+         </chordLine>
+         <lyrics>I'am bleeding</lyrics>
+      </section>
+   </music>
+</mei>

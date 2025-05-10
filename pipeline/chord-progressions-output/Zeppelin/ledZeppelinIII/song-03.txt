@@ -1,0 +1,38 @@
+Title: Celebration Day
+Album: Led Zeppelin III
+Artist: Led Zeppelin
+Key: A
+
+[Intro]
+  b7^7, 7^7, 1^7
+
+[Main Riff]
+  1^5
+
+[Verse 1]
+  1^5
+
+[Chorus]
+  1^5, b7^5, b2^5, b6^5
+  1^5, b7^5, b2^5, b6^5, 5^5
+
+[Verse 2]
+  1^5
+  1^5, 1^5, 1^5
+  1^5, 1^5, 1^5, 1^5
+
+[Chorus]
+  1^5, b7^5, b2^5, b6^5
+  1^5, b7^5, b2^5, b6^5, 5^5
+
+[Guitar Solo 1]
+  1^5, b7^5, b2^5, b6^5, 1^5, b7^5, b2^5
+
+[Verse 3]
+  b6^5, 5^5, 1^5
+  1^5, 1^5, 1^5
+  1^5, 1^5, 1^5, 1^5, 1^5
+
+[Outro]
+  1^5
+

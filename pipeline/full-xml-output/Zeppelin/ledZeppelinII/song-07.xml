@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mei ixml:state="ambiguous"
+     xmlns:ixml="http://invisiblexml.org/NS">
+   <music>
+      <title>Ramble On</title>
+      <album>Led Zeppelin II</album>
+      <artist>Led Zeppelin</artist>
+      <key>E</key>
+      <section type="Intro">
+         <chordLine>
+            <chord num="1">E</chord>
+            <chord num="b7/1">D/E</chord>
+            <chord num="2m7">F#m7</chord>
+            <chord num="4">A</chord>
+            <chord num="4sus4">Asus4</chord>
+            <chord num="4">A</chord>
+            <chord num="1">E</chord>
+            <chord num="b7/1">D/E</chord>
+            <chord num="2m7">F#m7</chord>
+            <chord num="4">A</chord>
+            <chord num="4sus4">Asus4</chord>
+            <chord num="4">A</chord>
+            <chord num="1">E</chord>
+            <chord num="b7/1">D/E</chord>
+            <chord num="2m7">F#m7</chord>
+            <chord num="4">A</chord>
+            <chord num="4sus4">Asus4</chord>
+            <chord num="4">A</chord>
+            <chord num="1">E</chord>
+            <chord num="b7/1">D/E</chord>
+            <chord num="2m7">F#m7</chord>
+            <chord num="4">A</chord>
+            <chord num="4sus4">Asus4</chord>
+            <chord num="4">A</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Verse 1">
+         <chordLine>
+            <chord num="1">E</chord>
+            <chord num="b7/1">D/E</chord>
+            <chord num="2m7">F#m7</chord>
+            <chord num="4">A</chord>
+            <chord num="4sus4">Asus4</chord>
+            <chord num="4">A</chord>
+            <chord num="1">E</chord>
+            <chord num="b7/1">D/E</chord>
+            <chord num="2m7">F#m7</chord>
+         </chordLine>
+         <lyrics>Leaves are falling all around. Time I was on my way.</lyrics>
+         <chordLine>
+            <chord num="4">A</chord>
+            <chord num="4sus4">Asus4</chord>
+            <chord num="4">A</chord>
+            <chord num="1">E</chord>
+            <chord num="b7/1">D/E</chord>
+            <chord num="2m7">F#m7</chord>
+            <chord num="4">A</chord>
+            <chord num="4sus4">Asus4</chord>
+            <chord num="4">A</chord>
+            <chord num="1">E</chord>
+            <chord num="b7/1">D/E</chord>
+            <chord num="2m7">F#m7</chord>
+            <chord num="4">A</chord>
+            <chord num="4sus4">Asus4</chord>
+            <chord num="4">A</chord>
+         </chordLine>
+         <lyrics>Thanks to you, I'm much obliged for such a pleasant stay, But</lyrics>
+         <chordLine>
+            <chord num="1">E</chord>
+            <chord num="b7/1">D/E</chord>
+            <chord num="2m7">F#m7</chord>
+            <chord num="4">A</chord>
+            <chord num="4sus4">Asus4</chord>
+            <chord num="4">A</chord>
+         </chordLine>
+         <lyrics>now it's time for me to go.</lyrics>
+         <chordLine>
+            <chord num="1">E</chord>
+            <chord num="b7/1">D/E</chord>
+            <chord num="2m7">F#m7</chord>
+            <chord num="4">A</chord>
+            <chord num="4sus4">Asus4</chord>
+            <chord num="4">A</chord>
+         </chordLine>
+         <lyrics>The autumn moon lights my way.</lyrics>
+         <chordLine>
+            <chord num="1">E</chord>
+            <chord num="b7/1">D/E</chord>
+            <chord num="2m7">F#m7</chord>
+            <chord num="4">A</chord>
+            <chord num="4sus4">Asus4</chord>
+            <chord num="4">A</chord>
+            <chord num="1">E</chord>
+            <chord num="b7/1">D/E</chord>
+            <chord num="2m7">F#m7</chord>
+         </chordLine>
+         <lyrics>For now I smell the rain, and with it pain, and it's headed my way.</lyrics>
+         <chordLine>
+            <chord num="4">A</chord>
+            <chord num="4sus4">Asus4</chord>
+            <chord num="4">A</chord>
+            <chord num="5/1">B/E</chord>
+            <chord num="2m7">F#m7</chord>
+            <chord num="5sus2/3">Bsus2/G#</chord>
+            <chord num="4sus4">Asus4</chord>
+            <chord num="4/6">A/C#</chord>
+            <chord num="5sus2/1">Bsus2/E</chord>
+            <chord num="5/1">B/E</chord>
+            <chord num="2m7">F#m7</chord>
+            <chord num="5sus2/3">Bsus2/G#</chord>
+            <chord num="4sus4">Asus4</chord>
+            <chord num="4/6">A/C#</chord>
+            <chord num="5sus2/1">Bsus2/E</chord>
+         </chordLine>
+         <lyrics>Ah, sometimes I grow so tired, but I know one thing I got to do.</lyrics>
+      </section>
+      <section type="Chorus">
+         <chordLine>
+            <chord num="1">E</chord>
+         </chordLine>
+         <lyrics>Ramble on.</lyrics>
+         <chordLine>
+            <chord num="4^7">A7</chord>
+            <chord num="4^7sus4">A7sus4</chord>
+            <chord num="2m">F#m</chord>
+         </chordLine>
+         <lyrics>And now's the time, the time is now.</lyrics>
+         <chordLine>
+            <chord num="1">E</chord>
+         </chordLine>
+         <lyrics>Sing my song.</lyrics>
+         <chordLine>
+            <chord num="4^7">A7</chord>
+            <chord num="4^7sus4">A7sus4</chord>
+            <chord num="2m">F#m</chord>
+         </chordLine>
+         <lyrics>I'm goin' 'round the world, I got to find my girl.</lyrics>
+         <chordLine>
+            <chord num="1">E</chord>
+         </chordLine>
+         <lyrics>On my way.</lyrics>
+         <chordLine>
+            <chord num="4^7">A7</chord>
+            <chord num="4^7sus4">A7sus4</chord>
+            <chord num="2m">F#m</chord>
+         </chordLine>
+         <lyrics>I've been this way ten years to the day.</lyrics>
+         <chordLine>
+            <chord num="1">E</chord>
+         </chordLine>
+         <lyrics>Ramble on.</lyrics>
+         <chordLine>
+            <chord num="4^7">A7</chord>
+            <chord num="4^7sus4">A7sus4</chord>
+            <chord num="2m">F#m</chord>
+         </chordLine>
+         <lyrics>To find the queen of all my dreams.</lyrics>
+      </section>
+      <section type="Verse 2">
+         <chordLine>
+            <chord num="1">E</chord>
+            <chord num="b7/1">D/E</chord>
+            <chord num="2m7">F#m7</chord>
+            <chord num="4">A</chord>
+            <chord num="4sus4">Asus4</chord>
+            <chord num="4">A</chord>
+            <chord num="1">E</chord>
+            <chord num="b7/1">D/E</chord>
+            <chord num="2m7">F#m7</chord>
+         </chordLine>
+         <lyrics>Got no time for spreadin' roots. The time has come to be gone.</lyrics>
+         <chordLine>
+            <chord num="4">A</chord>
+            <chord num="4sus4">Asus4</chord>
+            <chord num="4">A</chord>
+            <chord num="1">E</chord>
+            <chord num="b7/1">D/E</chord>
+            <chord num="2m7">F#m7</chord>
+            <chord num="4">A</chord>
+            <chord num="4sus4">Asus4</chord>
+            <chord num="4">A</chord>
+            <chord num="1">E</chord>
+            <chord num="b7/1">D/E</chord>
+            <chord num="2m7">F#m7</chord>
+         </chordLine>
+         <lyrics>And to our health we drank a thousand times, it's time to ramble on.</lyrics>
+         <chordLine>
+            <chord num="4">A</chord>
+            <chord num="4sus4">Asus4</chord>
+            <chord num="4">A</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Solo">
+         <chordLine>
+            <chord num="1">E</chord>
+            <chord num="b7/1">D/E</chord>
+            <chord num="2m7">F#m7</chord>
+            <chord num="4">A</chord>
+            <chord num="4sus4">Asus4</chord>
+            <chord num="4">A</chord>
+            <chord num="1">E</chord>
+            <chord num="b7/1">D/E</chord>
+            <chord num="2m7">F#m7</chord>
+            <chord num="4">A</chord>
+            <chord num="4sus4">Asus4</chord>
+            <chord num="4">A</chord>
+            <chord num="1">E</chord>
+            <chord num="b7/1">D/E</chord>
+            <chord num="2m7">F#m7</chord>
+            <chord num="4">A</chord>
+            <chord num="4sus4">Asus4</chord>
+            <chord num="4">A</chord>
+            <chord num="1">E</chord>
+            <chord num="b7/1">D/E</chord>
+            <chord num="2m7">F#m7</chord>
+            <chord num="4">A</chord>
+            <chord num="4sus4">Asus4</chord>
+            <chord num="4">A</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Chorus">
+         <chordLine>
+            <chord num="1">E</chord>
+         </chordLine>
+         <lyrics>Ramble on.</lyrics>
+         <chordLine>
+            <chord num="4^7">A7</chord>
+            <chord num="4^7sus4">A7sus4</chord>
+            <chord num="2m">F#m</chord>
+         </chordLine>
+         <lyrics>And now's the time, the time is now.</lyrics>
+         <chordLine>
+            <chord num="1">E</chord>
+         </chordLine>
+         <lyrics>Sing my song.</lyrics>
+         <chordLine>
+            <chord num="4^7">A7</chord>
+            <chord num="4^7sus4">A7sus4</chord>
+            <chord num="2m">F#m</chord>
+         </chordLine>
+         <lyrics>I'm goin' 'round the world, I got to find my girl.</lyrics>
+         <chordLine>
+            <chord num="1">E</chord>
+         </chordLine>
+         <lyrics>On my way.</lyrics>
+         <chordLine>
+            <chord num="4^7">A7</chord>
+            <chord num="4^7sus4">A7sus4</chord>
+            <chord num="2m">F#m</chord>
+         </chordLine>
+         <lyrics>I've been this way ten years to the day. I've got to</lyrics>
+         <chordLine>
+            <chord num="1">E</chord>
+         </chordLine>
+         <lyrics>Ramble on.</lyrics>
+         <chordLine>
+            <chord num="4^7">A7</chord>
+            <chord num="4^7sus4">A7sus4</chord>
+            <chord num="2m">F#m</chord>
+         </chordLine>
+         <lyrics>I've got to find the queen of all my dreams.</lyrics>
+         <chordLine>
+            <chord num="4">A</chord>
+            <chord num="b3">G</chord>
+            <chord num="4">A</chord>
+            <chord num="b3">G</chord>
+            <chord num="4">A</chord>
+            <chord num="b3">G</chord>
+            <chord num="4">A</chord>
+            <chord num="b3">G</chord>
+         </chordLine>
+         <lyrics>I tell you no lies.</lyrics>
+      </section>
+      <section type="Verse 3">
+         <chordLine>
+            <chord num="1">E</chord>
+            <chord num="b7/1">D/E</chord>
+            <chord num="2m7">F#m7</chord>
+            <chord num="4">A</chord>
+            <chord num="4sus4">Asus4</chord>
+            <chord num="4">A</chord>
+            <chord num="1">E</chord>
+            <chord num="b7/1">D/E</chord>
+            <chord num="2m7">F#m7</chord>
+         </chordLine>
+         <lyrics>Mine's a tale that can't be told, my freedom I hold dear.</lyrics>
+         <chordLine>
+            <chord num="4">A</chord>
+            <chord num="4sus4">Asus4</chord>
+            <chord num="4">A</chord>
+            <chord num="1">E</chord>
+            <chord num="b7/1">D/E</chord>
+            <chord num="2m7">F#m7</chord>
+            <chord num="4">A</chord>
+            <chord num="4sus4">Asus4</chord>
+            <chord num="4">A</chord>
+            <chord num="1">E</chord>
+            <chord num="b7/1">D/E</chord>
+            <chord num="2m7">F#m7</chord>
+            <chord num="4">A</chord>
+            <chord num="4sus4">Asus4</chord>
+            <chord num="4">A</chord>
+            <chord num="1">E</chord>
+            <chord num="b7/1">D/E</chord>
+            <chord num="2m7">F#m7</chord>
+            <chord num="4">A</chord>
+            <chord num="4sus4">Asus4</chord>
+            <chord num="4">A</chord>
+            <chord num="1">E</chord>
+            <chord num="b7/1">D/E</chord>
+            <chord num="2m7">F#m7</chord>
+         </chordLine>
+         <lyrics>How years ago in days of old, when magic filled the air. T'was in the darkest depths of Mordor, I met a girl so fair.</lyrics>
+         <chordLine>
+            <chord num="4">A</chord>
+            <chord num="4sus4">Asus4</chord>
+            <chord num="4">A</chord>
+            <chord num="1">E</chord>
+            <chord num="b7/1">D/E</chord>
+            <chord num="2m7">F#m7</chord>
+            <chord num="4">A</chord>
+            <chord num="4sus4">Asus4</chord>
+            <chord num="4">A</chord>
+            <chord num="1">E</chord>
+            <chord num="b7/1">D/E</chord>
+            <chord num="2m7">F#m7</chord>
+            <chord num="4">A</chord>
+            <chord num="4sus4">Asus4</chord>
+            <chord num="4">A</chord>
+            <chord num="5/1">B/E</chord>
+            <chord num="2m7">F#m7</chord>
+            <chord num="5sus2/3">Bsus2/G#</chord>
+            <chord num="4sus4">Asus4</chord>
+            <chord num="4/6">A/C#</chord>
+            <chord num="5sus2/1">Bsus2/E</chord>
+            <chord num="5/1">B/E</chord>
+            <chord num="2m7">F#m7</chord>
+         </chordLine>
+         <lyrics>But Gollum and the evil one crept up and slipped away with her, her, her, yeah. And there's nothing I can do no.</lyrics>
+         <chordLine>
+            <chord num="5sus2/3">Bsus2/G#</chord>
+            <chord num="4sus4">Asus4</chord>
+            <chord num="4/6">A/C#</chord>
+            <chord num="5sus2/1">Bsus2/E</chord>
+         </chordLine>
+         <lyrics>I guess I'll keep on</lyrics>
+      </section>
+      <section type="Chorus">
+         <chordLine>
+            <chord num="1">E</chord>
+         </chordLine>
+         <lyrics>Rambling.</lyrics>
+         <chordLine>
+            <chord num="4^7">A7</chord>
+            <chord num="4^7sus4">A7sus4</chord>
+            <chord num="2m">F#m</chord>
+            <chord num="1">E</chord>
+         </chordLine>
+         <lyrics>I'm gonna sing yeah. I gotta find my baby.</lyrics>
+         <chordLine>
+            <chord num="4^7">A7</chord>
+            <chord num="4^7sus4">A7sus4</chord>
+            <chord num="2m">F#m</chord>
+            <chord num="1">E</chord>
+            <chord num="4^7">A7</chord>
+            <chord num="4^7sus4">A7sus4</chord>
+            <chord num="2m">F#m</chord>
+         </chordLine>
+         <lyrics>I'm gonna ramble on, sing my song, gonna work my way, go around the world.</lyrics>
+         <chordLine>
+            <chord num="1">E</chord>
+         </chordLine>
+         <lyrics>Baby, baby.</lyrics>
+         <chordLine>
+            <chord num="4^7">A7</chord>
+            <chord num="4^7sus4">A7sus4</chord>
+            <chord num="2m">F#m</chord>
+            <chord num="1">E</chord>
+         </chordLine>
+         <lyrics>A do, do, do, do, do my baby.</lyrics>
+         <chordLine>
+            <chord num="4^7">A7</chord>
+            <chord num="4^7sus4">A7sus4</chord>
+            <chord num="2m">F#m</chord>
+            <chord num="1">E</chord>
+            <chord num="4^7">A7</chord>
+            <chord num="4^7sus4">A7sus4</chord>
+            <chord num="2m">F#m</chord>
+         </chordLine>
+         <lyrics>A do, do do, do, do, do, do, do, do, do, do, do, do, do, do, do babe.</lyrics>
+         <chordLine>
+            <chord num="1">E</chord>
+         </chordLine>
+         <lyrics>Gonna keep searching for my baby.</lyrics>
+         <chordLine>
+            <chord num="4^7">A7</chord>
+            <chord num="4^7sus4">A7sus4</chord>
+            <chord num="2m">F#m</chord>
+            <chord num="1">E</chord>
+            <chord num="4^7">A7</chord>
+            <chord num="4^7sus4">A7sus4</chord>
+            <chord num="2m">F#m</chord>
+         </chordLine>
+      </section>
+   </music>
+</mei>

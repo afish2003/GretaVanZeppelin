@@ -1,0 +1,43 @@
+Title: I Can't Quit You Baby
+Album: Led Zeppelin
+Artist: Led Zeppelin
+Key: A
+
+[Verse 1]
+  1
+  4, 1
+  4
+  1
+  5
+  4, 1
+
+[Bridge]
+  b2
+  1, b2
+
+[Verse 2]
+  1
+  4, 1
+  4
+  1
+  5
+  4, 1
+
+[Bridge]
+  b2, 1, b2
+
+[Solo]
+  1, 4, 1, 4, 1, 5, 4, 1, b2, 1, b2, 1, 4, 1, 5, 4, 1, b2, 1, b2
+
+[Verse 3]
+  1
+  4, 1
+  4
+  1
+  5
+  4, 1
+
+[Outro]
+  b2
+  1, b2, 1, b2
+

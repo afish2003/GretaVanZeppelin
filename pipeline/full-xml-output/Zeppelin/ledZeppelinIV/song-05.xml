@@ -1,0 +1,486 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mei ixml:state="ambiguous"
+     xmlns:ixml="http://invisiblexml.org/NS">
+   <music>
+      <title>Misty Mountain Hop</title>
+      <album>Led Zeppelin IV</album>
+      <artist>Led Zeppelin</artist>
+      <key>A</key>
+      <section type="Intro">
+         <chordLine>
+            <chord num="b7^5">G5</chord>
+            <chord num="5^5">E5</chord>
+            <chord num="1^5">A5</chord>
+            <chord num="b7^5">G5</chord>
+            <chord num="5^5">E5</chord>
+            <chord num="1^5">A5</chord>
+            <chord num="b7^5">G5</chord>
+            <chord num="5^5">E5</chord>
+            <chord num="1^5">A5</chord>
+            <chord num="b7^5">G5</chord>
+            <chord num="5^5">E5</chord>
+            <chord num="1^5">A5</chord>
+            <chord num="b7^5">G5</chord>
+            <chord num="5^5">E5</chord>
+            <chord num="1^5">A5</chord>
+            <chord num="b7^5">G5</chord>
+            <chord num="5^5">E5</chord>
+            <chord num="1^5">A5</chord>
+            <chord num="b7^5">G5</chord>
+            <chord num="5^5">E5</chord>
+            <chord num="1^5">A5</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Verse 1">
+         <chordLine>
+            <chord num="b7^5">G5</chord>
+            <chord num="5^5">E5</chord>
+            <chord num="1^5">A5</chord>
+         </chordLine>
+         <lyrics>Walkin' in the park just the other day, baby</lyrics>
+         <chordLine>
+            <chord num="1^5">A5</chord>
+            <chord num="b7^5">G5</chord>
+            <chord num="5^5">E5</chord>
+            <chord num="1^5">A5</chord>
+            <chord num="b7^5">G5</chord>
+            <chord num="5^5">E5</chord>
+            <chord num="1^5">A5</chord>
+         </chordLine>
+         <lyrics>What do you what do you think I saw?</lyrics>
+         <chordLine>
+            <chord num="b7^5">G5</chord>
+            <chord num="5^5">E5</chord>
+            <chord num="1^5">A5</chord>
+            <chord num="b7^5">G5</chord>
+            <chord num="5^5">E5</chord>
+            <chord num="1^5">A5</chord>
+            <chord num="1^5">A5</chord>
+         </chordLine>
+         <lyrics>Crowds of people sittin' on the grass with flowers in their hair said</lyrics>
+         <chordLine>
+            <chord num="b7^5">G5</chord>
+            <chord num="5^5">E5</chord>
+            <chord num="1^5">A5</chord>
+            <chord num="b7^5">G5</chord>
+            <chord num="5^5">E5</chord>
+            <chord num="1^5">A5</chord>
+            <chord num="b7^5">G5</chord>
+            <chord num="5^5">E5</chord>
+            <chord num="1^5">A5</chord>
+         </chordLine>
+         <lyrics>Hey Boy do you want to score?</lyrics>
+      </section>
+      <section type="Bridge">
+         <chordLine>
+            <chord num="b7^5">G5</chord>
+            <chord num="5^5">E5</chord>
+            <chord num="1^5">A5</chord>
+            <chord num="4">D</chord>
+            <chord num="b7">G</chord>
+            <chord num="1^5">A5</chord>
+            <chord num="b7^5">G5</chord>
+            <chord num="5^5">E5</chord>
+            <chord num="1^5">A5</chord>
+            <chord num="b7^5">G5</chord>
+            <chord num="5^5">E5</chord>
+            <chord num="1^5">A5</chord>
+            <chord num="4">D</chord>
+         </chordLine>
+         <lyrics>And you know how it is I really don't know what time it was oh, oh</lyrics>
+         <chordLine>
+            <chord num="b7">G</chord>
+            <chord num="1^5">A5</chord>
+            <chord num="b7^5">G5</chord>
+            <chord num="5^5">E5</chord>
+            <chord num="1^5">A5</chord>
+         </chordLine>
+         <lyrics>So I asked them if I could stay awhile</lyrics>
+         <chordLine>
+            <chord num="b7^5">G5</chord>
+            <chord num="5^5">E5</chord>
+            <chord num="1^5">A5</chord>
+            <chord num="b7^5">G5</chord>
+            <chord num="5^5">E5</chord>
+            <chord num="1^5">A5</chord>
+            <chord num="b7^5">G5</chord>
+            <chord num="5^5">E5</chord>
+            <chord num="1^5">A5</chord>
+            <chord num="b7^5">G5</chord>
+            <chord num="5^5">E5</chord>
+            <chord num="1^5">A5</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Verse 2">
+         <chordLine>
+            <chord num="b7^5">G5</chord>
+            <chord num="5^5">E5</chord>
+            <chord num="1^5">A5</chord>
+            <chord num="1^5">A5</chord>
+         </chordLine>
+         <lyrics>I didn't notice but it had got very dark and I was really</lyrics>
+         <chordLine>
+            <chord num="b7^5">G5</chord>
+            <chord num="5^5">E5</chord>
+            <chord num="1^5">A5</chord>
+            <chord num="b7^5">G5</chord>
+            <chord num="5^5">E5</chord>
+            <chord num="1^5">A5</chord>
+            <chord num="b7^5">G5</chord>
+            <chord num="5^5">E5</chord>
+            <chord num="1^5">A5</chord>
+         </chordLine>
+         <lyrics>Really out of my mind.</lyrics>
+         <chordLine>
+            <chord num="b7^5">G5</chord>
+            <chord num="5^5">E5</chord>
+            <chord num="1^5">A5</chord>
+         </chordLine>
+         <lyrics>Just then a policeman stepped up to me and asked us said</lyrics>
+         <chordLine>
+            <chord num="1^5">A5</chord>
+            <chord num="b7^5">G5</chord>
+            <chord num="5^5">E5</chord>
+            <chord num="1^5">A5</chord>
+            <chord num="b7^5">G5</chord>
+            <chord num="5^5">E5</chord>
+            <chord num="1^5">A5</chord>
+         </chordLine>
+         <lyrics>Please, hey, would we care to all get in line Get in line</lyrics>
+         <chordLine>
+            <chord num="b7^5">G5</chord>
+            <chord num="5^5">E5</chord>
+            <chord num="1^5">A5</chord>
+            <chord num="b7^5">G5</chord>
+            <chord num="5^5">E5</chord>
+            <chord num="1^5">A5</chord>
+            <chord num="4">D</chord>
+         </chordLine>
+         <lyrics>Well you know</lyrics>
+      </section>
+      <section type="Bridge">
+         <chordLine>
+            <chord num="b7">G</chord>
+            <chord num="1^5">A5</chord>
+            <chord num="b7^5">G5</chord>
+            <chord num="5^5">E5</chord>
+            <chord num="1^5">A5</chord>
+         </chordLine>
+         <lyrics>They asked us to stay for tea and have some fun</lyrics>
+         <chordLine>
+            <chord num="b7^5">G5</chord>
+            <chord num="5^5">E5</chord>
+            <chord num="1^5">A5</chord>
+            <chord num="4">D</chord>
+            <chord num="b7">G</chord>
+            <chord num="1^5">A5</chord>
+            <chord num="b7^5">G5</chord>
+            <chord num="5^5">E5</chord>
+            <chord num="1^5">A5</chord>
+         </chordLine>
+         <lyrics>Oh, oh, he said that his friends would all drop by, oh</lyrics>
+         <chordLine>
+            <chord num="b7^5">G5</chord>
+            <chord num="5^5">E5</chord>
+            <chord num="1^5">A5</chord>
+            <chord num="b7^5">G5</chord>
+            <chord num="5^5">E5</chord>
+            <chord num="1^5">A5</chord>
+            <chord num="b7^5">G5</chord>
+            <chord num="5^5">E5</chord>
+            <chord num="1^5">A5</chord>
+            <chord num="b7^5">G5</chord>
+            <chord num="5^5">E5</chord>
+            <chord num="1^5">A5</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Verse 3">
+         <chordLine>
+            <chord num="b7^5">G5</chord>
+            <chord num="5^5">E5</chord>
+            <chord num="1^5">A5</chord>
+            <chord num="1^5">A5</chord>
+         </chordLine>
+         <lyrics>Why don't you take a good look at yourself and describe what you see</lyrics>
+         <chordLine>
+            <chord num="b7^5">G5</chord>
+            <chord num="5^5">E5</chord>
+            <chord num="1^5">A5</chord>
+            <chord num="b7^5">G5</chord>
+            <chord num="5^5">E5</chord>
+            <chord num="1^5">A5</chord>
+            <chord num="b7^5">G5</chord>
+            <chord num="5^5">E5</chord>
+            <chord num="1^5">A5</chord>
+         </chordLine>
+         <lyrics>And baby, baby, baby, do you like it?</lyrics>
+         <chordLine>
+            <chord num="b7^5">G5</chord>
+            <chord num="5^5">E5</chord>
+            <chord num="1^5">A5</chord>
+            <chord num="1^5">A5</chord>
+         </chordLine>
+         <lyrics>There you sit, sitting spare like a book on a shelf rustin'</lyrics>
+         <chordLine>
+            <chord num="b7^5">G5</chord>
+            <chord num="5^5">E5</chord>
+            <chord num="1^5">A5</chord>
+            <chord num="b7^5">G5</chord>
+            <chord num="5^5">E5</chord>
+            <chord num="1^5">A5</chord>
+            <chord num="b7^5">G5</chord>
+            <chord num="5^5">E5</chord>
+            <chord num="1^5">A5</chord>
+         </chordLine>
+         <lyrics>Ah, not trying to fight it</lyrics>
+         <chordLine>
+            <chord num="b7^5">G5</chord>
+            <chord num="5^5">E5</chord>
+            <chord num="1^5">A5</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Bridge">
+         <chordLine>
+            <chord num="4">D</chord>
+            <chord num="b7">G</chord>
+            <chord num="1^5">A5</chord>
+            <chord num="b7^5">G5</chord>
+            <chord num="5^5">E5</chord>
+            <chord num="1^5">A5</chord>
+            <chord num="b7^5">G5</chord>
+            <chord num="5^5">E5</chord>
+            <chord num="1^5">A5</chord>
+            <chord num="4">D</chord>
+         </chordLine>
+         <lyrics>You really don't care if they're coming oh, oh</lyrics>
+         <chordLine>
+            <chord num="b7">G</chord>
+            <chord num="1^5">A5</chord>
+            <chord num="b7^5">G5</chord>
+            <chord num="5^5">E5</chord>
+            <chord num="1^5">A5</chord>
+            <chord num="b7^5">G5</chord>
+            <chord num="5^5">E5</chord>
+            <chord num="1^5">A5</chord>
+         </chordLine>
+         <lyrics>I know that it's all a state of mind, oh.</lyrics>
+      </section>
+      <section type="Guitar Solo">
+         <chordLine>
+            <chord num="b7^5">G5</chord>
+            <chord num="5^5">E5</chord>
+            <chord num="1^5">A5</chord>
+            <chord num="b7^5">G5</chord>
+            <chord num="5^5">E5</chord>
+            <chord num="1^5">A5</chord>
+            <chord num="b7^5">G5</chord>
+            <chord num="5^5">E5</chord>
+            <chord num="1^5">A5</chord>
+            <chord num="b7^5">G5</chord>
+            <chord num="5^5">E5</chord>
+            <chord num="1^5">A5</chord>
+            <chord num="b7^5">G5</chord>
+            <chord num="5^5">E5</chord>
+            <chord num="1^5">A5</chord>
+            <chord num="b7^5">G5</chord>
+            <chord num="5^5">E5</chord>
+            <chord num="1^5">A5</chord>
+            <chord num="b7^5">G5</chord>
+            <chord num="5^5">E5</chord>
+            <chord num="1^5">A5</chord>
+            <chord num="b7^5">G5</chord>
+            <chord num="5^5">E5</chord>
+            <chord num="1^5">A5</chord>
+            <chord num="4">D</chord>
+            <chord num="b7">G</chord>
+            <chord num="1^5">A5</chord>
+            <chord num="b7^5">G5</chord>
+            <chord num="5^5">E5</chord>
+            <chord num="1^5">A5</chord>
+            <chord num="b7^5">G5</chord>
+            <chord num="5^5">E5</chord>
+            <chord num="1^5">A5</chord>
+            <chord num="4">D</chord>
+            <chord num="b7">G</chord>
+            <chord num="1^5">A5</chord>
+            <chord num="b7^5">G5</chord>
+            <chord num="5^5">E5</chord>
+            <chord num="1^5">A5</chord>
+            <chord num="b7^5">G5</chord>
+            <chord num="5^5">E5</chord>
+            <chord num="1^5">A5</chord>
+            <chord num="b7^5">G5</chord>
+            <chord num="5^5">E5</chord>
+            <chord num="1^5">A5</chord>
+            <chord num="b7^5">G5</chord>
+            <chord num="5^5">E5</chord>
+            <chord num="1^5">A5</chord>
+            <chord num="b7^5">G5</chord>
+            <chord num="5^5">E5</chord>
+            <chord num="1^5">A5</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Verse 4">
+         <chordLine>
+            <chord num="b7^5">G5</chord>
+            <chord num="5^5">E5</chord>
+            <chord num="1^5">A5</chord>
+            <chord num="1^5">A5</chord>
+         </chordLine>
+         <lyrics>If you go down in the streets today, Baby, you better</lyrics>
+         <chordLine>
+            <chord num="b7^5">G5</chord>
+            <chord num="5^5">E5</chord>
+            <chord num="1^5">A5</chord>
+            <chord num="b7^5">G5</chord>
+            <chord num="5^5">E5</chord>
+            <chord num="1^5">A5</chord>
+            <chord num="b7^5">G5</chord>
+            <chord num="5^5">E5</chord>
+            <chord num="1^5">A5</chord>
+         </chordLine>
+         <lyrics>You better o_pen your eyes</lyrics>
+         <chordLine>
+            <chord num="b7^5">G5</chord>
+            <chord num="5^5">E5</chord>
+            <chord num="1^5">A5</chord>
+         </chordLine>
+         <lyrics>Folk down there really don't care, really don't care</lyrics>
+         <chordLine>
+            <chord num="1^5">A5</chord>
+         </chordLine>
+         <lyrics>Don't care, really don't Which, which</lyrics>
+         <chordLine>
+            <chord num="b7^5">G5</chord>
+            <chord num="5^5">E5</chord>
+            <chord num="1^5">A5</chord>
+         </chordLine>
+         <lyrics>way the pressure lies</lyrics>
+         <chordLine>
+            <chord num="b7^5">G5</chord>
+            <chord num="5^5">E5</chord>
+            <chord num="1^5">A5</chord>
+            <chord num="b7^5">G5</chord>
+            <chord num="5^5">E5</chord>
+            <chord num="1^5">A5</chord>
+            <chord num="b7^5">G5</chord>
+            <chord num="5^5">E5</chord>
+            <chord num="1^5">A5</chord>
+         </chordLine>
+         <lyrics>So I've decided what I'm gonna do now</lyrics>
+      </section>
+      <section type="Bridge">
+         <chordLine>
+            <chord num="4">D</chord>
+            <chord num="b7">G</chord>
+            <chord num="1^5">A5</chord>
+            <chord num="b7^5">G5</chord>
+            <chord num="5^5">E5</chord>
+            <chord num="1^5">A5</chord>
+         </chordLine>
+         <lyrics>So I'm packing my bags for the Misty Mountains</lyrics>
+         <chordLine>
+            <chord num="b7^5">G5</chord>
+            <chord num="5^5">E5</chord>
+            <chord num="1^5">A5</chord>
+         </chordLine>
+         <lyrics>Where the spirits go now</lyrics>
+         <chordLine>
+            <chord num="4">D</chord>
+            <chord num="b7">G</chord>
+            <chord num="1^5">A5</chord>
+            <chord num="b7^5">G5</chord>
+            <chord num="5^5">E5</chord>
+            <chord num="1^5">A5</chord>
+            <chord num="b7^5">G5</chord>
+            <chord num="5^5">E5</chord>
+            <chord num="1^5">A5</chord>
+            <chord num="b7^5">G5</chord>
+            <chord num="5^5">E5</chord>
+            <chord num="1^5">A5</chord>
+         </chordLine>
+         <lyrics>Over the hills where the spirits fly</lyrics>
+         <chordLine>
+            <chord num="b7^5">G5</chord>
+            <chord num="5^5">E5</chord>
+            <chord num="1^5">A5</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Outro (Fade Out)">
+         <chordLine>
+            <chord num="b7^5">G5</chord>
+            <chord num="5^5">E5</chord>
+            <chord num="1^5">A5</chord>
+            <chord num="b7^5">G5</chord>
+            <chord num="5^5">E5</chord>
+            <chord num="1^5">A5</chord>
+            <chord num="b7^5">G5</chord>
+            <chord num="5^5">E5</chord>
+            <chord num="1^5">A5</chord>
+            <chord num="b7^5">G5</chord>
+            <chord num="5^5">E5</chord>
+            <chord num="1^5">A5</chord>
+            <chord num="b7^5">G5</chord>
+            <chord num="5^5">E5</chord>
+            <chord num="1^5">A5</chord>
+            <chord num="b7^5">G5</chord>
+            <chord num="5^5">E5</chord>
+            <chord num="1^5">A5</chord>
+            <chord num="b7^5">G5</chord>
+            <chord num="5^5">E5</chord>
+            <chord num="1^5">A5</chord>
+            <chord num="b7^5">G5</chord>
+            <chord num="5^5">E5</chord>
+            <chord num="1^5">A5</chord>
+            <chord num="b7^5">G5</chord>
+            <chord num="5^5">E5</chord>
+            <chord num="1^5">A5</chord>
+            <chord num="b7^5">G5</chord>
+            <chord num="5^5">E5</chord>
+            <chord num="1^5">A5</chord>
+            <chord num="b7^5">G5</chord>
+            <chord num="5^5">E5</chord>
+            <chord num="1^5">A5</chord>
+            <chord num="b7^5">G5</chord>
+            <chord num="5^5">E5</chord>
+            <chord num="1^5">A5</chord>
+            <chord num="b7^5">G5</chord>
+            <chord num="5^5">E5</chord>
+            <chord num="1^5">A5</chord>
+         </chordLine>
+         <lyrics>I really dont know</lyrics>
+         <chordLine>
+            <chord num="b7^5">G5</chord>
+            <chord num="5^5">E5</chord>
+            <chord num="1^5">A5</chord>
+            <chord num="b7^5">G5</chord>
+            <chord num="5^5">E5</chord>
+            <chord num="1^5">A5</chord>
+            <chord num="b7^5">G5</chord>
+            <chord num="5^5">E5</chord>
+            <chord num="1^5">A5</chord>
+            <chord num="b7^5">G5</chord>
+            <chord num="5^5">E5</chord>
+            <chord num="1^5">A5</chord>
+         </chordLine>
+         <lyrics>I really dont know</lyrics>
+         <chordLine>
+            <chord num="b7^5">G5</chord>
+            <chord num="5^5">E5</chord>
+            <chord num="1^5">A5</chord>
+            <chord num="b7^5">G5</chord>
+            <chord num="5^5">E5</chord>
+            <chord num="1^5">A5</chord>
+            <chord num="b7^5">G5</chord>
+            <chord num="5^5">E5</chord>
+            <chord num="1^5">A5</chord>
+         </chordLine>
+      </section>
+   </music>
+</mei>

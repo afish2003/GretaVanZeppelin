@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mei ixml:state="ambiguous"
+     xmlns:ixml="http://invisiblexml.org/NS">
+   <music>
+      <title>Light My Love</title>
+      <album>The Battle of Garden's Gate</album>
+      <artist>Greta Van Fleet</artist>
+      <key>F</key>
+      <section type="Intro">
+         <chordLine>
+            <chord num="4">Bb</chord>
+            <chord num="1">F</chord>
+            <chord num="5">C</chord>
+            <chord num="4">Bb</chord>
+            <chord num="2">G</chord>
+            <chord num="4">Bb</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Main Riff">
+         <chordLine>
+            <chord num="1">F</chord>
+            <chord num="5">C</chord>
+            <chord num="4">Bb</chord>
+            <chord num="1">F</chord>
+            <chord num="5">C</chord>
+            <chord num="4">Bb</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Verse 1">
+         <chordLine>
+            <chord num="1">F</chord>
+            <chord num="5">C</chord>
+            <chord num="4">Bb</chord>
+         </chordLine>
+         <lyrics>Can you light my love?</lyrics>
+         <chordLine>
+            <chord num="1">F</chord>
+            <chord num="5">C</chord>
+            <chord num="4">Bb</chord>
+         </chordLine>
+         <lyrics>Flames glowing bright as the sun</lyrics>
+         <chordLine>
+            <chord num="1">F</chord>
+            <chord num="5">C</chord>
+            <chord num="4">Bb</chord>
+         </chordLine>
+         <lyrics>Deeper than oceans you run</lyrics>
+         <chordLine>
+            <chord num="1">F</chord>
+            <chord num="5">C</chord>
+            <chord num="4">Bb</chord>
+         </chordLine>
+         <lyrics>Watch as our world has begun</lyrics>
+      </section>
+      <section type="Pre-Chorus">
+         <chordLine>
+            <chord num="5">C</chord>
+            <chord num="4">Bb</chord>
+         </chordLine>
+         <lyrics>Your mind is a stream of colors</lyrics>
+         <chordLine>
+            <chord num="5">C</chord>
+            <chord num="4">Bb</chord>
+         </chordLine>
+         <lyrics>Extending beyond our sky</lyrics>
+         <chordLine>
+            <chord num="5">C</chord>
+            <chord num="4">Bb</chord>
+         </chordLine>
+         <lyrics>A land of infinite wonders</lyrics>
+         <chordLine>
+            <chord num="5">C</chord>
+         </chordLine>
+         <lyrics>Billion light years from here now</lyrics>
+      </section>
+      <section type="Chorus">
+         <chordLine>
+            <chord num="1">F</chord>
+            <chord num="5">C</chord>
+            <chord num="4">Bb</chord>
+            <chord num="1">F</chord>
+            <chord num="5">C</chord>
+            <chord num="4">Bb</chord>
+         </chordLine>
+         <lyrics>Whoa, hey, light my love</lyrics>
+         <chordLine>
+            <chord num="1">F</chord>
+            <chord num="3m">Am</chord>
+            <chord num="4">Bb</chord>
+            <chord num="1">F</chord>
+            <chord num="5">C</chord>
+            <chord num="4">Bb</chord>
+            <chord num="1">F</chord>
+            <chord num="5">C</chord>
+         </chordLine>
+         <lyrics>Whoa, hey, light my love</lyrics>
+      </section>
+      <section type="Main Riff">
+         <chordLine>
+            <chord num="1">F</chord>
+            <chord num="5">C</chord>
+            <chord num="4">Bb</chord>
+            <chord num="1">F</chord>
+            <chord num="5">C</chord>
+            <chord num="4">Bb</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Verse 2">
+         <chordLine>
+            <chord num="1">F</chord>
+            <chord num="5">C</chord>
+            <chord num="4">Bb</chord>
+         </chordLine>
+         <lyrics>I have seen pictures of time</lyrics>
+         <chordLine>
+            <chord num="1">F</chord>
+            <chord num="5">C</chord>
+            <chord num="4">Bb</chord>
+         </chordLine>
+         <lyrics>The frames still in motion, I find</lyrics>
+         <chordLine>
+            <chord num="1">F</chord>
+            <chord num="5">C</chord>
+            <chord num="4">Bb</chord>
+         </chordLine>
+         <lyrics>A grand revolution outlined</lyrics>
+         <chordLine>
+            <chord num="1">F</chord>
+            <chord num="5">C</chord>
+            <chord num="4">Bb</chord>
+         </chordLine>
+         <lyrics>Hate bound by fear will unwind</lyrics>
+      </section>
+      <section type="Pre-Chorus">
+         <chordLine>
+            <chord num="5">C</chord>
+            <chord num="4">Bb</chord>
+         </chordLine>
+         <lyrics>Your mind is a stream of colors</lyrics>
+         <chordLine>
+            <chord num="5">C</chord>
+            <chord num="4">Bb</chord>
+         </chordLine>
+         <lyrics>Extending beyond our sky</lyrics>
+         <chordLine>
+            <chord num="5">C</chord>
+            <chord num="4">Bb</chord>
+         </chordLine>
+         <lyrics>A land of infinite wonders</lyrics>
+         <chordLine>
+            <chord num="5">C</chord>
+         </chordLine>
+         <lyrics>Billion light years from here now</lyrics>
+      </section>
+      <section type="Chorus">
+         <chordLine>
+            <chord num="1">F</chord>
+            <chord num="5">C</chord>
+            <chord num="4">Bb</chord>
+            <chord num="1">F</chord>
+            <chord num="5">C</chord>
+            <chord num="4">Bb</chord>
+         </chordLine>
+         <lyrics>Whoa, hey, light my love</lyrics>
+         <chordLine>
+            <chord num="1">F</chord>
+            <chord num="3m">Am</chord>
+            <chord num="4">Bb</chord>
+            <chord num="1">F</chord>
+            <chord num="5">C</chord>
+            <chord num="4">Bb</chord>
+            <chord num="1">F</chord>
+            <chord num="5">C</chord>
+         </chordLine>
+         <lyrics>Whoa, hey, light my love</lyrics>
+      </section>
+      <section type="Bridge">
+         <chordLine>
+            <chord num="2">G</chord>
+            <chord num="4">Bb</chord>
+         </chordLine>
+         <lyrics>Oh, hey</lyrics>
+         <chordLine>
+            <chord num="2">G</chord>
+            <chord num="4">Bb</chord>
+            <chord num="5">C</chord>
+         </chordLine>
+         <lyrics>Ooh, ooh</lyrics>
+      </section>
+      <section type="Chorus">
+         <chordLine>
+            <chord num="4">Bb</chord>
+            <chord num="1">F</chord>
+            <chord num="5">C</chord>
+            <chord num="2m">Gm</chord>
+         </chordLine>
+         <lyrics>Whoa, hey, light my love</lyrics>
+         <chordLine>
+            <chord num="1">F</chord>
+            <chord num="3m">Am</chord>
+            <chord num="4">Bb</chord>
+            <chord num="1">F</chord>
+            <chord num="5">C</chord>
+            <chord num="2m">Gm</chord>
+         </chordLine>
+         <lyrics>Whoa, hey, light my love</lyrics>
+      </section>
+      <section type="Outro">
+         <chordLine>
+            <chord num="1">F</chord>
+            <chord num="5">C</chord>
+            <chord num="4">Bb</chord>
+            <chord num="1">F</chord>
+            <chord num="5">C</chord>
+            <chord num="2m">Gm</chord>
+            <chord num="1">F</chord>
+            <chord num="3m">Am</chord>
+            <chord num="4">Bb</chord>
+            <chord num="1">F</chord>
+            <chord num="5">C</chord>
+            <chord num="2m">Gm</chord>
+            <chord num="1">F</chord>
+            <chord num="5">C</chord>
+            <chord num="4">Bb</chord>
+         </chordLine>
+         <lyrics>Hey, hey</lyrics>
+         <chordLine>
+            <chord num="1">F</chord>
+            <chord num="5">C</chord>
+            <chord num="2m">Gm</chord>
+         </chordLine>
+         <lyrics>Hey, hey</lyrics>
+         <chordLine>
+            <chord num="1">F</chord>
+            <chord num="3m">Am</chord>
+            <chord num="4">Bb</chord>
+         </chordLine>
+         <lyrics>Hey, hey</lyrics>
+         <chordLine>
+            <chord num="1">F</chord>
+            <chord num="5">C</chord>
+            <chord num="2m">Gm</chord>
+         </chordLine>
+         <lyrics>Hey, hey</lyrics>
+         <chordLine>
+            <chord num="1">F</chord>
+            <chord num="5">C</chord>
+            <chord num="4">Bb</chord>
+         </chordLine>
+         <lyrics>Hey, hey S</lyrics>
+      </section>
+   </music>
+</mei>

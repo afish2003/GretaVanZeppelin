@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mei ixml:state="ambiguous"
+     xmlns:ixml="http://invisiblexml.org/NS">
+   <music>
+      <title>Four Sticks</title>
+      <album>Led Zeppelin IV</album>
+      <artist>Led Zeppelin</artist>
+      <key>E</key>
+      <section type="Intro">
+         <chordLine>
+            <chord num="1^5">E5</chord>
+            <chord num="4^5">A5</chord>
+            <chord num="b3^5">G5</chord>
+            <chord num="1^5">E5</chord>
+            <chord num="4^5">A5</chord>
+            <chord num="b3^5">G5</chord>
+            <chord num="1^5">E5</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Verse 1">
+         <chordLine>
+            <chord num="1^5">E5</chord>
+         </chordLine>
+         <lyrics>Oh baby it's cryin' time Oh baby I got to fly</lyrics>
+         <chordLine>
+            <chord num="4^5">A5</chord>
+            <chord num="b3^5">G5</chord>
+         </chordLine>
+         <lyrics>Got to try to find a way</lyrics>
+         <chordLine>
+            <chord num="1^5">E5</chord>
+            <chord num="4^5">A5</chord>
+         </chordLine>
+         <lyrics>Got to try to get away</lyrics>
+         <chordLine>
+            <chord num="b3^5">G5</chord>
+            <chord num="1^5">E5</chord>
+         </chordLine>
+         <lyrics>'Cause you know I gotta get away from you babe</lyrics>
+      </section>
+      <section type="Verse 2">
+         <chordLine>
+            <chord num="1^5">E5</chord>
+         </chordLine>
+         <lyrics>Oh baby the river's red, ah baby in my head</lyrics>
+         <chordLine>
+            <chord num="4^5">A5</chord>
+            <chord num="b3^5">G5</chord>
+         </chordLine>
+         <lyrics>There's a funny feelin' goin' on</lyrics>
+         <chordLine>
+            <chord num="1^5">E5</chord>
+            <chord num="4^5">A5</chord>
+            <chord num="b3^5">G5</chord>
+         </chordLine>
+         <lyrics>I don't think I can hold out long</lyrics>
+      </section>
+      <section type="Chorus">
+         <chordLine>
+            <chord num="b3^6/b7">G6/D</chord>
+         </chordLine>
+         <lyrics>And when the owls cry in the night</lyrics>
+         <chordLine>
+            <chord num="4sus2">Asus2</chord>
+         </chordLine>
+         <lyrics>Oh baby, baby when the pines begin to cry Baby, baby, baby how do you feel?</lyrics>
+         <chordLine>
+            <chord num="b3^6/b7">G6/D</chord>
+         </chordLine>
+         <lyrics>If the river runs dry, baby, how do you feel?</lyrics>
+      </section>
+      <section type="Riff">
+         <chordLine>
+            <chord num="1^5">E5</chord>
+            <chord num="4^5">A5</chord>
+            <chord num="b3^5">G5</chord>
+            <chord num="1^5">E5</chord>
+            <chord num="4^5">A5</chord>
+            <chord num="b3^5">G5</chord>
+            <chord num="1^5">E5</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Verse 3">
+         <chordLine>
+            <chord num="1^5">E5</chord>
+            <chord num="4^5">A5</chord>
+         </chordLine>
+         <lyrics>Craze, baby, the rainbow's end, mmm, baby, it's just a den</lyrics>
+         <chordLine>
+            <chord num="b3^5">G5</chord>
+            <chord num="1^5">E5</chord>
+         </chordLine>
+         <lyrics>For those who hide, hide their love to depths of life</lyrics>
+         <chordLine>
+            <chord num="4^5">A5</chord>
+            <chord num="b3^5">G5</chord>
+         </chordLine>
+         <lyrics>And ruin dreams that we all knew so, babe</lyrics>
+      </section>
+      <section type="Chorus">
+         <chordLine>
+            <chord num="b3^6/b7">G6/D</chord>
+         </chordLine>
+         <lyrics>And when the owls cry in the night</lyrics>
+         <chordLine>
+            <chord num="4sus2">Asus2</chord>
+         </chordLine>
+         <lyrics>Oh baby when the pines begin to cry Oh baby, baby, how do you feel?</lyrics>
+         <chordLine>
+            <chord num="b3^6/b7">G6/D</chord>
+         </chordLine>
+         <lyrics>If the river runs dry, baby, how do you feel?</lyrics>
+      </section>
+      <section type="Bridge">
+         <chordLine>
+            <chord num="b3^6/b7">G6/D</chord>
+            <chord num="4sus2">Asus2</chord>
+            <chord num="b3^6/b7">G6/D</chord>
+            <chord num="4">A</chord>
+         </chordLine>
+         <lyrics>Baby how do you feel?</lyrics>
+      </section>
+      <section type="Verse 4">
+         <chordLine>
+            <chord num="1^5">E5</chord>
+         </chordLine>
+         <lyrics>Ooh yeah, brave I endure Ooh yeah, strong shields and lore</lyrics>
+         <chordLine>
+            <chord num="4^5">A5</chord>
+            <chord num="b3^5">G5</chord>
+         </chordLine>
+         <lyrics>They can't hold the wrath of those who walk</lyrics>
+         <chordLine>
+            <chord num="1^5">E5</chord>
+            <chord num="4^5">A5</chord>
+         </chordLine>
+         <lyrics>An' the boots of those who march</lyrics>
+         <chordLine>
+            <chord num="b3^5">G5</chord>
+            <chord num="1^5">E5</chord>
+            <chord num="1^5">E5</chord>
+         </chordLine>
+         <lyrics>Baby, through the roads of time so long ago</lyrics>
+      </section>
+      <section type="Fade Out">
+         <chordLine>
+            <chord num="1^5">E5</chord>
+         </chordLine>
+      </section>
+   </music>
+</mei>

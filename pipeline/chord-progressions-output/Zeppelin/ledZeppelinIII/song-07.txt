@@ -1,0 +1,35 @@
+Title: Tangerine
+Album: Led Zeppelin III
+Artist: Led Zeppelin
+Key: G
+
+[Intro]
+  2m, 4/1, 2m, 1, 5, 2m, 1, 5, 4, 1, 2m, 1, 5
+
+[Verse 1]
+  5, 2m, 1, 5
+  2m, 1, 5, 4, 1
+  2m, 4, 5
+  4, 5, 1
+
+[Chorus]
+  1, 5, 4, 5, 1, 5, 4, 5, 1
+  5, 4, 5, 1
+  5
+
+[Verse 2]
+  2m, 1, 5
+  2m, 1, 5, 4, 1
+  2m, 1, 5
+
+[Solo]
+  2m, 1^6, 5, b7, 6, b7, 6, b7, 4, 1, 5, 4, 5, 1
+
+[Chorus]
+  1, 5, 4, 5, 1, 5, 4, 5, 1, 5, 4
+  5, 1
+  5
+
+[Outro]
+  5, 2m, 1, b7, 4, 1
+

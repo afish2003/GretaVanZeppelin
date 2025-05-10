@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mei ixml:state="ambiguous"
+     xmlns:ixml="http://invisiblexml.org/NS">
+   <music>
+      <title>Safari Song</title>
+      <album>From the Fires</album>
+      <artist>Greta Van Fleet</artist>
+      <key>A</key>
+      <section type="Intro">
+         <chordLine>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="4">D</chord>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="4">D</chord>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="4">D</chord>
+            <chord num="1">A</chord>
+         </chordLine>
+         <lyrics>Oh yeah</lyrics>
+         <chordLine>
+            <chord num="b7">G</chord>
+            <chord num="4">D</chord>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="4">D</chord>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="4">D</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Verse 1">
+         <chordLine>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+         </chordLine>
+         <lyrics>Oh lady won't you come on down, won't you come on down I said</lyrics>
+         <chordLine>
+            <chord num="4">D</chord>
+         </chordLine>
+         <lyrics>my town</lyrics>
+         <chordLine>
+            <chord num="1">A</chord>
+         </chordLine>
+         <lyrics>Oh mama won't you come on down, won't you come on down</lyrics>
+         <chordLine>
+            <chord num="b7">G</chord>
+            <chord num="4">D</chord>
+         </chordLine>
+         <lyrics>I said to my home</lyrics>
+         <chordLine>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+         </chordLine>
+         <lyrics>Oh lady won't you move my way, can't you move my way I'm getting</lyrics>
+         <chordLine>
+            <chord num="4">D</chord>
+         </chordLine>
+         <lyrics>hazy</lyrics>
+         <chordLine>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+         </chordLine>
+         <lyrics>Oh mama when you give your love, when you give your love You drive me</lyrics>
+         <chordLine>
+            <chord num="4">D</chord>
+         </chordLine>
+         <lyrics>crazy</lyrics>
+      </section>
+      <section type="Chorus">
+         <chordLine>
+            <chord num="1">A</chord>
+         </chordLine>
+         <lyrics>Oh mama</lyrics>
+         <chordLine>
+            <chord num="b7">G</chord>
+            <chord num="4">D</chord>
+         </chordLine>
+         <lyrics>What you gonna do with all that love in your heart</lyrics>
+         <chordLine>
+            <chord num="1">A</chord>
+         </chordLine>
+         <lyrics>Oh mama</lyrics>
+         <chordLine>
+            <chord num="b7">G</chord>
+            <chord num="4">D</chord>
+         </chordLine>
+         <lyrics>What you gotta say about that love in your heart</lyrics>
+         <chordLine>
+            <chord num="1">A</chord>
+         </chordLine>
+         <lyrics>Oh mama</lyrics>
+         <chordLine>
+            <chord num="b7">G</chord>
+            <chord num="4">D</chord>
+         </chordLine>
+         <lyrics>When you walk this way why don't you give some lovin'</lyrics>
+         <chordLine>
+            <chord num="1">A</chord>
+         </chordLine>
+         <lyrics>Oh mama</lyrics>
+         <chordLine>
+            <chord num="b7">G</chord>
+            <chord num="4">D</chord>
+         </chordLine>
+         <lyrics>What you gonna do with all that love in your heart</lyrics>
+      </section>
+      <section type="Post-Chorus">
+         <chordLine>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="4">D</chord>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="4">D</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Verse 2">
+         <chordLine>
+            <chord num="1">A</chord>
+         </chordLine>
+         <lyrics>See mama I gonna feel your everything, I feel your everything</lyrics>
+         <chordLine>
+            <chord num="b7">G</chord>
+            <chord num="4">D</chord>
+         </chordLine>
+         <lyrics>I really wanna know</lyrics>
+         <chordLine>
+            <chord num="1">A</chord>
+         </chordLine>
+         <lyrics>See mama when you shine you're shining bright, give your giving light</lyrics>
+         <chordLine>
+            <chord num="b7">G</chord>
+            <chord num="4">D</chord>
+         </chordLine>
+         <lyrics>I really want your love to glow</lyrics>
+         <chordLine>
+            <chord num="1">A</chord>
+         </chordLine>
+         <lyrics>See mama when your heart is in its place, see that smiling face</lyrics>
+         <chordLine>
+            <chord num="b7">G</chord>
+            <chord num="4">D</chord>
+         </chordLine>
+         <lyrics>Is all I wanna do</lyrics>
+         <chordLine>
+            <chord num="1">A</chord>
+         </chordLine>
+         <lyrics>See mama every time that you won't here, it's when you're gonna be</lyrics>
+         <chordLine>
+            <chord num="b7">G</chord>
+            <chord num="4">D</chord>
+         </chordLine>
+         <lyrics>You never wanna come back home</lyrics>
+      </section>
+      <section type="Chorus">
+         <chordLine>
+            <chord num="1">A</chord>
+         </chordLine>
+         <lyrics>Oh mama</lyrics>
+         <chordLine>
+            <chord num="b7">G</chord>
+            <chord num="4">D</chord>
+         </chordLine>
+         <lyrics>What you gonna do with all that love in your heart</lyrics>
+         <chordLine>
+            <chord num="1">A</chord>
+         </chordLine>
+         <lyrics>Oh mama</lyrics>
+         <chordLine>
+            <chord num="b7">G</chord>
+            <chord num="4">D</chord>
+         </chordLine>
+         <lyrics>What you gotta say about that love in your heart</lyrics>
+         <chordLine>
+            <chord num="1">A</chord>
+         </chordLine>
+         <lyrics>Oh mama</lyrics>
+         <chordLine>
+            <chord num="b7">G</chord>
+            <chord num="4">D</chord>
+         </chordLine>
+         <lyrics>When you walk this way why don't you give some lovin'</lyrics>
+         <chordLine>
+            <chord num="1">A</chord>
+         </chordLine>
+         <lyrics>Oh mama</lyrics>
+         <chordLine>
+            <chord num="b7">G</chord>
+            <chord num="4">D</chord>
+         </chordLine>
+         <lyrics>What you gonna do with all that love in your heart</lyrics>
+      </section>
+      <section type="Solo">
+         <chordLine>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="4">D</chord>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="4">D</chord>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="4">D</chord>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="4">D</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Bridge">
+         <chordLine>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="4">D</chord>
+         </chordLine>
+         <lyrics>Do you remember what I said when I got down on my knees?</lyrics>
+         <chordLine>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="4">D</chord>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="4">D</chord>
+            <chord num="1">A</chord>
+         </chordLine>
+         <lyrics>Gotta get your lovin' baby, your lovin's all I need Don't make me beg now baby, don't make me bleed I gave you</lyrics>
+         <chordLine>
+            <chord num="b7">G</chord>
+            <chord num="4">D</chord>
+         </chordLine>
+         <lyrics>all a man could give and you still walked out on me</lyrics>
+      </section>
+      <section type="Chorus">
+         <chordLine>
+            <chord num="1">A</chord>
+         </chordLine>
+         <lyrics>Oh mama</lyrics>
+         <chordLine>
+            <chord num="b7">G</chord>
+            <chord num="4">D</chord>
+         </chordLine>
+         <lyrics>What you gonna do with all that love in your heart</lyrics>
+         <chordLine>
+            <chord num="1">A</chord>
+         </chordLine>
+         <lyrics>Oh mama</lyrics>
+         <chordLine>
+            <chord num="b7">G</chord>
+            <chord num="4">D</chord>
+         </chordLine>
+         <lyrics>What you gotta say about that love in your heart</lyrics>
+         <chordLine>
+            <chord num="1">A</chord>
+         </chordLine>
+         <lyrics>Oh mama</lyrics>
+         <chordLine>
+            <chord num="b7">G</chord>
+            <chord num="4">D</chord>
+         </chordLine>
+         <lyrics>When you walk this way why don't you give some lovin'</lyrics>
+         <chordLine>
+            <chord num="1">A</chord>
+         </chordLine>
+         <lyrics>Oh mama</lyrics>
+         <chordLine>
+            <chord num="b7">G</chord>
+            <chord num="4">D</chord>
+         </chordLine>
+         <lyrics>What you gonna do with all that love in your heart</lyrics>
+      </section>
+      <section type="Outro">
+         <chordLine>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="4">D</chord>
+         </chordLine>
+         <lyrics>Your heart</lyrics>
+         <chordLine>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="4">D</chord>
+         </chordLine>
+         <lyrics>Your heart</lyrics>
+         <chordLine>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="4">D</chord>
+         </chordLine>
+         <lyrics>Your heart</lyrics>
+         <chordLine>
+            <chord num="1">A</chord>
+            <chord num="b7">G</chord>
+            <chord num="4">D</chord>
+         </chordLine>
+         <lyrics>Your heart</lyrics>
+         <chordLine>
+            <chord num="b7">G</chord>
+            <chord num="4">D</chord>
+            <chord num="b7">G</chord>
+            <chord num="4">D</chord>
+         </chordLine>
+         <lyrics>Lovin', burning fire</lyrics>
+         <chordLine>
+            <chord num="1">A</chord>
+         </chordLine>
+         <lyrics>Oh yeah</lyrics>
+      </section>
+   </music>
+</mei>

@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mei ixml:state="ambiguous"
+     xmlns:ixml="http://invisiblexml.org/NS">
+   <music>
+      <title>The Weight of Dreams</title>
+      <album>The Battle of Garden's Gate</album>
+      <artist>Greta Van Fleet</artist>
+      <key>C</key>
+      <section type="Intro">
+         <chordLine>
+            <chord num="6m">Am</chord>
+            <chord num="5">G</chord>
+            <chord num="4">F</chord>
+            <chord num="6m7">Am7</chord>
+            <chord num="2m">Dm</chord>
+            <chord num="4">F</chord>
+            <chord num="6m">Am</chord>
+            <chord num="5">G</chord>
+            <chord num="4">F</chord>
+            <chord num="6m7">Am7</chord>
+            <chord num="5">G</chord>
+            <chord num="6m">Am</chord>
+            <chord num="5">G</chord>
+            <chord num="4">F</chord>
+            <chord num="6m7">Am7</chord>
+            <chord num="2m">Dm</chord>
+            <chord num="4">F</chord>
+            <chord num="6m">Am</chord>
+            <chord num="5">G</chord>
+            <chord num="4">F</chord>
+            <chord num="6m7">Am7</chord>
+            <chord num="4maj7">Fmaj7</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Theme 1">
+         <lyrics>Am Bm(b9) C Fmaj7 Am Bm(b9) C Fmaj7</lyrics>
+      </section>
+      <section type="Interlude">
+         <lyrics>Am Bm(b9) C Fmaj7 E Am Bm(b9) C Fmaj7</lyrics>
+      </section>
+      <section type="Verse 1">
+         <lyrics>Am Bm(b9) C Fmaj7 All across the west we traveled wayward for E Am Bm(b9) C Find the weight of dreams in gold Fmaj7 E Am Bm(b9) C Fmaj7 Heaven sent us here to meet the hallowed shore Am Bm(b9) C Fmaj7 To claim the wealth that we had sold</lyrics>
+      </section>
+      <section type="Pre-Chorus">
+         <lyrics>Am Bm(b9) C G Fmaj7 Am C Em Am Bm(b9) C G Fmaj7 Am C Em</lyrics>
+      </section>
+      <section type="Chorus">
+         <chordLine>
+            <chord num="6m">Am</chord>
+            <chord num="5">G</chord>
+            <chord num="3^7">E7</chord>
+            <chord num="4maj7">Fmaj7</chord>
+         </chordLine>
+         <lyrics>Gold mines melting men in the sunshine</lyrics>
+         <chordLine>
+            <chord num="1/3">C/E</chord>
+            <chord num="6m">Am</chord>
+            <chord num="5">G</chord>
+            <chord num="3^7">E7</chord>
+            <chord num="4maj7">Fmaj7</chord>
+         </chordLine>
+         <lyrics>Spoiled wine tastes so sweet, we have gone blind</lyrics>
+         <chordLine>
+            <chord num="1/3">C/E</chord>
+            <chord num="6m">Am</chord>
+            <chord num="5">G</chord>
+            <chord num="3^7">E7</chord>
+            <chord num="4maj7">Fmaj7</chord>
+         </chordLine>
+         <lyrics>Gold mines melting men in the sunshine</lyrics>
+         <chordLine>
+            <chord num="1/3">C/E</chord>
+            <chord num="6m">Am</chord>
+            <chord num="5">G</chord>
+            <chord num="3^7">E7</chord>
+            <chord num="4maj7">Fmaj7</chord>
+            <chord num="1/3">C/E</chord>
+            <chord num="6m">Am</chord>
+         </chordLine>
+         <lyrics>Spoiled wine tastes so sweet, we have gone blind</lyrics>
+      </section>
+      <section type="Interlude">
+         <chordLine>
+            <chord num="6m">Am</chord>
+            <chord num="3m/6">Em/A</chord>
+            <chord num="2/6">D/A</chord>
+            <chord num="6m7">Am7</chord>
+            <chord num="6m">Am</chord>
+            <chord num="4maj7">Fmaj7</chord>
+            <chord num="5">G</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Verse 2">
+         <lyrics>E Am Bm(b9) C Fmaj7 We stole from her a cloak of studded majesty E Am Bm(b9) C The queen is dead, we robbed her grave Fmaj7 E Am Bm(b9) C Fmaj7 You can still bathe in the river but it ran dry Am Bm(b9) C Fmaj7 And all of us have turned away</lyrics>
+      </section>
+      <section type="Pre-Chorus">
+         <lyrics>Am Bm(b9) C G Fmaj7 Am C Em Am Bm(b9) C G Fmaj7 Am C Em Am Bm(b9) C G Fmaj7 Am C Em Am Bm(b9) C G Fmaj7 Am C Em</lyrics>
+      </section>
+      <section type="Chorus">
+         <chordLine>
+            <chord num="6m">Am</chord>
+            <chord num="5">G</chord>
+            <chord num="3^7">E7</chord>
+            <chord num="4maj7">Fmaj7</chord>
+         </chordLine>
+         <lyrics>Gold mines melting men in the sunshine</lyrics>
+         <chordLine>
+            <chord num="1/3">C/E</chord>
+            <chord num="6m">Am</chord>
+            <chord num="5">G</chord>
+            <chord num="3^7">E7</chord>
+            <chord num="4maj7">Fmaj7</chord>
+         </chordLine>
+         <lyrics>Spoiled wine tastes so sweet, we have gone blind</lyrics>
+         <chordLine>
+            <chord num="1/3">C/E</chord>
+            <chord num="6m">Am</chord>
+            <chord num="5">G</chord>
+            <chord num="3^7">E7</chord>
+            <chord num="4maj7">Fmaj7</chord>
+         </chordLine>
+         <lyrics>Gold mines melting men in the sunshine</lyrics>
+         <chordLine>
+            <chord num="1/3">C/E</chord>
+            <chord num="6m">Am</chord>
+            <chord num="5">G</chord>
+            <chord num="3^7">E7</chord>
+            <chord num="4maj7">Fmaj7</chord>
+            <chord num="1/3">C/E</chord>
+            <chord num="4">F</chord>
+         </chordLine>
+         <lyrics>Spoiled wine tastes so sweet, we have gone blind</lyrics>
+      </section>
+      <section type="Theme 2">
+         <chordLine>
+            <chord num="4">F</chord>
+            <chord num="1/3">C/E</chord>
+            <chord num="6m">Am</chord>
+            <chord num="1/3">C/E</chord>
+            <chord num="5">G</chord>
+            <chord num="1/3">C/E</chord>
+            <chord num="6m">Am</chord>
+            <chord num="1">C</chord>
+            <chord num="5">G</chord>
+            <chord num="4maj7">Fmaj7</chord>
+            <chord num="1/3">C/E</chord>
+            <chord num="6m">Am</chord>
+            <chord num="1/3">C/E</chord>
+            <chord num="5">G</chord>
+            <chord num="1/3">C/E</chord>
+            <chord num="6m">Am</chord>
+            <chord num="1">C</chord>
+            <chord num="5">G</chord>
+            <chord num="4">F</chord>
+            <chord num="1/3">C/E</chord>
+            <chord num="6m">Am</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Interlude">
+         <chordLine>
+            <chord num="6m">Am</chord>
+            <chord num="4">F</chord>
+            <chord num="1maj7">Cmaj7</chord>
+            <chord num="3^7">E7</chord>
+            <chord num="6m">Am</chord>
+            <chord num="4maj7">Fmaj7</chord>
+            <chord num="7m/2">Bm/D</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Theme 3">
+         <lyrics>Am Bm(b9) C G/D F Am C Em Am Bm(b9) C G/D F Am C Em Am Bm(b9) C G/D F Am C Em Am Bm(b9) C G/D F Am C Em Am Bm(b9) C G/D F Am C Em Am Bm(b9) C G/D F Am C Em</lyrics>
+      </section>
+      <section type="Outro">
+         <chordLine>
+            <chord num="6m">Am</chord>
+            <chord num="3m/6">Em/A</chord>
+            <chord num="6m7">Am7</chord>
+            <chord num="6m">Am</chord>
+            <chord num="4maj7">Fmaj7</chord>
+         </chordLine>
+      </section>
+   </music>
+</mei>

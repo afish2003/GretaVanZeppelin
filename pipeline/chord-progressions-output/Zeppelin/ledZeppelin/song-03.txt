@@ -1,0 +1,39 @@
+Title: You Shook Me
+Album: Led Zeppelin
+Artist: Led Zeppelin
+Key: E
+
+[Intro]
+  4, 1, 1
+
+[Verse 1]
+  4
+  1
+  5
+  4, 1
+  1
+
+[Verse 2]
+  4
+  1
+  5, 4
+  1
+
+[Organ Solo]
+  1, 4, 1, 5, 4, 1
+
+[Harmonica Solo]
+  1, 4, 1, 5, 4, 1
+
+[Guitar Solo]
+  1, 4, 1, 5, 4, 1
+
+[Verse 3]
+  1
+  4
+  1
+  5
+
+[Outro]
+  4, 1
+

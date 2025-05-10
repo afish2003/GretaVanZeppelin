@@ -1,7 +1,0 @@
-mei: music.
-music: section++newline, newline.
-section: type, mdiv.
-@type: -"[", ~[#22]+, -"]".
-mdiv: ~[#22]+.
--newline: #d?,#a.
--space: " ".

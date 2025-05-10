@@ -1,0 +1,41 @@
+Title: Black Dog
+Album: Led Zeppelin IV
+Artist: Led Zeppelin
+Key: A
+
+[Verse 1]
+  1^7
+  1^7
+
+[Chorus]
+  1^7, b3, 1^7
+  b3, 1^7
+
+[Verse 2]
+  1^7
+
+[Bridge]
+  1^7
+  b3, 1^7
+  4sus4, 4, 1^7
+  b3, 1^7, 4sus4, 4, 1^7
+  b3, 1^7
+  4sus4, 4, 1^7
+
+[Verse 3]
+  b3, 1^7, 4sus4, 4, 1^7
+  1^7
+
+[Chorus]
+  1^7, b3, 1^7
+  b3, 1^7
+
+[Verse 4]
+  1^7
+
+[Solo]
+  1^7, b3, 1^7, 4sus4, 4, 1^7, b3, 1^7, 4sus4, 4, 1^7, b3, 1^7, 4sus4, 4, 1^7, b3, 1^7, 4sus4, 4, 1^7, b3, 1^7, 4sus4, 4, 1^7, b3, 1^7, 4sus4, 4, 1^7, b3, 1^7, 4sus4, 4, 1^7, b3, 1^7, 4sus4, 4, 1^7, b3, 1^7, 4sus4, 4, 1^7, b3, 1^7, 4sus4, 4, 1^7
+
+[Fade Out]
+  1^7, b3, 1^7, 4sus4, 4, 1^7, b3, 1^7, 4sus4, 4, 1^7, b3, 1^7
+

@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mei ixml:state="ambiguous"
+     xmlns:ixml="http://invisiblexml.org/NS">
+   <music>
+      <title>Trip the Light Fantastic</title>
+      <album>The Battle of Garden's Gate</album>
+      <artist>Greta Van Fleet</artist>
+      <key>E</key>
+      <section type="Verse 1">
+         <chordLine>
+            <chord num="1">E</chord>
+            <chord num="4">A</chord>
+         </chordLine>
+         <lyrics>Enter the flow</lyrics>
+         <chordLine>
+            <chord num="1">E</chord>
+         </chordLine>
+         <lyrics>Dharma, Divine</lyrics>
+         <chordLine>
+            <chord num="1">E</chord>
+            <chord num="4">A</chord>
+         </chordLine>
+         <lyrics>Succeeding signs</lyrics>
+         <chordLine>
+            <chord num="1">E</chord>
+         </chordLine>
+         <lyrics>Carbon dancing through time</lyrics>
+         <chordLine>
+            <chord num="1">E</chord>
+            <chord num="4">A</chord>
+            <chord num="1">E</chord>
+         </chordLine>
+         <lyrics>Give me the truth, and I will sing on</lyrics>
+         <chordLine>
+            <chord num="1">E</chord>
+            <chord num="4">A</chord>
+         </chordLine>
+         <lyrics>My universe is so</lyrics>
+         <chordLine>
+            <chord num="4">A</chord>
+            <chord num="1">E</chord>
+         </chordLine>
+         <lyrics>To ask the questions unknown</lyrics>
+         <chordLine>
+            <chord num="1">E</chord>
+         </chordLine>
+         <lyrics>Is to respond</lyrics>
+         <chordLine>
+            <chord num="4">A</chord>
+            <chord num="1">E</chord>
+            <chord num="4">A</chord>
+            <chord num="1">E</chord>
+            <chord num="4">A</chord>
+            <chord num="1">E</chord>
+            <chord num="4">A</chord>
+            <chord num="b3">G</chord>
+            <chord num="5">B</chord>
+         </chordLine>
+         <lyrics>Ram, ram, ram, ram, ram, ram, ram, ram, ram, ram</lyrics>
+      </section>
+      <section type="Chorus">
+         <chordLine>
+            <chord num="1">E</chord>
+            <chord num="4">A</chord>
+            <chord num="1">E</chord>
+         </chordLine>
+         <lyrics>To comet across the blistering hue</lyrics>
+         <chordLine>
+            <chord num="1">E</chord>
+            <chord num="4">A</chord>
+            <chord num="1">E</chord>
+         </chordLine>
+         <lyrics>Beyond the spaces of false and true</lyrics>
+         <chordLine>
+            <chord num="1">E</chord>
+            <chord num="4">A</chord>
+            <chord num="1">E</chord>
+         </chordLine>
+         <lyrics>Away from the world we have riddled with scars</lyrics>
+         <chordLine>
+            <chord num="1">E</chord>
+            <chord num="4">A</chord>
+            <chord num="1">E</chord>
+         </chordLine>
+         <lyrics>To be wholly free and amongst the stars</lyrics>
+      </section>
+      <section type="Verse 2">
+         <chordLine>
+            <chord num="1">E</chord>
+            <chord num="4">A</chord>
+         </chordLine>
+         <lyrics>You are the land</lyrics>
+         <chordLine>
+            <chord num="1">E</chord>
+         </chordLine>
+         <lyrics>The sea and the sky, woah</lyrics>
+         <chordLine>
+            <chord num="1">E</chord>
+            <chord num="4">A</chord>
+         </chordLine>
+         <lyrics>The explanation why</lyrics>
+         <chordLine>
+            <chord num="1">E</chord>
+         </chordLine>
+         <lyrics>We're tied to all things as one</lyrics>
+         <chordLine>
+            <chord num="1">E</chord>
+            <chord num="4">A</chord>
+            <chord num="1">E</chord>
+         </chordLine>
+         <lyrics>Rhythm of space</lyrics>
+         <chordLine>
+            <chord num="1">E</chord>
+         </chordLine>
+         <lyrics>Expansion of soul</lyrics>
+         <chordLine>
+            <chord num="4">A</chord>
+         </chordLine>
+         <lyrics>A force beyond control</lyrics>
+         <chordLine>
+            <chord num="1">E</chord>
+            <chord num="4">A</chord>
+         </chordLine>
+         <lyrics>Travelers in time searching for the unknown</lyrics>
+         <chordLine>
+            <chord num="1">E</chord>
+            <chord num="4">A</chord>
+            <chord num="1">E</chord>
+            <chord num="4">A</chord>
+            <chord num="1">E</chord>
+            <chord num="4">A</chord>
+            <chord num="b3">G</chord>
+            <chord num="5">B</chord>
+         </chordLine>
+         <lyrics>Ram, ram, ram, ram, ram, ram, ram, ram, ram, ram</lyrics>
+      </section>
+      <section type="Chorus">
+         <chordLine>
+            <chord num="1">E</chord>
+            <chord num="b7">D</chord>
+            <chord num="4">A</chord>
+            <chord num="1">E</chord>
+         </chordLine>
+         <lyrics>To comet across the blistering hue</lyrics>
+         <chordLine>
+            <chord num="1">E</chord>
+            <chord num="b7">D</chord>
+            <chord num="4">A</chord>
+            <chord num="1">E</chord>
+         </chordLine>
+         <lyrics>Beyond the spaces of false and true</lyrics>
+         <chordLine>
+            <chord num="1">E</chord>
+            <chord num="b7">D</chord>
+            <chord num="4">A</chord>
+            <chord num="1">E</chord>
+         </chordLine>
+         <lyrics>Away from the world we have riddled with scars</lyrics>
+         <chordLine>
+            <chord num="1">E</chord>
+            <chord num="4">A</chord>
+            <chord num="1">E</chord>
+         </chordLine>
+         <lyrics>To be wholly free and amongst the stars</lyrics>
+      </section>
+      <section type="Instrumental">
+         <chordLine>
+            <chord num="1">E</chord>
+            <chord num="1m7">Em7</chord>
+            <chord num="1">E</chord>
+            <chord num="4">A</chord>
+            <chord num="b6">C</chord>
+            <chord num="2m">F#m</chord>
+            <chord num="1">E</chord>
+            <chord num="1m7">Em7</chord>
+            <chord num="1">E</chord>
+            <chord num="4">A</chord>
+            <chord num="b6">C</chord>
+            <chord num="4m">Am</chord>
+         </chordLine>
+         <lyrics>Ah sri rama, jayam, ram ram ram ram</lyrics>
+         <chordLine>
+            <chord num="1">E</chord>
+            <chord num="1m7">Em7</chord>
+            <chord num="1">E</chord>
+            <chord num="4">A</chord>
+            <chord num="b6">C</chord>
+            <chord num="2m">F#m</chord>
+            <chord num="1">E</chord>
+            <chord num="1m7">Em7</chord>
+            <chord num="1">E</chord>
+            <chord num="4">A</chord>
+            <chord num="b6">C</chord>
+            <chord num="b7">D</chord>
+         </chordLine>
+         <lyrics>Ah sri rama, jayam, ram ram ram ram</lyrics>
+      </section>
+      <section type="Chorus">
+         <chordLine>
+            <chord num="1">E</chord>
+            <chord num="4">A</chord>
+            <chord num="1">E</chord>
+         </chordLine>
+         <lyrics>To comet across the blistering hue</lyrics>
+         <chordLine>
+            <chord num="1">E</chord>
+            <chord num="4">A</chord>
+            <chord num="1">E</chord>
+         </chordLine>
+         <lyrics>Beyond the spaces of false and true</lyrics>
+         <chordLine>
+            <chord num="1">E</chord>
+            <chord num="4">A</chord>
+            <chord num="1">E</chord>
+         </chordLine>
+         <lyrics>Away from the world we have riddled with scars</lyrics>
+         <chordLine>
+            <chord num="1">E</chord>
+            <chord num="4">A</chord>
+            <chord num="1">E</chord>
+         </chordLine>
+         <lyrics>To be wholly free and amongst the stars</lyrics>
+      </section>
+      <section type="Outro">
+         <chordLine>
+            <chord num="b7">D</chord>
+            <chord num="4">A</chord>
+            <chord num="1">E</chord>
+         </chordLine>
+         <lyrics>Yeah, Hey</lyrics>
+      </section>
+   </music>
+</mei>

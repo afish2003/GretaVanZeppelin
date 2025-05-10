@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mei ixml:state="ambiguous"
+     xmlns:ixml="http://invisiblexml.org/NS">
+   <music>
+      <title>Highway Tune</title>
+      <album>From the Fires</album>
+      <artist>Greta Van Fleet</artist>
+      <key>E</key>
+      <section type="Intro">
+         <chordLine>
+            <chord num="1">E</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Pre-Verse">
+         <lyrics>Oh mama</lyrics>
+      </section>
+      <section type="Verse 1">
+         <chordLine>
+            <chord num="1">E</chord>
+         </chordLine>
+         <lyrics>No stopping at the red light girl Because I want to get your signal No going at the green light girl Because I want to be with you now You are my special You are my special You are my midnight, midnight yeah</lyrics>
+      </section>
+      <section type="Chorus">
+         <chordLine>
+            <chord num="4">A</chord>
+         </chordLine>
+         <lyrics>So sweet, so fine, so nice</lyrics>
+         <chordLine>
+            <chord num="5">B</chord>
+            <chord num="1">E</chord>
+         </chordLine>
+         <lyrics>Oh my, my my, my my, oh</lyrics>
+      </section>
+      <section type="Verse 2">
+         <chordLine>
+            <chord num="1">E</chord>
+         </chordLine>
+         <lyrics>No stopping on the highway girl Because I want to burn my gas There's one girl that I know I'm never gonna pass She is my special She is my special She is my midnight, midnight yeah</lyrics>
+      </section>
+      <section type="Chorus">
+         <chordLine>
+            <chord num="4">A</chord>
+         </chordLine>
+         <lyrics>So sweet, so fine, so nice</lyrics>
+         <chordLine>
+            <chord num="5">B</chord>
+            <chord num="1">E</chord>
+         </chordLine>
+         <lyrics>Oh my, my my, my my, oh</lyrics>
+      </section>
+      <section type="Interlude">
+         <chordLine>
+            <chord num="1">E</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Bridge">
+         <chordLine>
+            <chord num="1">E</chord>
+         </chordLine>
+         <lyrics>Oh yeah</lyrics>
+      </section>
+      <section type="Chorus">
+         <chordLine>
+            <chord num="4">A</chord>
+         </chordLine>
+         <lyrics>So sweet, so fine, so nice</lyrics>
+         <chordLine>
+            <chord num="5">B</chord>
+            <chord num="1">E</chord>
+         </chordLine>
+         <lyrics>Oh my, my my, my my, oh, sugar</lyrics>
+      </section>
+   </music>
+</mei>

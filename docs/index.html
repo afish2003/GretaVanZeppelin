@@ -5,15 +5,64 @@
         <meta charset="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <link rel="stylesheet" type="text/css" href="style.css" />
+        <link rel="stylesheet" href="https://use.typekit.net/xxw1fdo.css"/>
+        <link rel="stylesheet" href="https://use.typekit.net/xxw1fdo.css"/>
+        <link rel="icon" href="images/favicon.png" type="image/png"/>
    
     </head>
     <body>
-        <h1>Greta Van Fleet and Led Zeppelin Comparison</h1>
-        <nav>
-            <a href="index.html">Home</a> | <a href="about.html">About</a> | <a href="methods.html">Methods</a>
-        </nav>
+        <header class="page-header">
+            <a href="https://github.com/afish2003/GretaVanZeppelin"><img src="images/logo.png" alt="GretaVanZeppelin Logo" class="logo" /></a>
+            
+        </header>
         
-        <p>Welcome to our music comparison project! This project is currently in progress as a final project for our Digit 210 Course!</p>
-
+        <div class="corner-menu">
+            <button id="menu-toggle" class="hamburger" aria-label="Toggle menu">
+                <span class="bar"></span>
+                <span class="bar"></span>
+                <span class="bar"></span>
+            </button>
+            <div id="menu-content" class="menu-hidden">
+                <a href="index.html">Home</a>
+                <a href="about.html">About</a>
+                <a href="methods.html">Methods</a>
+                <a href="albums.html">Albums</a>
+                <a href="analysis.html">Analysis</a>
+            </div>
+        </div>
+        
+        
+        <section class="intro-section">
+            <h1>Music Comparison</h1>
+            <div class="text-box">
+                <p>
+                    Is the up-and-coming band <a href="https://en.wikipedia.org/wiki/Greta_Van_Fleet">Greta Van Fleet</a> actually that similar to the classic rockers of <a href="https://en.wikipedia.org/wiki/Led_Zeppelin">Led Zeppelin</a>?</p>
+                    
+                <p>This project for <a href="https://newtfire.org/courses/textAnalysis/">Penn State Behrend's DIGIT 210 course</a> aimed to use novel technologies in the XML stack to markup chord charts so that they could be analyzed by various Python and NLP programs. Our goal is to analyze their commonly used chord progressions and lyrical themes to discover connections, contrasts, and what makes each band unique!            </p>
+            </div>
+            
+            <div class="text-box">
+                <h3><a href="https://github.com/afish2003/GretaVanZeppelin">View the project on GitHub</a></h3>
+            </div>
+        </section>
+        <footer class="footer">
+            <p>
+                <span>The GretaVanZeppelin Project</span> by 
+                <a href="https://github.com/afish2003/GretaVanZeppelin">Alexander Fisher, Ashlynn Allgeier, Michael Simons, and Connor Carpenter</a> 
+                is licensed under 
+                <a href="https://creativecommons.org/licenses/by-nc/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer">
+                    CC BY-NC 4.0
+                    <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt="CC" />
+                    <img src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt="BY" />
+                    <img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1" alt="NC" />
+                </a>
+            </p>
+        </footer>
+        <script src="java.js"></script>
+        
     </body>
+    
+    
+    
 </html>
+

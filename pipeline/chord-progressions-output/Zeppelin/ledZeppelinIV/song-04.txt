@@ -1,0 +1,88 @@
+Title: Stairway to Heaven
+Album: Led Zeppelin IV
+Artist: Led Zeppelin
+Key: C
+
+[Intro]
+  6m, 6m(maj9), 6m7, 2/b5, 4maj7, 5, 6m, 6m, 6m(maj9), 6m7, 2/b5, 4maj7, 5, 6m, 1, 2, 4maj7, 6m, 1, 5, 2, 1, 2, 4maj7, 6m, 1, 2, 4maj7
+
+[Verse 1]
+  
+  6m, 6m(maj9)
+  6m7, 2/b5
+  4maj7, 5, 6m
+  6m, 6m(maj9)
+  6m7, 2/b5
+  4maj7, 5, 6m
+  1, 2/b5, 4maj7, 6m, 1, 5, 2
+  1, 2, 4maj7, 6m
+  1, 2, 4maj7
+  6m, 6m(maj9)
+  6m7, 2/b5
+  4maj7, 5, 6m
+  6m, 6m(maj9), 6m7, 2/b5, 4maj7, 5, 6m, 5
+
+[Bridge 1]
+  6m7, 2, 6m7
+  3m/2, 2, 1/2, 2, 6m7, 2
+  6m7, 3m/2, 2, 1/2, 2
+
+[Verse 2]
+  1, 5
+  6m
+  1, 5, 4maj7, 6m
+  1, 5
+  6m
+  1, 5, 4maj7, 6m, 1, 5
+
+[Bridge 2]
+  6m7, 2, 6m7
+  3m/2, 2, 1/2, 2, 6m7, 2
+  6m7, 3m/2, 2, 1/2, 2
+
+[Verse 3]
+  1, 5, 6m
+  1, 5, 4maj7, 6m
+  1, 5
+  6m
+  1, 5, 4maj7, 6m, 1, 5
+
+[Bridge 3]
+  6m7, 2, 6m7, 3m/2, 2, 1/2, 2, 6m7, 2, 6m7, 3m/2, 2, 1/2, 2
+
+[Verse 4]
+  1, 5, 6m
+  1, 5, 4maj7, 6m
+  1, 5, 6m
+  1, 5, 4maj7, 6m, 1, 5
+
+[Bridge 4]
+  6m7, 2, 6m7, 3m/2
+  2, 1/2, 2, 6m7, 2, 6m7, 3m/2, 2, 1/2, 2
+
+[Verse 5]
+  1, 5, 6m
+  1, 5, 4maj7, 6m
+  1, 5, 6m
+  1, 5, 4maj7, 6m, 1, 5, 2
+
+[Bridge 5]
+  2sus4, 2, 1, 2sus4, 2, 1
+
+[Solo]
+  6m, 1/5, 4maj7, 6m, 1/5, 4maj7, 6m, 1/5, 4maj7, 6m, 1/5, 4maj7, 6m, 1/5, 4maj7, 6m, 1/5, 4maj7, 6m, 1/5, 4maj7, 6m, 1/5, 4maj7, 6m, 1/5, 4maj7, 6m, 1/5, 4maj7
+
+[Verse 6]
+  6m, 5, 4
+  6m, 5, 4
+  6m, 5, 4
+  6m, 5, 4
+  6m, 5, 4
+  6m, 5, 4
+  6m, 5, 4
+  6m, 5, 4
+  6m, 5, 4
+
+[Outro]
+  6m, 1/5, 4maj7, 6m, 1/5, 4maj7, 6m, 1/5, 6m, 1/5, 6m, 1/5, 4maj7
+

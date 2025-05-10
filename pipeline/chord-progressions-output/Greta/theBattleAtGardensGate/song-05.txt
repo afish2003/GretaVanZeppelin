@@ -1,0 +1,68 @@
+Title: Age of Machine
+Album: The Battle of Garden's Gate
+Artist: Greta Van Fleet
+Key: F
+
+[Theme 1]
+  6m, 2, 6m, 2, 6m, 2, 6m, 2, 6m, 2, 6m, 2, 6m, 2, 6m, 2
+
+[Verse 1]
+  6m, 5
+  2sus2
+  2
+  1, 2
+  6m, 5
+  2sus2
+  2
+  1, 2
+
+[Theme 2]
+  6m, 7m, 1, 2, 1, 5, 6m, 2, 6m, 7m, 1, 2, 1, 5, 6m, 4
+
+[Theme 1]
+  6m, 2, 6m, 2, 6m, 2, 6m, 2
+
+[Verse 2]
+  6m, 5
+  2sus2
+  2
+  1, 2
+  6m, 5
+  2sus2
+  2
+  1, 2
+
+[Theme 2]
+  6m, 7m, 1, 2, 1, 5, 6m, 2, 6m, 7m, 1, 2, 1, 5, 6m, 4, 3m7
+
+[Chorus]
+  6, 1
+  5
+  3m
+  6, 1
+  5
+  3m, 2
+
+[Solo]
+  6, 1, 5, 3m, 6, 1, 5, 3m
+
+[Chorus]
+  6, 1
+  5
+  3m
+  6, 1
+  5
+  3m, 4
+
+[Bridge]
+  2
+
+[Theme 1]
+  6m, 2, 6m, 2, 6m, 2, 6m, b7, 6m, 2, 6m, b7
+
+[Theme 3]
+  6m, 2, 6m, b7
+
+[Theme 4]
+  6m, 2, 6m, b7, 6m, 2, 6m, b7, 6m
+

@@ -1,0 +1,14 @@
+Title: Moby Dick
+Album: Led Zeppelin II
+Artist: Led Zeppelin
+Key: F
+
+[Theme 1]
+  6, 1/3, 6, 1/3, 6, 1/3, 6, 1/3, 2m, 4, 2m, 4, 6, 1/3, 6, 1/3, 3, 2m, 6, 1/3, 6, 1/3
+
+[Theme 2]
+  6, 1/3, 6, 6, 1/3, 6, 2m, 4, 6, 6, 1/3, 6, 3, 2m, 6
+
+[Outro]
+  6, 1/3, 6, 2m, 4, 2m, 3, 2m, 6, 5, 3
+

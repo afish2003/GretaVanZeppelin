@@ -1,0 +1,49 @@
+Title: Four Sticks
+Album: Led Zeppelin IV
+Artist: Led Zeppelin
+Key: E
+
+[Intro]
+  1^5, 4^5, b3^5, 1^5, 4^5, b3^5, 1^5
+
+[Verse 1]
+  1^5
+  4^5, b3^5
+  1^5, 4^5
+  b3^5, 1^5
+
+[Verse 2]
+  1^5
+  4^5, b3^5
+  1^5, 4^5, b3^5
+
+[Chorus]
+  b3^6/b7
+  4sus2
+  b3^6/b7
+
+[Riff]
+  1^5, 4^5, b3^5, 1^5, 4^5, b3^5, 1^5
+
+[Verse 3]
+  1^5, 4^5
+  b3^5, 1^5
+  4^5, b3^5
+
+[Chorus]
+  b3^6/b7
+  4sus2
+  b3^6/b7
+
+[Bridge]
+  b3^6/b7, 4sus2, b3^6/b7, 4
+
+[Verse 4]
+  1^5
+  4^5, b3^5
+  1^5, 4^5
+  b3^5, 1^5, 1^5
+
+[Fade Out]
+  1^5
+

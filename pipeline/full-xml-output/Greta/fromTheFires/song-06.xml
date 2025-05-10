@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mei ixml:state="ambiguous"
+     xmlns:ixml="http://invisiblexml.org/NS">
+   <music>
+      <title>Meet on the Ledge</title>
+      <album>From the Fires</album>
+      <artist>Greta Van Fleet</artist>
+      <key>F</key>
+      <section type="Intro">
+         <chordLine>
+            <chord num="2m">Gm</chord>
+         </chordLine>
+      </section>
+      <section type="Verse 1">
+         <chordLine>
+            <chord num="6m">Dm</chord>
+            <chord num="5">C</chord>
+            <chord num="6m">Dm</chord>
+            <chord num="5">C</chord>
+         </chordLine>
+         <lyrics>We used to say that come the day</lyrics>
+         <chordLine>
+            <chord num="3m">Am</chord>
+            <chord num="2">G</chord>
+         </chordLine>
+         <lyrics>We'd all be making songs</lyrics>
+         <chordLine>
+            <chord num="4">Bb</chord>
+            <chord num="1">F</chord>
+         </chordLine>
+         <lyrics>Or finding better words</lyrics>
+         <chordLine>
+            <chord num="4">Bb</chord>
+            <chord num="1">F</chord>
+            <chord num="5">C</chord>
+         </chordLine>
+         <lyrics>These ideas never lasted long</lyrics>
+         <chordLine>
+            <chord num="6m">Dm</chord>
+            <chord num="5">C</chord>
+            <chord num="6m">Dm</chord>
+            <chord num="5">C</chord>
+         </chordLine>
+         <lyrics>The way is up along the road</lyrics>
+         <chordLine>
+            <chord num="3m">Am</chord>
+            <chord num="2">G</chord>
+         </chordLine>
+         <lyrics>The air is growing thin</lyrics>
+         <chordLine>
+            <chord num="4">Bb</chord>
+            <chord num="1">F</chord>
+         </chordLine>
+         <lyrics>Too many friends who tried</lyrics>
+         <chordLine>
+            <chord num="4">Bb</chord>
+            <chord num="1">F</chord>
+            <chord num="5">C</chord>
+         </chordLine>
+         <lyrics>Blown off this mountain with the wind</lyrics>
+      </section>
+      <section type="Chorus">
+         <chordLine>
+            <chord num="5">C</chord>
+            <chord num="2m">Gm</chord>
+         </chordLine>
+         <lyrics>Meet on the ledge, we're gonna meet on the ledge</lyrics>
+         <chordLine>
+            <chord num="4">Bb</chord>
+            <chord num="1">F</chord>
+            <chord num="5">C</chord>
+         </chordLine>
+         <lyrics>When my time is up I'll see all my friends</lyrics>
+         <chordLine>
+            <chord num="5">C</chord>
+            <chord num="2m">Gm</chord>
+         </chordLine>
+         <lyrics>Meet on the ledge, we're gonna meet on the ledge</lyrics>
+         <chordLine>
+            <chord num="4">Bb</chord>
+            <chord num="1">F</chord>
+            <chord num="5">C</chord>
+         </chordLine>
+         <lyrics>If you really mean it, it all comes round again</lyrics>
+      </section>
+      <section type="Verse 2">
+         <chordLine>
+            <chord num="6m">Dm</chord>
+            <chord num="5">C</chord>
+            <chord num="6m">Dm</chord>
+            <chord num="5">C</chord>
+         </chordLine>
+         <lyrics>Now I see I'm all alone</lyrics>
+         <chordLine>
+            <chord num="3m">Am</chord>
+            <chord num="2">G</chord>
+         </chordLine>
+         <lyrics>That's the only way to be</lyrics>
+         <chordLine>
+            <chord num="4">Bb</chord>
+            <chord num="1">F</chord>
+         </chordLine>
+         <lyrics>You'll have your chance again</lyrics>
+         <chordLine>
+            <chord num="4">Bb</chord>
+            <chord num="1">F</chord>
+            <chord num="5">C</chord>
+         </chordLine>
+         <lyrics>Then you can do the work for me</lyrics>
+      </section>
+      <section type="Chorus">
+         <chordLine>
+            <chord num="5">C</chord>
+            <chord num="2m">Gm</chord>
+         </chordLine>
+         <lyrics>Meet on the ledge, we're gonna meet on the ledge</lyrics>
+         <chordLine>
+            <chord num="4">Bb</chord>
+            <chord num="1">F</chord>
+            <chord num="5">C</chord>
+         </chordLine>
+         <lyrics>When my time is up I'll see all my friends</lyrics>
+         <chordLine>
+            <chord num="5">C</chord>
+            <chord num="2m">Gm</chord>
+         </chordLine>
+         <lyrics>Meet on the ledge, we're gonna meet on the ledge</lyrics>
+         <chordLine>
+            <chord num="4">Bb</chord>
+            <chord num="1">F</chord>
+            <chord num="5">C</chord>
+         </chordLine>
+         <lyrics>If you really mean it, it all comes round again</lyrics>
+      </section>
+      <section type="Solo">
+         <chordLine>
+            <chord num="6m">Dm</chord>
+            <chord num="5">C</chord>
+            <chord num="6m">Dm</chord>
+            <chord num="5">C</chord>
+            <chord num="3m">Am</chord>
+            <chord num="2">G</chord>
+            <chord num="6m">Dm</chord>
+            <chord num="5">C</chord>
+            <chord num="6m">Dm</chord>
+            <chord num="5">C</chord>
+            <chord num="3m">Am</chord>
+            <chord num="2">G</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Chorus">
+         <chordLine>
+            <chord num="5">C</chord>
+            <chord num="2m">Gm</chord>
+         </chordLine>
+         <lyrics>Meet on the ledge, we're gonna meet on the ledge</lyrics>
+         <chordLine>
+            <chord num="4">Bb</chord>
+            <chord num="1">F</chord>
+            <chord num="5">C</chord>
+         </chordLine>
+         <lyrics>When my time is up I'll see all my friends</lyrics>
+         <chordLine>
+            <chord num="5">C</chord>
+            <chord num="2m">Gm</chord>
+         </chordLine>
+         <lyrics>Meet on the ledge, we're gonna meet on the ledge</lyrics>
+         <chordLine>
+            <chord num="4">Bb</chord>
+            <chord num="1">F</chord>
+            <chord num="5">C</chord>
+         </chordLine>
+         <lyrics>If you really mean it, it all comes round again</lyrics>
+         <chordLine>
+            <chord num="5">C</chord>
+            <chord num="2m">Gm</chord>
+            <chord num="4">Bb</chord>
+            <chord num="1">F</chord>
+         </chordLine>
+         <lyrics>We're gonna meet on the ledge, on the ledge</lyrics>
+         <chordLine>
+            <chord num="5">C</chord>
+         </chordLine>
+         <lyrics>All comes round again</lyrics>
+         <chordLine>
+            <chord num="5">C</chord>
+            <chord num="2m">Gm</chord>
+            <chord num="4">Bb</chord>
+            <chord num="1">F</chord>
+            <chord num="5">C</chord>
+         </chordLine>
+         <lyrics>We're gonna meet on the ledge</lyrics>
+      </section>
+   </music>
+</mei>

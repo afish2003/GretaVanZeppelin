@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mei ixml:state="ambiguous"
+     xmlns:ixml="http://invisiblexml.org/NS">
+   <music>
+      <title>Age of Machine</title>
+      <album>The Battle of Garden's Gate</album>
+      <artist>Greta Van Fleet</artist>
+      <key>F</key>
+      <section type="Theme 1">
+         <chordLine>
+            <chord num="6m">Dm</chord>
+            <chord num="2">G</chord>
+            <chord num="6m">Dm</chord>
+            <chord num="2">G</chord>
+            <chord num="6m">Dm</chord>
+            <chord num="2">G</chord>
+            <chord num="6m">Dm</chord>
+            <chord num="2">G</chord>
+            <chord num="6m">Dm</chord>
+            <chord num="2">G</chord>
+            <chord num="6m">Dm</chord>
+            <chord num="2">G</chord>
+            <chord num="6m">Dm</chord>
+            <chord num="2">G</chord>
+            <chord num="6m">Dm</chord>
+            <chord num="2">G</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Verse 1">
+         <chordLine>
+            <chord num="6m">Dm</chord>
+            <chord num="5">C</chord>
+         </chordLine>
+         <lyrics>Perfect child</lyrics>
+         <chordLine>
+            <chord num="2sus2">Gsus2</chord>
+         </chordLine>
+         <lyrics>Plugged in since the womb</lyrics>
+         <chordLine>
+            <chord num="2">G</chord>
+         </chordLine>
+         <lyrics>Prophet of the dune</lyrics>
+         <chordLine>
+            <chord num="1">F</chord>
+            <chord num="2">G</chord>
+         </chordLine>
+         <lyrics>In this electric tomb</lyrics>
+         <chordLine>
+            <chord num="6m">Dm</chord>
+            <chord num="5">C</chord>
+         </chordLine>
+         <lyrics>Man has made</lyrics>
+         <chordLine>
+            <chord num="2sus2">Gsus2</chord>
+         </chordLine>
+         <lyrics>An omnipresent force</lyrics>
+         <chordLine>
+            <chord num="2">G</chord>
+         </chordLine>
+         <lyrics>Heading on a course</lyrics>
+         <chordLine>
+            <chord num="1">F</chord>
+            <chord num="2">G</chord>
+         </chordLine>
+         <lyrics>For interstellar shores</lyrics>
+      </section>
+      <section type="Theme 2">
+         <chordLine>
+            <chord num="6m">Dm</chord>
+            <chord num="7m">Em</chord>
+            <chord num="1">F</chord>
+            <chord num="2">G</chord>
+            <chord num="1">F</chord>
+            <chord num="5">C</chord>
+            <chord num="6m">Dm</chord>
+            <chord num="2">G</chord>
+            <chord num="6m">Dm</chord>
+            <chord num="7m">Em</chord>
+            <chord num="1">F</chord>
+            <chord num="2">G</chord>
+            <chord num="1">F</chord>
+            <chord num="5">C</chord>
+            <chord num="6m">Dm</chord>
+            <chord num="4">Bb</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Theme 1">
+         <chordLine>
+            <chord num="6m">Dm</chord>
+            <chord num="2">G</chord>
+            <chord num="6m">Dm</chord>
+            <chord num="2">G</chord>
+            <chord num="6m">Dm</chord>
+            <chord num="2">G</chord>
+            <chord num="6m">Dm</chord>
+            <chord num="2">G</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Verse 2">
+         <chordLine>
+            <chord num="6m">Dm</chord>
+            <chord num="5">C</chord>
+         </chordLine>
+         <lyrics>God machine</lyrics>
+         <chordLine>
+            <chord num="2sus2">Gsus2</chord>
+         </chordLine>
+         <lyrics>Malfunctioned as it grew</lyrics>
+         <chordLine>
+            <chord num="2">G</chord>
+         </chordLine>
+         <lyrics>And the circuits blew</lyrics>
+         <chordLine>
+            <chord num="1">F</chord>
+            <chord num="2">G</chord>
+         </chordLine>
+         <lyrics>Falling down on you</lyrics>
+         <chordLine>
+            <chord num="6m">Dm</chord>
+            <chord num="5">C</chord>
+         </chordLine>
+         <lyrics>Now you're free</lyrics>
+         <chordLine>
+            <chord num="2sus2">Gsus2</chord>
+         </chordLine>
+         <lyrics>Unplug from the source</lyrics>
+         <chordLine>
+            <chord num="2">G</chord>
+         </chordLine>
+         <lyrics>No more underscores</lyrics>
+         <chordLine>
+            <chord num="1">F</chord>
+            <chord num="2">G</chord>
+         </chordLine>
+         <lyrics>Open up the doors</lyrics>
+      </section>
+      <section type="Theme 2">
+         <chordLine>
+            <chord num="6m">Dm</chord>
+            <chord num="7m">Em</chord>
+            <chord num="1">F</chord>
+            <chord num="2">G</chord>
+            <chord num="1">F</chord>
+            <chord num="5">C</chord>
+            <chord num="6m">Dm</chord>
+            <chord num="2">G</chord>
+            <chord num="6m">Dm</chord>
+            <chord num="7m">Em</chord>
+            <chord num="1">F</chord>
+            <chord num="2">G</chord>
+            <chord num="1">F</chord>
+            <chord num="5">C</chord>
+            <chord num="6m">Dm</chord>
+            <chord num="4">Bb</chord>
+            <chord num="3m7">Am7</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Chorus">
+         <chordLine>
+            <chord num="6">D</chord>
+            <chord num="1">F</chord>
+         </chordLine>
+         <lyrics>Oh God, the feeling</lyrics>
+         <chordLine>
+            <chord num="5">C</chord>
+         </chordLine>
+         <lyrics>We need some healing</lyrics>
+         <chordLine>
+            <chord num="3m">Am</chord>
+         </chordLine>
+         <lyrics>We need some healing</lyrics>
+         <chordLine>
+            <chord num="6">D</chord>
+            <chord num="1">F</chord>
+         </chordLine>
+         <lyrics>God knows if you feel defeated</lyrics>
+         <chordLine>
+            <chord num="5">C</chord>
+         </chordLine>
+         <lyrics>You have been cheated</lyrics>
+         <chordLine>
+            <chord num="3m">Am</chord>
+            <chord num="2">G</chord>
+         </chordLine>
+         <lyrics>You have retreated</lyrics>
+      </section>
+      <section type="Solo">
+         <chordLine>
+            <chord num="6">D</chord>
+            <chord num="1">F</chord>
+            <chord num="5">C</chord>
+            <chord num="3m">Am</chord>
+            <chord num="6">D</chord>
+            <chord num="1">F</chord>
+            <chord num="5">C</chord>
+            <chord num="3m">Am</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Chorus">
+         <chordLine>
+            <chord num="6">D</chord>
+            <chord num="1">F</chord>
+         </chordLine>
+         <lyrics>Oh God, the feeling</lyrics>
+         <chordLine>
+            <chord num="5">C</chord>
+         </chordLine>
+         <lyrics>We need some healing</lyrics>
+         <chordLine>
+            <chord num="3m">Am</chord>
+         </chordLine>
+         <lyrics>We need some healing</lyrics>
+         <chordLine>
+            <chord num="6">D</chord>
+            <chord num="1">F</chord>
+         </chordLine>
+         <lyrics>God knows if you feel defeated</lyrics>
+         <chordLine>
+            <chord num="5">C</chord>
+         </chordLine>
+         <lyrics>You have been cheated</lyrics>
+         <chordLine>
+            <chord num="3m">Am</chord>
+            <chord num="4">Bb</chord>
+         </chordLine>
+         <lyrics>You have retreated</lyrics>
+      </section>
+      <section type="Bridge">
+         <chordLine>
+            <chord num="2">G</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Theme 1">
+         <chordLine>
+            <chord num="6m">Dm</chord>
+            <chord num="2">G</chord>
+            <chord num="6m">Dm</chord>
+            <chord num="2">G</chord>
+            <chord num="6m">Dm</chord>
+            <chord num="2">G</chord>
+            <chord num="6m">Dm</chord>
+            <chord num="b7">Eb</chord>
+            <chord num="6m">Dm</chord>
+            <chord num="2">G</chord>
+            <chord num="6m">Dm</chord>
+            <chord num="b7">Eb</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Theme 3">
+         <chordLine>
+            <chord num="6m">Dm</chord>
+            <chord num="2">G</chord>
+            <chord num="6m">Dm</chord>
+            <chord num="b7">Eb</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Theme 4">
+         <chordLine>
+            <chord num="6m">Dm</chord>
+            <chord num="2">G</chord>
+            <chord num="6m">Dm</chord>
+            <chord num="b7">Eb</chord>
+            <chord num="6m">Dm</chord>
+            <chord num="2">G</chord>
+            <chord num="6m">Dm</chord>
+            <chord num="b7">Eb</chord>
+            <chord num="6m">Dm</chord>
+         </chordLine>
+      </section>
+   </music>
+</mei>

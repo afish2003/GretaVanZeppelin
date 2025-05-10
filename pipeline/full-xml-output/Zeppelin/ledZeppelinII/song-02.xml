@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mei ixml:state="ambiguous"
+     xmlns:ixml="http://invisiblexml.org/NS">
+   <music>
+      <title>What Is and What Should Never Be</title>
+      <album>Led Zeppelin II</album>
+      <artist>Led Zeppelin</artist>
+      <key>E</key>
+      <section type="Intro">
+         <chordLine>
+            <chord num="1^7">E7</chord>
+            <chord num="4^13">A13</chord>
+         </chordLine>
+         <lyrics>And if I say to you tomorrow</lyrics>
+      </section>
+      <section type="Verse 1">
+         <chordLine>
+            <chord num="1^7">E7</chord>
+            <chord num="4^13">A13</chord>
+         </chordLine>
+         <lyrics>Take my hand, child come with me</lyrics>
+         <chordLine>
+            <chord num="1^7">E7</chord>
+            <chord num="4^13">A13</chord>
+         </chordLine>
+         <lyrics>It's to a castle I will take you</lyrics>
+         <chordLine>
+            <chord num="1^7">E7</chord>
+            <chord num="4^13">A13</chord>
+         </chordLine>
+         <lyrics>Where what's to be, they say will be</lyrics>
+      </section>
+      <section type="Chorus">
+         <chordLine>
+            <chord num="4">A</chord>
+         </chordLine>
+         <lyrics>Catch the wind, see us spin</lyrics>
+         <chordLine>
+            <chord num="4^7">A7</chord>
+         </chordLine>
+         <lyrics>Sail away leave today</lyrics>
+         <chordLine>
+            <chord num="4^6">A6</chord>
+            <chord num="b7">D</chord>
+            <chord num="4">A</chord>
+         </chordLine>
+         <lyrics>Way up high in the sky, hey, whoa But the wind won't blow</lyrics>
+         <chordLine>
+            <chord num="4^7">A7</chord>
+         </chordLine>
+         <lyrics>You really shouldn't go</lyrics>
+         <chordLine>
+            <chord num="4^6">A6</chord>
+            <chord num="b7">D</chord>
+            <chord num="4">A</chord>
+            <chord num="5">B</chord>
+            <chord num="5/4">B/A</chord>
+         </chordLine>
+         <lyrics>It only goes to show That you will be mine</lyrics>
+         <chordLine>
+            <chord num="3m7">G#m7</chord>
+            <chord num="1">E</chord>
+            <chord num="5">B</chord>
+            <chord num="2">F#</chord>
+         </chordLine>
+         <lyrics>By takin' our time, ooh</lyrics>
+         <chordLine>
+            <chord num="4">A</chord>
+            <chord num="1">E</chord>
+            <chord num="4^13">A13</chord>
+         </chordLine>
+         <lyrics>And if you say to me tomorrow</lyrics>
+      </section>
+      <section type="Verse 2">
+         <chordLine>
+            <chord num="1^7">E7</chord>
+            <chord num="4^13">A13</chord>
+         </chordLine>
+         <lyrics>Oh what fun it all would be</lyrics>
+         <chordLine>
+            <chord num="1^7">E7</chord>
+            <chord num="4^13">A13</chord>
+         </chordLine>
+         <lyrics>Then what's to stop us, pretty baby</lyrics>
+         <chordLine>
+            <chord num="1^7">E7</chord>
+            <chord num="4^13">A13</chord>
+         </chordLine>
+         <lyrics>But what is and what should never be</lyrics>
+      </section>
+      <section type="Chorus">
+         <chordLine>
+            <chord num="4">A</chord>
+         </chordLine>
+         <lyrics>Catch the wind, see us spin</lyrics>
+         <chordLine>
+            <chord num="4^7">A7</chord>
+         </chordLine>
+         <lyrics>Sail away leave today</lyrics>
+         <chordLine>
+            <chord num="4^6">A6</chord>
+            <chord num="b7">D</chord>
+            <chord num="4">A</chord>
+         </chordLine>
+         <lyrics>Way up high in the sky, hey, whoa But the wind won't blow</lyrics>
+         <chordLine>
+            <chord num="4^7">A7</chord>
+         </chordLine>
+         <lyrics>You really shouldn't go</lyrics>
+         <chordLine>
+            <chord num="4^6">A6</chord>
+            <chord num="b7">D</chord>
+            <chord num="4">A</chord>
+            <chord num="5">B</chord>
+            <chord num="5/4">B/A</chord>
+         </chordLine>
+         <lyrics>It only goes to show That you will be mine</lyrics>
+         <chordLine>
+            <chord num="3m7">G#m7</chord>
+            <chord num="1">E</chord>
+            <chord num="5">B</chord>
+            <chord num="2">F#</chord>
+            <chord num="4">A</chord>
+            <chord num="1">E</chord>
+         </chordLine>
+         <lyrics>By takin' our time, ooh</lyrics>
+      </section>
+      <section type="Solo">
+         <chordLine>
+            <chord num="4^13">A13</chord>
+            <chord num="1^7">E7</chord>
+            <chord num="4^13">A13</chord>
+            <chord num="1^7">E7</chord>
+            <chord num="4^13">A13</chord>
+            <chord num="1^7">E7</chord>
+            <chord num="4^13">A13</chord>
+            <chord num="4">A</chord>
+            <chord num="4^7">A7</chord>
+            <chord num="4^6">A6</chord>
+            <chord num="b7">D</chord>
+            <chord num="4">A</chord>
+            <chord num="4^7">A7</chord>
+            <chord num="4^6">A6</chord>
+            <chord num="b7">D</chord>
+            <chord num="4">A</chord>
+            <chord num="5">B</chord>
+            <chord num="5/4">B/A</chord>
+            <chord num="3m7">G#m7</chord>
+            <chord num="1">E</chord>
+            <chord num="5">B</chord>
+            <chord num="2">F#</chord>
+            <chord num="4">A</chord>
+            <chord num="1">E</chord>
+            <chord num="4^13">A13</chord>
+         </chordLine>
+         <lyrics>So if you wake up with the sunrise</lyrics>
+      </section>
+      <section type="Verse 3">
+         <chordLine>
+            <chord num="1^7">E7</chord>
+            <chord num="4^13">A13</chord>
+         </chordLine>
+         <lyrics>And all your dreams are still as new</lyrics>
+         <chordLine>
+            <chord num="1^7">E7</chord>
+            <chord num="4^13">A13</chord>
+         </chordLine>
+         <lyrics>And happiness is what you need so bad</lyrics>
+         <chordLine>
+            <chord num="1^7">E7</chord>
+            <chord num="4^13">A13</chord>
+         </chordLine>
+         <lyrics>Girl, the answer lies with you, yeah</lyrics>
+      </section>
+      <section type="Chorus">
+         <chordLine>
+            <chord num="4">A</chord>
+         </chordLine>
+         <lyrics>Catch the wind, see us spin</lyrics>
+         <chordLine>
+            <chord num="4^7">A7</chord>
+         </chordLine>
+         <lyrics>Sail away leave today</lyrics>
+         <chordLine>
+            <chord num="4^6">A6</chord>
+            <chord num="b7">D</chord>
+            <chord num="4">A</chord>
+         </chordLine>
+         <lyrics>Way up high in the sky But the wind won't blow</lyrics>
+         <chordLine>
+            <chord num="4^7">A7</chord>
+         </chordLine>
+         <lyrics>You really shouldn't go</lyrics>
+         <chordLine>
+            <chord num="4^6">A6</chord>
+            <chord num="b7">D</chord>
+            <chord num="4">A</chord>
+            <chord num="5">B</chord>
+            <chord num="5/4">B/A</chord>
+         </chordLine>
+         <lyrics>It only goes to show That you will be mine</lyrics>
+         <chordLine>
+            <chord num="3m7">G#m7</chord>
+            <chord num="1">E</chord>
+            <chord num="5">B</chord>
+            <chord num="2">F#</chord>
+            <chord num="4">A</chord>
+            <chord num="1">E</chord>
+         </chordLine>
+         <lyrics>By takin' our time</lyrics>
+      </section>
+      <section type="Interlude">
+         <chordLine>
+            <chord num="1^5">E5</chord>
+         </chordLine>
+         <lyrics>Oh the wind won't blow and we really shouldn't go And it only goes to showowow My yeah oh Everybody I know seems to know me well But does anybody know I'm gonna move like hell Oh yeah yeah baby</lyrics>
+      </section>
+      <section type="Outro (Fade Out)">
+         <chordLine>
+            <chord num="1^5">E5</chord>
+         </chordLine>
+         <lyrics>Do do do, bop bop a dooh Bop, bop, bop, bop, bop, bop, yeah</lyrics>
+         <chordLine/>
+      </section>
+   </music>
+</mei>

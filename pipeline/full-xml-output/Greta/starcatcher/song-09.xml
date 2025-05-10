@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mei ixml:state="ambiguous"
+     xmlns:ixml="http://invisiblexml.org/NS">
+   <music>
+      <title>Meeting the Master</title>
+      <album>Starcatcher</album>
+      <artist>Greta Van Fleet</artist>
+      <key>Db</key>
+      <section type="Intro">
+         <chordLine>
+            <chord num="1">Db</chord>
+            <chord num="1sus2">Dbsus2</chord>
+            <chord num="1^5">Db5</chord>
+            <chord num="b7^6add9">B6add9</chord>
+            <chord num="b6maj7">Amaj7</chord>
+            <chord num="b7^6add9">B6add9</chord>
+            <chord num="1^5">Db5</chord>
+            <chord num="1">Db</chord>
+            <chord num="1sus2">Dbsus2</chord>
+            <chord num="1^5">Db5</chord>
+            <chord num="b7^6add9">B6add9</chord>
+            <chord num="b6maj7">Amaj7</chord>
+            <chord num="b7^6add9">B6add9</chord>
+            <chord num="1^5">Db5</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Verse 1">
+         <chordLine>
+            <chord num="1">Db</chord>
+            <chord num="b7^6add9">B6add9</chord>
+         </chordLine>
+         <lyrics>What a day to meet the master</lyrics>
+         <chordLine>
+            <chord num="b6maj7">Amaj7</chord>
+            <chord num="6m7">Bbm7</chord>
+            <chord num="1^5">Db5</chord>
+            <chord num="b7^6add9">B6add9</chord>
+         </chordLine>
+         <lyrics>I've been waiting for so long</lyrics>
+         <chordLine>
+            <chord num="1">Db</chord>
+            <chord num="b7^6add9">B6add9</chord>
+         </chordLine>
+         <lyrics>Final day to meet the master</lyrics>
+         <chordLine>
+            <chord num="b6maj7">Amaj7</chord>
+            <chord num="6m7">Bbm7</chord>
+            <chord num="1^5">Db5</chord>
+         </chordLine>
+         <lyrics>It's my time to go home</lyrics>
+      </section>
+      <section type="Chorus">
+         <chordLine>
+            <chord num="b7^6add9">B6add9</chord>
+            <chord num="4add9">Gbadd9</chord>
+            <chord num="1^5">Db5</chord>
+         </chordLine>
+         <lyrics>And I'm taken</lyrics>
+         <chordLine>
+            <chord num="b7^6add9">B6add9</chord>
+            <chord num="4add9">Gbadd9</chord>
+         </chordLine>
+         <lyrics>By the mad_________ness</lyrics>
+         <chordLine>
+            <chord num="1">Db</chord>
+            <chord num="b7^6add9">B6add9</chord>
+            <chord num="4add9">Gbadd9</chord>
+         </chordLine>
+         <lyrics>And the tripping</lyrics>
+         <chordLine>
+            <chord num="1^5">Db5</chord>
+            <chord num="b7^6add9">B6add9</chord>
+            <chord num="4add9">Gbadd9</chord>
+            <chord num="1">Db</chord>
+         </chordLine>
+         <lyrics>And the tou___ching_</lyrics>
+      </section>
+      <section type="Bridge">
+         <chordLine>
+            <chord num="1">Db</chord>
+            <chord num="1sus2">Dbsus2</chord>
+            <chord num="1^5">Db5</chord>
+            <chord num="b7^6add9">B6add9</chord>
+            <chord num="b6maj7">Amaj7</chord>
+            <chord num="b7^6add9">B6add9</chord>
+            <chord num="1^5">Db5</chord>
+            <chord num="1">Db</chord>
+            <chord num="1sus2">Dbsus2</chord>
+            <chord num="1^5">Db5</chord>
+            <chord num="b7^6add9">B6add9</chord>
+            <chord num="b6maj7">Amaj7</chord>
+            <chord num="b7^6add9">B6add9</chord>
+            <chord num="1^5">Db5</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Verse 2">
+         <chordLine>
+            <chord num="1">Db</chord>
+            <chord num="b7^6add9">B6add9</chord>
+         </chordLine>
+         <lyrics>What a day to travel faster</lyrics>
+         <chordLine>
+            <chord num="b6maj7">Amaj7</chord>
+            <chord num="6m7">Bbm7</chord>
+         </chordLine>
+         <lyrics>Take my trip around the sun</lyrics>
+         <chordLine>
+            <chord num="1^5">Db5</chord>
+            <chord num="b7^6add9">B6add9</chord>
+            <chord num="1">Db</chord>
+            <chord num="b7^6add9">B6add9</chord>
+         </chordLine>
+         <lyrics>I have known no other master</lyrics>
+         <chordLine>
+            <chord num="b6maj7">Amaj7</chord>
+            <chord num="6m7">Bbm7</chord>
+            <chord num="1^5">Db5</chord>
+         </chordLine>
+         <lyrics>He has been the only one</lyrics>
+      </section>
+      <section type="Bridge">
+         <chordLine>
+            <chord num="1^5">Db5</chord>
+            <chord num="b7^6add9">B6add9</chord>
+            <chord num="1^5">Db5</chord>
+            <chord num="b7^6add9">B6add9</chord>
+         </chordLine>
+         <lyrics>Ooh, he was the only one</lyrics>
+         <chordLine>
+            <chord num="1^5">Db5</chord>
+            <chord num="b7^6add9">B6add9</chord>
+            <chord num="1^5">Db5</chord>
+            <chord num="b7^6add9">B6add9</chord>
+         </chordLine>
+         <lyrics>Ooh, only one</lyrics>
+         <chordLine>
+            <chord num="1^5">Db5</chord>
+            <chord num="b7^6add9">B6add9</chord>
+            <chord num="1^5">Db5</chord>
+            <chord num="b7^6add9">B6add9</chord>
+            <chord num="1^5">Db5</chord>
+            <chord num="b7^6add9">B6add9</chord>
+            <chord num="1^5">Db5</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Chorus">
+         <chordLine>
+            <chord num="b7^6add9">B6add9</chord>
+            <chord num="4add9">Gbadd9</chord>
+            <chord num="1^5">Db5</chord>
+         </chordLine>
+         <lyrics>And I'm taken</lyrics>
+         <chordLine>
+            <chord num="b7^6add9">B6add9</chord>
+            <chord num="4add9">Gbadd9</chord>
+         </chordLine>
+         <lyrics>By the mad_________ness</lyrics>
+         <chordLine>
+            <chord num="1">Db</chord>
+            <chord num="b7^6add9">B6add9</chord>
+            <chord num="4add9">Gbadd9</chord>
+            <chord num="1^5">Db5</chord>
+         </chordLine>
+         <lyrics>And the tripping</lyrics>
+         <chordLine>
+            <chord num="b7^6add9">B6add9</chord>
+            <chord num="4add9">Gbadd9</chord>
+            <chord num="1">Db</chord>
+         </chordLine>
+         <lyrics>And the tou___ching_</lyrics>
+      </section>
+      <section type="Guitar Solo">
+         <chordLine>
+            <chord num="1">Db</chord>
+            <chord num="5madd11">Abmadd11</chord>
+            <chord num="b7^6add9">B6add9</chord>
+            <chord num="4add9">Gbadd9</chord>
+            <chord num="1">Db</chord>
+            <chord num="5madd11">Abmadd11</chord>
+            <chord num="b7^6add9">B6add9</chord>
+            <chord num="4add9">Gbadd9</chord>
+            <chord num="1">Db</chord>
+            <chord num="5madd11">Abmadd11</chord>
+            <chord num="b7^6add9">B6add9</chord>
+            <chord num="4add9">Gbadd9</chord>
+            <chord num="1">Db</chord>
+            <chord num="5madd11">Abmadd11</chord>
+            <chord num="b7^6add9">B6add9</chord>
+            <chord num="4add9">Gbadd9</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Bridge">
+         <chordLine>
+            <chord num="1">Db</chord>
+            <chord num="5madd11">Abmadd11</chord>
+            <chord num="b7^6add9">B6add9</chord>
+            <chord num="4add9">Gbadd9</chord>
+            <chord num="1">Db</chord>
+         </chordLine>
+         <lyrics>Blow it up</lyrics>
+         <chordLine>
+            <chord num="5madd11">Abmadd11</chord>
+         </chordLine>
+         <lyrics>To give him</lyrics>
+         <chordLine>
+            <chord num="b7^6add9">B6add9</chord>
+         </chordLine>
+         <lyrics>All of our love</lyrics>
+         <chordLine>
+            <chord num="4add9">Gbadd9</chord>
+         </chordLine>
+         <lyrics>All of our love</lyrics>
+         <chordLine>
+            <chord num="1">Db</chord>
+         </chordLine>
+         <lyrics>Blow it up</lyrics>
+         <chordLine>
+            <chord num="5madd11">Abmadd11</chord>
+         </chordLine>
+         <lyrics>To give him</lyrics>
+         <chordLine>
+            <chord num="b7^6add9">B6add9</chord>
+         </chordLine>
+         <lyrics>All of our love</lyrics>
+         <chordLine>
+            <chord num="4add9">Gbadd9</chord>
+         </chordLine>
+         <lyrics>All of our love</lyrics>
+         <chordLine>
+            <chord num="1">Db</chord>
+         </chordLine>
+         <lyrics>Blow it up</lyrics>
+         <chordLine>
+            <chord num="5madd11">Abmadd11</chord>
+         </chordLine>
+         <lyrics>To give him</lyrics>
+         <chordLine>
+            <chord num="b7^6add9">B6add9</chord>
+         </chordLine>
+         <lyrics>All of our love</lyrics>
+         <chordLine>
+            <chord num="4add9">Gbadd9</chord>
+         </chordLine>
+         <lyrics>All of our love</lyrics>
+      </section>
+      <section type="Outro">
+         <chordLine>
+            <chord num="1">Db</chord>
+         </chordLine>
+         <lyrics>All of our love</lyrics>
+         <chordLine>
+            <chord num="5madd11">Abmadd11</chord>
+         </chordLine>
+         <lyrics>All of our love</lyrics>
+         <chordLine>
+            <chord num="b7^6add9">B6add9</chord>
+         </chordLine>
+         <lyrics>All of our love</lyrics>
+         <chordLine>
+            <chord num="4add9">Gbadd9</chord>
+            <chord num="1^5">Db5</chord>
+         </chordLine>
+         <lyrics>All of our love</lyrics>
+      </section>
+   </music>
+</mei>

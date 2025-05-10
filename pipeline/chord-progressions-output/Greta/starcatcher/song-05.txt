@@ -1,0 +1,27 @@
+Title: Runway Blues
+Album: Starcatcher
+Artist: Greta Van Fleet
+Key: E
+
+[Intro]
+  1, b7, 4, 1, b7, 4, 1, b7, 4
+
+[Verse]
+  1, b7, 4, 1, 1, b7, 4, 1
+  b7
+  4, 1, b7, 4, 1
+  1
+  b7
+  4, 1
+
+[Chorus]
+  b3, 4
+  b3, 4
+  1
+
+[Solo]
+  1, b7, 4, 1, b7, 4, 1, b7, 4, 1
+
+[Fade Out]
+  b7, 4, 1
+

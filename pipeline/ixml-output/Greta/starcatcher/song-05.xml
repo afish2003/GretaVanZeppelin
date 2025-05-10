@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><mei ixml:state="ambiguous" xmlns:ixml="http://invisiblexml.org/NS"><music><title>Runway Blues</title>
+<album>Starcatcher</album>
+<artist>Greta Van Fleet</artist>
+<key>E</key>
+
+<section type="Intro"><mdiv>
+E D A
+E D   A E D A
+  Aah!
+ 
+ </mdiv></section>
+<section type="Verse"><mdiv>
+E D A E      E    D     A    E
+       Touch down in San Fransisco
+Na na na na Na na na na,
+         D
+Na na na na,
+A
+E          D       A E
+ Bound for New York  City
+           E
+Na na na na Na na na na,
+         D
+Na na na na,
+A E
+ 
+ </mdiv></section>
+<section type="Chorus"><mdiv>
+G                            A
+ Well I'd love to say a long goodbye
+G                       A
+ But I don't know that I have the time
+Yeah!
+E 
+Na na na na,
+Na na na na,
+Na na na na,
+Cha cha cha,
+Oh!
+ 
+ </mdiv></section>
+<section type="Solo"><mdiv>
+E D A E D A E
+D A E
+ 
+ </mdiv></section>
+<section type="Fade Out"><mdiv>
+D A E
+</mdiv></section></music></mei>

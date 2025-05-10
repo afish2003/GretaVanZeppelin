@@ -1,0 +1,64 @@
+Title: My Way, Soon
+Album: The Battle of Garden's Gate
+Artist: Greta Van Fleet
+Key: F
+
+[Intro]
+  1
+
+[Verse 1]
+  1, 4
+  1, 4
+  1, 4
+  1, 4
+  1, 4
+  1, 4
+  1, 4
+  1, 4
+
+[Pre-Chorus]
+  b7/1, 4, b7/1, 4, b7/1, 5, b7/1, 5
+
+[Chorus]
+  1, 4, 1, b7, 4
+  b7, 4, 1, 4, 1, b7, 4
+  b7, 4, 1, 4, 1, b7, 4
+  b7, 4, 1, 4, 1, b7, 4, b7, 4
+
+[Post-Chorus]
+  1
+
+[Verse 2]
+  1, 4
+  1, 4
+  1, 4
+  1, 4
+  1, 4
+  1, 4
+  1, 4
+  1, 4
+
+[Pre-Chorus]
+  b7/1, 4, b7/1, 4, b7/1, 5, b7/1, 5
+
+[Chorus]
+  1, 4, 1, b7, 4
+  b7, 4, 1, 4, 1, b7, 4
+  b7, 4, 1, 4, 1, b7, 4
+  b7, 4, 1, 4, 1, b7, 4, b7, 4
+
+[Interlude]
+  1, b3, 4, 1, b7, 4
+
+[Solo]
+  1, b3, 4, 1, b7, 4, 1, b3, 4, 1, b7, 4, 1, b3, 4
+
+[Chorus]
+  1, 4, 1, b7, 4
+  b7, 4, 1, 4, 1, b7, 4
+  b7, 4, 1, 4, 1, b7, 4
+  b7, 4, 1, 4, 1, b7, 4, b7
+
+[Outro]
+  1
+

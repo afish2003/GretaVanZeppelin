@@ -1,0 +1,43 @@
+Title: Immigrant Song
+Album: Led Zeppelin III
+Artist: Led Zeppelin
+Key: A
+
+[Intro]
+  6m, 1
+
+[Verse 1]
+  5
+  6m
+  1
+  5, 6m
+
+[Chorus]
+  1, 2
+  b3
+
+[Re-Intro]
+  6m, 1
+
+[Verse 2]
+  5
+  6m
+  1
+  5, 6m
+
+[Chorus]
+  1, 2
+  b3
+
+[Outro]
+  6m
+  b7/b3, 6m
+  b7/b3, 6m, b7/b3
+  6m
+  b7/b3
+  6m, b7/b3
+  6m, b7/b3, 6m, b7/b3, 6m, b7/b3
+  6m
+  b7/b3, 6m, b7/b3
+  6m, b7/b3, 6m
+

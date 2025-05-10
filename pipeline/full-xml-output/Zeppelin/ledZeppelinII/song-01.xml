@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mei ixml:state="ambiguous"
+     xmlns:ixml="http://invisiblexml.org/NS">
+   <music>
+      <title>Whole Lotta Love</title>
+      <album>Led Zeppelin II</album>
+      <artist>Led Zeppelin</artist>
+      <key>E</key>
+      <section type="Intro">
+         <chordLine>
+            <chord num="1">E</chord>
+            <chord num="b7">D</chord>
+            <chord num="1">E</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Verse 1">
+         <chordLine>
+            <chord num="b7">D</chord>
+            <chord num="1">E</chord>
+            <chord num="b7">D</chord>
+         </chordLine>
+         <lyrics>You need cooling.</lyrics>
+         <chordLine>
+            <chord num="1">E</chord>
+            <chord num="b7">D</chord>
+         </chordLine>
+         <lyrics>Baby I'm not foolin'.</lyrics>
+         <chordLine>
+            <chord num="1">E</chord>
+            <chord num="b7">D</chord>
+         </chordLine>
+         <lyrics>I'm gonna send you,</lyrics>
+         <chordLine>
+            <chord num="1">E</chord>
+            <chord num="b7">D</chord>
+         </chordLine>
+         <lyrics>Back to schoolin'.</lyrics>
+         <chordLine>
+            <chord num="1">E</chord>
+            <chord num="b7">D</chord>
+         </chordLine>
+         <lyrics>Way down inside,</lyrics>
+         <chordLine>
+            <chord num="1">E</chord>
+            <chord num="b7">D</chord>
+         </chordLine>
+         <lyrics>Honey you need...</lyrics>
+         <chordLine>
+            <chord num="1">E</chord>
+            <chord num="b7">D</chord>
+         </chordLine>
+         <lyrics>I'm gonna give you my love.</lyrics>
+         <chordLine>
+            <chord num="1">E</chord>
+            <chord num="b7">D</chord>
+         </chordLine>
+         <lyrics>I'm gonna give you my love.</lyrics>
+      </section>
+      <section type="Chorus">
+         <chordLine>
+            <chord num="1">E</chord>
+         </chordLine>
+         <lyrics>Oh.</lyrics>
+         <chordLine>
+            <chord num="b7">D</chord>
+            <chord num="1">E</chord>
+         </chordLine>
+         <lyrics>Wanna whole lotta love.</lyrics>
+         <chordLine>
+            <chord num="b7">D</chord>
+            <chord num="1">E</chord>
+         </chordLine>
+         <lyrics>Wanna whole lotta love.</lyrics>
+         <chordLine>
+            <chord num="b7">D</chord>
+            <chord num="1">E</chord>
+         </chordLine>
+         <lyrics>Wanna whole lotta love.</lyrics>
+         <chordLine>
+            <chord num="b7">D</chord>
+            <chord num="1">E</chord>
+            <chord num="b7">D</chord>
+         </chordLine>
+         <lyrics>Wanna whole lotta love.</lyrics>
+      </section>
+      <section type="Verse 2">
+         <chordLine>
+            <chord num="1">E</chord>
+            <chord num="b7">D</chord>
+         </chordLine>
+         <lyrics>You've been learnin'</lyrics>
+         <chordLine>
+            <chord num="1">E</chord>
+            <chord num="b7">D</chord>
+         </chordLine>
+         <lyrics>Baby, I been learnin'</lyrics>
+         <chordLine>
+            <chord num="1">E</chord>
+         </chordLine>
+         <lyrics>All them good times,</lyrics>
+         <chordLine>
+            <chord num="b7">D</chord>
+            <chord num="1">E</chord>
+            <chord num="b7">D</chord>
+         </chordLine>
+         <lyrics>Baby, baby, I've been yearning.</lyrics>
+         <chordLine>
+            <chord num="1">E</chord>
+            <chord num="b7">D</chord>
+         </chordLine>
+         <lyrics>Way, way down inside,</lyrics>
+         <chordLine>
+            <chord num="1">E</chord>
+            <chord num="b7">D</chord>
+         </chordLine>
+         <lyrics>A honey, you need love.</lyrics>
+         <chordLine>
+            <chord num="1">E</chord>
+            <chord num="b7">D</chord>
+         </chordLine>
+         <lyrics>I'm gonna give you my love ah.</lyrics>
+         <chordLine>
+            <chord num="1">E</chord>
+            <chord num="b7">D</chord>
+         </chordLine>
+         <lyrics>I'm gonna give you my love ah.</lyrics>
+         <chordLine>
+            <chord num="1">E</chord>
+         </chordLine>
+         <lyrics>Oh.</lyrics>
+         <chordLine>
+            <chord num="b7">D</chord>
+            <chord num="1">E</chord>
+         </chordLine>
+         <lyrics>Wanna whole lotta love.</lyrics>
+      </section>
+      <section type="Chorus">
+         <chordLine>
+            <chord num="b7">D</chord>
+            <chord num="1">E</chord>
+         </chordLine>
+         <lyrics>Wanna whole lotta love.</lyrics>
+         <chordLine>
+            <chord num="b7">D</chord>
+            <chord num="1">E</chord>
+         </chordLine>
+         <lyrics>Wanna whole lotta love.</lyrics>
+         <chordLine>
+            <chord num="b7">D</chord>
+            <chord num="1">E</chord>
+         </chordLine>
+         <lyrics>Wanna whole lotta love.</lyrics>
+      </section>
+      <section type="Verse 3">
+         <chordLine>
+            <chord num="1">E</chord>
+            <chord num="1">E</chord>
+            <chord num="b7">D</chord>
+            <chord num="1">E</chord>
+            <chord num="b7">D</chord>
+         </chordLine>
+         <lyrics>You've been coolin',</lyrics>
+         <chordLine>
+            <chord num="1">E</chord>
+            <chord num="b7">D</chord>
+         </chordLine>
+         <lyrics>Baby, I've been droolin'.</lyrics>
+         <chordLine>
+            <chord num="1">E</chord>
+            <chord num="b7">D</chord>
+            <chord num="1">E</chord>
+            <chord num="b7">D</chord>
+         </chordLine>
+         <lyrics>All the good times, baby, I've been misusin'.</lyrics>
+         <chordLine>
+            <chord num="1">E</chord>
+            <chord num="b7">D</chord>
+         </chordLine>
+         <lyrics>Away, way down inside,</lyrics>
+         <chordLine>
+            <chord num="1">E</chord>
+            <chord num="b7">D</chord>
+         </chordLine>
+         <lyrics>I'm gonna give ya my love.</lyrics>
+         <chordLine>
+            <chord num="1">E</chord>
+            <chord num="b7">D</chord>
+         </chordLine>
+         <lyrics>I'm gonna give ya every inch of my love.</lyrics>
+         <chordLine>
+            <chord num="1">E</chord>
+            <chord num="b7">D</chord>
+         </chordLine>
+         <lyrics>I'm gonna give you my love.</lyrics>
+         <chordLine>
+            <chord num="1">E</chord>
+            <chord num="b7">D</chord>
+         </chordLine>
+         <lyrics>Yeah.</lyrics>
+         <chordLine>
+            <chord num="1">E</chord>
+            <chord num="b7">D</chord>
+         </chordLine>
+         <lyrics>Alright, let's go.</lyrics>
+      </section>
+      <section type="Chorus">
+         <chordLine>
+            <chord num="1">E</chord>
+            <chord num="b7">D</chord>
+            <chord num="1">E</chord>
+         </chordLine>
+         <lyrics>Wanna whole lotta love.</lyrics>
+         <chordLine>
+            <chord num="b7">D</chord>
+            <chord num="1">E</chord>
+         </chordLine>
+         <lyrics>Wanna whole lotta love.</lyrics>
+         <chordLine>
+            <chord num="b7">D</chord>
+            <chord num="1">E</chord>
+         </chordLine>
+         <lyrics>Wanna whole lotta love.</lyrics>
+         <chordLine>
+            <chord num="b7">D</chord>
+         </chordLine>
+         <lyrics>Wanna whole lotta love.</lyrics>
+      </section>
+      <section type="Bridge">
+         <chordLine>
+            <chord num="1">E</chord>
+         </chordLine>
+         <lyrics>Way down inside, woman,</lyrics>
+         <chordLine>
+            <chord num="4">A</chord>
+            <chord num="b7">D</chord>
+         </chordLine>
+         <lyrics>You need love.</lyrics>
+      </section>
+      <section type="Outro">
+         <chordLine>
+            <chord num="1">E</chord>
+            <chord num="b7">D</chord>
+            <chord num="1">E</chord>
+            <chord num="b7">D</chord>
+         </chordLine>
+         <lyrics>Ah, ah, ah, ah.</lyrics>
+         <chordLine>
+            <chord num="1">E</chord>
+            <chord num="b7">D</chord>
+         </chordLine>
+         <lyrics>Ah, ah, ah, ah.</lyrics>
+         <chordLine>
+            <chord num="1">E</chord>
+            <chord num="b7">D</chord>
+         </chordLine>
+         <lyrics>Oh.</lyrics>
+         <chordLine>
+            <chord num="1">E</chord>
+            <chord num="b7">D</chord>
+            <chord num="1">E</chord>
+            <chord num="b7">D</chord>
+            <chord num="1">E</chord>
+            <chord num="b7">D</chord>
+         </chordLine>
+         <lyrics>Shake for me girl.</lyrics>
+         <chordLine>
+            <chord num="1">E</chord>
+            <chord num="b7">D</chord>
+         </chordLine>
+         <lyrics>I wanna be your back door man.</lyrics>
+         <chordLine>
+            <chord num="1">E</chord>
+            <chord num="b7">D</chord>
+         </chordLine>
+         <lyrics>Hey. Oh.</lyrics>
+         <chordLine>
+            <chord num="1">E</chord>
+            <chord num="b7">D</chord>
+         </chordLine>
+         <lyrics>Hey. Oh.</lyrics>
+         <chordLine>
+            <chord num="1">E</chord>
+            <chord num="b7">D</chord>
+         </chordLine>
+         <lyrics>Hey. Oh.</lyrics>
+         <chordLine>
+            <chord num="1">E</chord>
+            <chord num="b7">D</chord>
+            <chord num="1">E</chord>
+            <chord num="b7">D</chord>
+            <chord num="1">E</chord>
+            <chord num="b7">D</chord>
+         </chordLine>
+         <lyrics>Uh... oh.</lyrics>
+         <chordLine>
+            <chord num="1">E</chord>
+            <chord num="b7">D</chord>
+            <chord num="1">E</chord>
+            <chord num="b7">D</chord>
+         </chordLine>
+         <lyrics>Oh. Oh. Oh. My, my, my, my.</lyrics>
+         <chordLine>
+            <chord num="1">E</chord>
+            <chord num="b7">D</chord>
+            <chord num="1">E</chord>
+            <chord num="b7">D</chord>
+         </chordLine>
+         <lyrics>Keep on coolin' baby.</lyrics>
+         <chordLine>
+            <chord num="1">E</chord>
+            <chord num="b7">D</chord>
+         </chordLine>
+         <lyrics>Keep on coolin' baby</lyrics>
+      </section>
+      <section type="Fade Out">
+         <chordLine>
+            <chord num="1">E</chord>
+            <chord num="b7">D</chord>
+         </chordLine>
+         <lyrics>Akeep on coolin' baby.</lyrics>
+         <chordLine>
+            <chord num="1">E</chord>
+            <chord num="b7">D</chord>
+         </chordLine>
+         <lyrics>Akeep on coolin' baby.</lyrics>
+         <chordLine>
+            <chord num="1">E</chord>
+            <chord num="b7">D</chord>
+            <chord num="1">E</chord>
+            <chord num="b7">D</chord>
+            <chord num="1">E</chord>
+            <chord num="b7">D</chord>
+         </chordLine>
+      </section>
+   </music>
+</mei>

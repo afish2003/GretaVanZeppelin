@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mei ixml:state="ambiguous"
+     xmlns:ixml="http://invisiblexml.org/NS">
+   <music>
+      <title>Lover, Leaver (Taker, Believer)</title>
+      <album>Anthem of the Peaceful Army</album>
+      <artist>Greta Van Fleet</artist>
+      <key>E</key>
+      <section type="Intro">
+         <chordLine>
+            <chord num="1^5">E5</chord>
+            <chord num="4^5">A5</chord>
+            <chord num="b3^5">G5</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Verse 1">
+         <chordLine>
+            <chord num="1^5">E5</chord>
+         </chordLine>
+         <lyrics>Oh my holy lord Sets my soul on fire Flames of love and sweet perfume</lyrics>
+         <chordLine>
+            <chord num="4^5">A5</chord>
+            <chord num="b3^5">G5</chord>
+         </chordLine>
+         <lyrics>She's my heart's desire</lyrics>
+         <chordLine>
+            <chord num="1^5">E5</chord>
+         </chordLine>
+         <lyrics>She's an angel straight from hell Draws me to the deep In the darkness way below</lyrics>
+         <chordLine>
+            <chord num="4^5">A5</chord>
+            <chord num="b3^5">G5</chord>
+            <chord num="1^5">E5</chord>
+            <chord num="4^5">A5</chord>
+            <chord num="b3^5">G5</chord>
+         </chordLine>
+         <lyrics>It's my heart she'll keep</lyrics>
+      </section>
+      <section type="Verse 2">
+         <chordLine>
+            <chord num="1^5">E5</chord>
+         </chordLine>
+         <lyrics>Thunder underground Watch the castle fall Sound of wind it takes the sky</lyrics>
+         <chordLine>
+            <chord num="4^5">A5</chord>
+            <chord num="b3^5">G5</chord>
+            <chord num="1^5">E5</chord>
+         </chordLine>
+         <lyrics>Winter takes us all Mountain high against the sky Watches as we pray Laughing out and smiling proud</lyrics>
+         <chordLine>
+            <chord num="4^5">A5</chord>
+            <chord num="b3^5">G5</chord>
+            <chord num="1^5">E5</chord>
+         </chordLine>
+         <lyrics>This is where we lay Lover</lyrics>
+      </section>
+      <section type="Chorus">
+         <chordLine>
+            <chord num="4^5">A5</chord>
+            <chord num="b3^5">G5</chord>
+            <chord num="1^5">E5</chord>
+            <chord num="4^5">A5</chord>
+            <chord num="b3^5">G5</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Solo">
+         <chordLine>
+            <chord num="1^5">E5</chord>
+            <chord num="4^5">A5</chord>
+            <chord num="b3^5">G5</chord>
+            <chord num="1^5">E5</chord>
+            <chord num="4^5">A5</chord>
+            <chord num="b3^5">G5</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Interlude">
+         <chordLine>
+            <chord num="b7^5">D5</chord>
+            <chord num="1^5">E5</chord>
+            <chord num="b7^5">D5</chord>
+            <chord num="1^5">E5</chord>
+            <chord num="b7^5">D5</chord>
+            <chord num="1^5">E5</chord>
+            <chord num="b7^5">D5</chord>
+            <chord num="1^5">E5</chord>
+            <chord num="b7^5">D5</chord>
+            <chord num="1^5">E5</chord>
+            <chord num="b7^5">D5</chord>
+            <chord num="1^5">E5</chord>
+            <chord num="b7^5">D5</chord>
+            <chord num="1^5">E5</chord>
+            <chord num="b7^5">D5</chord>
+            <chord num="1^5">E5</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Main Riff">
+         <chordLine>
+            <chord num="1^5">E5</chord>
+            <chord num="4^5">A5</chord>
+            <chord num="b3^5">G5</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Verse 3">
+         <chordLine>
+            <chord num="1^5">E5</chord>
+         </chordLine>
+         <lyrics>All night hellfire Erase your memories So he'll fall to his knees</lyrics>
+         <chordLine>
+            <chord num="4^5">A5</chord>
+            <chord num="b3^5">G5</chord>
+            <chord num="1^5">E5</chord>
+         </chordLine>
+         <lyrics>Watch the fire blaze Satan plays flute for him The sound it burns his ears Watch his eyes His piece of mind</lyrics>
+      </section>
+      <section type="Chorus">
+         <chordLine>
+            <chord num="4^5">A5</chord>
+            <chord num="b3^5">G5</chord>
+            <chord num="1^5">E5</chord>
+            <chord num="b7^5">D5</chord>
+            <chord num="1^5">E5</chord>
+            <chord num="b7^5">D5</chord>
+            <chord num="1^5">E5</chord>
+            <chord num="b7^5">D5</chord>
+            <chord num="1^5">E5</chord>
+         </chordLine>
+         <lyrics>Slips and disappears Lover Leaver Taker Believer</lyrics>
+         <chordLine>
+            <chord num="1^5">E5</chord>
+            <chord num="b7^5">D5</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Outro">
+         <chordLine>
+            <chord num="1^5">E5</chord>
+            <chord num="b7^5">D5</chord>
+            <chord num="1^5">E5</chord>
+            <chord num="b7^5">D5</chord>
+            <chord num="1^5">E5</chord>
+            <chord num="b7^5">D5</chord>
+            <chord num="1^5">E5</chord>
+         </chordLine>
+      </section>
+   </music>
+</mei>

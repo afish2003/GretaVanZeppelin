@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mei ixml:state="ambiguous"
+     xmlns:ixml="http://invisiblexml.org/NS">
+   <music>
+      <title>Talk on the Street</title>
+      <album>From the Fires</album>
+      <artist>Greta Van Fleet</artist>
+      <key>Ab</key>
+      <section type="Intro">
+         <chordLine>
+            <chord num="6m">Fm</chord>
+            <chord num="5">Eb</chord>
+            <chord num="6m">Fm</chord>
+            <chord num="5">Eb</chord>
+            <chord num="2">Bb</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Verse 1">
+         <chordLine>
+            <chord num="6m">Fm</chord>
+            <chord num="5">Eb</chord>
+            <chord num="2">Bb</chord>
+         </chordLine>
+         <lyrics>Oh mama you lie in ruin</lyrics>
+         <chordLine>
+            <chord num="6m">Fm</chord>
+            <chord num="5">Eb</chord>
+            <chord num="2">Bb</chord>
+         </chordLine>
+         <lyrics>Can't you see what you've done</lyrics>
+         <chordLine>
+            <chord num="6m">Fm</chord>
+            <chord num="5">Eb</chord>
+            <chord num="2">Bb</chord>
+         </chordLine>
+         <lyrics>Well I've been there before</lyrics>
+         <chordLine>
+            <chord num="6m">Fm</chord>
+            <chord num="5">Eb</chord>
+            <chord num="2">Bb</chord>
+         </chordLine>
+         <lyrics>What's this war that you won</lyrics>
+         <chordLine>
+            <chord num="6m">Fm</chord>
+            <chord num="5">Eb</chord>
+            <chord num="2">Bb</chord>
+         </chordLine>
+         <lyrics>Oh mama you walk this way</lyrics>
+         <chordLine>
+            <chord num="6m">Fm</chord>
+            <chord num="5">Eb</chord>
+            <chord num="2">Bb</chord>
+         </chordLine>
+         <lyrics>And I'm crying inside</lyrics>
+         <chordLine>
+            <chord num="6m">Fm</chord>
+            <chord num="5">Eb</chord>
+            <chord num="2">Bb</chord>
+         </chordLine>
+         <lyrics>Well I've been there before</lyrics>
+         <chordLine>
+            <chord num="6m">Fm</chord>
+            <chord num="5">Eb</chord>
+            <chord num="2">Bb</chord>
+            <chord num="6m">Fm</chord>
+            <chord num="5">Eb</chord>
+            <chord num="4">Db</chord>
+         </chordLine>
+         <lyrics>And you know that it's time</lyrics>
+      </section>
+      <section type="Pre-Chorus">
+         <chordLine>
+            <chord num="5">Eb</chord>
+            <chord num="6m">Fm</chord>
+            <chord num="5">Eb</chord>
+            <chord num="4">Db</chord>
+         </chordLine>
+         <lyrics>And everybody's talking</lyrics>
+         <chordLine>
+            <chord num="5">Eb</chord>
+            <chord num="6m">Fm</chord>
+            <chord num="5">Eb</chord>
+            <chord num="4">Db</chord>
+         </chordLine>
+         <lyrics>But you never let them know</lyrics>
+         <chordLine>
+            <chord num="5">Eb</chord>
+            <chord num="6m">Fm</chord>
+            <chord num="5">Eb</chord>
+            <chord num="2">Bb</chord>
+         </chordLine>
+         <lyrics>Yes I can hear them talking</lyrics>
+      </section>
+      <section type="Chorus">
+         <chordLine>
+            <chord num="4">Db</chord>
+            <chord num="1">Ab</chord>
+         </chordLine>
+         <lyrics>Everyone knows</lyrics>
+         <chordLine>
+            <chord num="5/2">Eb/Bb</chord>
+            <chord num="4">Db</chord>
+         </chordLine>
+         <lyrics>That's there's talking on the street</lyrics>
+         <chordLine>
+            <chord num="4">Db</chord>
+            <chord num="1">Ab</chord>
+         </chordLine>
+         <lyrics>Remember the days</lyrics>
+         <chordLine>
+            <chord num="5/2">Eb/Bb</chord>
+            <chord num="4">Db</chord>
+         </chordLine>
+         <lyrics>When there's no one to defeat</lyrics>
+         <chordLine>
+            <chord num="4">Db</chord>
+            <chord num="1">Ab</chord>
+         </chordLine>
+         <lyrics>Follow me down</lyrics>
+         <chordLine>
+            <chord num="5/2">Eb/Bb</chord>
+            <chord num="4">Db</chord>
+         </chordLine>
+         <lyrics>To the mountain of the sun</lyrics>
+         <chordLine>
+            <chord num="4">Db</chord>
+            <chord num="1">Ab</chord>
+         </chordLine>
+         <lyrics>Forgetting the end</lyrics>
+         <chordLine>
+            <chord num="5/2">Eb/Bb</chord>
+            <chord num="4">Db</chord>
+         </chordLine>
+         <lyrics>As your new life has begun</lyrics>
+      </section>
+      <section type="Interlude">
+         <chordLine>
+            <chord num="6m">Fm</chord>
+            <chord num="5">Eb</chord>
+            <chord num="2">Bb</chord>
+            <chord num="6m">Fm</chord>
+            <chord num="5">Eb</chord>
+            <chord num="2">Bb</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Verse 2">
+         <chordLine>
+            <chord num="6m">Fm</chord>
+            <chord num="5">Eb</chord>
+            <chord num="2">Bb</chord>
+         </chordLine>
+         <lyrics>Look mama the light is low</lyrics>
+         <chordLine>
+            <chord num="6m">Fm</chord>
+            <chord num="5">Eb</chord>
+            <chord num="2">Bb</chord>
+         </chordLine>
+         <lyrics>And the darkness near</lyrics>
+         <chordLine>
+            <chord num="6m">Fm</chord>
+            <chord num="5">Eb</chord>
+            <chord num="2">Bb</chord>
+         </chordLine>
+         <lyrics>Yes everyone is looking for me and you</lyrics>
+         <chordLine>
+            <chord num="6m">Fm</chord>
+            <chord num="5">Eb</chord>
+            <chord num="2">Bb</chord>
+         </chordLine>
+         <lyrics>And the night's what you fear</lyrics>
+         <chordLine>
+            <chord num="6m">Fm</chord>
+            <chord num="5">Eb</chord>
+            <chord num="2">Bb</chord>
+         </chordLine>
+         <lyrics>Walk someone they follow us</lyrics>
+         <chordLine>
+            <chord num="6m">Fm</chord>
+            <chord num="5">Eb</chord>
+            <chord num="2">Bb</chord>
+         </chordLine>
+         <lyrics>And you're all undone</lyrics>
+         <chordLine>
+            <chord num="6m">Fm</chord>
+            <chord num="5">Eb</chord>
+            <chord num="2">Bb</chord>
+         </chordLine>
+         <lyrics>Yes everyone is looking for me and you</lyrics>
+         <chordLine>
+            <chord num="6m">Fm</chord>
+            <chord num="5">Eb</chord>
+            <chord num="2">Bb</chord>
+         </chordLine>
+         <lyrics>And the war has begun</lyrics>
+      </section>
+      <section type="Pre-Chorus">
+         <chordLine>
+            <chord num="6m">Fm</chord>
+            <chord num="5">Eb</chord>
+            <chord num="4">Db</chord>
+            <chord num="5">Eb</chord>
+            <chord num="6m">Fm</chord>
+            <chord num="5">Eb</chord>
+            <chord num="4">Db</chord>
+         </chordLine>
+         <lyrics>And everybody's talking</lyrics>
+         <chordLine>
+            <chord num="5">Eb</chord>
+            <chord num="6m">Fm</chord>
+            <chord num="5">Eb</chord>
+            <chord num="4">Db</chord>
+         </chordLine>
+         <lyrics>But you never let em know</lyrics>
+         <chordLine>
+            <chord num="5">Eb</chord>
+            <chord num="6m">Fm</chord>
+            <chord num="5">Eb</chord>
+            <chord num="2">Bb</chord>
+         </chordLine>
+         <lyrics>Yes I can hear them talking</lyrics>
+      </section>
+      <section type="Chorus">
+         <chordLine>
+            <chord num="4">Db</chord>
+            <chord num="1">Ab</chord>
+         </chordLine>
+         <lyrics>Everyone knows</lyrics>
+         <chordLine>
+            <chord num="5/2">Eb/Bb</chord>
+            <chord num="4">Db</chord>
+         </chordLine>
+         <lyrics>That's there's talking on the streets</lyrics>
+         <chordLine>
+            <chord num="4">Db</chord>
+            <chord num="1">Ab</chord>
+         </chordLine>
+         <lyrics>Remember the days</lyrics>
+         <chordLine>
+            <chord num="5/2">Eb/Bb</chord>
+            <chord num="4">Db</chord>
+         </chordLine>
+         <lyrics>When there's no one to defeat</lyrics>
+         <chordLine>
+            <chord num="4">Db</chord>
+            <chord num="1">Ab</chord>
+         </chordLine>
+         <lyrics>Follow me down</lyrics>
+         <chordLine>
+            <chord num="5/2">Eb/Bb</chord>
+            <chord num="4">Db</chord>
+         </chordLine>
+         <lyrics>To the mountain of the sun</lyrics>
+         <chordLine>
+            <chord num="4">Db</chord>
+            <chord num="1">Ab</chord>
+         </chordLine>
+         <lyrics>Forgetting the end</lyrics>
+         <chordLine>
+            <chord num="5/2">Eb/Bb</chord>
+            <chord num="4">Db</chord>
+         </chordLine>
+         <lyrics>As your new life has begun</lyrics>
+      </section>
+      <section type="Pre-Chorus">
+         <chordLine>
+            <chord num="6m">Fm</chord>
+            <chord num="5">Eb</chord>
+            <chord num="4">Db</chord>
+            <chord num="5">Eb</chord>
+            <chord num="6m">Fm</chord>
+            <chord num="5">Eb</chord>
+            <chord num="4">Db</chord>
+         </chordLine>
+         <lyrics>And everybody's talking</lyrics>
+         <chordLine>
+            <chord num="5">Eb</chord>
+            <chord num="6m">Fm</chord>
+            <chord num="5">Eb</chord>
+            <chord num="4">Db</chord>
+         </chordLine>
+         <lyrics>And you never let them know</lyrics>
+         <chordLine>
+            <chord num="5">Eb</chord>
+            <chord num="6m">Fm</chord>
+            <chord num="5">Eb</chord>
+            <chord num="2">Bb</chord>
+         </chordLine>
+         <lyrics>Yes I can hear them talking</lyrics>
+      </section>
+      <section type="Chorus">
+         <chordLine>
+            <chord num="4">Db</chord>
+            <chord num="1">Ab</chord>
+            <chord num="5/2">Eb/Bb</chord>
+            <chord num="4">Db</chord>
+            <chord num="4">Db</chord>
+            <chord num="1">Ab</chord>
+            <chord num="5/2">Eb/Bb</chord>
+            <chord num="4">Db</chord>
+         </chordLine>
+         <lyrics>And you never let them know</lyrics>
+      </section>
+      <section type="Solo">
+         <chordLine>
+            <chord num="4">Db</chord>
+            <chord num="1">Ab</chord>
+            <chord num="5/2">Eb/Bb</chord>
+            <chord num="4">Db</chord>
+            <chord num="4">Db</chord>
+            <chord num="1">Ab</chord>
+            <chord num="5/2">Eb/Bb</chord>
+            <chord num="4">Db</chord>
+            <chord num="4">Db</chord>
+            <chord num="1">Ab</chord>
+            <chord num="5/2">Eb/Bb</chord>
+            <chord num="4">Db</chord>
+            <chord num="4">Db</chord>
+            <chord num="1">Ab</chord>
+            <chord num="5/2">Eb/Bb</chord>
+            <chord num="4">Db</chord>
+            <chord num="4">Db</chord>
+            <chord num="1">Ab</chord>
+            <chord num="5/2">Eb/Bb</chord>
+            <chord num="4">Db</chord>
+            <chord num="4">Db</chord>
+            <chord num="1">Ab</chord>
+            <chord num="5/2">Eb/Bb</chord>
+            <chord num="4">Db</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Outro">
+         <chordLine>
+            <chord num="4">Db</chord>
+            <chord num="1">Ab</chord>
+            <chord num="2">Bb</chord>
+         </chordLine>
+      </section>
+   </music>
+</mei>

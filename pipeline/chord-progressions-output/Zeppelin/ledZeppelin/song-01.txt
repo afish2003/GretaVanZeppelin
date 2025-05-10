@@ -1,0 +1,45 @@
+Title: Good Times Bad Times
+Album: Led Zeppelin
+Artist: Led Zeppelin
+Key: E
+
+[Intro]
+  1
+
+[Verse 1]
+  1, b7, 4/6
+  1
+  b7, 4/6, 1, b7
+  4/6, 1
+  b7, 4/6, 1, b7, 4/6, 1, b7, 4/6
+
+[Chorus]
+  4, b7, 4, b3, b7
+  5, 1
+  5
+
+[Verse 2]
+  2m
+
+[Chorus]
+  5, 4, 1, 5, 4, 1
+  6, 5
+  6
+
+[Solo]
+  1, b7, 4, 1, b7, 4, 1, b7, 4, 1, b7, 4, 1, b7, 4, 1, b7, 4, 1, b7, 4, 1, b7, 4
+
+[Chorus]
+  4, b3, b7, 4, b3, b7
+  5, 4, 1, 5
+
+[Verse 3]
+  1, b7, 4/6, 1, b7, 4/6
+  1, b7, 4/6
+  1, b7, 4/6
+  1, b7, 4/6
+
+[Outro]
+  1, b7, 4/6, 1
+  b7, 4/6, 1, b7, 4/6, 1
+

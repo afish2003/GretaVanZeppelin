@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mei ixml:state="ambiguous"
+     xmlns:ixml="http://invisiblexml.org/NS">
+   <music>
+      <title>Going to California</title>
+      <album>Led Zeppelin IV</album>
+      <artist>Led Zeppelin</artist>
+      <key>D</key>
+      <section type="Intro">
+         <chordLine>
+            <chord num="1">D</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Verse 1">
+         <chordLine>
+            <chord num="4">G</chord>
+         </chordLine>
+         <lyrics>Spent my days with a woman unkind</lyrics>
+         <chordLine>
+            <chord num="1">D</chord>
+         </chordLine>
+         <lyrics>Smoked my stuff and drank all my wine.</lyrics>
+         <chordLine>
+            <chord num="4">G</chord>
+         </chordLine>
+         <lyrics>Made up my mind make a new start</lyrics>
+         <chordLine>
+            <chord num="1">D</chord>
+         </chordLine>
+         <lyrics>Going To California with an aching in my heart.</lyrics>
+         <chordLine>
+            <chord num="4">G</chord>
+         </chordLine>
+         <lyrics>Someone told me there's a girl out there</lyrics>
+         <chordLine>
+            <chord num="1">D</chord>
+         </chordLine>
+         <lyrics>With love in her eyes and flowers in her hair.</lyrics>
+      </section>
+      <section type="Bridge">
+         <chordLine>
+            <chord num="1m">Dm</chord>
+            <chord num="4">G</chord>
+            <chord num="1">D</chord>
+            <chord num="1m">Dm</chord>
+            <chord num="4">G</chord>
+            <chord num="1">D</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Verse 2">
+         <chordLine>
+            <chord num="4">G</chord>
+         </chordLine>
+         <lyrics>Took my chances on a big jet plane</lyrics>
+         <chordLine>
+            <chord num="1">D</chord>
+         </chordLine>
+         <lyrics>Never let them tell you that they're all the same.</lyrics>
+         <chordLine>
+            <chord num="4">G</chord>
+         </chordLine>
+         <lyrics>The sea was red and the sky was grey</lyrics>
+         <chordLine>
+            <chord num="1">D</chord>
+         </chordLine>
+         <lyrics>Wondered how tomorrow could ever follow today.</lyrics>
+         <chordLine>
+            <chord num="4">G</chord>
+         </chordLine>
+         <lyrics>Mountains and the canyons started to tremble and shake</lyrics>
+         <chordLine>
+            <chord num="1">D</chord>
+         </chordLine>
+         <lyrics>Children of the sun began to awake. Watch out</lyrics>
+      </section>
+      <section type="Interlude">
+         <chordLine>
+            <chord num="1m">Dm</chord>
+         </chordLine>
+         <lyrics>Seems that the wrath of the Gods Got a punch on the nose and it started to flow;</lyrics>
+         <chordLine>
+            <chord num="5">A</chord>
+         </chordLine>
+         <lyrics>I think I might be sinking.</lyrics>
+         <chordLine>
+            <chord num="1m">Dm</chord>
+         </chordLine>
+         <lyrics>Throw me a line if I reach it in time Meet you up there where the path</lyrics>
+         <chordLine>
+            <chord num="5">A</chord>
+         </chordLine>
+         <lyrics>Runs straight and high.</lyrics>
+      </section>
+      <section type="Verse 3">
+         <chordLine>
+            <chord num="1">D</chord>
+            <chord num="4">G</chord>
+         </chordLine>
+         <lyrics>To find a queen without a king;</lyrics>
+         <chordLine>
+            <chord num="1">D</chord>
+         </chordLine>
+         <lyrics>They say she plays guitar and cries and sings. La la la la</lyrics>
+         <chordLine>
+            <chord num="4">G</chord>
+         </chordLine>
+         <lyrics>Ride a white mare in the footsteps of dawn</lyrics>
+         <chordLine>
+            <chord num="1">D</chord>
+         </chordLine>
+         <lyrics>Tryin' to find a woman who's never, never, never been born.</lyrics>
+         <chordLine>
+            <chord num="4">G</chord>
+         </chordLine>
+         <lyrics>Standing on a hill in my mountain of dreams,</lyrics>
+         <chordLine>
+            <chord num="1">D</chord>
+         </chordLine>
+         <lyrics>Telling myself it's not as hard, hard, hard as it seems</lyrics>
+      </section>
+      <section type="Bridge">
+         <chordLine>
+            <chord num="1m">Dm</chord>
+            <chord num="4">G</chord>
+            <chord num="1">D</chord>
+            <chord num="1m">Dm</chord>
+            <chord num="4">G</chord>
+            <chord num="1">D</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Outro">
+         <chordLine>
+            <chord num="1">D</chord>
+         </chordLine>
+      </section>
+   </music>
+</mei>

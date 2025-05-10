@@ -1,0 +1,38 @@
+Title: The Falling Sky
+Album: Starcatcher
+Artist: Greta Van Fleet
+Key: F
+
+[Intro]
+  6^5
+
+[Verse 1]
+  6^5
+  6m/1, 5/7, 6m/1, 5/7, 2
+  4, 5, 6m
+
+[Chorus]
+  6m, 5, 4, 2
+  6m, 5, 4, 2
+
+[Verse 2]
+  6^5
+  6m/1, 5/7, 6m/1, 5/7, 2
+  4, 5, 6m
+
+[Chorus]
+  6m, 5, 4, 2
+  6m, 5, 4, 2
+
+[Bridge]
+  6m/1, 7sus4, 2, 6m/1, 7sus4, 2
+
+[Solo Harmonica]
+  6m, 4, 5, 6m
+
+[Chorus]
+  6m, 5, 4, 2
+  6m, 5, 4, 2
+  6m, 5, 4, 2
+  6m, 5, 4, 2, 6^5, 6sus4
+

@@ -1,0 +1,48 @@
+Title: How Many More Times
+Album: Led Zeppelin
+Artist: Led Zeppelin
+Key: E
+
+[Intro]
+  1^5
+
+[Verse 1]
+  1^5, 1^5
+
+[Verse 2]
+  b7, 4, 1^5, 1^5
+
+[Interlude 1]
+  1, b7
+  1, b7, 1, b7, 1, b7, 1, b7, 1, b7, 1, b7, 1, b7, 1, b7, 1
+
+[Interlude 2]
+  1^5
+  b7
+  1, b7, 1
+  b7
+  1
+  b7, 1
+  b7
+  1, 1
+
+[Bridge]
+  1
+
+[Verse 3]
+  1^5
+  5
+  4
+  1^5
+
+[Verse 4]
+  1^5, 1^5
+  b7, 4, 1^5
+  b7, 4, 1^5
+  b7, 4, 1^5
+  b7, 4, 1^5
+  b7, 4, 1^5
+
+[Outro]
+  b7, 4, 1^5, b7, 4, 1^5, b7, 4, 1^5
+

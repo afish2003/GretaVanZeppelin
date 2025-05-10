@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mei ixml:state="ambiguous"
+     xmlns:ixml="http://invisiblexml.org/NS">
+   <music>
+      <title>The Indigo Streak</title>
+      <album>Starcatcher</album>
+      <artist>Greta Van Fleet</artist>
+      <key>G</key>
+      <section type="Intro">
+         <chordLine>
+            <chord num="6m">Em</chord>
+            <chord num="3">B</chord>
+            <chord num="3sus4">Bsus4</chord>
+            <chord num="3">B</chord>
+            <chord num="6m">Em</chord>
+            <chord num="5">D</chord>
+            <chord num="1">G</chord>
+            <chord num="2">A</chord>
+            <chord num="6m">Em</chord>
+            <chord num="1">G</chord>
+            <chord num="2">A</chord>
+            <chord num="6m">Em</chord>
+            <chord num="5">D</chord>
+            <chord num="1">G</chord>
+            <chord num="2">A</chord>
+            <chord num="6m">Em</chord>
+            <chord num="1">G</chord>
+            <chord num="2">A</chord>
+            <chord num="6m">Em</chord>
+            <chord num="5">D</chord>
+            <chord num="1">G</chord>
+            <chord num="2">A</chord>
+            <chord num="6m">Em</chord>
+            <chord num="1">G</chord>
+            <chord num="2">A</chord>
+            <chord num="6m">Em</chord>
+            <chord num="5">D</chord>
+            <chord num="1">G</chord>
+            <chord num="2">A</chord>
+            <chord num="6m">Em</chord>
+            <chord num="1">G</chord>
+            <chord num="2">A</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Verse 1">
+         <chordLine>
+            <chord num="6m">Em</chord>
+         </chordLine>
+         <lyrics>Wide minded dreamer From far and away Paints pictures cleaner</lyrics>
+         <chordLine>
+            <chord num="6m">Em</chord>
+            <chord num="5">D</chord>
+            <chord num="1">G</chord>
+            <chord num="2">A</chord>
+            <chord num="6m">Em</chord>
+         </chordLine>
+         <lyrics>With brushes he touches the sky</lyrics>
+      </section>
+      <section type="Bridge">
+         <chordLine>
+            <chord num="1">G</chord>
+            <chord num="2">A</chord>
+            <chord num="6m">Em</chord>
+            <chord num="5">D</chord>
+            <chord num="1">G</chord>
+            <chord num="2">A</chord>
+            <chord num="6m">Em</chord>
+            <chord num="1">G</chord>
+            <chord num="2">A</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Verse 2">
+         <chordLine>
+            <chord num="6m">Em</chord>
+         </chordLine>
+         <lyrics>No child to woman But child no less Though mostly human The painter a prophet so high</lyrics>
+      </section>
+      <section type="Chorus">
+         <chordLine>
+            <chord num="6m">Em</chord>
+            <chord num="3m/5">Bm/D</chord>
+            <chord num="2">A</chord>
+            <chord num="1">G</chord>
+         </chordLine>
+         <lyrics>Into the ether</lyrics>
+         <chordLine>
+            <chord num="6m">Em</chord>
+            <chord num="3m/5">Bm/D</chord>
+            <chord num="2">A</chord>
+         </chordLine>
+         <lyrics>Ready for the gar den</lyrics>
+         <chordLine>
+            <chord num="1">G</chord>
+            <chord num="6m">Em</chord>
+            <chord num="3m/5">Bm/D</chord>
+            <chord num="2">A</chord>
+            <chord num="1">G</chord>
+         </chordLine>
+         <lyrics>Into it deeper</lyrics>
+         <chordLine>
+            <chord num="6m">Em</chord>
+            <chord num="3m/5">Bm/D</chord>
+            <chord num="2">A</chord>
+         </chordLine>
+         <lyrics>Even heavens hearken Rea</lyrics>
+         <chordLine>
+            <chord num="1">G</chord>
+            <chord num="2">A</chord>
+            <chord num="1">G</chord>
+            <chord num="6m">Em</chord>
+            <chord num="5">D</chord>
+            <chord num="1">G</chord>
+            <chord num="2">A</chord>
+            <chord num="6m">Em</chord>
+            <chord num="1">G</chord>
+            <chord num="2">A</chord>
+         </chordLine>
+         <lyrics>ching, reaching, reaching</lyrics>
+      </section>
+      <section type="Bridge">
+         <chordLine>
+            <chord num="6m">Em</chord>
+            <chord num="5">D</chord>
+            <chord num="1">G</chord>
+            <chord num="2">A</chord>
+            <chord num="6m">Em</chord>
+            <chord num="1">G</chord>
+            <chord num="2">A</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Verse 3">
+         <chordLine>
+            <chord num="6m">Em</chord>
+         </chordLine>
+         <lyrics>Seen over sundown Catching the stars Above, the cyclone The Indigo streak that becomes the eye</lyrics>
+      </section>
+      <section type="Chorus">
+         <chordLine>
+            <chord num="6m">Em</chord>
+            <chord num="3m/5">Bm/D</chord>
+            <chord num="2">A</chord>
+            <chord num="1">G</chord>
+         </chordLine>
+         <lyrics>Into the ether</lyrics>
+         <chordLine>
+            <chord num="6m">Em</chord>
+            <chord num="3m/5">Bm/D</chord>
+            <chord num="2">A</chord>
+         </chordLine>
+         <lyrics>Ready for the garden</lyrics>
+         <chordLine>
+            <chord num="1">G</chord>
+            <chord num="6m">Em</chord>
+            <chord num="3m/5">Bm/D</chord>
+            <chord num="2">A</chord>
+            <chord num="1">G</chord>
+         </chordLine>
+         <lyrics>Into it deeper</lyrics>
+         <chordLine>
+            <chord num="6m">Em</chord>
+            <chord num="3m/5">Bm/D</chord>
+            <chord num="2">A</chord>
+         </chordLine>
+         <lyrics>Even heavens hearken Rea</lyrics>
+         <chordLine>
+            <chord num="1">G</chord>
+            <chord num="2">A</chord>
+            <chord num="1">G</chord>
+            <chord num="6sus2">Esus2</chord>
+         </chordLine>
+         <lyrics>ching, reaching, reaching</lyrics>
+      </section>
+      <section type="Interlude">
+         <lyrics>Bm/E A#add(b5) D B7</lyrics>
+      </section>
+      <section type="Solo">
+         <lyrics>Esus2 Bm/E A#add(b5) D</lyrics>
+         <chordLine>
+            <chord num="3^7">B7</chord>
+            <chord num="6m">Em</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Chorus">
+         <chordLine>
+            <chord num="6m">Em</chord>
+            <chord num="3m/5">Bm/D</chord>
+            <chord num="2">A</chord>
+            <chord num="1">G</chord>
+         </chordLine>
+         <lyrics>Into the ether</lyrics>
+         <chordLine>
+            <chord num="6m">Em</chord>
+            <chord num="3m/5">Bm/D</chord>
+            <chord num="2">A</chord>
+         </chordLine>
+         <lyrics>Ready for the garden</lyrics>
+         <chordLine>
+            <chord num="1">G</chord>
+            <chord num="6m">Em</chord>
+            <chord num="3m/5">Bm/D</chord>
+            <chord num="2">A</chord>
+            <chord num="1">G</chord>
+         </chordLine>
+         <lyrics>Into it deeper</lyrics>
+         <chordLine>
+            <chord num="6m">Em</chord>
+            <chord num="3m/5">Bm/D</chord>
+            <chord num="2">A</chord>
+         </chordLine>
+         <lyrics>Even heavens hearken</lyrics>
+         <chordLine>
+            <chord num="1">G</chord>
+            <chord num="6m">Em</chord>
+            <chord num="3m/5">Bm/D</chord>
+            <chord num="2">A</chord>
+            <chord num="1">G</chord>
+         </chordLine>
+         <lyrics>Into the ether</lyrics>
+         <chordLine>
+            <chord num="6m">Em</chord>
+            <chord num="3m/5">Bm/D</chord>
+            <chord num="2">A</chord>
+         </chordLine>
+         <lyrics>Ready for the garden</lyrics>
+         <chordLine>
+            <chord num="1">G</chord>
+            <chord num="6m">Em</chord>
+            <chord num="3m/5">Bm/D</chord>
+            <chord num="2">A</chord>
+            <chord num="1">G</chord>
+         </chordLine>
+         <lyrics>Into it deeper</lyrics>
+         <chordLine>
+            <chord num="6m">Em</chord>
+            <chord num="3m/5">Bm/D</chord>
+            <chord num="2">A</chord>
+            <chord num="1">G</chord>
+            <chord num="2">A</chord>
+         </chordLine>
+         <lyrics>Even heavens hearken Reach</lyrics>
+         <chordLine>
+            <chord num="1">G</chord>
+            <chord num="2">A</chord>
+         </chordLine>
+         <lyrics>ing, reach</lyrics>
+         <chordLine>
+            <chord num="1">G</chord>
+         </chordLine>
+         <lyrics>ing,</lyrics>
+         <chordLine>
+            <chord num="2">A</chord>
+         </chordLine>
+         <lyrics>reaching</lyrics>
+      </section>
+   </music>
+</mei>

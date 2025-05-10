@@ -1,0 +1,11 @@
+mei: music.
+music: title, newline, album, newline, artist, newline, key, newline, newline*, section++newline.
+title: ~[#d;#a]+.
+album: ~[#d;#a]+.
+artist: ~[#d;#a]+.
+key: ~[#d;#a]+.
+section: type, mdiv.
+@type: -"[", ~[#22]+, -"]".
+mdiv: ~[#22]+.
+-newline: (#d?, #a).
+-space: " ".

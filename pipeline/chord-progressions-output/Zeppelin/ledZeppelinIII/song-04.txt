@@ -1,0 +1,66 @@
+Title: Since I've Been Loving You
+Album: Led Zeppelin III
+Artist: Led Zeppelin
+Key: Eb
+
+[Intro 1]
+  6m, 2m, 2m/6, 6m, 3m, 6m, 2m, 2m/6, 6m, 3m, 6m
+
+[Intro 2]
+  3m, 2m, 2m/6, 6m, 3, 6m, 1^7, 7^7, b7maj7
+
+[Pre-Chorus]
+  6m, 2m, 2m/6
+  6m
+
+[Verse 1]
+  2m, 2m/6
+  6m
+
+[Chorus]
+  3m
+  4, 2m, 2m/6, 6m, 3, 6m, 1^7, 7^7, b7maj7
+
+[Verse 2]
+  2m, 2m/6
+  6m
+
+[Pre-Chorus]
+  2m, 2m/6
+  6m
+
+[Chorus]
+  3m
+  2m, 2m/6, 6m, 3
+  6m, 1^7, 7^7, b7maj7
+
+[Solo]
+  6m, 2m, 2m/6, 6m, 2m, 2m/6, 6m, 3m, 2m, 2m/6, 6m, 3, 6m, 1^7, 7^7, b7maj7
+
+[Bridge]
+  6m
+  1
+  
+  6m, 3, 6m, 1^7, 7^7, b7maj7
+
+[Verse 3]
+  6m
+  2m, 2m/6
+  6m
+  6^7
+
+[Pre-Chorus]
+  2m, 2m/6
+  6m
+
+[Chorus]
+  3m
+  2m, 2m/6
+  6m, 3, 6m, 1^7, 7^7
+  b7maj7
+
+[Outro]
+  2m, 2m/6
+  6m, 3
+  6m, 1^7, 7^7, b7maj7, 6m
+

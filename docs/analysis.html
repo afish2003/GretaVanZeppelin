@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+    
+    <head>
+        
+        <title>Analysis</title>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        
+        <link rel="stylesheet" type="text/css" href="style.css" />
+        <link rel="stylesheet" href="https://use.typekit.net/xxw1fdo.css"/>
+        <link rel="stylesheet" href="https://use.typekit.net/xxw1fdo.css"/>
+        <link rel="icon" href="images/favicon.png" type="image/png"/>
+        
+    </head>
+    <body>
+        <h1>Analysis</h1>
+        <div class="corner-menu">
+            <button id="menu-toggle" class="hamburger" aria-label="Toggle menu">
+                <span class="bar"></span>
+                <span class="bar"></span>
+                <span class="bar"></span>
+            </button>
+            <div id="menu-content" class="menu-hidden">
+                <a href="index.html">Home</a>
+                <a href="about.html">About</a>
+                <a href="methods.html">Methods</a>
+                <a href="albums.html">Albums</a>
+                <a href="analysis.html">Analysis</a>
+            </div>
+        </div>
+        
+        <section class="methods-section">
+            <div class="text-box">
+                <p>There's much more to be done in the world of analysis for this project. We've only scratched the surface of what's possible with our marked-up song files. Below, you'll find analysis charts of both lyrics and chords used by each artist.</p>
+                <p>The <strong>"Song Lyrics Similarity"</strong> network shows lots of connections between both artist's lyrics.</p>
+                <p>The chord usage graphs provide insight into which chords the artists used the most frequently, both per album and compared to each other. One overall conclusion drawn from the graph comparing the artists to each other is that Greta Van Fleet more commonly used simple chords (chords without extensions or inversions) like "1", "4", "5", and "6m", whereas Led Zeppelin used more complex chords. This reflects how popular music has become simplified over the years because that's what appeals to the majority of listeners and is what makes a hit radio song.</p>
+            </div>
+        </section>
+        
+        <section class="overall">
+            <h2>Song Lyrics Similarity of Greta Van Fleet &amp; Led Zeppelin </h2>
+            <img class="overall" src="images/song_similarity_network.svg" />
+        </section>
+        
+        <section class="overall">
+            <h2>Top Chord Usage of Greta Van Fleet vs. Led Zeppelin</h2>
+            <img class="overall" src="images/overallComparison.png" />
+            
+            <div class="text-box">
+                <p><em>You can find the complete chord count for all analyzed songs in a <a href="https://github.com/afish2003/GretaVanZeppelin/blob/main/visualizations/chord-count.tsv">TSV file on our GitHub page</a>. This file was used to create these charts.</em></p>
+            </div>
+        </section>
+        
+        <section class="overall">
+            <h2>Greta Van Fleet's Top Chord Usage</h2>
+            
+            <h3><a href="fromTheFires.html">From the Fires (2017)</a></h3>
+            <img class="overall" src="images/fromTheFires.png" />
+            
+            <h3><a href="anthemOfThePeacefulArmy.html">Anthem of the Peaceful Army (2018)</a></h3>
+            <img class="overall" src="images/anthemOfThePeacefulArmy.png" />
+
+            <h3><a href="theBattleAtGardensGate.html">The Battle at Garden's Gate (2021)</a></h3>
+            <img class="overall" src="images/theBattleAtGardensGate.png" />
+
+            <h3><a href="starcatcher.html">Starcatcher (2023)</a></h3>
+            <img class="overall" src="images/starcatcher.png" />
+        </section>
+        
+        <section class="overall">
+            <h2>Led Zeppelin's Top Chord Usage</h2>
+            
+            <h3><a href="ledZeppelin.html">Led Zeppelin (1969)</a></h3>
+            <img class="overall" src="images/ledZeppelin.png" />
+
+            <h3><a href="ledZeppelinII.html">Led Zeppelin II (1969)</a></h3>
+            <img class="overall" src="images/ledZeppelinII.png" />
+
+            <h3><a href="ledZeppelinIII.html">Led Zeppelin III (1970)</a></h3>
+            <img class="overall" src="images/ledZeppelinIII.png" />
+
+            <h3><a href="ledZeppelinIV.html">Led Zeppelin IV (1971)</a></h3>
+            <img class="overall" src="images/ledZeppelinIV.png" />
+        </section>
+        
+        
+        
+        <footer class="footer">
+            <p>
+                <span>The GretaVanZeppelin Project</span> by 
+                <a href="https://github.com/afish2003/GretaVanZeppelin">Alexander Fisher, Ashlynn Allgeier, Michael Simons, and Connor Carpenter</a> 
+                is licensed under 
+                <a href="https://creativecommons.org/licenses/by-nc/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer">
+                    CC BY-NC 4.0
+                    <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt="CC" />
+                    <img src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt="BY" />
+                    <img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1" alt="NC" />
+                </a>
+            </p>
+        </footer>
+        <script src="java.js"></script>
+    
+    </body>
+    
+    
+</html>

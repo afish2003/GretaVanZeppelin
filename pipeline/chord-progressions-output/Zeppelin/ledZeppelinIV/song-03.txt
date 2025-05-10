@@ -1,0 +1,83 @@
+Title: The Battle of Evermore
+Album: Led Zeppelin IV
+Artist: Led Zeppelin
+Key: A
+
+[Intro]
+  1m
+
+[Verse 1]
+  1m, b3, 1m, b3
+  1m, b3, 1m, b3
+  1m, b3, 1m, b3
+  1m, b3, 1m, b3
+  4
+  1m, b3, 1m, b3
+  1m, b3, 1m, b3
+  4
+  1m, b3, 1m, b3
+  1m, b3, 1m, b3
+  4, 1m, b3, 1m, b3, 1m, b3, 1m, b3
+
+[Chorus]
+  1^7, 4, 1^7, 4
+  b7^7, b3
+  b7^7, b3
+
+[Verse 2]
+  1m, b3, 1m, b3
+  1m, b3, 1m, b3
+  1m, b3, 1m, b3
+  1m, b3, 1m, b3, 4
+  1m, b3, 1m, b3
+  1m, b3, 1m, b3
+  4
+  1m, b3, 1m, b3
+  1m, b3, 1m, b3
+  4, 1m, b3, 1m, b3, 1m, b3, 1m, b3
+
+[Chorus]
+  1^7, 4, 1^7, 4
+  b7^7, b3
+  b7^7, b3
+
+[Verse 3]
+  1m, b3, 1m, b3
+  1m, b3, 1m, b3
+  1m, b3, 1m, b3
+  1m, b3, 1m, b3, 4
+  1m, b3, 1m, b3
+  1m, b3, 1m, b3
+  4
+  1m, b3, 1m, b3
+  1m, b3, 1m
+  b3, 4
+  1m, b3, 1m, b3, 1m, b3, 1m, b3
+
+[Chorus]
+  1^7, 4
+  1^7, 4
+  b7^7, b3
+  b7^7, b3, 1m
+
+[Interlude]
+  1sus2, 1m, 1sus2, 1m, 1sus2, 1m, 1sus2, 5m7
+
+[Outro 1]
+  1m, b3, 1m
+  b3, 1m, b3, 1m
+  b3, 1m, b3, 1m
+  b3, 1m, b3, 1m, b3
+  4
+  1m, b3, 1m
+  b3, 1m, b3, 1m, b3
+  4
+  1m
+
+[Outro 2]
+  1m, b3, 1m, b7, 1m, b3, 1m, b7, 1m, b3, 1m, b7, 1m, b3, 1m, b7
+  
+
+[Fade Out]
+  1m, b3, 1m, b7, 1m, b3, 1m, b7, 1m, b3, 1m, b7, 1m, b3, 1m, b7, 1m, b3, 1m, b7, 1m, b3, 1m, b7, 1m, b3, 1m, b7
+

@@ -1,0 +1,59 @@
+Title: Watching Over
+Album: Anthem of the Peaceful Army
+Artist: Greta Van Fleet
+Key: G
+
+[Intro]
+  2m, 4, 5, 2m, 4, 5
+
+[Verse 1]
+  2m, 4, 5
+  2m, 4, 5
+  2m, 4, 5
+  2m, 4, 5
+
+[Bridge]
+  6m, 6m, 6m, 6m
+
+[Chorus]
+  6m, 2^5, 1^5
+  6m, 2^5, 1^5
+  6m
+  6m, 2^5, 1^5
+  6m
+  6m, 2^5, 1^5
+  6m
+  2^5, 2^5, 2^5, 2^5, 6m
+
+[Solo]
+  2m, 4, 5, 2m, 4, 5, 2m, 4, 5, 2m, 4, 5
+
+[Verse 2]
+  4, 2m, 4, 5
+  2m, 4, 5
+  2m, 4, 5
+  2m, 4, 5
+
+[Bridge]
+  6m, 6m, 6m, 6m
+
+[Chorus]
+  6m, 2^5, 1^5
+  6m, 2^5, 1^5
+  6m
+  6m, 2^5, 1^5
+  6m
+  6m, 2^5, 1^5
+  6m
+  6m, 2^5, 1^5
+  6m, 2^5, 1^5, 6m
+
+[Interlude]
+  6m, 2^5, 1^5, 6m, 2^5, 1^5, 6m, 2^5, 1^5, 6m, 2^5, 1^5
+
+[Chorus]
+  6m, 2^5, 1^5, 6m, 2^5, 1^5, 6m, 2^5, 1^5, 6m, 2^5, 1^5
+
+[Outro]
+  2^5, 2^5, 2^5, 2^5, 6m
+

@@ -1,0 +1,42 @@
+Title: Tears of Rain
+Album: The Battle of Garden's Gate
+Artist: Greta Van Fleet
+Key: Eb
+
+[Intro]
+  4maj7/6, 6, 6^7, 1/5, 3m/5, 2, 2sus2, 4maj7/6, 6, 6^7, 1/5, 3m/5, 2, 2sus2
+
+[Verse 1]
+  4maj7/6, 6, 6^7
+  1/5, 3m/5, 2, 2sus2
+  4maj7/6, 6, 6^7
+  1/5, 3m/5, 2, 2sus2
+
+[Chorus]
+  2m, 2m/6, 3m
+  4, 5
+  6m, 7m7add11
+  1/5, 2
+
+[Verse 2]
+  4maj7/6, 6, 6^7
+  1/5, 3m/5, 2, 2sus2
+  4maj7/6, 6, 6^7
+  1/5, 3m/5, 2, 2sus2
+
+[Chorus]
+  2m, 2m/6, 3m
+  4, 5
+  6m, 7m7add11
+  1/5
+
+[Interlude]
+  2
+  6m, 5, 4, 3m, 2m, 2m/6, 5^7sus4, 5^7
+
+[Outro]
+  1, 5, 6m, 5, 4, 3m
+  2m, 2m/6, 5^7sus4, 5^7
+  1, 5, 6m, 5, 4, 3m
+  2m, 2m/6, 4, 1
+

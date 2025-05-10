@@ -1,0 +1,42 @@
+Title: Lover, Leaver (Taker, Believer)
+Album: Anthem of the Peaceful Army
+Artist: Greta Van Fleet
+Key: E
+
+[Intro]
+  1^5, 4^5, b3^5
+
+[Verse 1]
+  1^5
+  4^5, b3^5
+  1^5
+  4^5, b3^5, 1^5, 4^5, b3^5
+
+[Verse 2]
+  1^5
+  4^5, b3^5, 1^5
+  4^5, b3^5, 1^5
+
+[Chorus]
+  4^5, b3^5, 1^5, 4^5, b3^5
+
+[Solo]
+  1^5, 4^5, b3^5, 1^5, 4^5, b3^5
+
+[Interlude]
+  b7^5, 1^5, b7^5, 1^5, b7^5, 1^5, b7^5, 1^5, b7^5, 1^5, b7^5, 1^5, b7^5, 1^5, b7^5, 1^5
+
+[Main Riff]
+  1^5, 4^5, b3^5
+
+[Verse 3]
+  1^5
+  4^5, b3^5, 1^5
+
+[Chorus]
+  4^5, b3^5, 1^5, b7^5, 1^5, b7^5, 1^5, b7^5, 1^5
+  1^5, b7^5
+
+[Outro]
+  1^5, b7^5, 1^5, b7^5, 1^5, b7^5, 1^5
+

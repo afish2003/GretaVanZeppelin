@@ -1,0 +1,431 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mei ixml:state="ambiguous"
+     xmlns:ixml="http://invisiblexml.org/NS">
+   <music>
+      <title>The Battle of Evermore</title>
+      <album>Led Zeppelin IV</album>
+      <artist>Led Zeppelin</artist>
+      <key>A</key>
+      <section type="Intro">
+         <chordLine>
+            <chord num="1m">Am</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Verse 1">
+         <chordLine>
+            <chord num="1m">Am</chord>
+            <chord num="b3">C</chord>
+            <chord num="1m">Am</chord>
+            <chord num="b3">C</chord>
+         </chordLine>
+         <lyrics>The Queen of Light took her bow</lyrics>
+         <chordLine>
+            <chord num="1m">Am</chord>
+            <chord num="b3">C</chord>
+            <chord num="1m">Am</chord>
+            <chord num="b3">C</chord>
+         </chordLine>
+         <lyrics>And then she turned to go</lyrics>
+         <chordLine>
+            <chord num="1m">Am</chord>
+            <chord num="b3">C</chord>
+            <chord num="1m">Am</chord>
+            <chord num="b3">C</chord>
+         </chordLine>
+         <lyrics>The Prince of Peace embraced the gloom</lyrics>
+         <chordLine>
+            <chord num="1m">Am</chord>
+            <chord num="b3">C</chord>
+            <chord num="1m">Am</chord>
+            <chord num="b3">C</chord>
+         </chordLine>
+         <lyrics>And walked the night alone</lyrics>
+         <chordLine>
+            <chord num="4">D</chord>
+         </chordLine>
+         <lyrics>Oh, dance in the dark of night Sing to the morning light</lyrics>
+         <chordLine>
+            <chord num="1m">Am</chord>
+            <chord num="b3">C</chord>
+            <chord num="1m">Am</chord>
+            <chord num="b3">C</chord>
+         </chordLine>
+         <lyrics>Dark Lord rides in force tonight</lyrics>
+         <chordLine>
+            <chord num="1m">Am</chord>
+            <chord num="b3">C</chord>
+            <chord num="1m">Am</chord>
+            <chord num="b3">C</chord>
+         </chordLine>
+         <lyrics>And time will tell us all</lyrics>
+         <chordLine>
+            <chord num="4">D</chord>
+         </chordLine>
+         <lyrics>Oh, throw down your plow and hoe Rest not to lock your homes</lyrics>
+         <chordLine>
+            <chord num="1m">Am</chord>
+            <chord num="b3">C</chord>
+            <chord num="1m">Am</chord>
+            <chord num="b3">C</chord>
+         </chordLine>
+         <lyrics>Side by side we wait the might</lyrics>
+         <chordLine>
+            <chord num="1m">Am</chord>
+            <chord num="b3">C</chord>
+            <chord num="1m">Am</chord>
+            <chord num="b3">C</chord>
+         </chordLine>
+         <lyrics>Of the darkest of them all</lyrics>
+         <chordLine>
+            <chord num="4">D</chord>
+            <chord num="1m">Am</chord>
+            <chord num="b3">C</chord>
+            <chord num="1m">Am</chord>
+            <chord num="b3">C</chord>
+            <chord num="1m">Am</chord>
+            <chord num="b3">C</chord>
+            <chord num="1m">Am</chord>
+            <chord num="b3">C</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Chorus">
+         <chordLine>
+            <chord num="1^7">A7</chord>
+            <chord num="4">D</chord>
+            <chord num="1^7">A7</chord>
+            <chord num="4">D</chord>
+         </chordLine>
+         <lyrics>I hear the horses' thunder down in the valley below</lyrics>
+         <chordLine>
+            <chord num="b7^7">G7</chord>
+            <chord num="b3">C</chord>
+         </chordLine>
+         <lyrics>I'm waiting for the angels of Avalon</lyrics>
+         <chordLine>
+            <chord num="b7^7">G7</chord>
+            <chord num="b3">C</chord>
+         </chordLine>
+         <lyrics>Waiting for the eastern glow</lyrics>
+      </section>
+      <section type="Verse 2">
+         <chordLine>
+            <chord num="1m">Am</chord>
+            <chord num="b3">C</chord>
+            <chord num="1m">Am</chord>
+            <chord num="b3">C</chord>
+         </chordLine>
+         <lyrics>The apples of the valley hold</lyrics>
+         <chordLine>
+            <chord num="1m">Am</chord>
+            <chord num="b3">C</chord>
+            <chord num="1m">Am</chord>
+            <chord num="b3">C</chord>
+         </chordLine>
+         <lyrics>The seeds of happiness</lyrics>
+         <chordLine>
+            <chord num="1m">Am</chord>
+            <chord num="b3">C</chord>
+            <chord num="1m">Am</chord>
+            <chord num="b3">C</chord>
+         </chordLine>
+         <lyrics>The ground is rich from tender care</lyrics>
+         <chordLine>
+            <chord num="1m">Am</chord>
+            <chord num="b3">C</chord>
+            <chord num="1m">Am</chord>
+            <chord num="b3">C</chord>
+            <chord num="4">D</chord>
+         </chordLine>
+         <lyrics>Repay, do not forget, no Dance in the dark of night Sing to the morning light</lyrics>
+         <chordLine>
+            <chord num="1m">Am</chord>
+            <chord num="b3">C</chord>
+            <chord num="1m">Am</chord>
+            <chord num="b3">C</chord>
+         </chordLine>
+         <lyrics>Apples turn to brown and black</lyrics>
+         <chordLine>
+            <chord num="1m">Am</chord>
+            <chord num="b3">C</chord>
+            <chord num="1m">Am</chord>
+            <chord num="b3">C</chord>
+         </chordLine>
+         <lyrics>The tyrant's face is red</lyrics>
+         <chordLine>
+            <chord num="4">D</chord>
+         </chordLine>
+         <lyrics>Oh, war is the common cry Pick up your swords and fly</lyrics>
+         <chordLine>
+            <chord num="1m">Am</chord>
+            <chord num="b3">C</chord>
+            <chord num="1m">Am</chord>
+            <chord num="b3">C</chord>
+         </chordLine>
+         <lyrics>Sky is filled with good and bad</lyrics>
+         <chordLine>
+            <chord num="1m">Am</chord>
+            <chord num="b3">C</chord>
+            <chord num="1m">Am</chord>
+            <chord num="b3">C</chord>
+         </chordLine>
+         <lyrics>Mortals never know</lyrics>
+         <chordLine>
+            <chord num="4">D</chord>
+            <chord num="1m">Am</chord>
+            <chord num="b3">C</chord>
+            <chord num="1m">Am</chord>
+            <chord num="b3">C</chord>
+            <chord num="1m">Am</chord>
+            <chord num="b3">C</chord>
+            <chord num="1m">Am</chord>
+            <chord num="b3">C</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Chorus">
+         <chordLine>
+            <chord num="1^7">A7</chord>
+            <chord num="4">D</chord>
+            <chord num="1^7">A7</chord>
+            <chord num="4">D</chord>
+         </chordLine>
+         <lyrics>Oh, well, the night is long the beads of time pass slow</lyrics>
+         <chordLine>
+            <chord num="b7^7">G7</chord>
+            <chord num="b3">C</chord>
+         </chordLine>
+         <lyrics>Tired eyes on the sunrise</lyrics>
+         <chordLine>
+            <chord num="b7^7">G7</chord>
+            <chord num="b3">C</chord>
+         </chordLine>
+         <lyrics>Waiting for the eastern glow</lyrics>
+      </section>
+      <section type="Verse 3">
+         <chordLine>
+            <chord num="1m">Am</chord>
+            <chord num="b3">C</chord>
+            <chord num="1m">Am</chord>
+            <chord num="b3">C</chord>
+         </chordLine>
+         <lyrics>The pain of war cannot exceed</lyrics>
+         <chordLine>
+            <chord num="1m">Am</chord>
+            <chord num="b3">C</chord>
+            <chord num="1m">Am</chord>
+            <chord num="b3">C</chord>
+         </chordLine>
+         <lyrics>The woe of aftermath</lyrics>
+         <chordLine>
+            <chord num="1m">Am</chord>
+            <chord num="b3">C</chord>
+            <chord num="1m">Am</chord>
+            <chord num="b3">C</chord>
+         </chordLine>
+         <lyrics>The drums will shake the castle wall</lyrics>
+         <chordLine>
+            <chord num="1m">Am</chord>
+            <chord num="b3">C</chord>
+            <chord num="1m">Am</chord>
+            <chord num="b3">C</chord>
+            <chord num="4">D</chord>
+         </chordLine>
+         <lyrics>The ring wraiths ride in black, ride on Sing as you raise your bow Shoot straighter than before</lyrics>
+         <chordLine>
+            <chord num="1m">Am</chord>
+            <chord num="b3">C</chord>
+            <chord num="1m">Am</chord>
+            <chord num="b3">C</chord>
+         </chordLine>
+         <lyrics>No comfort has the fire at night</lyrics>
+         <chordLine>
+            <chord num="1m">Am</chord>
+            <chord num="b3">C</chord>
+            <chord num="1m">Am</chord>
+            <chord num="b3">C</chord>
+         </chordLine>
+         <lyrics>That lights the face so cold</lyrics>
+         <chordLine>
+            <chord num="4">D</chord>
+         </chordLine>
+         <lyrics>Dance in the dark of night Sing to the morning light</lyrics>
+         <chordLine>
+            <chord num="1m">Am</chord>
+            <chord num="b3">C</chord>
+            <chord num="1m">Am</chord>
+            <chord num="b3">C</chord>
+         </chordLine>
+         <lyrics>Magic runes are writ in gold</lyrics>
+         <chordLine>
+            <chord num="1m">Am</chord>
+            <chord num="b3">C</chord>
+            <chord num="1m">Am</chord>
+         </chordLine>
+         <lyrics>To bring the balance back</lyrics>
+         <chordLine>
+            <chord num="b3">C</chord>
+            <chord num="4">D</chord>
+         </chordLine>
+         <lyrics>Bring it back</lyrics>
+         <chordLine>
+            <chord num="1m">Am</chord>
+            <chord num="b3">C</chord>
+            <chord num="1m">Am</chord>
+            <chord num="b3">C</chord>
+            <chord num="1m">Am</chord>
+            <chord num="b3">C</chord>
+            <chord num="1m">Am</chord>
+            <chord num="b3">C</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Chorus">
+         <chordLine>
+            <chord num="1^7">A7</chord>
+            <chord num="4">D</chord>
+         </chordLine>
+         <lyrics>At last the sun is shining</lyrics>
+         <chordLine>
+            <chord num="1^7">A7</chord>
+            <chord num="4">D</chord>
+         </chordLine>
+         <lyrics>The clouds of blue roll by</lyrics>
+         <chordLine>
+            <chord num="b7^7">G7</chord>
+            <chord num="b3">C</chord>
+         </chordLine>
+         <lyrics>With flames from the dragon of darkness</lyrics>
+         <chordLine>
+            <chord num="b7^7">G7</chord>
+            <chord num="b3">C</chord>
+            <chord num="1m">Am</chord>
+         </chordLine>
+         <lyrics>The sunlight blinds his eyes!</lyrics>
+      </section>
+      <section type="Interlude">
+         <chordLine>
+            <chord num="1sus2">Asus2</chord>
+            <chord num="1m">Am</chord>
+            <chord num="1sus2">Asus2</chord>
+            <chord num="1m">Am</chord>
+            <chord num="1sus2">Asus2</chord>
+            <chord num="1m">Am</chord>
+            <chord num="1sus2">Asus2</chord>
+            <chord num="5m7">Em7</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Outro 1">
+         <chordLine>
+            <chord num="1m">Am</chord>
+            <chord num="b3">C</chord>
+            <chord num="1m">Am</chord>
+         </chordLine>
+         <lyrics>Bring it back, bring it back</lyrics>
+         <chordLine>
+            <chord num="b3">C</chord>
+            <chord num="1m">Am</chord>
+            <chord num="b3">C</chord>
+            <chord num="1m">Am</chord>
+         </chordLine>
+         <lyrics>Bring it back, bring it back</lyrics>
+         <chordLine>
+            <chord num="b3">C</chord>
+            <chord num="1m">Am</chord>
+            <chord num="b3">C</chord>
+            <chord num="1m">Am</chord>
+         </chordLine>
+         <lyrics>Bring it back, bring it back</lyrics>
+         <chordLine>
+            <chord num="b3">C</chord>
+            <chord num="1m">Am</chord>
+            <chord num="b3">C</chord>
+            <chord num="1m">Am</chord>
+            <chord num="b3">C</chord>
+         </chordLine>
+         <lyrics>Bring it back, bring it back</lyrics>
+         <chordLine>
+            <chord num="4">D</chord>
+         </chordLine>
+         <lyrics>Oh now, oh now, oh now, oh Oh now, oh now, oh now</lyrics>
+         <chordLine>
+            <chord num="1m">Am</chord>
+            <chord num="b3">C</chord>
+            <chord num="1m">Am</chord>
+         </chordLine>
+         <lyrics>Bring it back, bring it back</lyrics>
+         <chordLine>
+            <chord num="b3">C</chord>
+            <chord num="1m">Am</chord>
+            <chord num="b3">C</chord>
+            <chord num="1m">Am</chord>
+            <chord num="b3">C</chord>
+         </chordLine>
+         <lyrics>Bring it back, bring it back</lyrics>
+         <chordLine>
+            <chord num="4">D</chord>
+         </chordLine>
+         <lyrics>Oh now, oh now, oh now, oh Oh now, oh now, oh now</lyrics>
+         <chordLine>
+            <chord num="1m">Am</chord>
+         </chordLine>
+         <lyrics>Bring it, bring it, bring it, bring it Bring it, bring it, bring it, bring it</lyrics>
+      </section>
+      <section type="Outro 2">
+         <chordLine>
+            <chord num="1m">Am</chord>
+            <chord num="b3">C</chord>
+            <chord num="1m">Am</chord>
+            <chord num="b7">G</chord>
+            <chord num="1m">Am</chord>
+            <chord num="b3">C</chord>
+            <chord num="1m">Am</chord>
+            <chord num="b7">G</chord>
+            <chord num="1m">Am</chord>
+            <chord num="b3">C</chord>
+            <chord num="1m">Am</chord>
+            <chord num="b7">G</chord>
+            <chord num="1m">Am</chord>
+            <chord num="b3">C</chord>
+            <chord num="1m">Am</chord>
+            <chord num="b7">G</chord>
+         </chordLine>
+         <lyrics>Bring it, bring it, bring it, bring it</lyrics>
+         <chordLine/>
+      </section>
+      <section type="Fade Out">
+         <chordLine>
+            <chord num="1m">Am</chord>
+            <chord num="b3">C</chord>
+            <chord num="1m">Am</chord>
+            <chord num="b7">G</chord>
+            <chord num="1m">Am</chord>
+            <chord num="b3">C</chord>
+            <chord num="1m">Am</chord>
+            <chord num="b7">G</chord>
+            <chord num="1m">Am</chord>
+            <chord num="b3">C</chord>
+            <chord num="1m">Am</chord>
+            <chord num="b7">G</chord>
+            <chord num="1m">Am</chord>
+            <chord num="b3">C</chord>
+            <chord num="1m">Am</chord>
+            <chord num="b7">G</chord>
+            <chord num="1m">Am</chord>
+            <chord num="b3">C</chord>
+            <chord num="1m">Am</chord>
+            <chord num="b7">G</chord>
+            <chord num="1m">Am</chord>
+            <chord num="b3">C</chord>
+            <chord num="1m">Am</chord>
+            <chord num="b7">G</chord>
+            <chord num="1m">Am</chord>
+            <chord num="b3">C</chord>
+            <chord num="1m">Am</chord>
+            <chord num="b7">G</chord>
+         </chordLine>
+      </section>
+   </music>
+</mei>

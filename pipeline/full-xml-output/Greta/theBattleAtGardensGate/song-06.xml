@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mei ixml:state="ambiguous"
+     xmlns:ixml="http://invisiblexml.org/NS">
+   <music>
+      <title>Tears of Rain</title>
+      <album>The Battle of Garden's Gate</album>
+      <artist>Greta Van Fleet</artist>
+      <key>Eb</key>
+      <section type="Intro">
+         <chordLine>
+            <chord num="4maj7/6">Abmaj7/C</chord>
+            <chord num="6">C</chord>
+            <chord num="6^7">C7</chord>
+            <chord num="1/5">Eb/Bb</chord>
+            <chord num="3m/5">Gm/Bb</chord>
+            <chord num="2">F</chord>
+            <chord num="2sus2">Fsus2</chord>
+            <chord num="4maj7/6">Abmaj7/C</chord>
+            <chord num="6">C</chord>
+            <chord num="6^7">C7</chord>
+            <chord num="1/5">Eb/Bb</chord>
+            <chord num="3m/5">Gm/Bb</chord>
+            <chord num="2">F</chord>
+            <chord num="2sus2">Fsus2</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Verse 1">
+         <chordLine>
+            <chord num="4maj7/6">Abmaj7/C</chord>
+            <chord num="6">C</chord>
+            <chord num="6^7">C7</chord>
+         </chordLine>
+         <lyrics>Bathing in the light around us</lyrics>
+         <chordLine>
+            <chord num="1/5">Eb/Bb</chord>
+            <chord num="3m/5">Gm/Bb</chord>
+            <chord num="2">F</chord>
+            <chord num="2sus2">Fsus2</chord>
+         </chordLine>
+         <lyrics>Praying for the night to comfort thee</lyrics>
+         <chordLine>
+            <chord num="4maj7/6">Abmaj7/C</chord>
+            <chord num="6">C</chord>
+            <chord num="6^7">C7</chord>
+         </chordLine>
+         <lyrics>Dancing on the coals below us</lyrics>
+         <chordLine>
+            <chord num="1/5">Eb/Bb</chord>
+            <chord num="3m/5">Gm/Bb</chord>
+            <chord num="2">F</chord>
+            <chord num="2sus2">Fsus2</chord>
+         </chordLine>
+         <lyrics>Praying for the flood to set us free</lyrics>
+      </section>
+      <section type="Chorus">
+         <chordLine>
+            <chord num="2m">Fm</chord>
+            <chord num="2m/6">Fm</chord>
+            <chord num="3m">Gm</chord>
+         </chordLine>
+         <lyrics>And the planet is still turning</lyrics>
+         <chordLine>
+            <chord num="4">Ab</chord>
+            <chord num="5">Bb</chord>
+         </chordLine>
+         <lyrics>And the faces are still burning</lyrics>
+         <chordLine>
+            <chord num="6m">Cm</chord>
+            <chord num="7m7add11">Dm7add11</chord>
+         </chordLine>
+         <lyrics>And the mothers with their children</lyrics>
+         <chordLine>
+            <chord num="1/5">Eb/Bb</chord>
+            <chord num="2">F</chord>
+         </chordLine>
+         <lyrics>Search for the rain</lyrics>
+      </section>
+      <section type="Verse 2">
+         <chordLine>
+            <chord num="4maj7/6">Abmaj7/C</chord>
+            <chord num="6">C</chord>
+            <chord num="6^7">C7</chord>
+         </chordLine>
+         <lyrics>Drifting through the plains before us</lyrics>
+         <chordLine>
+            <chord num="1/5">Eb/Bb</chord>
+            <chord num="3m/5">Gm/Bb</chord>
+            <chord num="2">F</chord>
+            <chord num="2sus2">Fsus2</chord>
+         </chordLine>
+         <lyrics>As it turns to dust before our eyes</lyrics>
+         <chordLine>
+            <chord num="4maj7/6">Abmaj7/C</chord>
+            <chord num="6">C</chord>
+            <chord num="6^7">C7</chord>
+         </chordLine>
+         <lyrics>Pleading for a God to pour us</lyrics>
+         <chordLine>
+            <chord num="1/5">Eb/Bb</chord>
+            <chord num="3m/5">Gm/Bb</chord>
+            <chord num="2">F</chord>
+            <chord num="2sus2">Fsus2</chord>
+         </chordLine>
+         <lyrics>Just a little bit of rain from an empty sky</lyrics>
+      </section>
+      <section type="Chorus">
+         <chordLine>
+            <chord num="2m">Fm</chord>
+            <chord num="2m/6">Fm</chord>
+            <chord num="3m">Gm</chord>
+         </chordLine>
+         <lyrics>And the planet is still turning</lyrics>
+         <chordLine>
+            <chord num="4">Ab</chord>
+            <chord num="5">Bb</chord>
+         </chordLine>
+         <lyrics>And the faces are still burning</lyrics>
+         <chordLine>
+            <chord num="6m">Cm</chord>
+            <chord num="7m7add11">Dm7add11</chord>
+         </chordLine>
+         <lyrics>And the mothers with their children</lyrics>
+         <chordLine>
+            <chord num="1/5">Eb/Bb</chord>
+         </chordLine>
+         <lyrics>Search for the rain</lyrics>
+      </section>
+      <section type="Interlude">
+         <chordLine>
+            <chord num="2">F</chord>
+         </chordLine>
+         <lyrics>Eb Bb Cm Bb Ab Db(b5)/Ab Eb Bb</lyrics>
+         <chordLine>
+            <chord num="6m">Cm</chord>
+            <chord num="5">Bb</chord>
+            <chord num="4">Ab</chord>
+            <chord num="3m">Gm</chord>
+            <chord num="2m">Fm</chord>
+            <chord num="2m/6">Fm</chord>
+            <chord num="5^7sus4">Bb7sus4</chord>
+            <chord num="5^7">Bb7</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Outro">
+         <lyrics>Eb Bb Cm Bb Ab Db(b5)/Ab Who will bring the rain? Oh</lyrics>
+         <chordLine>
+            <chord num="1">Eb</chord>
+            <chord num="5">Bb</chord>
+            <chord num="6m">Cm</chord>
+            <chord num="5">Bb</chord>
+            <chord num="4">Ab</chord>
+            <chord num="3m">Gm</chord>
+         </chordLine>
+         <lyrics>Who will bring the rain? Hey Who will bring the rain?</lyrics>
+         <chordLine>
+            <chord num="2m">Fm</chord>
+            <chord num="2m/6">Fm</chord>
+            <chord num="5^7sus4">Bb7sus4</chord>
+            <chord num="5^7">Bb7</chord>
+         </chordLine>
+         <lyrics>Oh, no, no Eb Bb Cm Bb Ab Db(b5)/Ab Who will bring the rain? Oh Who will bring it?</lyrics>
+         <chordLine>
+            <chord num="1">Eb</chord>
+            <chord num="5">Bb</chord>
+            <chord num="6m">Cm</chord>
+            <chord num="5">Bb</chord>
+            <chord num="4">Ab</chord>
+            <chord num="3m">Gm</chord>
+         </chordLine>
+         <lyrics>Who will bring the rain? Yeah, ooh, oh</lyrics>
+         <chordLine>
+            <chord num="2m">Fm</chord>
+            <chord num="2m/6">Fm</chord>
+            <chord num="4">Ab</chord>
+            <chord num="1">Eb</chord>
+         </chordLine>
+      </section>
+   </music>
+</mei>

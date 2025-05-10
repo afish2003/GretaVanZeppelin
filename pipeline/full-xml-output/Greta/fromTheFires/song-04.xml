@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mei ixml:state="ambiguous"
+     xmlns:ixml="http://invisiblexml.org/NS">
+   <music>
+      <title>A Change Is Gonna Come</title>
+      <album>From the Fires</album>
+      <artist>Greta Van Fleet</artist>
+      <key>C</key>
+      <section type="Intro">
+         <chordLine>
+            <chord num="4">F</chord>
+            <chord num="3">E</chord>
+            <chord num="6m">Am</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Verse 1">
+         <chordLine>
+            <chord num="1">C</chord>
+         </chordLine>
+         <lyrics>I was born by the river In a little tent</lyrics>
+         <chordLine>
+            <chord num="2m">Dm</chord>
+         </chordLine>
+         <lyrics>And just like river, baby</lyrics>
+         <chordLine>
+            <chord num="6m">Am</chord>
+         </chordLine>
+         <lyrics>I've been running ever since</lyrics>
+         <chordLine>
+            <chord num="1">C</chord>
+         </chordLine>
+         <lyrics>It's been a long</lyrics>
+      </section>
+      <section type="Chorus">
+         <chordLine>
+            <chord num="2m">Dm</chord>
+         </chordLine>
+         <lyrics>Long time coming And I know</lyrics>
+         <chordLine>
+            <chord num="6m">Am</chord>
+         </chordLine>
+         <lyrics>Change is gonna come</lyrics>
+      </section>
+      <section type="Verse 2">
+         <chordLine>
+            <chord num="1">C</chord>
+         </chordLine>
+         <lyrics>It's been too hard living But I'm afraid to die</lyrics>
+         <chordLine>
+            <chord num="2m">Dm</chord>
+         </chordLine>
+         <lyrics>Cause I don't know what's up there, baby</lyrics>
+         <chordLine>
+            <chord num="6m">Am</chord>
+         </chordLine>
+         <lyrics>Beyond the sky</lyrics>
+         <chordLine>
+            <chord num="1">C</chord>
+         </chordLine>
+         <lyrics>It's been a long</lyrics>
+      </section>
+      <section type="Chorus">
+         <chordLine>
+            <chord num="2m">Dm</chord>
+         </chordLine>
+         <lyrics>Long time coming And I know</lyrics>
+         <chordLine>
+            <chord num="6m">Am</chord>
+         </chordLine>
+         <lyrics>Change is gonna come</lyrics>
+      </section>
+      <section type="Bridge">
+         <chordLine>
+            <chord num="2m">Dm</chord>
+            <chord num="1">C</chord>
+         </chordLine>
+         <lyrics>Well, I go down to my brother</lyrics>
+         <chordLine>
+            <chord num="2m">Dm</chord>
+         </chordLine>
+         <lyrics>And I say Brother, help me please,</lyrics>
+         <chordLine>
+            <chord num="6m">Am</chord>
+            <chord num="2m">Dm</chord>
+         </chordLine>
+         <lyrics>But he winds up</lyrics>
+         <chordLine>
+            <chord num="6m">Am</chord>
+         </chordLine>
+         <lyrics>Knocking me back down</lyrics>
+         <chordLine>
+            <chord num="2m">Dm</chord>
+         </chordLine>
+         <lyrics>On my knees</lyrics>
+      </section>
+      <section type="Verse 3">
+         <chordLine>
+            <chord num="5">G</chord>
+            <chord num="1">C</chord>
+         </chordLine>
+         <lyrics>There'd been times where I thought I Couldn't last for long</lyrics>
+         <chordLine>
+            <chord num="2m">Dm</chord>
+         </chordLine>
+         <lyrics>Now I think I'm able</lyrics>
+         <chordLine>
+            <chord num="6m">Am</chord>
+         </chordLine>
+         <lyrics>To carry on</lyrics>
+         <chordLine>
+            <chord num="1">C</chord>
+         </chordLine>
+         <lyrics>It's been a long</lyrics>
+      </section>
+      <section type="Chorus">
+         <chordLine>
+            <chord num="2m">Dm</chord>
+         </chordLine>
+         <lyrics>Long time coming And I know</lyrics>
+         <chordLine>
+            <chord num="6m">Am</chord>
+         </chordLine>
+         <lyrics>Change is gonna come</lyrics>
+         <chordLine>
+            <chord num="1">C</chord>
+         </chordLine>
+         <lyrics>Oh, yes it will It's been a long</lyrics>
+         <chordLine>
+            <chord num="2m">Dm</chord>
+         </chordLine>
+         <lyrics>Long time coming And I know</lyrics>
+         <chordLine>
+            <chord num="6m">Am</chord>
+            <chord num="1">C</chord>
+         </chordLine>
+         <lyrics>Change gonna come Well, it's been a long</lyrics>
+         <chordLine>
+            <chord num="2m">Dm</chord>
+            <chord num="4">F</chord>
+            <chord num="3">E</chord>
+         </chordLine>
+         <lyrics>Long time coming And I know</lyrics>
+      </section>
+      <section type="Outro">
+         <chordLine>
+            <chord num="6m">Am</chord>
+            <chord num="4">F</chord>
+            <chord num="3">E</chord>
+            <chord num="6m">Am</chord>
+            <chord num="4">F</chord>
+            <chord num="3">E</chord>
+            <chord num="6m">Am</chord>
+            <chord num="4">F</chord>
+            <chord num="3">E</chord>
+            <chord num="6m">Am</chord>
+            <chord num="4">F</chord>
+            <chord num="3">E</chord>
+            <chord num="6m">Am</chord>
+            <chord num="4">F</chord>
+            <chord num="3">E</chord>
+            <chord num="6m">Am</chord>
+            <chord num="4">F</chord>
+            <chord num="3">E</chord>
+            <chord num="6m">Am</chord>
+            <chord num="4">F</chord>
+            <chord num="3">E</chord>
+            <chord num="6m">Am</chord>
+         </chordLine>
+      </section>
+   </music>
+</mei>

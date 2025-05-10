@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mei ixml:state="ambiguous"
+     xmlns:ixml="http://invisiblexml.org/NS">
+   <music>
+      <title>The Falling Sky</title>
+      <album>Starcatcher</album>
+      <artist>Greta Van Fleet</artist>
+      <key>F</key>
+      <section type="Intro">
+         <chordLine>
+            <chord num="6^5">D5</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Verse 1">
+         <chordLine>
+            <chord num="6^5">D5</chord>
+         </chordLine>
+         <lyrics>I've been handed a quite demanding and hardly standing lie to tell Life is sorted and never thwarted it's just supported by being well</lyrics>
+         <chordLine>
+            <chord num="6m/1">Dm/F</chord>
+            <chord num="5/7">C/E</chord>
+            <chord num="6m/1">Dm/F</chord>
+            <chord num="5/7">C/E</chord>
+            <chord num="2">G</chord>
+         </chordLine>
+         <lyrics>I don't want to loose this time</lyrics>
+         <chordLine>
+            <chord num="4">Bb</chord>
+            <chord num="5">C</chord>
+            <chord num="6m">Dm</chord>
+         </chordLine>
+         <lyrics>I just want to let it pass</lyrics>
+      </section>
+      <section type="Chorus">
+         <chordLine>
+            <chord num="6m">Dm</chord>
+            <chord num="5">C</chord>
+            <chord num="4">Bb</chord>
+            <chord num="2">G</chord>
+         </chordLine>
+         <lyrics>Holding up the falling sky</lyrics>
+         <chordLine>
+            <chord num="6m">Dm</chord>
+            <chord num="5">C</chord>
+            <chord num="4">Bb</chord>
+            <chord num="2">G</chord>
+         </chordLine>
+         <lyrics>Holding up the falling sky</lyrics>
+      </section>
+      <section type="Verse 2">
+         <chordLine>
+            <chord num="6^5">D5</chord>
+         </chordLine>
+         <lyrics>Here's the trouble with seeing double it's torn down rubble that's left behind You can live with a pointless forte that silly board game that you would know</lyrics>
+         <chordLine>
+            <chord num="6m/1">Dm/F</chord>
+            <chord num="5/7">C/E</chord>
+            <chord num="6m/1">Dm/F</chord>
+            <chord num="5/7">C/E</chord>
+            <chord num="2">G</chord>
+         </chordLine>
+         <lyrics>I don't want to loose this time</lyrics>
+         <chordLine>
+            <chord num="4">Bb</chord>
+            <chord num="5">C</chord>
+            <chord num="6m">Dm</chord>
+         </chordLine>
+         <lyrics>I just want to let it pass</lyrics>
+      </section>
+      <section type="Chorus">
+         <chordLine>
+            <chord num="6m">Dm</chord>
+            <chord num="5">C</chord>
+            <chord num="4">Bb</chord>
+            <chord num="2">G</chord>
+         </chordLine>
+         <lyrics>Holding up the falling sky</lyrics>
+         <chordLine>
+            <chord num="6m">Dm</chord>
+            <chord num="5">C</chord>
+            <chord num="4">Bb</chord>
+            <chord num="2">G</chord>
+         </chordLine>
+         <lyrics>Holding up the falling sky</lyrics>
+      </section>
+      <section type="Bridge">
+         <chordLine>
+            <chord num="6m/1">Dm/F</chord>
+            <chord num="7sus4">E7sus4</chord>
+            <chord num="2">G</chord>
+            <chord num="6m/1">Dm/F</chord>
+            <chord num="7sus4">E7sus4</chord>
+            <chord num="2">G</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Solo Harmonica">
+         <chordLine>
+            <chord num="6m">Dm</chord>
+            <chord num="4">Bb</chord>
+            <chord num="5">C</chord>
+            <chord num="6m">Dm</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Chorus">
+         <chordLine>
+            <chord num="6m">Dm</chord>
+            <chord num="5">C</chord>
+            <chord num="4">Bb</chord>
+            <chord num="2">G</chord>
+         </chordLine>
+         <lyrics>Holding up the falling sky</lyrics>
+         <chordLine>
+            <chord num="6m">Dm</chord>
+            <chord num="5">C</chord>
+            <chord num="4">Bb</chord>
+            <chord num="2">G</chord>
+         </chordLine>
+         <lyrics>Holding up the falling sky</lyrics>
+         <chordLine>
+            <chord num="6m">Dm</chord>
+            <chord num="5">C</chord>
+            <chord num="4">Bb</chord>
+            <chord num="2">G</chord>
+         </chordLine>
+         <lyrics>Holding up the falling sky</lyrics>
+         <chordLine>
+            <chord num="6m">Dm</chord>
+            <chord num="5">C</chord>
+            <chord num="4">Bb</chord>
+            <chord num="2">G</chord>
+            <chord num="6^5">D5</chord>
+            <chord num="6sus4">Dsus4</chord>
+         </chordLine>
+      </section>
+   </music>
+</mei>

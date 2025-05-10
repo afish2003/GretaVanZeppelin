@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mei ixml:state="ambiguous"
+     xmlns:ixml="http://invisiblexml.org/NS">
+   <music>
+      <title>Thank You</title>
+      <album>Led Zeppelin II</album>
+      <artist>Led Zeppelin</artist>
+      <key>G</key>
+      <section type="Intro">
+         <chordLine>
+            <chord num="6m">Em</chord>
+            <chord num="4maj7">Cmaj7</chord>
+            <chord num="6m">Em</chord>
+            <chord num="4maj7">Cmaj7</chord>
+            <chord num="6m">Em</chord>
+            <chord num="4maj7">Cmaj7</chord>
+            <chord num="6m">Em</chord>
+            <chord num="4maj7">Cmaj7</chord>
+            <chord num="6m">Em</chord>
+            <chord num="4maj7">Cmaj7</chord>
+            <chord num="6m">Em</chord>
+            <chord num="4maj7">Cmaj7</chord>
+            <chord num="6m">Em</chord>
+            <chord num="4maj7">Cmaj7</chord>
+            <chord num="6m">Em</chord>
+            <chord num="4maj7">Cmaj7</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Verse 1">
+         <chordLine>
+            <chord num="6m">Em</chord>
+            <chord num="4maj7">Cmaj7</chord>
+         </chordLine>
+         <lyrics>My tea's gone cold</lyrics>
+         <chordLine>
+            <chord num="5">D</chord>
+            <chord num="1">G</chord>
+            <chord num="5/7">D/F#</chord>
+            <chord num="6m">Em</chord>
+            <chord num="4maj7">Cmaj7</chord>
+         </chordLine>
+         <lyrics>I'm wondering why I got out of bed at all The morning rain</lyrics>
+         <chordLine>
+            <chord num="5">D</chord>
+         </chordLine>
+         <lyrics>clouds up my window</lyrics>
+         <chordLine>
+            <chord num="1">G</chord>
+            <chord num="5/7">D/F#</chord>
+            <chord num="6m">Em</chord>
+            <chord num="4maj7">Cmaj7</chord>
+         </chordLine>
+         <lyrics>And I can't see at all And even if</lyrics>
+         <chordLine>
+            <chord num="5">D</chord>
+            <chord num="1">G</chord>
+            <chord num="5/7">D/F#</chord>
+         </chordLine>
+         <lyrics>I could, it'd all be grey But your picture on my wall</lyrics>
+         <chordLine>
+            <chord num="6m">Em</chord>
+            <chord num="4maj7">Cmaj7</chord>
+            <chord num="6m">Em</chord>
+         </chordLine>
+         <lyrics>It reminds me that it's not so bad</lyrics>
+         <chordLine>
+            <chord num="4maj7">Cmaj7</chord>
+         </chordLine>
+         <lyrics>It's not so bad</lyrics>
+         <chordLine>
+            <chord num="6m">Em</chord>
+            <chord num="4maj7">Cmaj7</chord>
+            <chord num="6m">Em</chord>
+            <chord num="4maj7">Cmaj7</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Verse 2">
+         <chordLine>
+            <chord num="6m">Em</chord>
+            <chord num="4maj7">Cmaj7</chord>
+         </chordLine>
+         <lyrics>I drank too much last night</lyrics>
+         <chordLine>
+            <chord num="5">D</chord>
+         </chordLine>
+         <lyrics>Got bills to pay</lyrics>
+         <chordLine>
+            <chord num="1">G</chord>
+            <chord num="5/7">D/F#</chord>
+            <chord num="6m">Em</chord>
+            <chord num="4maj7">Cmaj7</chord>
+         </chordLine>
+         <lyrics>My head just feels in pain I missed the bus</lyrics>
+         <chordLine>
+            <chord num="5">D</chord>
+         </chordLine>
+         <lyrics>and there'll be hell today</lyrics>
+         <chordLine>
+            <chord num="1">G</chord>
+            <chord num="5/7">D/F#</chord>
+            <chord num="6m">Em</chord>
+            <chord num="4maj7">Cmaj7</chord>
+         </chordLine>
+         <lyrics>I'm late for work again And even if I'm there</lyrics>
+         <chordLine>
+            <chord num="5">D</chord>
+            <chord num="1">G</chord>
+            <chord num="5/7">D/F#</chord>
+         </chordLine>
+         <lyrics>They'll all imply that I might not last the day</lyrics>
+         <chordLine>
+            <chord num="6m">Em</chord>
+            <chord num="4maj7">Cmaj7</chord>
+         </chordLine>
+         <lyrics>And then you call me</lyrics>
+         <chordLine>
+            <chord num="6m">Em</chord>
+         </chordLine>
+         <lyrics>And it's not so bad</lyrics>
+         <chordLine>
+            <chord num="4maj7">Cmaj7</chord>
+         </chordLine>
+         <lyrics>It's not so bad</lyrics>
+      </section>
+      <section type="Chorus">
+         <chordLine>
+            <chord num="1">G</chord>
+            <chord num="4maj7">Cmaj7</chord>
+         </chordLine>
+         <lyrics>And I want to thank you</lyrics>
+         <chordLine>
+            <chord num="1">G</chord>
+            <chord num="4maj7">Cmaj7</chord>
+         </chordLine>
+         <lyrics>For giving me the best day of my life</lyrics>
+         <chordLine>
+            <chord num="1">G</chord>
+            <chord num="4maj7">Cmaj7</chord>
+         </chordLine>
+         <lyrics>Oh, just to be with you</lyrics>
+         <chordLine>
+            <chord num="3m7">Bm7</chord>
+            <chord num="2m7">Am7</chord>
+         </chordLine>
+         <lyrics>Is having the best day of my life</lyrics>
+      </section>
+      <section type="Interlude">
+         <chordLine>
+            <chord num="1">G</chord>
+            <chord num="4maj7">Cmaj7</chord>
+            <chord num="1">G</chord>
+            <chord num="4maj7">Cmaj7</chord>
+            <chord num="1">G</chord>
+            <chord num="4maj7">Cmaj7</chord>
+            <chord num="3m7">Bm7</chord>
+            <chord num="2m7">Am7</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Verse 3">
+         <chordLine>
+            <chord num="1">G</chord>
+            <chord num="4maj7">Cmaj7</chord>
+         </chordLine>
+         <lyrics>Push the door I'm home at last</lyrics>
+         <chordLine>
+            <chord num="1">G</chord>
+         </chordLine>
+         <lyrics>And I'm soaking through and through</lyrics>
+         <chordLine>
+            <chord num="4maj7">Cmaj7</chord>
+            <chord num="1">G</chord>
+         </chordLine>
+         <lyrics>Then you handed me a towel and all I see is you</lyrics>
+         <chordLine>
+            <chord num="4maj7">Cmaj7</chord>
+         </chordLine>
+         <lyrics>And even if my house falls down now</lyrics>
+         <chordLine>
+            <chord num="3m7">Bm7</chord>
+         </chordLine>
+         <lyrics>I wouldn't have a clue</lyrics>
+         <chordLine>
+            <chord num="2m7">Am7</chord>
+         </chordLine>
+         <lyrics>Because you're near me</lyrics>
+      </section>
+      <section type="Chorus">
+         <chordLine>
+            <chord num="1">G</chord>
+            <chord num="4maj7">Cmaj7</chord>
+         </chordLine>
+         <lyrics>And I want to thank you</lyrics>
+         <chordLine>
+            <chord num="1">G</chord>
+            <chord num="4maj7">Cmaj7</chord>
+         </chordLine>
+         <lyrics>For giving me the best day of my life</lyrics>
+         <chordLine>
+            <chord num="1">G</chord>
+            <chord num="4maj7">Cmaj7</chord>
+         </chordLine>
+         <lyrics>Oh, just to be with you</lyrics>
+         <chordLine>
+            <chord num="3m7">Bm7</chord>
+            <chord num="2m7">Am7</chord>
+         </chordLine>
+         <lyrics>Is having the best day of my life</lyrics>
+         <chordLine>
+            <chord num="1">G</chord>
+            <chord num="4maj7">Cmaj7</chord>
+         </chordLine>
+         <lyrics>And I want to thank you</lyrics>
+         <chordLine>
+            <chord num="1">G</chord>
+            <chord num="4maj7">Cmaj7</chord>
+         </chordLine>
+         <lyrics>For giving me the best day of my life</lyrics>
+         <chordLine>
+            <chord num="1">G</chord>
+            <chord num="4maj7">Cmaj7</chord>
+         </chordLine>
+         <lyrics>Oh, just to be with you</lyrics>
+         <chordLine>
+            <chord num="3m7">Bm7</chord>
+            <chord num="2m7">Am7</chord>
+         </chordLine>
+         <lyrics>Is having the best day of my life</lyrics>
+      </section>
+   </music>
+</mei>

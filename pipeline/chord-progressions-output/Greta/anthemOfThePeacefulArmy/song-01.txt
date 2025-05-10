@@ -1,0 +1,94 @@
+Title: Age of Man
+Album: Anthem of the Peaceful Army
+Artist: Greta Van Fleet
+Key: A
+
+[Intro]
+  6m, 5, 4, 6m, 1, 6m, 6m, 5, 4, 5, 5sus4, 5, 5sus4, 5, 6m, 5, 4
+  6m, 1, 6m
+  6m, 5, 4
+  5
+  5sus4, 5, 5sus4, 5, 6m, 5, 4
+  6m, 1, 6m
+  6m, 5, 4
+  5
+  5sus4, 5, 5sus4, 5
+
+[Pre-Verse]
+  6m, 5, 4, 6m, 5, 4sus2, 6m, 5, 4, 6m, 5, 4sus2
+  4
+  6m, 5, 4, 6m, 1, 6m, 6m, 5, 4, 5, 5sus4, 5, 5sus4, 5, 6m, 5, 4, 6m, 1, 6m, 6m, 5, 4, 5, 5sus4, 5, 5sus4, 5
+
+[Verse 1]
+  6m, 5, 4
+  6m, 1, 6m
+  6m, 5, 4
+  5
+  5sus4, 5, 5sus4, 5, 6m, 5, 4
+  6m, 1, 6m
+  6m, 5, 4
+  5
+  5sus4, 5, 5sus4, 5
+
+[Pre-Chorus]
+  6m, 5, 4, 6m, 5, 4, 6m, 5, 4, 6m, 5, 4, 6m, 5, 4
+
+[Chorus]
+  1, 6m
+  5, 5sus4, 5
+  1, 6m
+  5
+  5sus4, 5, 1, 6m
+  5, 5sus4, 5
+  1, 6m
+  5
+  5sus4, 5, 4sus2, 4
+
+[Pre-Verse]
+  6m, 5, 4, 6m, 1, 6m, 6m, 5, 4, 5, 5sus4, 5, 5sus4, 5
+
+[Verse 2]
+  6m, 5, 4
+  6m, 1, 6m
+  6m, 5, 4
+  5
+  5sus4, 5, 5sus4, 5, 6m, 5, 4
+  6m, 1, 6m
+  6m, 5, 4
+  5
+  5sus4, 5, 5sus4, 5
+
+[Pre-Chorus]
+  6m, 5, 4, 6m, 5, 4, 6m, 5, 4, 6m, 5, 4, 6m, 5, 4
+
+[Chorus]
+  1, 6m
+  5, 5sus4, 5
+  1, 6m
+  5
+  5sus4, 5, 1, 6m
+  5, 5sus4, 5
+  1, 6m
+  5, 5sus4, 5
+
+[Bridge]
+  2m, 3m, 4
+  5, 6m, 2m
+  3m, 4, 5
+  2^7, 3m, 4
+
+[Chorus]
+  1, 6m
+  5, 5sus4, 5
+  1, 6m
+  5
+  5sus4, 5, 1, 6m
+  5, 5sus4, 5
+  1, 6m
+  5, 5sus4, 5
+
+[Outro]
+  1, 6m, 5, 5sus4, 5
+  1, 6m, 5, 5sus4, 5, 1
+  6m, 5, 5sus4, 5, 1, 6m, 5, 5sus4, 5, 4sus2
+

@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mei ixml:state="ambiguous"
+     xmlns:ixml="http://invisiblexml.org/NS">
+   <music>
+      <title>When the Curtain Falls</title>
+      <album>Anthem of the Peaceful Army</album>
+      <artist>Greta Van Fleet</artist>
+      <key>G</key>
+      <section type="Intro">
+         <chordLine>
+            <chord num="1sus4">Gsus4</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Main Riff">
+         <chordLine>
+            <chord num="1^7">G7</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Verse 1">
+         <chordLine>
+            <chord num="1^7">G7</chord>
+         </chordLine>
+         <lyrics>Well you're so great and I love you so You know I'm your biggest fan I saw your picture and it's the best The finest in the land</lyrics>
+         <chordLine>
+            <chord num="1">G</chord>
+            <chord num="4">C</chord>
+            <chord num="1">G</chord>
+            <chord num="4">C</chord>
+         </chordLine>
+         <lyrics>Camera lights and action</lyrics>
+         <chordLine>
+            <chord num="1">G</chord>
+            <chord num="4">C</chord>
+            <chord num="1">G</chord>
+            <chord num="4">C</chord>
+         </chordLine>
+         <lyrics>And words you know so well</lyrics>
+         <chordLine>
+            <chord num="1">G</chord>
+            <chord num="4">C</chord>
+         </chordLine>
+         <lyrics>You're in and out of fashion</lyrics>
+         <chordLine>
+            <chord num="1">G</chord>
+            <chord num="4">C</chord>
+            <chord num="1">G</chord>
+            <chord num="4">C</chord>
+            <chord num="1">G</chord>
+         </chordLine>
+         <lyrics>In Hollywood of hell</lyrics>
+      </section>
+      <section type="Chorus">
+         <chordLine>
+            <chord num="1">G</chord>
+            <chord num="b7">F</chord>
+            <chord num="4">C</chord>
+         </chordLine>
+         <lyrics>When the curtain falls</lyrics>
+         <chordLine>
+            <chord num="1">G</chord>
+            <chord num="5m">Dm</chord>
+            <chord num="b7">F</chord>
+            <chord num="4">C</chord>
+         </chordLine>
+         <lyrics>Walk the hollow halls babe</lyrics>
+         <chordLine>
+            <chord num="1">G</chord>
+            <chord num="b7">F</chord>
+            <chord num="4">C</chord>
+         </chordLine>
+         <lyrics>Once a valley doll</lyrics>
+         <chordLine>
+            <chord num="1">G</chord>
+            <chord num="5m">Dm</chord>
+            <chord num="b7">F</chord>
+         </chordLine>
+         <lyrics>Now you're not at all</lyrics>
+         <chordLine>
+            <chord num="4">C</chord>
+            <chord num="1">G</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Verse 2">
+         <chordLine>
+            <chord num="1^7">G7</chord>
+            <chord num="1^7">G7</chord>
+         </chordLine>
+         <lyrics>Well I love you in that movie show Can I have your autograph It's so funny you have such charm And whole thing made me laugh</lyrics>
+         <chordLine>
+            <chord num="1">G</chord>
+            <chord num="4">C</chord>
+         </chordLine>
+         <lyrics>Obetral and cocktails</lyrics>
+         <chordLine>
+            <chord num="1">G</chord>
+            <chord num="4">C</chord>
+            <chord num="1">G</chord>
+            <chord num="4">C</chord>
+         </chordLine>
+         <lyrics>You're counting all your rings</lyrics>
+         <chordLine>
+            <chord num="1">G</chord>
+            <chord num="4">C</chord>
+            <chord num="1">G</chord>
+            <chord num="4">C</chord>
+         </chordLine>
+         <lyrics>They all said they loved you</lyrics>
+         <chordLine>
+            <chord num="1">G</chord>
+            <chord num="4">C</chord>
+         </chordLine>
+         <lyrics>(Didn't they darlin')</lyrics>
+         <chordLine>
+            <chord num="1">G</chord>
+            <chord num="4">C</chord>
+            <chord num="1">G</chord>
+         </chordLine>
+         <lyrics>Well they've taken all your things</lyrics>
+      </section>
+      <section type="Chorus">
+         <chordLine>
+            <chord num="1">G</chord>
+            <chord num="b7">F</chord>
+            <chord num="4">C</chord>
+         </chordLine>
+         <lyrics>When the curtain falls</lyrics>
+         <chordLine>
+            <chord num="1">G</chord>
+            <chord num="5m">Dm</chord>
+            <chord num="b7">F</chord>
+            <chord num="4">C</chord>
+         </chordLine>
+         <lyrics>Walk the hollow halls babe</lyrics>
+         <chordLine>
+            <chord num="1">G</chord>
+            <chord num="b7">F</chord>
+            <chord num="4">C</chord>
+         </chordLine>
+         <lyrics>Once a valley doll</lyrics>
+         <chordLine>
+            <chord num="1">G</chord>
+            <chord num="5m">Dm</chord>
+            <chord num="b7">F</chord>
+         </chordLine>
+         <lyrics>Now you're not at all</lyrics>
+         <chordLine>
+            <chord num="4">C</chord>
+            <chord num="1sus4">Gsus4</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Bridge">
+         <chordLine>
+            <chord num="1">G</chord>
+            <chord num="1sus4">Gsus4</chord>
+            <chord num="1">G</chord>
+            <chord num="1sus4">Gsus4</chord>
+         </chordLine>
+         <lyrics>Well listen darlin'</lyrics>
+         <chordLine>
+            <chord num="1">G</chord>
+         </chordLine>
+         <lyrics>It's been real swell</lyrics>
+         <chordLine>
+            <chord num="b7">F</chord>
+         </chordLine>
+         <lyrics>What can I say You've got it all</lyrics>
+         <chordLine>
+            <chord num="1">G</chord>
+            <chord num="1sus4">Gsus4</chord>
+         </chordLine>
+         <lyrics>You're a one woman show</lyrics>
+         <chordLine>
+            <chord num="1">G</chord>
+         </chordLine>
+         <lyrics>But I'm not gonna' lie</lyrics>
+         <chordLine>
+            <chord num="b7">F</chord>
+         </chordLine>
+         <lyrics>You could use a little work</lyrics>
+         <chordLine>
+            <chord num="5">D</chord>
+         </chordLine>
+         <lyrics>Well at your age</lyrics>
+      </section>
+      <section type="Guitar Solo">
+         <chordLine>
+            <chord num="1">G</chord>
+            <chord num="b7">F</chord>
+            <chord num="4">C</chord>
+            <chord num="1">G</chord>
+            <chord num="5m">Dm</chord>
+            <chord num="b7">F</chord>
+            <chord num="4">C</chord>
+            <chord num="1">G</chord>
+            <chord num="b7">F</chord>
+            <chord num="4">C</chord>
+            <chord num="1">G</chord>
+            <chord num="5m">Dm</chord>
+            <chord num="b7">F</chord>
+            <chord num="4">C</chord>
+            <chord num="1">G</chord>
+            <chord num="b7">F</chord>
+            <chord num="4">C</chord>
+            <chord num="1">G</chord>
+            <chord num="5m">Dm</chord>
+            <chord num="b7">F</chord>
+            <chord num="4">C</chord>
+         </chordLine>
+         <lyrics>What've you got baby</lyrics>
+      </section>
+      <section type="Chorus">
+         <chordLine>
+            <chord num="1">G</chord>
+            <chord num="b7">F</chord>
+            <chord num="4">C</chord>
+         </chordLine>
+         <lyrics>When the curtain falls</lyrics>
+         <chordLine>
+            <chord num="1">G</chord>
+            <chord num="5m">Dm</chord>
+            <chord num="b7">F</chord>
+            <chord num="4">C</chord>
+         </chordLine>
+         <lyrics>Walk the hollow halls babe</lyrics>
+         <chordLine>
+            <chord num="1">G</chord>
+            <chord num="b7">F</chord>
+            <chord num="4">C</chord>
+         </chordLine>
+         <lyrics>Once a valley doll</lyrics>
+         <chordLine>
+            <chord num="1">G</chord>
+            <chord num="5m">Dm</chord>
+            <chord num="b7">F</chord>
+            <chord num="4">C</chord>
+         </chordLine>
+         <lyrics>Now you're not at all</lyrics>
+      </section>
+      <section type="Outro">
+         <chordLine>
+            <chord num="1^7">G7</chord>
+         </chordLine>
+         <lyrics>Goodbye baby, goodbye</lyrics>
+      </section>
+   </music>
+</mei>

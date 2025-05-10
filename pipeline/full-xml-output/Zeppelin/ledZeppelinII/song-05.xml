@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mei ixml:state="ambiguous"
+     xmlns:ixml="http://invisiblexml.org/NS">
+   <music>
+      <title>Heartbreaker</title>
+      <album>Led Zeppelin II</album>
+      <artist>Led Zeppelin</artist>
+      <key>A</key>
+      <section type="Intro">
+         <chordLine>
+            <chord num="1">A</chord>
+            <chord num="2">B</chord>
+            <chord num="1">A</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Verse 1">
+         <chordLine>
+            <chord num="1">A</chord>
+         </chordLine>
+         <lyrics>Hey fellas have you heard the news</lyrics>
+         <chordLine>
+            <chord num="4">D</chord>
+            <chord num="1">A</chord>
+         </chordLine>
+         <lyrics>You know that Annie's back in town</lyrics>
+         <chordLine>
+            <chord num="4">D</chord>
+         </chordLine>
+         <lyrics>It won't take long just watch and see</lyrics>
+         <chordLine>
+            <chord num="1">A</chord>
+         </chordLine>
+         <lyrics>And the fellas lay their money down</lyrics>
+         <chordLine>
+            <chord num="4">D</chord>
+         </chordLine>
+         <lyrics>Her style is new but the face the same</lyrics>
+         <chordLine>
+            <chord num="1">A</chord>
+         </chordLine>
+         <lyrics>As it was so long ago</lyrics>
+         <chordLine>
+            <chord num="1">A</chord>
+            <chord num="4">D</chord>
+         </chordLine>
+         <lyrics>But from her eyes a different smile</lyrics>
+         <chordLine>
+            <chord num="1">A</chord>
+            <chord num="4">D</chord>
+         </chordLine>
+         <lyrics>Like that of one who knows</lyrics>
+         <chordLine>
+            <chord num="1">A</chord>
+            <chord num="4">D</chord>
+            <chord num="1">A</chord>
+            <chord num="4">D</chord>
+            <chord num="1">A</chord>
+            <chord num="1">A</chord>
+            <chord num="2m">Bm</chord>
+            <chord num="1">A</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Verse 2">
+         <chordLine>
+            <chord num="1">A</chord>
+            <chord num="4">D</chord>
+         </chordLine>
+         <lyrics>Well it's been ten years or maybe more</lyrics>
+         <chordLine>
+            <chord num="1">A</chord>
+         </chordLine>
+         <lyrics>Since I first set eyes on you</lyrics>
+         <chordLine>
+            <chord num="4">D</chord>
+         </chordLine>
+         <lyrics>The best years of my life gone by</lyrics>
+         <chordLine>
+            <chord num="1">A</chord>
+         </chordLine>
+         <lyrics>Here I am alone and blue</lyrics>
+         <chordLine>
+            <chord num="4">D</chord>
+         </chordLine>
+         <lyrics>Some people cry and some people die</lyrics>
+         <chordLine>
+            <chord num="1">A</chord>
+         </chordLine>
+         <lyrics>By the wicked ways of love</lyrics>
+         <chordLine>
+            <chord num="4">D</chord>
+         </chordLine>
+         <lyrics>But I'll just keep on rolling along</lyrics>
+         <chordLine>
+            <chord num="1">A</chord>
+            <chord num="4">D</chord>
+         </chordLine>
+         <lyrics>With the grace of the Lord above</lyrics>
+         <chordLine>
+            <chord num="1">A</chord>
+            <chord num="4">D</chord>
+            <chord num="1">A</chord>
+            <chord num="4">D</chord>
+            <chord num="1">A</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Verse 3">
+         <chordLine>
+            <chord num="b3">C</chord>
+         </chordLine>
+         <lyrics>People talking all around About the way you left me flat I don't care what the people say I know where their jive is at</lyrics>
+         <chordLine>
+            <chord num="4">D</chord>
+         </chordLine>
+         <lyrics>One thing I do have on my mind If you can clarify please do</lyrics>
+         <chordLine>
+            <chord num="5">E</chord>
+         </chordLine>
+         <lyrics>It's the way you call me by another guy's name When I try to make love to you I try to make love but it isn't no use Give it to me Give it</lyrics>
+      </section>
+      <section type="Verse 4">
+         <chordLine>
+            <chord num="1^7">A7</chord>
+            <chord num="1^7">A7</chord>
+            <chord num="1^7">A7</chord>
+            <chord num="1">A</chord>
+         </chordLine>
+         <lyrics>Work so hard I couldn't unwind</lyrics>
+         <chordLine>
+            <chord num="4">D</chord>
+         </chordLine>
+         <lyrics>Get some money saved</lyrics>
+         <chordLine>
+            <chord num="1">A</chord>
+         </chordLine>
+         <lyrics>Abuse my love a thousand times</lyrics>
+         <chordLine>
+            <chord num="4">D</chord>
+         </chordLine>
+         <lyrics>However hard I tried</lyrics>
+         <chordLine>
+            <chord num="1">A</chord>
+         </chordLine>
+         <lyrics>Heartbreaker your time has come</lyrics>
+         <chordLine>
+            <chord num="4">D</chord>
+         </chordLine>
+         <lyrics>Can't take your evil ways</lyrics>
+         <chordLine>
+            <chord num="1">A</chord>
+            <chord num="4">D</chord>
+            <chord num="1">A</chord>
+            <chord num="4">D</chord>
+            <chord num="1">A</chord>
+            <chord num="4">D</chord>
+            <chord num="1">A</chord>
+            <chord num="4">D</chord>
+            <chord num="1">A</chord>
+            <chord num="4">D</chord>
+            <chord num="1">A</chord>
+            <chord num="4">D</chord>
+         </chordLine>
+         <lyrics>Go away Heartbreaker</lyrics>
+         <chordLine>
+            <chord num="1">A</chord>
+            <chord num="1">A</chord>
+         </chordLine>
+         <lyrics>Heartbreaker! Heartbreaker! Heart!</lyrics>
+      </section>
+   </music>
+</mei>

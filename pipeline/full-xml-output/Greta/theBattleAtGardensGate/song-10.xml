@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mei ixml:state="ambiguous"
+     xmlns:ixml="http://invisiblexml.org/NS">
+   <music>
+      <title>The Barbarians</title>
+      <album>The Battle of Garden's Gate</album>
+      <artist>Greta Van Fleet</artist>
+      <key>Bb</key>
+      <section type="Intro">
+         <chordLine>
+            <chord num="6m">Gm</chord>
+            <chord num="5">F</chord>
+            <chord num="6m">Gm</chord>
+            <chord num="5">F</chord>
+            <chord num="6m">Gm</chord>
+            <chord num="5">F</chord>
+            <chord num="1">Bb</chord>
+            <chord num="b7">Ab</chord>
+            <chord num="4">Eb</chord>
+            <chord num="5">F</chord>
+            <chord num="6m">Gm</chord>
+            <chord num="5">F</chord>
+            <chord num="6m">Gm</chord>
+            <chord num="5">F</chord>
+            <chord num="6m">Gm</chord>
+            <chord num="5">F</chord>
+            <chord num="1">Bb</chord>
+            <chord num="b7">Ab</chord>
+            <chord num="4">Eb</chord>
+            <chord num="5">F</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Verse 1">
+         <chordLine>
+            <chord num="6m">Gm</chord>
+            <chord num="5">F</chord>
+            <chord num="6m">Gm</chord>
+            <chord num="5">F</chord>
+         </chordLine>
+         <lyrics>Children with their toys of war, whoa-oh</lyrics>
+         <chordLine>
+            <chord num="6m">Gm</chord>
+            <chord num="5">F</chord>
+            <chord num="4">Eb</chord>
+            <chord num="5">F</chord>
+         </chordLine>
+         <lyrics>Birthright of death with a fiery breath</lyrics>
+         <chordLine>
+            <chord num="6m">Gm</chord>
+            <chord num="5">F</chord>
+            <chord num="6m">Gm</chord>
+            <chord num="5">F</chord>
+         </chordLine>
+         <lyrics>Funeral of innocense, oh-whoa</lyrics>
+         <chordLine>
+            <chord num="6m">Gm</chord>
+            <chord num="5">F</chord>
+            <chord num="1">Bb</chord>
+            <chord num="b7">Ab</chord>
+            <chord num="4">Eb</chord>
+            <chord num="5">F</chord>
+         </chordLine>
+         <lyrics>Painted up in the red and dressed in lead, we are</lyrics>
+      </section>
+      <section type="Bridge">
+         <chordLine>
+            <chord num="2m">Cm</chord>
+            <chord num="6m">Gm</chord>
+            <chord num="b7">Ab</chord>
+            <chord num="1">Bb</chord>
+            <chord num="2m">Cm</chord>
+            <chord num="6m">Gm</chord>
+            <chord num="b7">Ab</chord>
+            <chord num="5">F</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Chorus">
+         <chordLine>
+            <chord num="5">F</chord>
+            <chord num="6m">Gm</chord>
+            <chord num="5">F</chord>
+            <chord num="6m">Gm</chord>
+            <chord num="5">F</chord>
+            <chord num="6m">Gm</chord>
+            <chord num="1">Bb</chord>
+            <chord num="2m">Cm</chord>
+            <chord num="4">Eb</chord>
+            <chord num="5">F</chord>
+         </chordLine>
+         <lyrics>Are we prisoners or renegades?</lyrics>
+         <chordLine>
+            <chord num="5">F</chord>
+            <chord num="6m">Gm</chord>
+            <chord num="5">F</chord>
+            <chord num="6m">Gm</chord>
+            <chord num="5">F</chord>
+            <chord num="6m">Gm</chord>
+            <chord num="1">Bb</chord>
+            <chord num="2m">Cm</chord>
+            <chord num="1">Bb</chord>
+            <chord num="5">F</chord>
+         </chordLine>
+         <lyrics>Well, I've done my time, whoa-oh</lyrics>
+         <chordLine>
+            <chord num="5">F</chord>
+            <chord num="6m">Gm</chord>
+            <chord num="5">F</chord>
+            <chord num="6m">Gm</chord>
+            <chord num="5">F</chord>
+            <chord num="6m">Gm</chord>
+            <chord num="1">Bb</chord>
+            <chord num="2m">Cm</chord>
+            <chord num="4">Eb</chord>
+            <chord num="5">F</chord>
+         </chordLine>
+         <lyrics>Behold visions of burning skies</lyrics>
+         <chordLine>
+            <chord num="5">F</chord>
+            <chord num="6m">Gm</chord>
+            <chord num="5">F</chord>
+            <chord num="6m">Gm</chord>
+            <chord num="5">F</chord>
+            <chord num="6m">Gm</chord>
+            <chord num="1">Bb</chord>
+            <chord num="2m">Cm</chord>
+         </chordLine>
+         <lyrics>Alas Babylon, whoa, whoa, whoa</lyrics>
+      </section>
+      <section type="Verse 2">
+         <chordLine>
+            <chord num="6m">Gm</chord>
+            <chord num="5">F</chord>
+            <chord num="6m">Gm</chord>
+            <chord num="5">F</chord>
+         </chordLine>
+         <lyrics>Mothers of barbarians, oh-whoa</lyrics>
+         <chordLine>
+            <chord num="6m">Gm</chord>
+            <chord num="5">F</chord>
+            <chord num="1">Bb</chord>
+            <chord num="b7">Ab</chord>
+            <chord num="4">Eb</chord>
+            <chord num="5">F</chord>
+         </chordLine>
+         <lyrics>Were your young so spry when they left to die? We are</lyrics>
+      </section>
+      <section type="Bridge">
+         <chordLine>
+            <chord num="2m">Cm</chord>
+            <chord num="6m">Gm</chord>
+            <chord num="b7">Ab</chord>
+            <chord num="1">Bb</chord>
+            <chord num="2m">Cm</chord>
+            <chord num="6m">Gm</chord>
+            <chord num="b7">Ab</chord>
+            <chord num="5">F</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Chorus">
+         <chordLine>
+            <chord num="5">F</chord>
+            <chord num="6m">Gm</chord>
+            <chord num="5">F</chord>
+            <chord num="6m">Gm</chord>
+            <chord num="5">F</chord>
+            <chord num="6m">Gm</chord>
+            <chord num="1">Bb</chord>
+            <chord num="2m">Cm</chord>
+            <chord num="4">Eb</chord>
+            <chord num="5">F</chord>
+         </chordLine>
+         <lyrics>Are we prisoners or renegades?</lyrics>
+         <chordLine>
+            <chord num="5">F</chord>
+            <chord num="6m">Gm</chord>
+            <chord num="5">F</chord>
+            <chord num="6m">Gm</chord>
+            <chord num="5">F</chord>
+            <chord num="6m">Gm</chord>
+            <chord num="1">Bb</chord>
+            <chord num="2m">Cm</chord>
+            <chord num="1">Bb</chord>
+            <chord num="5">F</chord>
+         </chordLine>
+         <lyrics>Well, I've done my time, whoa-oh</lyrics>
+         <chordLine>
+            <chord num="5">F</chord>
+            <chord num="6m">Gm</chord>
+            <chord num="5">F</chord>
+            <chord num="6m">Gm</chord>
+            <chord num="5">F</chord>
+            <chord num="6m">Gm</chord>
+            <chord num="1">Bb</chord>
+            <chord num="2m">Cm</chord>
+            <chord num="4">Eb</chord>
+            <chord num="5">F</chord>
+         </chordLine>
+         <lyrics>Behold visions of burning skies</lyrics>
+         <chordLine>
+            <chord num="5">F</chord>
+            <chord num="6m">Gm</chord>
+            <chord num="5">F</chord>
+            <chord num="6m">Gm</chord>
+            <chord num="5">F</chord>
+            <chord num="6m">Gm</chord>
+            <chord num="1">Bb</chord>
+            <chord num="2m">Cm</chord>
+         </chordLine>
+         <lyrics>Alas Babylon, whoa, whoa, whoa</lyrics>
+      </section>
+      <section type="Middle">
+         <chordLine>
+            <chord num="b5">E</chord>
+            <chord num="2">C</chord>
+            <chord num="b5">E</chord>
+            <chord num="2">C</chord>
+            <chord num="b5">E</chord>
+            <chord num="2">C</chord>
+            <chord num="b5">E</chord>
+            <chord num="2">C</chord>
+            <chord num="b5">E</chord>
+            <chord num="2">C</chord>
+            <chord num="b5">E</chord>
+            <chord num="2">C</chord>
+            <chord num="b5">E</chord>
+            <chord num="2">C</chord>
+            <chord num="b5">E</chord>
+            <chord num="2">C</chord>
+            <chord num="6">G</chord>
+            <chord num="4">Eb</chord>
+            <chord num="5">F</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Chorus">
+         <chordLine>
+            <chord num="5">F</chord>
+            <chord num="6m">Gm</chord>
+            <chord num="5">F</chord>
+            <chord num="6m">Gm</chord>
+            <chord num="5">F</chord>
+            <chord num="6m">Gm</chord>
+            <chord num="1">Bb</chord>
+            <chord num="2m">Cm</chord>
+            <chord num="4">Eb</chord>
+            <chord num="5">F</chord>
+         </chordLine>
+         <lyrics>Are we prisoners or renegades?</lyrics>
+         <chordLine>
+            <chord num="5">F</chord>
+            <chord num="6m">Gm</chord>
+            <chord num="5">F</chord>
+            <chord num="6m">Gm</chord>
+            <chord num="5">F</chord>
+            <chord num="6m">Gm</chord>
+            <chord num="1">Bb</chord>
+            <chord num="2m">Cm</chord>
+            <chord num="1">Bb</chord>
+            <chord num="5">F</chord>
+         </chordLine>
+         <lyrics>Well, I've done my time, whoa-oh</lyrics>
+         <chordLine>
+            <chord num="5">F</chord>
+            <chord num="6m">Gm</chord>
+            <chord num="5">F</chord>
+            <chord num="6m">Gm</chord>
+            <chord num="5">F</chord>
+            <chord num="6m">Gm</chord>
+            <chord num="1">Bb</chord>
+            <chord num="2m">Cm</chord>
+            <chord num="4">Eb</chord>
+            <chord num="5">F</chord>
+         </chordLine>
+         <lyrics>Behold visions of burning skies</lyrics>
+         <chordLine>
+            <chord num="5">F</chord>
+            <chord num="6m">Gm</chord>
+            <chord num="5">F</chord>
+            <chord num="6m">Gm</chord>
+            <chord num="5">F</chord>
+            <chord num="6m">Gm</chord>
+            <chord num="1">Bb</chord>
+            <chord num="2m">Cm</chord>
+         </chordLine>
+         <lyrics>Alas Babylon, whoa, whoa, whoa</lyrics>
+      </section>
+      <section type="Outro">
+         <chordLine>
+            <chord num="5">F</chord>
+            <chord num="6m">Gm</chord>
+            <chord num="5">F</chord>
+            <chord num="6m">Gm</chord>
+            <chord num="5">F</chord>
+            <chord num="6m">Gm</chord>
+         </chordLine>
+      </section>
+   </music>
+</mei>

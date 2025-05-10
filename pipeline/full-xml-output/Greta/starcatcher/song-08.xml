@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mei ixml:state="ambiguous"
+     xmlns:ixml="http://invisiblexml.org/NS">
+   <music>
+      <title>The Archer</title>
+      <album>Starcatcher</album>
+      <artist>Greta Van Fleet</artist>
+      <key>Eb</key>
+      <section type="Intro">
+         <chordLine>
+            <chord num="6m">Cm</chord>
+            <chord num="2">F</chord>
+            <chord num="6m">Cm</chord>
+            <chord num="5">Bb</chord>
+            <chord num="6m">Cm</chord>
+            <chord num="2">F</chord>
+            <chord num="6m">Cm</chord>
+            <chord num="5">Bb</chord>
+            <chord num="6m">Cm</chord>
+            <chord num="5">Bb</chord>
+            <chord num="6m">Cm</chord>
+            <chord num="2">F</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Verse 1">
+         <chordLine>
+            <chord num="6m">Cm</chord>
+         </chordLine>
+         <lyrics>Vengeance is a bow</lyrics>
+         <chordLine>
+            <chord num="5">Bb</chord>
+            <chord num="6m">Cm</chord>
+         </chordLine>
+         <lyrics>And arrows only justice when fired</lyrics>
+         <chordLine>
+            <chord num="5">Bb</chord>
+            <chord num="6m">Cm</chord>
+         </chordLine>
+         <lyrics>I have loved I have lost</lyrics>
+         <chordLine>
+            <chord num="2">F</chord>
+            <chord num="6m">Cm</chord>
+            <chord num="5">Bb</chord>
+         </chordLine>
+         <lyrics>I am the archer!</lyrics>
+         <chordLine>
+            <chord num="6m">Cm</chord>
+         </chordLine>
+         <lyrics>Devil at the door</lyrics>
+         <chordLine>
+            <chord num="5">Bb</chord>
+            <chord num="6m">Cm</chord>
+         </chordLine>
+         <lyrics>Standing with his right arm extended</lyrics>
+         <chordLine>
+            <chord num="5">Bb</chord>
+            <chord num="6m">Cm</chord>
+         </chordLine>
+         <lyrics>On a hunt For the kill</lyrics>
+         <chordLine>
+            <chord num="2">F</chord>
+            <chord num="6m">Cm</chord>
+            <chord num="5">Bb</chord>
+         </chordLine>
+         <lyrics>I am the archer!</lyrics>
+      </section>
+      <section type="Pre-Chorus">
+         <chordLine>
+            <chord num="6m">Cm</chord>
+            <chord num="2">F</chord>
+            <chord num="6m">Cm</chord>
+            <chord num="2">F</chord>
+            <chord num="6m">Cm</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Chorus">
+         <chordLine>
+            <chord num="6m">Cm</chord>
+            <chord num="5">Bb</chord>
+         </chordLine>
+         <lyrics>Torn I turn to my bow, Sara!</lyrics>
+         <chordLine>
+            <chord num="6m">Cm</chord>
+            <chord num="2">F</chord>
+            <chord num="6m">Cm</chord>
+         </chordLine>
+         <lyrics>Torn I turn to my arrow, Sara!</lyrics>
+      </section>
+      <section type="Verse 2">
+         <chordLine>
+            <chord num="6m">Cm</chord>
+         </chordLine>
+         <lyrics>Final blow</lyrics>
+         <chordLine>
+            <chord num="5">Bb</chord>
+            <chord num="6m">Cm</chord>
+         </chordLine>
+         <lyrics>My heaviness of breath has been lifted</lyrics>
+         <chordLine>
+            <chord num="5">Bb</chord>
+            <chord num="6m">Cm</chord>
+         </chordLine>
+         <lyrics>Let the world know my name</lyrics>
+         <chordLine>
+            <chord num="2">F</chord>
+            <chord num="6m">Cm</chord>
+            <chord num="5">Bb</chord>
+         </chordLine>
+         <lyrics>I am the archer!</lyrics>
+      </section>
+      <section type="Pre-Chorus">
+         <chordLine>
+            <chord num="6m">Cm</chord>
+            <chord num="2">F</chord>
+            <chord num="6m">Cm</chord>
+            <chord num="2">F</chord>
+            <chord num="6m">Cm</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Chorus">
+         <chordLine>
+            <chord num="6m">Cm</chord>
+            <chord num="5">Bb</chord>
+         </chordLine>
+         <lyrics>Torn I turn to my bow, Sara!</lyrics>
+         <chordLine>
+            <chord num="6m">Cm</chord>
+            <chord num="2">F</chord>
+         </chordLine>
+         <lyrics>Torn I turn to my arrow, Sara!</lyrics>
+      </section>
+      <section type="Bridge">
+         <chordLine>
+            <chord num="6m">Cm</chord>
+         </chordLine>
+         <lyrics>My home is on the horse I ride What emptiness without my bride Such heaviness inside This was the day the archer died</lyrics>
+      </section>
+      <section type="Guitar Solo">
+         <chordLine>
+            <chord num="6m">Cm</chord>
+            <chord num="5">Bb</chord>
+            <chord num="6m">Cm</chord>
+            <chord num="2">F</chord>
+            <chord num="6m">Cm</chord>
+            <chord num="5">Bb</chord>
+            <chord num="6m">Cm</chord>
+            <chord num="2">F</chord>
+         </chordLine>
+         <lyrics/>
+      </section>
+      <section type="Chorus">
+         <chordLine>
+            <chord num="6m">Cm</chord>
+            <chord num="5">Bb</chord>
+         </chordLine>
+         <lyrics>Torn I turn to my bow, Sara!</lyrics>
+         <chordLine>
+            <chord num="6m">Cm</chord>
+            <chord num="2">F</chord>
+         </chordLine>
+         <lyrics>Torn I turn to my arrow, Sara!</lyrics>
+         <chordLine>
+            <chord num="6m">Cm</chord>
+            <chord num="5">Bb</chord>
+         </chordLine>
+         <lyrics>Torn I turn to my bow, Sara!</lyrics>
+         <chordLine>
+            <chord num="6m">Cm</chord>
+            <chord num="2">F</chord>
+            <chord num="6m">Cm</chord>
+         </chordLine>
+         <lyrics>Torn I turn to my arrow, Sara!</lyrics>
+      </section>
+      <section type="Outro">
+         <chordLine>
+            <chord num="6m">Cm</chord>
+         </chordLine>
+      </section>
+   </music>
+</mei>

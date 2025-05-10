@@ -1,0 +1,59 @@
+Title: Fate of the Faithful
+Album: Starcatcher
+Artist: Greta Van Fleet
+Key: F
+
+[Intro]
+  6m, 7m/6, 6m, 2, 1, 6m, 7m/6, 3m/6, 7m7, 1, 6m, 5add9, 2m6/4, b5dim, 2^5, 6m, 5add9, 2m6/4, b5dim, 2^5
+
+[Verse 1]
+  6m, 4, 2m, 4, 3m7
+  6m, 4, 2m, 4, 3m7
+  6m, 4, 2m, 4, 3m7
+  6m, 4, 2m, 4, 3m7
+
+[Break]
+  6m, 7m/6, 6m, 2, 1, 6m, 7m/6, 3m/6, 7m7, 1
+
+[Chorus]
+  6m, 5, 2, 6m
+  5, 2, 6m
+  5, 2, 6m
+  5, 2, 6m
+
+[Break]
+  6m, 5add9, 2m6/4, b5dim, 2^5, 6m, 5add9, 2m6/4, b5dim, 2^5
+
+[Verse 2]
+  6m, 4, 2m, 4, 3m7
+  6m, 4, 2m, 4, 3m7
+  6m, 4, 2m, 4, 3m7
+  6m, 4, 2m, 4, 3m7
+
+[Break]
+  6m, 7m/6, 6m, 2, 1, 6m, 7m/6, 3m/6, 7m7, 1
+
+[Chorus]
+  6m, 5, 2, 6m
+  5, 2, 6m
+  5, 2, 6m
+  5, 2, 6m
+
+[Break]
+  6m, 7m/6, 6m, 7m/6, 6m, 7m/6, 6m, 7m/6
+
+[Solo]
+  6m, 7m/6, 6m, 7m/6, 6m, 7m/6, 6m, 7m/6, 6m, 7m/6, 6m, 7m/6, 6m, 7m/6, 6m, 7m/6
+
+[Break]
+  6m, 7m/6, 6m, 2, 1, 6m, 7m/6, 3m/6, 7m7, 4maj7
+
+[Chorus]
+  6m, 5, 2, 6m
+  5, 2, 6m
+  5, 2, 6m
+  5, 2, 6m
+
+[Outro]
+  6m, 5, 2, 6m, 5, 2, 6m
+
