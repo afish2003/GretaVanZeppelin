@@ -1,11 +1,20 @@
 xml: metadata, music.
-metadata: title, newline, album, newline, artist, newline, key, newline, -newline*.
+metadata: title, newline, album, newline, artist, newline, key, newline, newline*.
 title: ~[#d;#a]+.
 album: ~[#d;#a]+.
 artist: ~[#d;#a]+.
 key: ~[#d;#a]+.
-music: section++newline.
-section: type, ~[#22]+.
-@type: -"{start_of_", ~[#22]+, -"}".
+music: section++sectionBound.
+section: type, newline, line+, -"{", -"end_of_", -~["}"]+, -"}".
+{ where #7b and #7d designate left and right curly braces }
+@type: -"{", -"start_of_", ~["}"]+, -"}".
+line: ~[#d;#a]+, -newline.
+{line: (word;chord;space)+, -newline.}
+-word: ~["[";"]";" "]+.
+chord: -sqL, word, -sqR.
 -newline: (#d?, #a).
+-sectionBound: newline*.
+-lineBound: newline+.
 -space: " ".
+-sqL: "[".
+-sqR: "]".
