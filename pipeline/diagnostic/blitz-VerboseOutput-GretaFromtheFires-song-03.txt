@@ -1,0 +1,371 @@
+
+BNF grammar:
+------------
+      -_start: ^mei.
+          mei: ^music.
+        music: ^title, -newline, ^album, -newline, ^artist, -newline, ^key, -newline, -_music_list_option, -_music_list.
+_music_list_option:
+               ;
+               -_music_list_option, -newline.
+  _music_list: ^section;
+               -_music_list, -newline, ^section.
+        title: -key.
+_title_choice: [#0-#9; #b-#c; #e-'!'; '#'-'Z'; '\'; '^'-#d7ff; #e000-#fdcf; #fdf0-#fffd; #10000-#1fffd; #20000-#2fffd; #30000-#3fffd; #40000-#4fffd; #50000-#5fffd; #60000-#6fffd; #70000-#7fffd; #80000-#8fffd; #90000-#9fffd; #a0000-#afffd; #b0000-#bfffd; #c0000-#cfffd; #d0000-#dfffd; #e0000-#efffd; #f0000-#ffffd; #100000-#10fffd];
+               ['"'];
+               ['['];
+               [']'].
+          key: -_title_choice;
+               -key, -_title_choice.
+      newline: -_newline_option, [#a].
+_newline_option:
+               ;
+               [#d].
+        album: -key.
+       artist: -key.
+      section: @type, ^mdiv.
+         type: -['['], -mdiv, -[']'].
+ _type_choice: [#0-#9; #b-#c; #e-'!'; '#'-'Z'; '\'; '^'-#d7ff; #e000-#fdcf; #fdf0-#fffd; #10000-#1fffd; #20000-#2fffd; #30000-#3fffd; #40000-#4fffd; #50000-#5fffd; #60000-#6fffd; #70000-#7fffd; #80000-#8fffd; #90000-#9fffd; #a0000-#afffd; #b0000-#bfffd; #c0000-#cfffd; #d0000-#dfffd; #e0000-#efffd; #f0000-#ffffd; #100000-#10fffd];
+               [#a];
+               [#d];
+               ['['];
+               [']'].
+         mdiv: -_type_choice;
+               -mdiv, -_type_choice.
+
+Number of charClasses: 7
+----------------------
+0: end-of-input
+1: [#0-#9; #b-#c; #e-'!'; '#'-'Z'; '\'; '^'-#d7ff; #e000-#fdcf; #fdf0-#fffd; #10000-#1fffd; #20000-#2fffd; #30000-#3fffd; #40000-#4fffd; #50000-#5fffd; #60000-#6fffd; #70000-#7fffd; #80000-#8fffd; #90000-#9fffd; #a0000-#afffd; #b0000-#bfffd; #c0000-#cfffd; #d0000-#dfffd; #e0000-#efffd; #f0000-#ffffd; #100000-#10fffd]
+2: ['"']
+3: ['[']
+4: [']']
+5: [#a]
+6: [#d]
+
+22 states (not counting LR(0) reduce states)
+21 reduce arguments
+2 forks
+
+fork 0:
+shift-reduce 18 (pop 1, id 14, nonterminal _type_choice, marks ^)
+reduce 16 (pop 2, id 12, nonterminal section, marks @^)
+
+fork 1:
+reduce 18 (pop 1, id 14, nonterminal _type_choice, marks ^)
+reduce 17 (pop 3, id 13, nonterminal type, marks ---)
+
+state 0:
+[-_start: . ^mei | {end-of-input}] shift 1
+[title: . -key | {#a, #d}] shift 3
+[key: . -_title_choice | {#0..., '"', '[', ']', #a, #d}] shift-reduce 9 (pop 1, id 7, nonterminal key, marks -)
+[_title_choice: . ['"'] | {#0..., '"', '[', ']', #a, #d}] shift-reduce 8 (pop 1, id 6, nonterminal _title_choice, marks ^)
+[_title_choice: . [']'] | {#0..., '"', '[', ']', #a, #d}] shift-reduce 8 (pop 1, id 6, nonterminal _title_choice, marks ^)
+[_title_choice: . ['['] | {#0..., '"', '[', ']', #a, #d}] shift-reduce 8 (pop 1, id 6, nonterminal _title_choice, marks ^)
+[_title_choice: . [#0-#9; #b-#c; #e-'!'; '#'-'Z'; '\'; '^'-#d7ff; #e000-#fdcf; #fdf0-#fffd; #10000-#1fffd; #20000-#2fffd; #30000-#3fffd; #40000-#4fffd; #50000-#5fffd; #60000-#6fffd; #70000-#7fffd; #80000-#8fffd; #90000-#9fffd; #a0000-#afffd; #b0000-#bfffd; #c0000-#cfffd; #d0000-#dfffd; #e0000-#efffd; #f0000-#ffffd; #100000-#10fffd] | {#0..., '"', '[', ']', #a, #d}] shift-reduce 8 (pop 1, id 6, nonterminal _title_choice, marks ^)
+[music: . ^title -newline ^album -newline ^artist -newline ^key -newline -_music_list_option -_music_list | {end-of-input}] shift 2
+[key: . -key -_title_choice | {#0..., '"', '[', ']', #a, #d}] shift 3
+[mei: . ^music | {end-of-input}] shift-reduce 1 (pop 1, id 1, nonterminal mei, marks ^)
+
+state 1:
+[-_start: ^mei . | {end-of-input}] reduce 0 (pop 1, id 0, nonterminal _start, marks ^)
+
+state 2:
+[music: ^title . -newline ^album -newline ^artist -newline ^key -newline -_music_list_option -_music_list | {end-of-input}] shift 4
+[newline: . -_newline_option [#a] | {#0..., '"', '[', ']'}] shift 5
+[_newline_option: . | {#a}] reduce 12 (pop 0, id 9, nonterminal _newline_option)
+[_newline_option: . [#d] | {#a}] shift-reduce 13 (pop 1, id 9, nonterminal _newline_option, marks ^)
+
+state 3:
+[title: -key . | {#a, #d}] reduce 7 (pop 1, id 5, nonterminal title, marks -)
+[key: -key . -_title_choice | {#0..., '"', '[', ']', #a, #d}] shift-reduce 10 (pop 2, id 7, nonterminal key, marks --)
+[_title_choice: . ['"'] | {#0..., '"', '[', ']', #a, #d}] shift-reduce 8 (pop 1, id 6, nonterminal _title_choice, marks ^)
+[_title_choice: . [']'] | {#0..., '"', '[', ']', #a, #d}] shift-reduce 8 (pop 1, id 6, nonterminal _title_choice, marks ^)
+[_title_choice: . ['['] | {#0..., '"', '[', ']', #a, #d}] shift-reduce 8 (pop 1, id 6, nonterminal _title_choice, marks ^)
+[_title_choice: . [#0-#9; #b-#c; #e-'!'; '#'-'Z'; '\'; '^'-#d7ff; #e000-#fdcf; #fdf0-#fffd; #10000-#1fffd; #20000-#2fffd; #30000-#3fffd; #40000-#4fffd; #50000-#5fffd; #60000-#6fffd; #70000-#7fffd; #80000-#8fffd; #90000-#9fffd; #a0000-#afffd; #b0000-#bfffd; #c0000-#cfffd; #d0000-#dfffd; #e0000-#efffd; #f0000-#ffffd; #100000-#10fffd] | {#0..., '"', '[', ']', #a, #d}] shift-reduce 8 (pop 1, id 6, nonterminal _title_choice, marks ^)
+
+state 4:
+[music: ^title -newline . ^album -newline ^artist -newline ^key -newline -_music_list_option -_music_list | {end-of-input}] shift 7
+[key: . -_title_choice | {#0..., '"', '[', ']', #a, #d}] shift-reduce 9 (pop 1, id 7, nonterminal key, marks -)
+[_title_choice: . ['"'] | {#0..., '"', '[', ']', #a, #d}] shift-reduce 8 (pop 1, id 6, nonterminal _title_choice, marks ^)
+[_title_choice: . [']'] | {#0..., '"', '[', ']', #a, #d}] shift-reduce 8 (pop 1, id 6, nonterminal _title_choice, marks ^)
+[_title_choice: . ['['] | {#0..., '"', '[', ']', #a, #d}] shift-reduce 8 (pop 1, id 6, nonterminal _title_choice, marks ^)
+[_title_choice: . [#0-#9; #b-#c; #e-'!'; '#'-'Z'; '\'; '^'-#d7ff; #e000-#fdcf; #fdf0-#fffd; #10000-#1fffd; #20000-#2fffd; #30000-#3fffd; #40000-#4fffd; #50000-#5fffd; #60000-#6fffd; #70000-#7fffd; #80000-#8fffd; #90000-#9fffd; #a0000-#afffd; #b0000-#bfffd; #c0000-#cfffd; #d0000-#dfffd; #e0000-#efffd; #f0000-#ffffd; #100000-#10fffd] | {#0..., '"', '[', ']', #a, #d}] shift-reduce 8 (pop 1, id 6, nonterminal _title_choice, marks ^)
+[key: . -key -_title_choice | {#0..., '"', '[', ']', #a, #d}] shift 6
+[album: . -key | {#a, #d}] shift 6
+
+state 5:
+[newline: -_newline_option . [#a] | {#0..., '"', '[', ']', #a, #d}] shift-reduce 11 (pop 2, id 8, nonterminal newline, marks -^)
+
+state 6:
+[key: -key . -_title_choice | {#0..., '"', '[', ']', #a, #d}] shift-reduce 10 (pop 2, id 7, nonterminal key, marks --)
+[album: -key . | {#a, #d}] reduce 14 (pop 1, id 10, nonterminal album, marks -)
+[_title_choice: . ['"'] | {#0..., '"', '[', ']', #a, #d}] shift-reduce 8 (pop 1, id 6, nonterminal _title_choice, marks ^)
+[_title_choice: . [']'] | {#0..., '"', '[', ']', #a, #d}] shift-reduce 8 (pop 1, id 6, nonterminal _title_choice, marks ^)
+[_title_choice: . ['['] | {#0..., '"', '[', ']', #a, #d}] shift-reduce 8 (pop 1, id 6, nonterminal _title_choice, marks ^)
+[_title_choice: . [#0-#9; #b-#c; #e-'!'; '#'-'Z'; '\'; '^'-#d7ff; #e000-#fdcf; #fdf0-#fffd; #10000-#1fffd; #20000-#2fffd; #30000-#3fffd; #40000-#4fffd; #50000-#5fffd; #60000-#6fffd; #70000-#7fffd; #80000-#8fffd; #90000-#9fffd; #a0000-#afffd; #b0000-#bfffd; #c0000-#cfffd; #d0000-#dfffd; #e0000-#efffd; #f0000-#ffffd; #100000-#10fffd] | {#0..., '"', '[', ']', #a, #d}] shift-reduce 8 (pop 1, id 6, nonterminal _title_choice, marks ^)
+
+state 7:
+[music: ^title -newline ^album . -newline ^artist -newline ^key -newline -_music_list_option -_music_list | {end-of-input}] shift 8
+[newline: . -_newline_option [#a] | {#0..., '"', '[', ']'}] shift 5
+[_newline_option: . | {#a}] reduce 12 (pop 0, id 9, nonterminal _newline_option)
+[_newline_option: . [#d] | {#a}] shift-reduce 13 (pop 1, id 9, nonterminal _newline_option, marks ^)
+
+state 8:
+[music: ^title -newline ^album -newline . ^artist -newline ^key -newline -_music_list_option -_music_list | {end-of-input}] shift 10
+[key: . -_title_choice | {#0..., '"', '[', ']', #a, #d}] shift-reduce 9 (pop 1, id 7, nonterminal key, marks -)
+[artist: . -key | {#a, #d}] shift 9
+[_title_choice: . ['"'] | {#0..., '"', '[', ']', #a, #d}] shift-reduce 8 (pop 1, id 6, nonterminal _title_choice, marks ^)
+[_title_choice: . [']'] | {#0..., '"', '[', ']', #a, #d}] shift-reduce 8 (pop 1, id 6, nonterminal _title_choice, marks ^)
+[_title_choice: . ['['] | {#0..., '"', '[', ']', #a, #d}] shift-reduce 8 (pop 1, id 6, nonterminal _title_choice, marks ^)
+[_title_choice: . [#0-#9; #b-#c; #e-'!'; '#'-'Z'; '\'; '^'-#d7ff; #e000-#fdcf; #fdf0-#fffd; #10000-#1fffd; #20000-#2fffd; #30000-#3fffd; #40000-#4fffd; #50000-#5fffd; #60000-#6fffd; #70000-#7fffd; #80000-#8fffd; #90000-#9fffd; #a0000-#afffd; #b0000-#bfffd; #c0000-#cfffd; #d0000-#dfffd; #e0000-#efffd; #f0000-#ffffd; #100000-#10fffd] | {#0..., '"', '[', ']', #a, #d}] shift-reduce 8 (pop 1, id 6, nonterminal _title_choice, marks ^)
+[key: . -key -_title_choice | {#0..., '"', '[', ']', #a, #d}] shift 9
+
+state 9:
+[key: -key . -_title_choice | {#0..., '"', '[', ']', #a, #d}] shift-reduce 10 (pop 2, id 7, nonterminal key, marks --)
+[artist: -key . | {#a, #d}] reduce 15 (pop 1, id 11, nonterminal artist, marks -)
+[_title_choice: . ['"'] | {#0..., '"', '[', ']', #a, #d}] shift-reduce 8 (pop 1, id 6, nonterminal _title_choice, marks ^)
+[_title_choice: . [']'] | {#0..., '"', '[', ']', #a, #d}] shift-reduce 8 (pop 1, id 6, nonterminal _title_choice, marks ^)
+[_title_choice: . ['['] | {#0..., '"', '[', ']', #a, #d}] shift-reduce 8 (pop 1, id 6, nonterminal _title_choice, marks ^)
+[_title_choice: . [#0-#9; #b-#c; #e-'!'; '#'-'Z'; '\'; '^'-#d7ff; #e000-#fdcf; #fdf0-#fffd; #10000-#1fffd; #20000-#2fffd; #30000-#3fffd; #40000-#4fffd; #50000-#5fffd; #60000-#6fffd; #70000-#7fffd; #80000-#8fffd; #90000-#9fffd; #a0000-#afffd; #b0000-#bfffd; #c0000-#cfffd; #d0000-#dfffd; #e0000-#efffd; #f0000-#ffffd; #100000-#10fffd] | {#0..., '"', '[', ']', #a, #d}] shift-reduce 8 (pop 1, id 6, nonterminal _title_choice, marks ^)
+
+state 10:
+[music: ^title -newline ^album -newline ^artist . -newline ^key -newline -_music_list_option -_music_list | {end-of-input}] shift 11
+[newline: . -_newline_option [#a] | {#0..., '"', '[', ']'}] shift 5
+[_newline_option: . | {#a}] reduce 12 (pop 0, id 9, nonterminal _newline_option)
+[_newline_option: . [#d] | {#a}] shift-reduce 13 (pop 1, id 9, nonterminal _newline_option, marks ^)
+
+state 11:
+[music: ^title -newline ^album -newline ^artist -newline . ^key -newline -_music_list_option -_music_list | {end-of-input}] shift 12
+[key: . -_title_choice | {#0..., '"', '[', ']', #a, #d}] shift-reduce 9 (pop 1, id 7, nonterminal key, marks -)
+[_title_choice: . ['"'] | {#0..., '"', '[', ']', #a, #d}] shift-reduce 8 (pop 1, id 6, nonterminal _title_choice, marks ^)
+[_title_choice: . [']'] | {#0..., '"', '[', ']', #a, #d}] shift-reduce 8 (pop 1, id 6, nonterminal _title_choice, marks ^)
+[_title_choice: . ['['] | {#0..., '"', '[', ']', #a, #d}] shift-reduce 8 (pop 1, id 6, nonterminal _title_choice, marks ^)
+[_title_choice: . [#0-#9; #b-#c; #e-'!'; '#'-'Z'; '\'; '^'-#d7ff; #e000-#fdcf; #fdf0-#fffd; #10000-#1fffd; #20000-#2fffd; #30000-#3fffd; #40000-#4fffd; #50000-#5fffd; #60000-#6fffd; #70000-#7fffd; #80000-#8fffd; #90000-#9fffd; #a0000-#afffd; #b0000-#bfffd; #c0000-#cfffd; #d0000-#dfffd; #e0000-#efffd; #f0000-#ffffd; #100000-#10fffd] | {#0..., '"', '[', ']', #a, #d}] shift-reduce 8 (pop 1, id 6, nonterminal _title_choice, marks ^)
+[key: . -key -_title_choice | {#0..., '"', '[', ']', #a, #d}] shift 12
+
+state 12:
+[music: ^title -newline ^album -newline ^artist -newline ^key . -newline -_music_list_option -_music_list | {end-of-input}] shift 13
+[key: -key . -_title_choice | {#0..., '"', '[', ']', #a, #d}] shift-reduce 10 (pop 2, id 7, nonterminal key, marks --)
+[_title_choice: . ['"'] | {#0..., '"', '[', ']', #a, #d}] shift-reduce 8 (pop 1, id 6, nonterminal _title_choice, marks ^)
+[_title_choice: . [']'] | {#0..., '"', '[', ']', #a, #d}] shift-reduce 8 (pop 1, id 6, nonterminal _title_choice, marks ^)
+[newline: . -_newline_option [#a] | {'[', #a, #d}] shift 5
+[_newline_option: . | {#a}] reduce 12 (pop 0, id 9, nonterminal _newline_option)
+[_title_choice: . ['['] | {#0..., '"', '[', ']', #a, #d}] shift-reduce 8 (pop 1, id 6, nonterminal _title_choice, marks ^)
+[_title_choice: . [#0-#9; #b-#c; #e-'!'; '#'-'Z'; '\'; '^'-#d7ff; #e000-#fdcf; #fdf0-#fffd; #10000-#1fffd; #20000-#2fffd; #30000-#3fffd; #40000-#4fffd; #50000-#5fffd; #60000-#6fffd; #70000-#7fffd; #80000-#8fffd; #90000-#9fffd; #a0000-#afffd; #b0000-#bfffd; #c0000-#cfffd; #d0000-#dfffd; #e0000-#efffd; #f0000-#ffffd; #100000-#10fffd] | {#0..., '"', '[', ']', #a, #d}] shift-reduce 8 (pop 1, id 6, nonterminal _title_choice, marks ^)
+[_newline_option: . [#d] | {#a}] shift-reduce 13 (pop 1, id 9, nonterminal _newline_option, marks ^)
+
+state 13:
+[music: ^title -newline ^album -newline ^artist -newline ^key -newline . -_music_list_option -_music_list | {end-of-input}] shift 14
+[_music_list_option: . -_music_list_option -newline | {'[', #a, #d}] shift 14
+[_music_list_option: . | {'[', #a, #d}] reduce 3 (pop 0, id 3, nonterminal _music_list_option)
+
+state 14:
+[music: ^title -newline ^album -newline ^artist -newline ^key -newline -_music_list_option . -_music_list | {end-of-input}] shift 15
+[_music_list_option: -_music_list_option . -newline | {'[', #a, #d}] shift-reduce 4 (pop 2, id 3, nonterminal _music_list_option, marks --)
+[_music_list: . ^section | {end-of-input, #a, #d}] shift-reduce 5 (pop 1, id 4, nonterminal _music_list, marks ^)
+[newline: . -_newline_option [#a] | {'[', #a, #d}] shift 5
+[_newline_option: . | {#a}] reduce 12 (pop 0, id 9, nonterminal _newline_option)
+[_newline_option: . [#d] | {#a}] shift-reduce 13 (pop 1, id 9, nonterminal _newline_option, marks ^)
+[section: . @type ^mdiv | {end-of-input, #a, #d}] shift 16
+[type: . -['['] -mdiv -[']'] | {#0..., '[', ']', #a, #d}] shift 17
+[_music_list: . -_music_list -newline ^section | {end-of-input, #a, #d}] shift 15
+
+state 15:
+[_music_list: -_music_list . -newline ^section | {end-of-input, #a, #d}] shift 18
+[music: ^title -newline ^album -newline ^artist -newline ^key -newline -_music_list_option -_music_list . | {end-of-input}] reduce 2 (pop 10, id 2, nonterminal music, marks ^-^-^-^---)
+[newline: . -_newline_option [#a] | {'['}] shift 5
+[_newline_option: . | {#a}] reduce 12 (pop 0, id 9, nonterminal _newline_option)
+[_newline_option: . [#d] | {#a}] shift-reduce 13 (pop 1, id 9, nonterminal _newline_option, marks ^)
+
+state 16:
+[section: @type . ^mdiv | {end-of-input, #a, #d}] shift 19
+[_type_choice: . [#a] | {end-of-input, #0..., '[', ']', #a, #d}] shift-reduce 18 (pop 1, id 14, nonterminal _type_choice, marks ^)
+[_type_choice: . [']'] | {end-of-input, #0..., '[', ']', #a, #d}] shift-reduce 18 (pop 1, id 14, nonterminal _type_choice, marks ^)
+[mdiv: . -mdiv -_type_choice | {end-of-input, #0..., '[', ']', #a, #d}] shift 19
+[_type_choice: . ['['] | {end-of-input, #0..., '[', ']', #a, #d}] shift-reduce 18 (pop 1, id 14, nonterminal _type_choice, marks ^)
+[mdiv: . -_type_choice | {end-of-input, #0..., '[', ']', #a, #d}] shift-reduce 19 (pop 1, id 15, nonterminal mdiv, marks -)
+[_type_choice: . [#0-#9; #b-#c; #e-'!'; '#'-'Z'; '\'; '^'-#d7ff; #e000-#fdcf; #fdf0-#fffd; #10000-#1fffd; #20000-#2fffd; #30000-#3fffd; #40000-#4fffd; #50000-#5fffd; #60000-#6fffd; #70000-#7fffd; #80000-#8fffd; #90000-#9fffd; #a0000-#afffd; #b0000-#bfffd; #c0000-#cfffd; #d0000-#dfffd; #e0000-#efffd; #f0000-#ffffd; #100000-#10fffd] | {end-of-input, #0..., '[', ']', #a, #d}] shift-reduce 18 (pop 1, id 14, nonterminal _type_choice, marks ^)
+[_type_choice: . [#d] | {end-of-input, #0..., '[', ']', #a, #d}] shift-reduce 18 (pop 1, id 14, nonterminal _type_choice, marks ^)
+
+state 17:
+[type: -['['] . -mdiv -[']'] | {#0..., '[', ']', #a, #d}] shift 20
+[_type_choice: . [#a] | {#0..., '[', ']', #a, #d}] shift-reduce 18 (pop 1, id 14, nonterminal _type_choice, marks ^)
+[_type_choice: . [']'] | {#0..., '[', ']', #a, #d}] shift-reduce 18 (pop 1, id 14, nonterminal _type_choice, marks ^)
+[mdiv: . -mdiv -_type_choice | {#0..., '[', ']', #a, #d}] shift 20
+[_type_choice: . ['['] | {#0..., '[', ']', #a, #d}] shift-reduce 18 (pop 1, id 14, nonterminal _type_choice, marks ^)
+[mdiv: . -_type_choice | {#0..., '[', ']', #a, #d}] shift-reduce 19 (pop 1, id 15, nonterminal mdiv, marks -)
+[_type_choice: . [#0-#9; #b-#c; #e-'!'; '#'-'Z'; '\'; '^'-#d7ff; #e000-#fdcf; #fdf0-#fffd; #10000-#1fffd; #20000-#2fffd; #30000-#3fffd; #40000-#4fffd; #50000-#5fffd; #60000-#6fffd; #70000-#7fffd; #80000-#8fffd; #90000-#9fffd; #a0000-#afffd; #b0000-#bfffd; #c0000-#cfffd; #d0000-#dfffd; #e0000-#efffd; #f0000-#ffffd; #100000-#10fffd] | {#0..., '[', ']', #a, #d}] shift-reduce 18 (pop 1, id 14, nonterminal _type_choice, marks ^)
+[_type_choice: . [#d] | {#0..., '[', ']', #a, #d}] shift-reduce 18 (pop 1, id 14, nonterminal _type_choice, marks ^)
+
+state 18:
+[_music_list: -_music_list -newline . ^section | {end-of-input, #a, #d}] shift-reduce 6 (pop 3, id 4, nonterminal _music_list, marks --^)
+[section: . @type ^mdiv | {end-of-input, #a, #d}] shift 16
+[type: . -['['] -mdiv -[']'] | {#0..., '[', ']', #a, #d}] shift 17
+
+state 19:
+[section: @type ^mdiv . | {end-of-input, #a, #d}] reduce 16 (pop 2, id 12, nonterminal section, marks @^)
+[mdiv: -mdiv . -_type_choice | {end-of-input, #0..., '[', ']', #a, #d}] shift-reduce 20 (pop 2, id 15, nonterminal mdiv, marks --)
+[_type_choice: . [#a] | {end-of-input, #0..., '[', ']', #a, #d}] shift-reduce 18 (pop 1, id 14, nonterminal _type_choice, marks ^)
+[_type_choice: . [']'] | {end-of-input, #0..., '[', ']', #a, #d}] shift-reduce 18 (pop 1, id 14, nonterminal _type_choice, marks ^)
+[_type_choice: . ['['] | {end-of-input, #0..., '[', ']', #a, #d}] shift-reduce 18 (pop 1, id 14, nonterminal _type_choice, marks ^)
+[_type_choice: . [#0-#9; #b-#c; #e-'!'; '#'-'Z'; '\'; '^'-#d7ff; #e000-#fdcf; #fdf0-#fffd; #10000-#1fffd; #20000-#2fffd; #30000-#3fffd; #40000-#4fffd; #50000-#5fffd; #60000-#6fffd; #70000-#7fffd; #80000-#8fffd; #90000-#9fffd; #a0000-#afffd; #b0000-#bfffd; #c0000-#cfffd; #d0000-#dfffd; #e0000-#efffd; #f0000-#ffffd; #100000-#10fffd] | {end-of-input, #0..., '[', ']', #a, #d}] shift-reduce 18 (pop 1, id 14, nonterminal _type_choice, marks ^)
+[_type_choice: . [#d] | {end-of-input, #0..., '[', ']', #a, #d}] shift-reduce 18 (pop 1, id 14, nonterminal _type_choice, marks ^)
+shift-reduce conflict on #a fork 0
+shift-reduce conflict on #d fork 0
+
+state 20:
+[mdiv: -mdiv . -_type_choice | {#0..., '[', ']', #a, #d}] shift-reduce 20 (pop 2, id 15, nonterminal mdiv, marks --)
+[type: -['['] -mdiv . -[']'] | {#0..., '[', ']', #a, #d}] shift 21
+[_type_choice: . [#a] | {#0..., '[', ']', #a, #d}] shift-reduce 18 (pop 1, id 14, nonterminal _type_choice, marks ^)
+[_type_choice: . [']'] | {#0..., '[', ']', #a, #d}] shift 21
+[_type_choice: . ['['] | {#0..., '[', ']', #a, #d}] shift-reduce 18 (pop 1, id 14, nonterminal _type_choice, marks ^)
+[_type_choice: . [#0-#9; #b-#c; #e-'!'; '#'-'Z'; '\'; '^'-#d7ff; #e000-#fdcf; #fdf0-#fffd; #10000-#1fffd; #20000-#2fffd; #30000-#3fffd; #40000-#4fffd; #50000-#5fffd; #60000-#6fffd; #70000-#7fffd; #80000-#8fffd; #90000-#9fffd; #a0000-#afffd; #b0000-#bfffd; #c0000-#cfffd; #d0000-#dfffd; #e0000-#efffd; #f0000-#ffffd; #100000-#10fffd] | {#0..., '[', ']', #a, #d}] shift-reduce 18 (pop 1, id 14, nonterminal _type_choice, marks ^)
+[_type_choice: . [#d] | {#0..., '[', ']', #a, #d}] shift-reduce 18 (pop 1, id 14, nonterminal _type_choice, marks ^)
+
+state 21:
+[_type_choice: [']'] . | {#0..., '[', ']', #a, #d}] reduce 18 (pop 1, id 14, nonterminal _type_choice, marks ^)
+[type: -['['] -mdiv -[']'] . | {#0..., '[', ']', #a, #d}] reduce 17 (pop 3, id 13, nonterminal type, marks ---)
+reduce-reduce conflict on #0... fork 1
+reduce-reduce conflict on '[' fork 1
+reduce-reduce conflict on ']' fork 1
+reduce-reduce conflict on #a fork 1
+reduce-reduce conflict on #d fork 1
+
+size of token code map: 123, shift: [3, 4, 4]
+size of terminal transition map: 155, shift: [2]
+size of nonterminal transition map: 176, shift: [2]
+
+<?xml version="1.0" encoding="utf-8"?><mei xmlns:ixml="http://invisiblexml.org/NS" ixml:state="ambiguous"><music><title>Flower Power</title>
+<album>From the Fires</album>
+<artist>Greta Van Fleet</artist>
+<key>A</key>
+
+<section type="Intro"><mdiv>
+A D A D A D A D
+ 
+ </mdiv></section>
+<section type="Verse 1"><mdiv>
+A                    D
+ She is a lady, comes from all around
+A                            D
+ She's many places, but she's homeward bound
+            A
+And now she walks kinda funny
+I think she knows
+D
+Day by day by day
+Our love grows
+A                   D
+ She's a lantern in the night
+She's outta sight
+ 
+ </mdiv></section>
+<section type="Pre-Chorus"><mdiv>
+A                       D
+ Ma ma ma ma ma ma ma ma ma ma ma ma
+A                               D
+Ma ma ma ma ma ma ma ma ma ma ma ma
+Ma ma
+Hey
+ 
+ </mdiv></section>
+<section type="Chorus"><mdiv>
+A
+Turn tonight, firelight
+D
+Star shines in her eye
+A                   D
+ Makes me feel like I'm alive
+                   A
+She's outta sight, yeah
+D
+Aw yeah
+        A                             D
+She's alright, she's alright, she's alright
+                         F    G
+She's outta sight, outta sight
+ 
+ </mdiv></section>
+<section type="Bridge"><mdiv>
+A D A D
+ 
+ </mdiv></section>
+<section type="Verse 2"><mdiv>
+A                           D
+ Electric gold our love with tender care
+A                     D
+ Hills of satin grass and maidens fair
+        A
+Now she rides through the night
+On a silver storm
+D
+Sword in hand
+Our fate's torn
+A                   D
+ She's a sparrow of the dawn
+Our love is born
+ 
+ </mdiv></section>
+<section type="Pre-Chorus"><mdiv>
+A                       D
+ Ma ma ma ma ma ma ma ma ma ma ma ma
+A                               D
+Ma ma ma ma ma ma ma ma ma ma ma ma
+Ma ma
+Hey
+ 
+ </mdiv></section>
+<section type="Chorus"><mdiv>
+A
+Turn tonight, firelight
+D
+Star shines in her eye
+A                   D
+ Makes me feel like I'm alive
+                   A
+She's outta sight, yeah
+D
+Aw yeah
+        A                             D
+She's alright, she's alright, she's alright
+                         F    G
+She's outta sight, outta sight
+ 
+ </mdiv></section>
+<section type="Solo"><mdiv>
+A   D
+Yeah
+A
+Oh yeah
+D A
+   Oh yeah
+Oh yeah
+       D A D A      D
+Oh yeah       papapa
+A D
+   Oh yeah
+ 
+ </mdiv></section>
+<section type="Verse 3"><mdiv>
+A           G           D
+ As the days pass by my mind
+A              G
+ Are the wrong, the right
+       D
+You are my sunshine
+A                G          D
+ And as the night begins to die
+A              G                   D
+ We are the morning birds that sing against the sky
+ 
+ </mdiv></section>
+<section type="Interlude"><mdiv>
+A G D A G D
+A G D A G D
+A G D A G D
+A G D A G D
+A G D A G D
+A G D A G D
+A G D A G D
+A G
+</mdiv></section></music></mei>
