@@ -6,15 +6,12 @@ artist: ~[#d;#a]+.
 key: ~[#d;#a]+.
 music: section++sectionBound.
 section: type, newline, line+, -"{", -"end_of_", -~["}"]+, -"}".
-{ where #7b and #7d designate left and right curly braces }
 @type: -"{", -"start_of_", ~["}"]+, -"}".
-line: ~[#d;#a]+, -newline.
-{line: (word;chord;space)+, -newline.}
--word: ~["[";"]";" "]+.
-chord: -sqL, word, -sqR.
+line: (text;chord)+, -newline.
+-text: ~[#d;#a;"[";"]"]+.
+chord: -"[",  ~["[";"]"]+, -"]".
 -newline: (#d?, #a).
 -sectionBound: newline*.
 -lineBound: newline+.
 -space: " ".
--sqL: "[".
--sqR: "]".
+
