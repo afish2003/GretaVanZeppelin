@@ -11,7 +11,7 @@ line: (text;chord)+, -newline.
 -text: ~[#d;#a;"[";"]"]+.
 chord: -"[",  ~["[";"]"]+, -"]".
 -newline: (#d?, #a).
--sectionBound: newline*.
+-sectionBound: newline+.
 -lineBound: newline+.
 -space: " ".
 
