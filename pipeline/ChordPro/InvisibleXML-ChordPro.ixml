@@ -5,8 +5,8 @@ album: ~[#d;#a]+.
 artist: ~[#d;#a]+.
 key: ~[#d;#a]+.
 music: section++(newline+).
-section: type, newline, line+, -"{", -"end_of_", -~["}";#d;#a]+, -"}".
-@type: -"{", -"start_of_", ~["}";#d;#a]+, -"}".
+section: -"{", -"start_of_", type, -"}", newline, line+, -"{", -"end_of_", -~["}";#d;#a]+, -"}".
+@type:  ~["}";#d;#a]+.
 line: (text;chord)+, -newline.
 -text: ~[#d;#a;"[]{}"]+.
 chord: -"[",  ~["[]{}";#d;#a]+, -"]".
