@@ -6,8 +6,8 @@ artist: ~[#d;#a]+.
 key: ~[#d;#a]+.
 
 music: section++(newline, newline+).
-section: intro, newline, line++newline, newline, outro.
-intro: line.
-outro: line.
+section: type, newline, line++newline, newline, outro.
+@type: -"{start_of_", ~["}"]+, -"}".
+-outro: -"{end_of_", -~["}"]+, -"}".
 line: ~[#d;#a]+.
-newline: (#d?, #a).
+-newline: (-#d?, -#a).
