@@ -1,0 +1,63 @@
+<xml xmlns:ixml="http://invisiblexml.org/NS" ixml:state="ambiguous">
+    <metadata>
+        <title>Flower Power</title>
+        <album>From the Fires</album>
+        <artist>Greta Van Fleet</artist>
+        <key>A</key>
+    </metadata>
+    <music>
+        <section>
+            <type>intro</type>
+            <chordLine>
+                <chord>
+                    <text>A</text>
+                </chord>
+                <text> </text>
+                <chord>
+                    <text>D</text>
+                </chord>
+                <chord>
+                    <text>A</text>
+                </chord>
+                <chord>
+                    <text>D</text>
+                </chord>
+                <chord>
+                    <text>A</text>
+                </chord>
+                <chord>
+                    <text>D</text>
+                </chord>
+                <chord>
+                    <text>A</text>
+                </chord>
+                <chord>
+                    <text>D</text>
+                </chord>
+            </chordLine>
+        </section>
+        <section>
+            <type>verse</type>
+            <chordLine>
+                <chord>
+                    <text>A</text>
+                </chord>
+                <text> She is a lady, comes from</text>
+                <chord>
+                    <text>D</text>
+                </chord>
+                <text>all around</text>
+            </chordLine>
+            <chordLine>
+                <chord>
+                    <text>A</text>
+                </chord>
+                <text> She's many places, but she's</text>
+                <chord>
+                    <text>Dmaj7add9#13</text>
+                </chord>
+                <text>homeward bound</text>
+            </chordLine>
+        </section>
+    </music>
+</xml>
