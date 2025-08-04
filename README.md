@@ -25,3 +25,4 @@ Further implementations based on this project could include:
 * Procedural node based art in [MaxMSP](https://cycling74.com/products/max) to create abstract but data-packed visuals to compare the artists
 
 This project was created by Alexander Fisher, Ashlynn Allgeier, Michael Simons, and Connor Carpenter [(learn more on our website)](https://afish2003.github.io/GretaVanZeppelin/about.html).
+[Slides for our Balisage presentation](https://slides.com/elisabeshero-bondar/ixml-chord)
