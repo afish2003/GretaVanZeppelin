@@ -5,13 +5,12 @@ album: ~[#d;#a]+.
 artist: ~[#d;#a]+.
 key: ~[#d;#a]+.
 
-music: section++(newline, newline+).
+music: section++(newline, newline+), newline?.
 section: type, newline, line++newline, newline, outro.
 @type: -"{start_of_", ~["}"]+, -"}".
 -outro: -"{end_of_", -~["}"]+, -"}".
 line: lineContent.
-lineContent: nullableText, chord**nullableText, nullableText.
+lineContent: nullableText, (chord++nullableText, nullableText)?.
 chord: -"[", ~["]"]+, -"]".
 nullableText: ~["[]{}";#a;#d]*.
-nonNullableText: ~["[]{}";#a;#d]+.
 -newline: (-#d?, -#a).
