@@ -9,5 +9,9 @@ music: section++(newline, newline+).
 section: type, newline, line++newline, newline, outro.
 @type: -"{start_of_", ~["}"]+, -"}".
 -outro: -"{end_of_", -~["}"]+, -"}".
-line: ~[#d;#a]+.
+line: lineContent.
+lineContent: nullableText, chord**nullableText, nullableText.
+chord: -"[", ~["]"]+, -"]".
+nullableText: ~["[]{}";#a;#d]*.
+nonNullableText: ~["[]{}";#a;#d]+.
 -newline: (-#d?, -#a).
