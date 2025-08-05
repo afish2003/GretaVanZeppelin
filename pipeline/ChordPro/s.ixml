@@ -10,7 +10,7 @@ section: type, newline, line++newline, newline, outro.
 @type: -"{start_of_", ~["}"]+, -"}".
 -outro: -"{end_of_", -~["}"]+, -"}".
 line: lineContent.
-lineContent: nullableText, (chord++nullableText, nullableText)?.
+-lineContent: nullableText, (chord++nullableText, nullableText)?.
 chord: -"[", ~["]"]+, -"]".
-nullableText: ~["[]{}";#a;#d]*.
+-nullableText: ~["[]{}";#a;#d]*.
 -newline: (-#d?, -#a).
