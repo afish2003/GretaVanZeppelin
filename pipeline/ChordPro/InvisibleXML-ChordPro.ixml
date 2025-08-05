@@ -4,13 +4,17 @@ title: ~[#d;#a]+.
 album: ~[#d;#a]+.
 artist: ~[#d;#a]+.
 key: ~[#d;#a]+.
-music: section++(newline+).
-section: -"{", -"start_of_", type, -"}", newline, line+, -"{", -"end_of_", -~["}";#d;#a]+, -"}".
-@type:  ~["}";#d;#a]+.
-line: (text;chord)+, -newline.
--text: ~[#d;#a;"[]{}"]+.
-chord: -"[",  ~["[]{}";#d;#a]+, -"]".
--newline: (#d?, #a).
--sectionBound: newline+.
--space: " ".
+music: section++(newline, newline+).
+section: type, newline, (textOnlyLine;chordLine)+, outro.
+type: -"{start_of_", ~["}"]+, -"}".
+-outro: -"{end_of_", -~["}"]+, -"}". 
+
+{ line: ~[#d;#a]+.}
+{line: text?, chord**(text;chord+), text?.}
+
+textOnlyLine: text, newline. 
+chordLine: text?, chord**(text;chord+), text?, newline.
+text: ~["[]{}";#d;#a]+.
+chord: -"[", text, -"]".
+-newline: (-#d?, -#a).
 
