@@ -1,0 +1,229 @@
+<xml>
+   <metadata>
+      <title>Flower Power</title>
+      <album>From the Fires</album>
+      <artist>Greta Van Fleet</artist>
+      <key>A</key>
+   </metadata>
+   <music>
+      <section type='intro'>
+         <line>
+            <chord>A</chord> 
+            <chord>D</chord>
+            <chord>A</chord>
+            <chord>D</chord>
+            <chord>A</chord>
+            <chord>D</chord>
+            <chord>A</chord>
+            <chord>D</chord>
+         </line>
+      </section>
+      <section type='verse'>
+         <line>
+            <chord>A</chord> She is a lady, comes
+            <chord>D</chord>from all around</line>
+         <line>
+            <chord>A</chord> She's many places, but she's
+            <chord>D</chord>homeward bound</line>
+         <line>And now she 
+            <chord>A</chord>walks kinda funny</line>
+         <line>I think she knows</line>
+         <line>
+            <chord>D</chord>Day by day by day</line>
+         <line>Our love grows</line>
+         <line>
+            <chord>A</chord> She's a lantern in 
+            <chord>D</chord>the night</line>
+         <line>She's outta sight</line>
+      </section>
+      <section type='pre-chorus'>
+         <line>
+            <chord>A</chord> Ma ma ma ma ma ma ma ma
+            <chord>D</chord>ma ma ma ma</line>
+         <line>
+            <chord>A</chord>Ma ma ma ma ma ma ma ma ma ma ma
+            <chord>D</chord>ma</line>
+         <line>Ma ma</line>
+         <line>Hey</line>
+      </section>
+      <section type='chorus'>
+         <line>
+            <chord>A</chord>Turn tonight, firelight</line>
+         <line>
+            <chord>D</chord>Star shines in her eye</line>
+         <line>
+            <chord>A</chord> Makes me feel like 
+            <chord>D</chord>I'm alive</line>
+         <line>She's outta sight, 
+            <chord>A</chord>yeah</line>
+         <line>
+            <chord>D</chord>Aw yeah</line>
+         <line>She's al
+            <chord>A</chord>right, she's alright, she's al
+            <chord>D</chord>right</line>
+         <line>She's outta sight, outta 
+            <chord>F</chord>sight
+            <chord>G</chord>
+         </line>
+      </section>
+      <section type='bridge'>
+         <line>
+            <chord>A</chord> 
+            <chord>D</chord>
+            <chord>A</chord>
+            <chord>D</chord>
+         </line>
+      </section>
+      <section type='verse'>
+         <line>
+            <chord>A</chord> Electric gold our love with
+            <chord>D</chord>tender care</line>
+         <line>
+            <chord>A</chord> Hills of satin grass 
+            <chord>D</chord>and maidens fair</line>
+         <line>Now she 
+            <chord>A</chord>rides through the night</line>
+         <line>On a silver storm</line>
+         <line>
+            <chord>D</chord>Sword in hand</line>
+         <line>Our fate's torn</line>
+         <line>
+            <chord>A</chord> She's a sparrow of 
+            <chord>D</chord>the dawn</line>
+         <line>Our love is born</line>
+      </section>
+      <section type='pre-chorus'>
+         <line>
+            <chord>A</chord> Ma ma ma ma ma ma ma ma
+            <chord>D</chord>ma ma ma ma</line>
+         <line>
+            <chord>A</chord>Ma ma ma ma ma ma ma ma ma ma ma
+            <chord>D</chord>ma</line>
+         <line>Ma ma</line>
+         <line>Hey</line>
+      </section>
+      <section type='chorus'>
+         <line>
+            <chord>A</chord>Turn tonight, firelight</line>
+         <line>
+            <chord>D</chord>Star shines in her eye</line>
+         <line>
+            <chord>A</chord> Makes me feel like 
+            <chord>D</chord>I'm alive</line>
+         <line>She's outta sight, 
+            <chord>A</chord>yeah</line>
+         <line>
+            <chord>D</chord>Aw yeah</line>
+         <line>She's al
+            <chord>A</chord>right, she's alright, she's al
+            <chord>D</chord>right</line>
+         <line>She's outta sight, outta 
+            <chord>F</chord>sight
+            <chord>G</chord>
+         </line>
+      </section>
+      <section type='solo'>
+         <line>
+            <chord>A</chord>Yeah
+            <chord>D</chord>
+         </line>
+         <line>
+            <chord>A</chord>Oh yeah</line>
+         <line>
+            <chord>D</chord>  
+            <chord>A</chord>Oh yeah</line>
+         <line>Oh yeah</line>
+         <line>Oh yeah
+            <chord>D</chord>  
+            <chord>A</chord>  
+            <chord>D</chord>  
+            <chord>A</chord> papapa
+            <chord>D</chord>
+         </line>
+         <line>
+            <chord>A</chord>  
+            <chord>D</chord>Oh yeah</line>
+      </section>
+      <section type='verse'>
+         <line>
+            <chord>A</chord> As the days
+            <chord>G</chord> pass by my 
+            <chord>D</chord>mind</line>
+         <line>
+            <chord>A</chord> Are the wrong,
+            <chord>G</chord>the right</line>
+         <line>You are
+            <chord>D</chord>my sunshine</line>
+         <line>
+            <chord>A</chord> And as the night
+            <chord>G</chord> begins to 
+            <chord>D</chord>die</line>
+         <line>
+            <chord>A</chord> We are the mor
+            <chord>G</chord>ning birds that sing
+            <chord>D</chord>against the sky</line>
+      </section>
+      <section type='interlude'>
+         <line>
+            <chord>A</chord> 
+            <chord>G</chord> 
+            <chord>D</chord> 
+            <chord>A</chord> 
+            <chord>G</chord> 
+            <chord>D</chord>
+         </line>
+         <line>
+            <chord>A</chord> 
+            <chord>G</chord> 
+            <chord>D</chord> 
+            <chord>A</chord> 
+            <chord>G</chord> 
+            <chord>D</chord>
+         </line>
+         <line>
+            <chord>A</chord> 
+            <chord>G</chord> 
+            <chord>D</chord> 
+            <chord>A</chord> 
+            <chord>G</chord> 
+            <chord>D</chord>
+         </line>
+         <line>
+            <chord>A</chord> 
+            <chord>G</chord> 
+            <chord>D</chord> 
+            <chord>A</chord> 
+            <chord>G</chord> 
+            <chord>D</chord>
+         </line>
+         <line>
+            <chord>A</chord> 
+            <chord>G</chord> 
+            <chord>D</chord> 
+            <chord>A</chord> 
+            <chord>G</chord> 
+            <chord>D</chord>
+         </line>
+         <line>
+            <chord>A</chord> 
+            <chord>G</chord> 
+            <chord>D</chord> 
+            <chord>A</chord> 
+            <chord>G</chord> 
+            <chord>D</chord>
+         </line>
+         <line>
+            <chord>A</chord> 
+            <chord>G</chord> 
+            <chord>D</chord> 
+            <chord>A</chord> 
+            <chord>G</chord> 
+            <chord>D</chord>
+         </line>
+         <line>
+            <chord>A</chord> 
+            <chord>G</chord>
+         </line>
+      </section>
+   </music>
+</xml>
