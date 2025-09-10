@@ -1,33 +1,37 @@
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml">
-    
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
     <head>
-        
         <title>Analysis</title>
         <meta charset="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        
+        <meta name="description" content="Analysis charts comparing Greta Van Fleet and Led Zeppelin." />
         <link rel="stylesheet" type="text/css" href="style.css" />
         <link rel="stylesheet" href="https://use.typekit.net/xxw1fdo.css"/>
-        <link rel="stylesheet" href="https://use.typekit.net/xxw1fdo.css"/>
-        <link rel="icon" href="images/favicon.png" type="image/png"/>
-        
+        <link rel="icon" href="images/favicon.png" type="image/png"/>        
     </head>
     <body>
-        <h1>Analysis</h1>
+        <a href="#main" class="skip-link">Skip to content</a>
+        <header class="page-header">
+            <a href="https://github.com/afish2003/GretaVanZeppelin"><img src="images/logo.png" alt="GretaVanZeppelin Logo" class="logo" /></a>
+        </header>
+        
         <div class="corner-menu">
-            <button id="menu-toggle" class="hamburger" aria-label="Toggle menu">
+            <button id="menu-toggle" class="hamburger" aria-label="Toggle menu" aria-expanded="false" aria-controls="menu-content">
                 <span class="bar"></span>
                 <span class="bar"></span>
                 <span class="bar"></span>
             </button>
-            <div id="menu-content" class="menu-hidden">
-                <a href="index.html">Home</a>
-                <a href="about.html">About</a>
-                <a href="methods.html">Methods</a>
-                <a href="albums.html">Albums</a>
-                <a href="analysis.html">Analysis</a>
+            <div id="menu-content" class="menu-hidden" aria-hidden="true">
+                <a href="index.html" title="Return to homepage">Home</a>
+                <a href="methods.html" title="Read about methods and tools used">Methods</a>
+                <a href="albums.html" title="Browse featured albums">Albums</a>
+                <a href="analysis.html" title="See analysis charts and conclusions">Analysis</a>
+                <a href="about.html" title="Meet the team behind the project">Team</a>
             </div>
+        </div>
+        
+        <div id="main" class="h1-section"> 
+            <h1>Analysis</h1>
         </div>
         
         <section class="methods-section">
@@ -40,13 +44,18 @@
         
         <section class="overall">
             <h2>Song Lyrics Similarity of Greta Van Fleet &amp; Led Zeppelin </h2>
-            <img class="overall" src="images/song_similarity_network.svg" />
+            <figure>
+                <img class="overall" src="images/song_similarity_network.svg" alt="Network visualization of lyric similarities between Greta Van Fleet and Led Zeppelin" />
+                <figcaption>Network diagram showing lyric similarity connections between the two bands.</figcaption>
+            </figure>
         </section>
         
         <section class="overall">
             <h2>Top Chord Usage of Greta Van Fleet vs. Led Zeppelin</h2>
-            <img class="overall" src="images/overallComparison.png" />
-            
+            <figure>
+                <img class="overall" src="images/overallComparison.png" alt="Comparison bar chart of top chord usage between Greta Van Fleet and Led Zeppelin" />
+                <figcaption>Comparison chart of chord usage between the two bands.</figcaption>
+            </figure>
             <div class="text-box">
                 <p><em>You can find the complete chord count for all analyzed songs in a <a href="https://github.com/afish2003/GretaVanZeppelin/blob/main/visualizations/chord-count.tsv">TSV file on our GitHub page</a>. This file was used to create these charts.</em></p>
             </div>
@@ -56,35 +65,57 @@
             <h2>Greta Van Fleet's Top Chord Usage</h2>
             
             <h3><a href="fromTheFires.html">From the Fires (2017)</a></h3>
-            <img class="overall" src="images/fromTheFires.png" />
+            <figure>
+                <img class="overall" src="images/fromTheFires.png" alt="Top chord usage chart for Greta Van Fleet's album From the Fires (2017)" />
+                <figcaption>Top chord usage for <em>From the Fires</em> (2017).</figcaption>
+            </figure>
             
             <h3><a href="anthemOfThePeacefulArmy.html">Anthem of the Peaceful Army (2018)</a></h3>
-            <img class="overall" src="images/anthemOfThePeacefulArmy.png" />
-
+            <figure>
+                <img class="overall" src="images/anthemOfThePeacefulArmy.png" alt="Top chord usage chart for Greta Van Fleet's album Anthem of the Peaceful Army (2018)" />
+                <figcaption>Top chord usage for <em>Anthem of the Peaceful Army</em> (2018).</figcaption>
+            </figure>
+            
             <h3><a href="theBattleAtGardensGate.html">The Battle at Garden's Gate (2021)</a></h3>
-            <img class="overall" src="images/theBattleAtGardensGate.png" />
-
+            <figure>
+                <img class="overall" src="images/theBattleAtGardensGate.png" alt="Top chord usage chart for Greta Van Fleet's album The Battle at Garden's Gate (2021)" />
+                <figcaption>Top chord usage for <em>The Battle at Garden's Gate</em> (2021).</figcaption>
+            </figure>
+            
             <h3><a href="starcatcher.html">Starcatcher (2023)</a></h3>
-            <img class="overall" src="images/starcatcher.png" />
+            <figure>
+                <img class="overall" src="images/starcatcher.png" alt="Top chord usage chart for Greta Van Fleet's album Starcatcher (2023)" />
+                <figcaption>Top chord usage for <em>Starcatcher</em> (2023).</figcaption>
+            </figure>
         </section>
         
         <section class="overall">
             <h2>Led Zeppelin's Top Chord Usage</h2>
             
             <h3><a href="ledZeppelin.html">Led Zeppelin (1969)</a></h3>
-            <img class="overall" src="images/ledZeppelin.png" />
-
+            <figure>
+                <img class="overall" src="images/ledZeppelin.png" alt="Top chord usage chart for Led Zeppelin's debut album (1969)" />
+                <figcaption>Top chord usage for <em>Led Zeppelin</em> (1969).</figcaption>
+            </figure>
+            
             <h3><a href="ledZeppelinII.html">Led Zeppelin II (1969)</a></h3>
-            <img class="overall" src="images/ledZeppelinII.png" />
-
+            <figure>
+                <img class="overall" src="images/ledZeppelinII.png" alt="Top chord usage chart for Led Zeppelin II (1969)" />
+                <figcaption>Top chord usage for <em>Led Zeppelin II</em> (1969).</figcaption>
+            </figure>
+            
             <h3><a href="ledZeppelinIII.html">Led Zeppelin III (1970)</a></h3>
-            <img class="overall" src="images/ledZeppelinIII.png" />
-
+            <figure>
+                <img class="overall" src="images/ledZeppelinIII.png" alt="Top chord usage chart for Led Zeppelin III (1970)" />
+                <figcaption>Top chord usage for <em>Led Zeppelin III</em> (1970).</figcaption>
+            </figure>
+            
             <h3><a href="ledZeppelinIV.html">Led Zeppelin IV (1971)</a></h3>
-            <img class="overall" src="images/ledZeppelinIV.png" />
+            <figure>
+                <img class="overall" src="images/ledZeppelinIV.png" alt="Top chord usage chart for Led Zeppelin IV (1971)" />
+                <figcaption>Top chord usage for <em>Led Zeppelin IV</em> (1971).</figcaption>
+            </figure>
         </section>
-        
-        
         
         <footer class="footer">
             <p>
@@ -93,9 +124,9 @@
                 is licensed under 
                 <a href="https://creativecommons.org/licenses/by-nc/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer">
                     CC BY-NC 4.0
-                    <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt="CC" />
-                    <img src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt="BY" />
-                    <img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1" alt="NC" />
+                    <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt="Creative Commons CC icon" />
+                    <img src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt="Creative Commons BY icon" />
+                    <img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1" alt="Creative Commons NC icon" />
                 </a>
             </p>
         </footer>
