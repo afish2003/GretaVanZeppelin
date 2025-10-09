@@ -1,0 +1,21 @@
+xml: metadata, music.
+metadata: title, newline, album, newline, artist, newline, key, newline, newline+.
+title: ~[#d;#a]+.
+album: ~[#d;#a]+.
+artist: ~[#d;#a]+.
+key: ~[#d;#a]+.
+
+music: section++(newline, newline+), newline?.
+section: type, newline, line++newline, newline, outro.
+@type: -"{start_of_", ~["}"]+, -"}".
+-outro: -"{end_of_", -~["}"]+, -"}".
+line: lineContent.
+-lineContent: nullableText, (chord++nullableText, nullableText)?.
+chord: -"[", ~["]"]+, -"]".
+-nullableText: ~["[]{}";#a;#d]*.
+-newline: (-#d?, -#a).
+
+{ ebb: Many thanks to djbpitt for figuring out how to make the mixed text content of a chordpro line be unambiguous.}
+{ ebb: The definition of -lineContent and -nullableText was the secret: (chord++nullableText, nullableText)?. }
+{ ebb: It means text may or may not be present at all, and when it is, }
+{ it might or might not have chords bounded by text (which might not be there at all). }

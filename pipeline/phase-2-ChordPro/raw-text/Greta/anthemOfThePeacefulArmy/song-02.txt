@@ -1,0 +1,79 @@
+The Cold Wind
+Anthem of the Peaceful Army
+Greta Van Fleet
+D
+
+{start_of_intro}
+[A]A[D][A][D]
+[D]
+{end_of_intro}
+
+
+{start_of_verse}
+[A]Oh sweet mama, lay me down in my grave
+[D]  [A]Leave me baby, I'm too far gone to save
+[D] The [A]snow is comin', all the village folk know
+[D] This [A]wicked shiver, chills me down to my soul, oh[D]
+{end_of_verse}
+
+
+{start_of_chorus}
+[Csus2]     Only [G]time will [D]tell
+[Csus2]Take the ox to t[G]own and you c [D]an sell
+Leave me in[Csus2]my bed
+[G]  [Bb6]   Today[C][D]
+{end_of_chorus}
+
+
+{start_of_instrumental}
+[A] [D][A]
+{end_of_instrumental}
+
+
+{start_of_verse}
+[D] The [A]Yankee peddler bargains with you on his way
+[D]  [A]Woe sweet mama's gotten herself a new dray
+[D]  [A]Keep the children snug as the wagon rolls on
+[D] When [A]the cold wind blows most of them will be gone, oh[D]
+{end_of_verse}
+
+
+{start_of_chorus}
+[Csus2]     Only [G]time c[D]an tell
+[Csus2]Take the ox to town[G] and I'll get [D]well
+Leave me in[Csus2]     my [G]bed
+[Bb6]   Today[C][D]
+{end_of_chorus}
+
+
+{start_of_interlude}
+[Em7] [A7][Em7][A7]
+{end_of_interlude}
+
+
+{start_of_bass-guitar-solo}
+[Em7]Em7 [A7]A7 [Em7]Em7 [A7]A7
+{end_of_bass-guitar-solo}
+
+
+{start_of_interlude}
+[E]A [Dadd11]E[A][E]
+{end_of_interlude}
+
+
+{start_of_guitar-solo}
+[E] [Asus2][E][A]
+{end_of_guitar-solo}
+
+
+{start_of_chorus}
+[Csus2]     Only[G] time[D]will tell
+You [Csus2]take the ox to to[G]wn and you can [D]sell
+Leave me [Csus2]in   my bed
+[G]  [Bb6]   Today[C]
+{end_of_chorus}
+
+
+{start_of_outro}
+A
+{end_of_outro}
