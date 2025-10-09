@@ -1,0 +1,86 @@
+You're the One
+Anthem of the Peaceful Army
+Greta Van Fleet
+D
+
+{start_of_intro}
+[D] [A][G][D][A][G]
+{end_of_intro}
+
+
+{start_of_pre-verse}
+[D]G[A][G][D][A]
+{end_of_pre-verse}
+
+
+{start_of_verse}
+[D]Babe,[A] ain't no deny[G]ing
+[D] That I've got[A] you in my head[G]
+[D]Girl,[A] I'd be fly[G]ing
+[D] If you stood[A] yourself and said[G]
+{end_of_verse}
+
+
+{start_of_chorus}
+[D] You're the one I [G]want
+[D] You're the one I [G]need
+[D] You're the one I [G]had
+[D] So come on back to [G]me
+{end_of_chorus}
+
+
+{start_of_pre-verse}
+[D] [A][G][D][A][G]
+{end_of_pre-verse}
+
+
+{start_of_verse}
+[D]Babe,[A] you're so young and pret[G]ty
+But you're [D]evil,[A] you oughta know[G]
+[D]Darling,[A] ain't that a pi[G]ty
+[D] Won't you stand[A] yourself and show[G]
+{end_of_verse}
+
+
+{start_of_chorus}
+[D] You're the one I [G]want
+[D] You're the one I [G]need
+[D] You're the one I [G]had
+[D] So come on back to [G]me
+{end_of_chorus}
+
+
+{start_of_organ-solo}
+[D] [A] [G] [D] [A] [G]
+{end_of_organ-solo}
+
+
+{start_of_verse}
+[D]Yeah[A]
+See, where we've[G]been
+[D] Won't you [A]hold my hand and stay [G]awhile
+{end_of_verse}
+
+
+{start_of_chorus}
+[D] You're the one I [G]want
+[D] You're the one I [G]need
+[D] You're the one I [G]had
+[D] So come on back to [G]me
+[D] You're the one I [G]want
+[D] You're the one I [G]need
+[D] You're the one I, [G]you're the one I had
+[D] So come on back to [G]me
+{end_of_chorus}
+
+
+{start_of_guitar-solo}
+[D] [G] [D]
+[G] Yeah, come on baby
+[D] [G] [D]
+{end_of_guitar-solo}
+
+
+{start_of_outro}
+G D
+{end_of_outro}
