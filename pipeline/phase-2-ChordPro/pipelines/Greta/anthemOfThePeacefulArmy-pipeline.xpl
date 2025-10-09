@@ -36,7 +36,11 @@
             </p:with-input>
         </p:invisible-xml>
         <p:identity use-when="$debug" message="Added markup with ixml"/>
-        <p:store name="invisible-XML" href="../../ixml-output/Greta/anthemOfThePeacefulArmy/{$filename}.xml"/>
+        <p:store name="invisible-XML" href="../../ixml-output/Greta/anthemOfThePeacefulArmy/{$filename}.xml" serialization="map {
+            'method' : 'xml',
+            'indent' : true(),
+            'omit-xml-declaration' : false()
+            }"/>
         
     </p:for-each> <!-- TEMPORARY !!! -->
         
