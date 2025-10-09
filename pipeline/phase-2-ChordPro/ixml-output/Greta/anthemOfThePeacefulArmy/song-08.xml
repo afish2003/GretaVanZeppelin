@@ -1,1 +1,182 @@
-<?xml version="1.0" encoding="UTF-8"?><xml><metadata><title>Mountain of the Sun</title><album>Anthem of the Peaceful Army</album><artist>Greta Van Fleet</artist><key>F</key></metadata><music><section type="intro"><line><chord>F</chord> <chord>Bb</chord></line></section><section type="verse"><line><chord>F</chord>  <chord>Bb</chord> The s<chord>F</chord>un shines brighter from <chord>Bb</chord>above</line><line>And <chord>F</chord>you're the woman <chord>Bb</chord>that I love</line><line><chord>F</chord>Climb the mountain e<chord>Bb</chord>ven higher</line><line>To <chord>F</chord>kiss the sun and <chord>Bb</chord>fight the fire</line></section><section type="pre-chorus"><line><chord>Ab</chord> Oh <chord>Bb</chord>  w<chord>C</chord>ell</line></section><section type="chorus"><line><chord>F</chord> I'll make you mine<chord>C</chord><chord>Bb</chord></line><line><chord>F</chord> You're my sunshine<chord>C</chord><chord>Bb</chord></line><line><chord>F</chord> I'll make you mine<chord>C</chord><chord>Bb</chord></line><line><chord>F</chord> You're my sunshine<chord>C</chord><chord>Bb</chord><chord>F</chord></line></section><section type="verse"><line><chord>F</chord>Take me with you when<chord>Bb</chord>you go</line><line>To <chord>F</chord>be with you is all<chord>Bb</chord>I know</line><line><chord>F</chord>As we ride, we light<chord>Bb</chord>the fire</line><line>The <chord>F</chord>second sun's our <chord>Bb</chord>love's desire</line></section><section type="pre-chorus"><line><chord>Ab</chord> Oh <chord>Bb</chord> we<chord>C</chord>ll</line></section><section type="chorus"><line><chord>F</chord> I'll make you mine<chord>C</chord><chord>Bb</chord></line><line><chord>F</chord> You're my sunshine<chord>C</chord><chord>Bb</chord></line><line><chord>F</chord> I'll make you mine<chord>C</chord><chord>Bb</chord></line><line><chord>F</chord> You're my sunshine<chord>C</chord><chord>Bb</chord></line></section><section type="guitar-solo"><line><chord>F</chord> <chord>C</chord> <chord>Bb</chord> <chord>F</chord> <chord>C</chord> <chord>Bb</chord></line><line><chord>F</chord> <chord>C</chord> <chord>Bb</chord> <chord>F</chord> <chord>C</chord> <chord>Bb</chord></line></section><section type="pre-chorus"><line><chord>Ab</chord> Oh <chord>Bb</chord> we<chord>C</chord>ll</line></section><section type="verse"><line>The <chord>F</chord>sun shines brighter from above</line><line>And you're the woman that I love</line><line>We climb the mountain even higher</line><line>Kiss the sun, fight the fire</line></section><section type="chorus"><line><chord>F</chord> I'll make you mine<chord>C</chord><chord>Bb</chord></line><line><chord>F</chord> You're my sunshine<chord>C</chord><chord>Bb</chord></line><line><chord>F</chord> I'll make you mine<chord>C</chord><chord>Bb</chord></line><line><chord>F</chord> You're my sunshine<chord>C</chord><chord>Bb</chord></line></section><section type="outro"><line><chord>F</chord> <chord>C</chord> <chord>Bb</chord> <chord>F</chord> <chord>C</chord> <chord>Bb</chord></line><line><chord>F</chord> <chord>C</chord> <chord>Bb</chord> <chord>F</chord> <chord>C</chord> <chord>Bb</chord></line></section><section type="outro"><line><chord>F</chord> <chord>C</chord> <chord>Bb</chord> <chord>F</chord> <chord>C</chord> <chord>Bb</chord></line><line><chord>F</chord> <chord>C</chord> <chord>Bb</chord> <chord>F</chord> <chord>C</chord> <chord>Bb</chord></line></section><section type="outro"><line><chord>F</chord> <chord>C</chord> <chord>Bb</chord> <chord>F</chord> <chord>C</chord> <chord>Bb</chord></line><line><chord>F</chord> <chord>C</chord> <chord>Bb</chord> <chord>F</chord> <chord>C</chord> <chord>Bb</chord></line><line><chord>F</chord></line></section></music></xml>
+<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+   <metadata>
+      <title>Mountain of the Sun</title>
+      <album>Anthem of the Peaceful Army</album>
+      <artist>Greta Van Fleet</artist>
+      <key>F</key>
+   </metadata>
+   <music>
+      <section type="intro">
+         <line>
+            <chord>F</chord>
+            <chord>Bb</chord>
+         </line>
+      </section>
+      <section type="verse">
+         <line>
+            <chord>F</chord>
+            <chord>Bb</chord> The s<chord>F</chord>un shines brighter from <chord>Bb</chord>above</line>
+         <line>And <chord>F</chord>you're the woman <chord>Bb</chord>that I love</line>
+         <line>
+            <chord>F</chord>Climb the mountain e<chord>Bb</chord>ven higher</line>
+         <line>To <chord>F</chord>kiss the sun and <chord>Bb</chord>fight the fire</line>
+      </section>
+      <section type="pre-chorus">
+         <line>
+            <chord>Ab</chord> Oh <chord>Bb</chord>  w<chord>C</chord>ell</line>
+      </section>
+      <section type="chorus">
+         <line>
+            <chord>F</chord> I'll make you mine<chord>C</chord>
+            <chord>Bb</chord>
+         </line>
+         <line>
+            <chord>F</chord> You're my sunshine<chord>C</chord>
+            <chord>Bb</chord>
+         </line>
+         <line>
+            <chord>F</chord> I'll make you mine<chord>C</chord>
+            <chord>Bb</chord>
+         </line>
+         <line>
+            <chord>F</chord> You're my sunshine<chord>C</chord>
+            <chord>Bb</chord>
+            <chord>F</chord>
+         </line>
+      </section>
+      <section type="verse">
+         <line>
+            <chord>F</chord>Take me with you when<chord>Bb</chord>you go</line>
+         <line>To <chord>F</chord>be with you is all<chord>Bb</chord>I know</line>
+         <line>
+            <chord>F</chord>As we ride, we light<chord>Bb</chord>the fire</line>
+         <line>The <chord>F</chord>second sun's our <chord>Bb</chord>love's desire</line>
+      </section>
+      <section type="pre-chorus">
+         <line>
+            <chord>Ab</chord> Oh <chord>Bb</chord> we<chord>C</chord>ll</line>
+      </section>
+      <section type="chorus">
+         <line>
+            <chord>F</chord> I'll make you mine<chord>C</chord>
+            <chord>Bb</chord>
+         </line>
+         <line>
+            <chord>F</chord> You're my sunshine<chord>C</chord>
+            <chord>Bb</chord>
+         </line>
+         <line>
+            <chord>F</chord> I'll make you mine<chord>C</chord>
+            <chord>Bb</chord>
+         </line>
+         <line>
+            <chord>F</chord> You're my sunshine<chord>C</chord>
+            <chord>Bb</chord>
+         </line>
+      </section>
+      <section type="guitar-solo">
+         <line>
+            <chord>F</chord>
+            <chord>C</chord>
+            <chord>Bb</chord>
+            <chord>F</chord>
+            <chord>C</chord>
+            <chord>Bb</chord>
+         </line>
+         <line>
+            <chord>F</chord>
+            <chord>C</chord>
+            <chord>Bb</chord>
+            <chord>F</chord>
+            <chord>C</chord>
+            <chord>Bb</chord>
+         </line>
+      </section>
+      <section type="pre-chorus">
+         <line>
+            <chord>Ab</chord> Oh <chord>Bb</chord> we<chord>C</chord>ll</line>
+      </section>
+      <section type="verse">
+         <line>The <chord>F</chord>sun shines brighter from above</line>
+         <line>And you're the woman that I love</line>
+         <line>We climb the mountain even higher</line>
+         <line>Kiss the sun, fight the fire</line>
+      </section>
+      <section type="chorus">
+         <line>
+            <chord>F</chord> I'll make you mine<chord>C</chord>
+            <chord>Bb</chord>
+         </line>
+         <line>
+            <chord>F</chord> You're my sunshine<chord>C</chord>
+            <chord>Bb</chord>
+         </line>
+         <line>
+            <chord>F</chord> I'll make you mine<chord>C</chord>
+            <chord>Bb</chord>
+         </line>
+         <line>
+            <chord>F</chord> You're my sunshine<chord>C</chord>
+            <chord>Bb</chord>
+         </line>
+      </section>
+      <section type="outro">
+         <line>
+            <chord>F</chord>
+            <chord>C</chord>
+            <chord>Bb</chord>
+            <chord>F</chord>
+            <chord>C</chord>
+            <chord>Bb</chord>
+         </line>
+         <line>
+            <chord>F</chord>
+            <chord>C</chord>
+            <chord>Bb</chord>
+            <chord>F</chord>
+            <chord>C</chord>
+            <chord>Bb</chord>
+         </line>
+      </section>
+      <section type="outro">
+         <line>
+            <chord>F</chord>
+            <chord>C</chord>
+            <chord>Bb</chord>
+            <chord>F</chord>
+            <chord>C</chord>
+            <chord>Bb</chord>
+         </line>
+         <line>
+            <chord>F</chord>
+            <chord>C</chord>
+            <chord>Bb</chord>
+            <chord>F</chord>
+            <chord>C</chord>
+            <chord>Bb</chord>
+         </line>
+      </section>
+      <section type="outro">
+         <line>
+            <chord>F</chord>
+            <chord>C</chord>
+            <chord>Bb</chord>
+            <chord>F</chord>
+            <chord>C</chord>
+            <chord>Bb</chord>
+         </line>
+         <line>
+            <chord>F</chord>
+            <chord>C</chord>
+            <chord>Bb</chord>
+            <chord>F</chord>
+            <chord>C</chord>
+            <chord>Bb</chord>
+         </line>
+         <line>
+            <chord>F</chord>
+         </line>
+      </section>
+   </music>
+</xml>

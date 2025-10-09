@@ -1,1 +1,131 @@
-<?xml version="1.0" encoding="UTF-8"?><xml><metadata><title>When the Curtain Falls</title><album>Anthem of the Peaceful Army</album><artist>Greta Van Fleet</artist><key>G</key></metadata><music><section type="intro"><line><chord>Gsus4</chord></line></section><section type="main-riff"><line><chord>G7</chord></line></section><section type="verse"><line>Well <chord>G7</chord>you're so great and I love you so</line><line>You know I'm your biggest fan</line><line>I saw your picture and it's the best</line><line>The finest in the land</line><line><chord>G</chord>Camera lights and <chord>C</chord>action<chord>G</chord><chord>C</chord></line><line>And <chord>G</chord>words you know so <chord>C</chord>well<chord>G</chord><chord>C</chord></line><line><chord>G</chord>You're in and out of <chord>C</chord>fashion</line><line><chord>G</chord>  <chord>C</chord> In <chord>G</chord>Hollywood of<chord>C</chord> hell<chord>G</chord></line></section><section type="chorus"><line><chord>G</chord> When the <chord>F</chord>curtain <chord>C</chord>falls</line><line><chord>G</chord> Walk the <chord>Dm</chord>hollow <chord>F</chord>halls babe<chord>C</chord></line><line><chord>G</chord> Once a <chord>F</chord>valley <chord>C</chord>doll</line><line><chord>G</chord> Now you're <chord>Dm</chord>not at <chord>F</chord>all</line><line><chord>C</chord>Yea<chord>G</chord></line></section><section type="verse"><line><chord>G7</chord>  Well <chord>G7</chord>I love you in that movie show</line><line>Can I have your autograph</line><line>It's so funny you have such charm</line><line>And whole thing made me laugh</line><line><chord>G</chord>Obetral and <chord>C</chord>cocktails</line><line><chord>G</chord>  <chord>C</chord> You're <chord>G</chord>counting all your <chord>C</chord>rings</line><line><chord>G</chord>  <chord>C</chord>  <chord>G</chord>They all said they <chord>C</chord>loved you</line><line>(Didn't <chord>G</chord>they darlin')<chord>C</chord></line><line>Well <chord>G</chord>they've taken all your <chord>C</chord>things<chord>G</chord></line></section><section type="chorus"><line><chord>G</chord> When the <chord>F</chord>curtain <chord>C</chord>falls</line><line><chord>G</chord> Walk the <chord>Dm</chord>hollow <chord>F</chord>halls babe<chord>C</chord></line><line><chord>G</chord> Once a <chord>F</chord>valley <chord>C</chord>doll</line><line><chord>G</chord> Now you're <chord>Dm</chord>not at <chord>F</chord>all</line><line><chord>C</chord>Yea<chord>Gsus4</chord></line></section><section type="bridge"><line><chord>G</chord>  <chord>Gsus4</chord>      <chord>G</chord> Well <chord>Gsus4</chord>listen darlin'</line><line>It's <chord>G</chord>been real swell</line><line>W<chord>F</chord>hat can I say</line><line>You've got it all</line><line><chord>G</chord> You're a <chord>Gsus4</chord>one  woman show</line><line>But I'm <chord>G</chord>not gonna' lie</line><line>You could <chord>F</chord>use a little work</line><line>Well at your <chord>D</chord>age</line></section><section type="guitar-solo"><line><chord>G</chord>G <chord>F</chord>Dm<chord>C</chord> F<chord>G</chord><chord>Dm</chord><chord>F</chord><chord>C</chord><chord>G</chord><chord>F</chord><chord>C</chord></line><line><chord>C</chord>G F C G Dm F</line><line>What've you <chord>C</chord>got baby</line></section><section type="chorus"><line><chord>G</chord> When the <chord>F</chord>curtain <chord>C</chord>falls</line><line><chord>G</chord> Walk the <chord>Dm</chord>hollow <chord>F</chord>halls babe<chord>C</chord></line><line><chord>G</chord> Once a <chord>F</chord>valley <chord>C</chord>doll</line><line><chord>G</chord> Now you're <chord>Dm</chord>not at <chord>F</chord>al<chord>C</chord>l</line></section><section type="outro"><line><chord>G7</chord>Goodbye baby, goodbye</line></section></music></xml>
+<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+   <metadata>
+      <title>When the Curtain Falls</title>
+      <album>Anthem of the Peaceful Army</album>
+      <artist>Greta Van Fleet</artist>
+      <key>G</key>
+   </metadata>
+   <music>
+      <section type="intro">
+         <line>
+            <chord>Gsus4</chord>
+         </line>
+      </section>
+      <section type="main-riff">
+         <line>
+            <chord>G7</chord>
+         </line>
+      </section>
+      <section type="verse">
+         <line>Well <chord>G7</chord>you're so great and I love you so</line>
+         <line>You know I'm your biggest fan</line>
+         <line>I saw your picture and it's the best</line>
+         <line>The finest in the land</line>
+         <line>
+            <chord>G</chord>Camera lights and <chord>C</chord>action<chord>G</chord>
+            <chord>C</chord>
+         </line>
+         <line>And <chord>G</chord>words you know so <chord>C</chord>well<chord>G</chord>
+            <chord>C</chord>
+         </line>
+         <line>
+            <chord>G</chord>You're in and out of <chord>C</chord>fashion</line>
+         <line>
+            <chord>G</chord>
+            <chord>C</chord> In <chord>G</chord>Hollywood of<chord>C</chord> hell<chord>G</chord>
+         </line>
+      </section>
+      <section type="chorus">
+         <line>
+            <chord>G</chord> When the <chord>F</chord>curtain <chord>C</chord>falls</line>
+         <line>
+            <chord>G</chord> Walk the <chord>Dm</chord>hollow <chord>F</chord>halls babe<chord>C</chord>
+         </line>
+         <line>
+            <chord>G</chord> Once a <chord>F</chord>valley <chord>C</chord>doll</line>
+         <line>
+            <chord>G</chord> Now you're <chord>Dm</chord>not at <chord>F</chord>all</line>
+         <line>
+            <chord>C</chord>Yea<chord>G</chord>
+         </line>
+      </section>
+      <section type="verse">
+         <line>
+            <chord>G7</chord>  Well <chord>G7</chord>I love you in that movie show</line>
+         <line>Can I have your autograph</line>
+         <line>It's so funny you have such charm</line>
+         <line>And whole thing made me laugh</line>
+         <line>
+            <chord>G</chord>Obetral and <chord>C</chord>cocktails</line>
+         <line>
+            <chord>G</chord>
+            <chord>C</chord> You're <chord>G</chord>counting all your <chord>C</chord>rings</line>
+         <line>
+            <chord>G</chord>
+            <chord>C</chord>
+            <chord>G</chord>They all said they <chord>C</chord>loved you</line>
+         <line>(Didn't <chord>G</chord>they darlin')<chord>C</chord>
+         </line>
+         <line>Well <chord>G</chord>they've taken all your <chord>C</chord>things<chord>G</chord>
+         </line>
+      </section>
+      <section type="chorus">
+         <line>
+            <chord>G</chord> When the <chord>F</chord>curtain <chord>C</chord>falls</line>
+         <line>
+            <chord>G</chord> Walk the <chord>Dm</chord>hollow <chord>F</chord>halls babe<chord>C</chord>
+         </line>
+         <line>
+            <chord>G</chord> Once a <chord>F</chord>valley <chord>C</chord>doll</line>
+         <line>
+            <chord>G</chord> Now you're <chord>Dm</chord>not at <chord>F</chord>all</line>
+         <line>
+            <chord>C</chord>Yea<chord>Gsus4</chord>
+         </line>
+      </section>
+      <section type="bridge">
+         <line>
+            <chord>G</chord>
+            <chord>Gsus4</chord>
+            <chord>G</chord> Well <chord>Gsus4</chord>listen darlin'</line>
+         <line>It's <chord>G</chord>been real swell</line>
+         <line>W<chord>F</chord>hat can I say</line>
+         <line>You've got it all</line>
+         <line>
+            <chord>G</chord> You're a <chord>Gsus4</chord>one  woman show</line>
+         <line>But I'm <chord>G</chord>not gonna' lie</line>
+         <line>You could <chord>F</chord>use a little work</line>
+         <line>Well at your <chord>D</chord>age</line>
+      </section>
+      <section type="guitar-solo">
+         <line>
+            <chord>G</chord>G <chord>F</chord>Dm<chord>C</chord> F<chord>G</chord>
+            <chord>Dm</chord>
+            <chord>F</chord>
+            <chord>C</chord>
+            <chord>G</chord>
+            <chord>F</chord>
+            <chord>C</chord>
+         </line>
+         <line>
+            <chord>C</chord>G F C G Dm F</line>
+         <line>What've you <chord>C</chord>got baby</line>
+      </section>
+      <section type="chorus">
+         <line>
+            <chord>G</chord> When the <chord>F</chord>curtain <chord>C</chord>falls</line>
+         <line>
+            <chord>G</chord> Walk the <chord>Dm</chord>hollow <chord>F</chord>halls babe<chord>C</chord>
+         </line>
+         <line>
+            <chord>G</chord> Once a <chord>F</chord>valley <chord>C</chord>doll</line>
+         <line>
+            <chord>G</chord> Now you're <chord>Dm</chord>not at <chord>F</chord>al<chord>C</chord>l</line>
+      </section>
+      <section type="outro">
+         <line>
+            <chord>G7</chord>Goodbye baby, goodbye</line>
+      </section>
+   </music>
+</xml>
