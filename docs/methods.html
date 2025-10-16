@@ -1,73 +1,77 @@
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
     <head>
         <title>Methods</title>
         <meta charset="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        
+        <meta name="description" content="Write-up of methods and technologies used in the GretaVanZeppelin Project." />
         <link rel="stylesheet" type="text/css" href="style.css" />
-        <link rel="stylesheet" href="https://use.typekit.net/xxw1fdo.css"/>
         <link rel="stylesheet" href="https://use.typekit.net/xxw1fdo.css"/>
         <link rel="icon" href="images/favicon.png" type="image/png"/>
     </head>
-    
     <body>
-        <h1>Methods</h1>
+        <a href="#main" class="skip-link">Skip to content</a>
+        <header class="page-header">
+            <a href="https://github.com/afish2003/GretaVanZeppelin"><img src="images/logo.png" alt="GretaVanZeppelin Logo" class="logo" /></a>
+        </header>
         
         <div class="corner-menu">
-            <button id="menu-toggle" class="hamburger" aria-label="Toggle menu">
+            <button id="menu-toggle" class="hamburger" aria-label="Toggle menu" aria-expanded="false" aria-controls="menu-content">
                 <span class="bar"></span>
                 <span class="bar"></span>
                 <span class="bar"></span>
             </button>
-            <div id="menu-content" class="menu-hidden">
-                <a href="index.html">Home</a>
-                <a href="about.html">About</a>
-                <a href="methods.html">Methods</a>
-                <a href="albums.html">Albums</a>
-                <a href="analysis.html">Analysis</a>
+            <div id="menu-content" class="menu-hidden" aria-hidden="true">
+                <a href="index.html" title="Return to homepage">Home</a>
+                <a href="methods.html" title="Read about methods and tools used">Methods</a>
+                <a href="albums.html" title="Browse featured albums">Albums</a>
+                <a href="analysis.html" title="See analysis charts and conclusions">Analysis</a>
+                <a href="about.html" title="Meet the team behind the project">Team</a>
             </div>
         </div>
         
+        <div class="h1-section" id="main"> 
+            <h1>Methods</h1>
+        </div>
         <section class="methods-section">
             <h2>Why "Greta Van Zeppelin"?</h2>
             <div class="text-box">
                 <p>The topic of this project was chosen because many people compare the modern rock band <strong>Greta Van Fleet</strong> to the classic rock band <strong>Led Zeppelin</strong>. <a href="https://guitar.com/features/opinion-analysis/why-does-greta-van-fleet-sound-like-led-zeppelin/">One author writes</a>, <em>"From the moment the Grammy-winning four-piece burst on to the scene, the Michigan rockers [of Greta Van Fleet] have drawn heavy comparison with hard rock’s most iconic and influential band [Led Zeppelin]."</em> We wanted to use XML and Python tools to do a deeper analysis of their music to see if that's true.
-                    </p>
+                </p>
             </div>
         </section>       
-            
+        
         <section class="methods-section">
             <h2>XProc Pipeline <a href="https://github.com/afish2003/GretaVanZeppelin/blob/main/pipeline/raw-text/Greta/fromTheFires-pipeline.xpl"><em>[example file on GitHub]</em></a></h2>
             <div class="text-box">
-            <blockquote>
-                <p>
-                    "XProc is a declarative programming language with an XML syntax for processing data in pipelines. XProc is based on the concept of pipelines. Pipelines take data as input and generate output data. A pipeline consists of steps which perform various actions on the data. These actions range from reading and writing data, Web requests and complex transformations and validations. XProc is mainly focused on manipulating XML but can handle HTML, JSON, text and binary data as well."
-                </p>
-                <footer>—<a href="https://xporc.net/ueber-mich/">Martin Kraetke</a>, <cite><a href="https://xporc.net/xproc-tutorial/">[source]</a></cite></footer>
-            </blockquote>
+                <blockquote>
+                    <p>
+                        "XProc is a declarative programming language with an XML syntax for processing data in pipelines. XProc is based on the concept of pipelines. Pipelines take data as input and generate output data. A pipeline consists of steps which perform various actions on the data. These actions range from reading and writing data, Web requests and complex transformations and validations. XProc is mainly focused on manipulating XML but can handle HTML, JSON, text and binary data as well."
+                    </p>
+                    <footer>—<a href="https://xporc.net/ueber-mich/">Martin Kraetke</a>, <cite><a href="https://xporc.net/xproc-tutorial/">[source]</a></cite></footer>
+                </blockquote>
             </div>
             <div class="text-box">
-            <p>
-                Basically, XProc makes our lives easier and more organized when we have lots of input data and want to transform/output it in multiple steps.
-            </p>
-            
-            <p>
-                Here is an <a href="https://github.com/afish2003/GretaVanZeppelin/blob/main/pipeline/raw-text/Greta/fromTheFires-pipeline.xpl">example</a> of one of our pipeline files (<code>.xpl</code> file extension, for "<b>X</b>Proc <b>P</b>ipe<b>L</b>ine"). The pipeline contains multiple steps which are explained in detail below.
-            </p>
-            
-            <p>
-                You can run this pipeline file via command-line using an <a href="https://xproc.org/processors.html">XProc Processor</a>. There are two open-source options: <a href="https://xmlcalabash.com/">XML Calabash</a> or <a href="https://www.xml-project.com/morganaxproc-iii.html">MorganaXProc-III</a>. We installed and worked with both in <a href="https://newtfire.org/courses/textAnalysis/">DIGIT 210</a>, but ultimately we used MorganaXProc-III because it ran more efficiently.
-            </p>
-            
-            <p>
-                Using a step called <code>&lt;p:identity message="[text here]"/&gt;</code>, you can tell your pipeline to output messages in the command-line as it is running. This helps you understand what the pipeline is doing and when exactly it hits an error. This is especially useful when running a <code>&lt;p:for-each&gt;</code> loop to process each song in an album. We created a variable called <code>filename</code> and used <code>$filename</code> in these messages to track which song file caused an error.
-            </p>
-            
-            <p>
-                <em>Note: There is one pipeline file for each album, stored with the input data for each album. Ideally, one pipeline file could handle everything, but we chose to use nearly identical pipeline files for each album with only the file paths differing. This was because we couldn’t easily create a single pipeline to read all directories (albums) of songs and output them in a consistent, organized manner. So, each pipeline processes one album at a time.</em>
-            </p>
-        </div>
+                <p>
+                    Basically, XProc makes our lives easier and more organized when we have lots of input data and want to transform/output it in multiple steps.
+                </p>
+                
+                <p>
+                    Here is an <a href="https://github.com/afish2003/GretaVanZeppelin/blob/main/pipeline/raw-text/Greta/fromTheFires-pipeline.xpl">example</a> of one of our pipeline files (<code>.xpl</code> file extension, for "<b>X</b>Proc <b>P</b>ipe<b>L</b>ine"). The pipeline contains multiple steps which are explained in detail below.
+                </p>
+                
+                <p>
+                    You can run this pipeline file via command-line using an <a href="https://xproc.org/processors.html">XProc Processor</a>. There are two open-source options: <a href="https://xmlcalabash.com/">XML Calabash</a> or <a href="https://www.xml-project.com/morganaxproc-iii.html">MorganaXProc-III</a>. We installed and worked with both in <a href="https://newtfire.org/courses/textAnalysis/">DIGIT 210</a>, but ultimately we used MorganaXProc-III because it ran more efficiently.
+                </p>
+                
+                <p>
+                    Using a step called <code>&lt;p:identity message="[text here]"/&gt;</code>, you can tell your pipeline to output messages in the command-line as it is running. This helps you understand what the pipeline is doing and when exactly it hits an error. This is especially useful when running a <code>&lt;p:for-each&gt;</code> loop to process each song in an album. We created a variable called <code>filename</code> and used <code>$filename</code> in these messages to track which song file caused an error.
+                </p>
+                
+                <p>
+                    <em>Note: There is one pipeline file for each album, stored with the input data for each album. Ideally, one pipeline file could handle everything, but we chose to use nearly identical pipeline files for each album with only the file paths differing. This was because we couldn’t easily create a single pipeline to read all directories (albums) of songs and output them in a consistent, organized manner. So, each pipeline processes one album at a time.</em>
+                </p>
+            </div>
             
         </section>
         
@@ -137,20 +141,18 @@
         
         <section class ="methods-section">
             
-            <h2>Future Work</h2>
+            <h2>The Future of the Project</h2>
             <div class="text-box">
                 
-                <p>Looking ahead, we plan to eventually expand this project by analyzing more albums, lyrics, and artists. This will allow us to build on the methods we've developed so far and gain a deeper understanding of recurring themes, lyrical patterns, and storytelling techniques across different musical genres.</p>
-            </div>
-            <div class="text-box"> <p>The goal is to use the same approach, but for a wider range of music. By doing so, we’ll be able to see how artists develop their styles and how various cultural influences shape their lyrics over time. We will continue to refine our analysis techniques, exploring new ways to deepen our understanding of how music and lyrics interact to convey meaning.</p>
-            </div>
-            <div class="text-box"> <p>Ultimately, we want to keep expanding our work and contribute fresh insights into the relationship between music, language, and culture.</p>
+                <p>Looking ahead, we would love to expand this project by analyzing more albums, artists, and components of the music such as genre styles and influences. This would allow us to build on the methods we've developed so far and gain a deeper understanding of recurring themes, lyrical patterns, and storytelling techniques across different genres.</p>
+                <p>The pipeline we created allows us to easily take a collection of chord charts and prepare them for analysis. The goal is to be able to use the same approach on a wider range of music. By doing so, we’ll be able to see how artists develop their styles and how various cultural influences shape their lyrics over time. We will continue to refine our analysis techniques, exploring new ways to deepen our understanding of how music and lyrics interact to convey meaning.</p>
+                <p>Ultimately, we want to keep expanding our work and contribute fresh insights into the relationship between music, language, and culture.</p>
             </div>
             <div class="text-box">
                 
-                <p>To stay updated with the future of our project, check out our <a href="https://github.com/afish2003/GretaVanZeppelin">Github</a>!
-                
-            </p>
+                <p>To stay updated with the future of our project, check it out on <a href="https://github.com/afish2003/GretaVanZeppelin">GitHub</a>!
+                    
+                </p>
             </div>
         </section>
         
@@ -161,9 +163,9 @@
                 is licensed under 
                 <a href="https://creativecommons.org/licenses/by-nc/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer">
                     CC BY-NC 4.0
-                    <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt="CC" />
-                    <img src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt="BY" />
-                    <img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1" alt="NC" />
+                    <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt="Creative Commons CC icon" />
+                    <img src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt="Creative Commons BY icon" />
+                    <img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1" alt="Creative Commons NC icon" />
                 </a>
             </p>
         </footer>
